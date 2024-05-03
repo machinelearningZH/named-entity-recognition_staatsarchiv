@@ -1,0 +1,46 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verbscheidung der Margaretha Thomée in Vencimont in Belgien auf ihre Klage über die Entfernung ihres Mannes.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#utn">Transkript: utn<date when="2010-03-09">09.03.2010</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2010</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Verbscheidung der Margaretha Thomée in Vencimont in Belgien auf ihre Klage über die Entfernung ihres Mannes.</title>
+                    <date when="1839-06-11">11.06.1839</date>
+                    <ident>StAZH MM 2.49 RRB 1839/0846</ident>
+                    <idno>41–42</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_001_MM_2_050/MM_2_049/MM_2_49_RRB_1839_0846_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=740486"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="41"/>Da eine gewiße <persName n="6a72175c-af15-4efd-b217-5caf15cefd3b">Margaretha Thomée</persName> in <placeName n="740dbb3b-92e5-4d69-8dbb-3b92e5ad6904">Vencimont</placeName>, <placeName n="a007cdc5-5077-4c80-87cd-c550776c809e">Arrondihsement de’ Dinant</placeName>, Provinz <placeName n="604cdc12-d9ba-4cc5-8cdc-12d9baccc5c0">Namur</placeName> in <placeName n="681252b3-330f-4378-9252-b3330fe378a1">Belgien</placeName>, mit der schriftlichen Beschwerde eingelangt ist, daß<pb n="42"/>
+                <persName n="3527848c-2115-4ff5-a784-8c21155ff554">Jacob Honegger</persName> von <placeName n="927dc117-651c-43c2-bdc1-17651cf3c29b">Rüti</placeName>, welcher sich Ao. 1832. mit ihr verehelicht und ein Kind erzeugt, sie muthwillig verlaßen habe, so hat der <orgName n="d44d2447-7231-40f5-8d24-47723160f5ca">Regierungsrath</orgName>, nach Anhörung eines von dem <orgName n="0d1ad69b-5ece-4c9e-9ad6-9b5ecedc9e85">Rathe des Innern</orgName> mit Weisung d. d. 28. passati hinterbrachten Antrages, beschloßen, der Petentin durch den Maire von <placeName n="c5dba59f-581c-400b-9ba5-9f581ce00b4b">Vencimont</placeName> anzeigen zu laßen, ihre Ehe mit dem <persName n="725f44a8-7cc6-4b0d-9f44-a87cc61b0d2c">Honegger</persName> werde von der Gemeinde <placeName n="bc492a6f-91e6-4e6f-892a-6f91e62e6f39">Rüti</placeName> nicht anerkannt, da sie ihre Zustimmung nicht dazu gegeben, und ihr solche auch nie bekannt geworden. Wenn sie aber rechtliche Ansprachen an der einen oder die andere machen wolle, so habe sie sich diesfalls persönlich oder durch Bevollmächtigten an das betreffende Bezirksgericht zu wenden.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

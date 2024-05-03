@@ -1,0 +1,59 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verhandlungsgegenstände.</title>
+                <respStmt>
+                    <resp ref="#OCR/lro" key="transcript">Transkript: OCR/lro<date when="2011-10-06">06.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Verhandlungsgegenstände.</title>
+                    <date when="1924-01-28">28.01.1924</date>
+                    <ident>StAZH MM 24.55 KRP 1924/021/0178</ident>
+                    <idno>319–320</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_55_KRP_1924_021_0178_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3640400"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="319"/>Das Einladungsschreiben vom <date>22. Januar 1924</date> enthält die folgenden Verhandlungsgegenstände:</p>
+            <p>1. Bericht des <orgName n="df6005f1-14b8-496c-a005-f114b8e96c6b">Regierungsrates</orgName> über die weitern staatlichen Maßnahmen zur Bekämpfung der Wohnungsnot (formelle Behandlung).</p>
+            <p>2. Erhöhung der Bußenkompetenz der Gemeinde <placeName n="f85ce87b-f76a-492d-9ce8-7bf76ab92d09">Oberengstringen</placeName>.</p>
+            <p>3. Voranschlag der Einnahmen und Ausgaben des Kantons <placeName n="7aef57f5-df8f-4436-af57-f5df8f0436e5">Zürich</placeName> für das Jahr 1924 (Bericht und Antrag der <orgName n="e4b9c25b-e2b8-4b64-b9c2-5be2b8eb649a">Staatsrechnungsprüfungskommission</orgName> vom <date>13. Dezember 1923</date>. Fortsetzung der Beratung.)</p>
+            <p>4. Krediterteilung für Notstandsarbeiten zur Bekämpfung der Arbeitslosigkeit (Antrag des <orgName n="e3c4727d-cbd2-4cdc-8472-7dcbd25cdc45">Regierungsrates</orgName> vom <date>29. Dezember 1923</date> und gleichlautender Antrag der <orgName n="2f75e94f-a6b1-44c7-b5e9-4fa6b164c768">Staatsrechnungsprüfungskommission</orgName>).</p>
+            <p>5. Erhöhung des Grundkapitals der <orgName n="4efe23a5-19a4-494e-be23-a519a4594eb7">Zürcher Kantonalbank</orgName> (Antrag der <orgName n="9433930e-6021-4dd7-b393-0e6021bdd78a">Bankrechnungsprüfungskommission</orgName> vom <date>7. Dezember 1923</date>).</p>
+            <p>6. Bericht der <orgName n="583ff9b8-939e-4ede-bff9-b8939e0eded4">Oberrekurskommission in Steuersachen</orgName> pro 1922 (Antrag der <orgName n="3b32e192-f5f4-45ca-b2e1-92f5f4a5cab2">Rechenschaftsberichtsprüfungskommission</orgName>).</p>
+            <p>7. Rechenschaftsbericht des <orgName n="1cd28b7e-7af8-4c0d-928b-7e7af84c0d14">Obergerichtes</orgName> und des <orgName n="993dbcc6-7ef7-45d7-bdbc-c67ef7e5d7d3">Kassationsgerichtes</orgName> über das Jahr 1922 (Antrag der Kommission vom <date>26. November 1923</date>).</p>
+            <p>8. Jahresbericht des <orgName n="53f374f2-fbd0-410a-b374-f2fbd0d10a4e">Kirchenrates</orgName> über das Jahr 1922.</p>
+            <p>9. Volksinitiative für Abschaffung der Vivisektion (Antrag des <orgName n="02bbcec9-a233-4dc3-bbce-c9a233bdc369">Regierungsrates</orgName> vom <date>11. Oktober 1923</date> und gleichlautender Antrag der Kommission).  <pb n="320"/>
+            </p>
+            <p>10. Interpellation <persName n="1e56fb3f-3a44-4466-96fb-3f3a447466ec">Bollinger</persName> - <placeName n="a29f0c5b-6969-4549-9f0c-5b6969b549d0">Rüti</placeName> und Mitunterzeichner vom <date>17. Dezember 1923</date> betreffend Erweiterung der Arbeitslosenunterstützungen.</p>
+            <p>11. Interpellation Dr. <persName n="30f4905a-6897-4def-b490-5a68974def65">Enderli</persName> - <placeName n="a6d64ee7-e6ed-42a1-964e-e7e6edf2a1f2">Zürich</placeName> und Mitunterzeichner vom <date>21. Januar 1924</date> über einen Auslieferungsfall.</p>
+            <p>12. Motion Dr. <persName n="894a9b4a-5e10-49a6-8a9b-4a5e10c9a6f5">Kraft</persName> - <placeName n="f2c5de54-8468-46f2-85de-54846886f263">Zürich</placeName> vom <date>21. Januar 1924</date> über die Abänderung des Einführungsgesetzes zum Bundesgesetz über die <orgName n="d82f5526-9897-4de2-af55-2698971de2af">Kranken- und Unfallversicherung</orgName>.</p>
+            <p>13. Gesetz über den gewerbsmäßigen Verkehr mit Grundstücken (Anträge des <orgName n="a6b52437-116c-4756-b524-37116c27563d">Regierungsrates</orgName> vom <date>15. Januar 1920</date> und der Kommission vom <date>22. März 1921</date>).</p>
+            <p>Tagesordnung.</p>
+            <p>Der Vorsitzende teilt mit, der <orgName n="623d9a8a-6f54-451d-bd9a-8a6f54951d8d">Regierungsrat</orgName> wünsche, daß in der heutigen Sitzung Traktandum 4 behandelt werde, weil der Vorsteher der <orgName n="b6e043a3-c80b-4524-a043-a3c80b0524bf">Direktion der Volkswirtschaft</orgName> für mehrere Wochen in den Militärdienst einrücken müsse.</p>
+            <p>Der Rat ist einverstanden.</p>
+        </body>
+    </text>
+</tei:TEI>

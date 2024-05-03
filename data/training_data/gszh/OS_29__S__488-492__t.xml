@@ -1,0 +1,137 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz betreffend Abänderung der Gemeindeorganisation der Stadt Zürich.</title>
+                <respStmt>
+                    <resp ref="#jsn" key="transcript">Transkript: jsn<date when="2015-11-10">10.11.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Gesetz betreffend Abänderung der Gemeindeorganisation der Stadt Zürich.</title>
+                    <date when="1912-12-22">22.12.1912</date>
+                    <ident>StAZH OS 29 (S. 488-492)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_29__S__488-492__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3471151"/>
+                    <listRelation>
+                        <relation name="Änderung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3471151" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3471909"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="488"/>
+            </p>
+            <p>
+                <title>Artikel I.</title>
+            </p>
+            <p>Die §§ 12, 13, 16, 32, 50, 51 und 65 des Gesetzes vom 9. August 1891 über die Zuteilung der Gemeinden <placeName n="6fdc59c5-0ad5-4269-9c59-c50ad51269d6">Außersihl</placeName>,  <pb n="489"/>
+                <placeName n="19b28c64-4e68-4295-b28c-644e68f29525">Enge</placeName>, <placeName n="d09e058c-c9c6-4abd-9e05-8cc9c69abdcf">Fluntern</placeName>, <placeName n="3b17f42a-f9f9-42b9-97f4-2af9f992b986">Hirslanden</placeName>, <placeName n="ae77da01-ad8c-4f3a-b7da-01ad8c0f3a57">Hottingen</placeName>, <placeName n="e0ee484c-caf9-46c3-ae48-4ccaf996c32f">Oberstraß</placeName>, <placeName n="46bb05bb-8d50-4268-bb05-bb8d50b268e9">Riesbach</placeName>, <placeName n="c8f8600f-9ce3-4056-b860-0f9ce30056b7">Unterstraß</placeName>, <placeName n="54243cc3-37ff-464f-a43c-c337ff764fa8">Wiedikon</placeName>, <placeName n="41063f71-b8b0-49d1-863f-71b8b039d1bb">Wipkingen</placeName> und <placeName n="def3d766-3491-4c9b-b3d7-6634916c9b57">Wollishofen</placeName> an die Stadt <placeName n="6862b5a3-fabc-4dd1-a2b5-a3fabc9dd163">Zürich</placeName> (Zuteilungsgesetz) werden durch folgende Bestimmungen ersetzt:</p>
+            <p>§ 12. Für die Wahlen in den <orgName n="841c4e6b-c3e3-47c1-9c4e-6bc3e3b7c1eb">Kantonsrat</orgName> wird die Stadt in folgende acht Kreise eingeteilt:</p>
+            <p>Kreis I: Altstadt (die frühere Stadt <placeName n="dce160df-41a7-4532-a160-df41a7653299">Zürich</placeName>).</p>
+            <p>Kreis II: <placeName n="01422d31-1023-4958-822d-311023d958bc">Enge</placeName> (die frühern Gemeinden <placeName n="5c5b787a-968d-4ed5-9b78-7a968daed589">Enge</placeName> und <placeName n="7c18c02d-4904-4b22-98c0-2d4904fb22ab">Wollishofen</placeName>).</p>
+            <p>Kreis III: <placeName n="a7a01bb3-8df4-4e02-a01b-b38df4ee02aa">Wiedikon</placeName> (von den frühern Gemeinden <placeName n="8741d9ad-50f5-4757-81d9-ad50f5f75798">Wiedikon</placeName> und <placeName n="e3cb1d12-3edb-4f9f-8b1d-123edb0f9f73">Außersihl</placeName> der südwestlich der linksufrigen Zürichseebahn und der <placeName n="2f4925da-fa3c-4d47-8925-dafa3c0d47b8">Badenerstraße</placeName> liegende Teil).</p>
+            <p>Kreis IV: <placeName n="de1afa8f-9c3b-471d-9afa-8f9c3b371df9">Außersihl</placeName> (der durch die linksufrige Zürichseebahn und die <placeName n="2eace18b-4b89-4666-ace1-8b4b89766631">Badenerstraße</placeName> einerseits und die Eisenbahnlinie nach <placeName n="93cf031f-4de3-4608-8f03-1f4de33608a9">Altstetten</placeName> anderseits eingeschlossene Teil).</p>
+            <p>Kreis V: Industriequartier (der nordöstlich der Eisenbahnlinie nach <placeName n="fdfc2412-a8e0-4f00-bc24-12a8e07f009a">Altstetten</placeName> liegende Teil der frühern Gemeinde <placeName n="f916bc10-7e99-4942-96bc-107e99294257">Außersihl</placeName>).</p>
+            <p>Kreis VI: <placeName n="e6faa51c-f114-4745-baa5-1cf114174560">Unterstraß</placeName> (die frühern Gemeinden <placeName n="93fef15d-71e1-45d8-bef1-5d71e105d8c6">Unterstraß</placeName>, <placeName n="31c27565-1c89-4294-8275-651c899294ec">Wipkingen</placeName> und <placeName n="69c42661-6119-4a70-8426-6161196a7046">Oberstraß</placeName>, gegen den Kreis VII durch die Schmelzberg-, die Hoch- und die <placeName n="d9d879a2-b27d-4848-9879-a2b27d48481f">Spyristraße</placeName> begrenzt).</p>
+            <p>Kreis VII: <placeName n="0d13c59d-dddc-4e3d-93c5-9ddddcae3d1c">Hottingen</placeName> (das nach Norden durch die Schmelzberg-, die Hoch- und die <placeName n="ddea4cee-75be-4589-aa4c-ee75be25898f">Spyristraße</placeName>, nach Südwesten durch den <placeName n="12a9fa67-07a7-497c-a9fa-6707a7797c52">Wehrenbach</placeName>, die Drahtzug-, die Forch- und die <placeName n="547f1f48-bc71-4567-bf1f-48bc71c5675a">Kreuzbühlstraße</placeName> begrenzte Gebiet der frühern Gemeinden <placeName n="41d55b09-4f72-49d9-955b-094f7249d93a">Fluntern</placeName>, <placeName n="a51a261e-061b-4e00-9a26-1e061b6e00e1">Hottingen</placeName>, <placeName n="21274ff7-0400-48ee-a74f-f70400e8ee4e">Hirslanden</placeName> und <placeName n="9bfa8aa9-c310-474f-ba8a-a9c310c74fa6">Riesbach</placeName>).</p>
+            <p>Kreis VIII: <placeName n="68afd4a2-ef30-4260-afd4-a2ef30f2604e">Riesbach</placeName> (der übrige Teil der frühern Gemeinden <placeName n="0a31fbb5-aafa-4b0d-b1fb-b5aafaab0d22">Hirslanden</placeName> und <placeName n="83a2e483-b440-4608-a2e4-83b440b60804">Riesbach</placeName>).</p>
+            <p>§ 13. Die in § 12 festgesetzte Einteilung gilt auch für die nach § 16, Absatz 1, in den Kreisen zu treffenden Wahlen der Gemeinde, sowie für Zwecke der Verwaltung.</p>
+            <p>Für das <orgName n="e6c558b2-8c2e-4833-8558-b28c2ee833bf">Schulwesen</orgName> bestehen fünf Schulkreise, nämlich</p>
+            <p>1. Kreis I, 2. Kreis II, 3. Kreise III, IV und V, 4. Kreis VI, 5. Kreise VII und VIII.  <pb n="490"/>
+            </p>
+            <p>Mit Genehmigung des <orgName n="f713857e-3b65-4cff-9385-7e3b65dcff2e">Regierungsrates</orgName> kann die in diesem Paragraphen vorgesehene Kreiseinteilung durch Gemeindebeschluß geändert werden.</p>
+            <p>§ 16. Die Stimmberechtigten der Verwaltungskreise wählen die Mitglieder des <orgName n="8362dbe6-45b1-43a4-a2db-e645b1c3a437">Großen Stadtrates</orgName>, die Betreibungsbeamten, die Friedensrichter und die <orgName n="acafe8cc-beea-481c-afe8-ccbeea881c15" type="deriv">eidgenössischen</orgName> Geschwornen.</p>
+            <p>Die Stimmberechtigten der Schulkreise wählen die Mitglieder der <orgName n="7d35b340-fcb3-473c-b5b3-40fcb3c73c8f">Zentralschulpflege</orgName>, der Kreisschulpflegen und deren Präsidenten, die Primar- und Sekundarlehrer.</p>
+            <p>§ 32. Der <orgName n="8af28d01-b231-4bcd-b28d-01b231bbcd9a">Große Stadtrat</orgName> besteht aus 125 Mitgliedern. Jeder Kreis wählt seine Vertreter in der Zahl, welche der durch die vorangegangene <orgName n="3da59415-bfbc-4e68-a594-15bfbc4e68de" type="deriv">eidgenössische</orgName> Volkszählung ermittelten Wohnbevölkerung entspricht.</p>
+            <p>Durch Gemeindebeschluß kann bestimmt werden, daß die Mitglieder des <orgName n="831ca71b-23db-425a-9ca7-1b23dba25a54">Großen Stadtrates</orgName> nach dem Verhältniswahlverfahren gewählt werden. Die Bestimmungen über das Wahlverfahren bedürfen der Genehmigung des <orgName n="f0b76e8c-253c-46f2-b76e-8c253cd6f238">Regierungsrates</orgName>.</p>
+            <p>§ 50. Die <orgName n="37967738-5a60-4f3d-9677-385a609f3deb">Zentralschulpflege</orgName> besteht:</p>
+            <p>a)	Aus einem Präsidenten, den der <orgName n="a4bc2bd6-9a1d-497e-bc2b-d69a1dd97e3c">Stadtrat</orgName> aus seiner Mitte bezeichnet;</p>
+            <p>b)	aus den Mitgliedern, die von den Schulkreisen gewählt werden, in der Zahl von je einem Mitglied auf 8000 Einwohner oder einen Rest von über 4000.</p>
+            <p>Für die Feststellung der Einwohnerzahl ist die durch die vorausgegangene <orgName n="09690a78-6023-4e2e-a90a-7860232e2e65" type="deriv">eidgenössische</orgName> Volkszählung ermittelte Wohnbevölkerung maßgebend.</p>
+            <p>Schweizerbürgerinnen sind unter den Bedingungen der Artikel 16 und 18 der Kantonsverfassung wählbar.</p>
+            <p>§ 51. Die Kreisschulpflegen bestehen:</p>
+            <p>a)	Aus den vom Schulkreise gewählten Mitgliedern der Zentralschulpflege;</p>
+            <p>b)	aus weiteren 11 bis 40 Mitgliedern, die jeder Schulkreis in der durch die Gemeindeordnung festzusetzenden Zahl wählt.  <pb n="491"/>
+            </p>
+            <p>Schweizerbürgerinnen sind unter den Bedingungen der Artikel 16 und 18 der Kantonsverfassung wählbar.</p>
+            <p>§ 65. Jeder Verwaltungskreis hat einen Friedensrichter.</p>
+            <p>Auf Antrag des <orgName n="f7b7a478-5d1f-4880-b7a4-785d1ff880b5">Stadtrates</orgName> kann der <orgName n="96d4ef1b-94a7-4777-94ef-1b94a7e777d1">Regierungsrat</orgName> nach Einholung eines Gutachtens des <orgName n="f61e1341-06bd-4b86-9e13-4106bd9b86f2">Obergerichtes</orgName> mehrere Friedensrichterkreise vereinigen.</p>
+            <p>
+                <title>Artikel II.</title>
+            </p>
+            <p>Der § 84 des Zuteilungsgesetzes wird aufgehoben.</p>
+            <p>Die §§ 82 und 83 werden durch folgende Bestimmungen ersetzt:</p>
+            <p>§ 82. Über die außerordentlichen Ausgaben für größere Neubauten, Subventionen und dergleichen, welche sich nicht aus den laufenden Einnahmen der Gemeinde (Ordentlicher Verkehr) decken lassen, sondern aus Anleihen bestritten werden müssen, ist eine besondere Rechnung zu führen (Außerordentlicher Verkehr).</p>
+            <p>§ 83. Diese Rechnung wird mit der zu Anfang des Jahres 1912 vorhandenen ungedeckten Neubautenschuld eröffnet. Alljährlich werden ihr die entstehenden Neuausgaben sowie die Zinsen der zu Beginn des Jahres vorhandenen Gesamtschuld belastet und die mit den Bauten verbundenen Einnahmen gutgeschrieben. Von dem jedes Jahr sich ergebenden Fehlbetrage hat der ordentliche Verkehr einen Drittel, von dem verbleibenden Reste in den folgenden Jahren je einen Fünfundzwanzigstel und außerdem während der ersten 25 Jahre je einen Fünfundzwanzigstel der Eröffnungsschuld zu tilgen.</p>
+            <p>
+                <title>Artikel III.</title>
+            </p>
+            <p>Dieses Gesetz tritt sofort in Kraft.</p>
+            <p>Die Neuwahl der Beamten und Behörden erfolgt erst nach Ablauf der gegenwärtigen Amtsdauer gemäß diesem Gesetze.</p>
+            <p>Ersatzwahlen, die bis dahin nötig werden, sind in den bisherigen Wahlkreisen vorzunehmen.  <pb n="492"/>
+            </p>
+            <p>Der <orgName n="793ef976-b5dd-4c7c-bef9-76b5ddbc7cac">Kantonsrat</orgName>,</p>
+            <p>nach Einsicht eines Berichtes seines Bureau über das Ergebnis der Volksabstimmung vom 22. Dezember 1912,</p>
+            <p>wonach sich ergibt:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Zahl der Stimmberechtigten </cell>
+                        <cell>111247 </cell>
+                    </row>
+                    <row>
+                        <cell>Eingegangene Stimmzettel </cell>
+                        <cell>80973 </cell>
+                    </row>
+                    <row>
+                        <cell>Annehmende sind </cell>
+                        <cell>43762 </cell>
+                    </row>
+                    <row>
+                        <cell>Verwerfende sind </cell>
+                        <cell>25731 </cell>
+                    </row>
+                    <row>
+                        <cell>Ungültige Stimmen </cell>
+                        <cell>134 </cell>
+                    </row>
+                    <row>
+                        <cell>Leere Stimmen </cell>
+                        <cell>11346. </cell>
+                    </row>
+                </table>
+            </p>
+            <p>beschließt:</p>
+            <p>Die Referendumsvorlage «Gesetz betreffend Abänderung der Gemeindeorganisation der Stadt <placeName n="6da74148-cfa4-49d4-a741-48cfa469d43e">Zürich</placeName>» wird als vom Volke angenommen erklärt.</p>
+            <p>
+                <placeName n="41df32bf-8c8f-4692-9f32-bf8c8f469207">Zürich</placeName>, den 30. Dezember 1912.</p>
+            <p>Im Namen des <orgName n="3dcab51b-cee8-426a-8ab5-1bcee8c26a25">Kantonsrates</orgName>,</p>
+            <p>Der Präsident:</p>
+            <p>
+                <persName n="33da46ae-9b6b-4805-9a46-ae9b6b3805bd">R. Wehrlin</persName>.</p>
+            <p>Der erste Sekretär:</p>
+            <p>
+                <persName n="2a0a25d0-575d-4c7f-8a25-d0575d4c7f85">J. Zöbeli</persName>.</p>
+        </body>
+    </text>
+</TEI>

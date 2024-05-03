@@ -1,0 +1,45 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Copulationsbewilligung für Matthieu Pascalis von Lescar, und Elisabeth Benteli von Seebach.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#msu">Transkript: msu<date when="2006-11-14">14.11.2006</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2013</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Copulationsbewilligung für Matthieu Pascalis von Lescar, und Elisabeth Benteli von Seebach.</title>
+                    <date when="1811-11-28">28.11.1811</date>
+                    <ident>StAZH MM 1.39 RRB 1811/1403</ident>
+                    <idno>158</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_1_001_MM_1_051/MM_1_039/MM_1_39_RRB_1811_1403_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1522546"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="158"/>Auf angehörte <orgName n="a943286d-f536-4e8c-8328-6df5360e8c43" type="deriv">ehegerichtliche</orgName> Weisung vom 21sten Novembris, und den im Begleit derselben enthaltenen Auszug aus den Registeren der <orgName n="32c39ca6-72dd-49aa-839c-a672ddc9aa5e">K. K. Französischen Gesandtschaft</orgName> in <placeName n="bc92657e-86d5-4091-9265-7e86d55091c3">Bern</placeName>, – ist dem <persName n="e6f07cef-1c86-4e8e-b07c-ef1c868e8e6f">Matthieu Pascalis</persName> von <placeName n="62d092d7-75f9-4aa3-9092-d775f9aaa34a">Lescar</placeName> im <placeName n="5e8a6d79-b597-40f0-8a6d-79b59740f0bf">Departement des baßes Pyrenèes</placeName>, welcher als Arbeiter bey der <persName n="f388556b-859c-4c67-8855-6b859c9c675a" type="deriv">Escherischen</persName> Spinnmaschine allhier stehet, die Bewilligung zur Copulation mit seiner Verlobten, <persName n="a1948e3f-bfac-4776-948e-3fbfacb776b9">Elisabetha Benteli</persName> von <placeName n="2dbd28d9-4a92-4b72-bd28-d94a926b7255">Seebach</placeName>, ertheilt, und dießfalls dem L. <orgName n="3a6ce7e9-78b9-4577-ace7-e978b9557786">Ehegericht</orgName> die gegenwärtige Erkanntnuß zugestellt worden.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

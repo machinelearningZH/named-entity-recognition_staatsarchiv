@@ -1,0 +1,66 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Interpellation Ernst Gugerli - Aesch bei Birmensdorf vom 8. April 1946 über
+                    die Förderung der als Arbeitsbeschaffungsprojekte zurückgestellten Bauten in den
+                    Gemeinden (Beantwortung) (Traktandum 5). Interpellation W. Kräuchi - Pfäffikon
+                    vom 10. Februar 1946 über die Aufhebung der Kriegsfürsorgemaßnahmen
+                    (Beantwortung) (Traktandum 6).</title>
+				<respStmt>
+					<resp ref="#OCR/skn" key="transcript">Transkript: OCR/skn<date when="2011-10-24">24.10.2011</date>
+                    </resp>
+					<name key="editor">Staatsarchiv des Kantons Zürich</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Staatsarchiv des Kantons Zürich</authority>
+				<date>2011</date>
+				<pubPlace>Zürich</pubPlace>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Kantonsratsprotokolle seit 1803 online</title>
+				<editor>Staatsarchiv des Kantons Zürich</editor>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+                    <title>Interpellation Ernst Gugerli - Aesch bei Birmensdorf vom 8. April 1946
+                        über die Förderung der als Arbeitsbeschaffungsprojekte zurückgestellten
+                        Bauten in den Gemeinden (Beantwortung) (Traktandum 5). Interpellation W.
+                        Kräuchi - Pfäffikon vom 10. Februar 1946 über die Aufhebung der
+                        Kriegsfürsorgemaßnahmen (Beantwortung) (Traktandum 6).</title>
+                    <date when="1946-06-17">17.06.1946</date>
+                    <ident>StAZH MM 24.62 KRP 1946/120/1059 -
+                        StAZH MM 24.62 KRP
+                        1946/120/1060</ident>
+                    <idno>2475</idno>
+                    <edition>Kantonsratsprotokolle seit
+                        1803 online</edition>
+                    <figure>
+						<graphic url="PDF_Dokumente/MM_24_62_KRP_1946_120_1059_MM_24_62_KRP_1946_120_1060_p.pdf"/>
+					</figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3691984"/>
+                    <listRelation>
+                        <relation name="Fortsetzung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3691984" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3691963"/>
+                    </listRelation>
+                </bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<p>
+                <pb n="2475"/>Regierungsrat <persName n="7bc5fc0d-9f4d-430e-85fc-0d9f4d930e33">Henggeler</persName> wünscht zu diesen beiden Traktanden folgende
+                Erklärung abzugeben: Der <orgName n="5ebc5f96-0f90-49f5-bc5f-960f9009f55e">Regierungsrat</orgName> hat die Beantwortung dieser beiden
+                Interpellationen seinerzeit in einer der nächsten Sitzungen in Aussicht gestellt. Zu
+                Traktandum 6 wurde eine eingehende Untersuchung über die ganzen Verhältnisse der
+                Kriegsnothilfemaßnahmen zuhanden des <orgName n="7a4ee070-27e2-45ad-8ee0-7027e2d5ad05">Bundes</orgName> eingeleitet, welche noch nicht
+                abgeschlossen ist. Eine Konferenz der Volkswirtschaftsdirektoren wird sich ebenfalls
+                mit diesen Fragen befassen. Regierungsrat <persName n="a28fbb20-9dfc-48a5-8fbb-209dfcf8a5a5">Henggeler</persName> ersucht, mit der Beantwortung
+                bis zur näheren Abklärung dieser Fragen noch zuzuwarten. Die Interpellation von
+                <persName n="f46e9a63-350b-4683-ae9a-63350b2683a4">Ernst Gugerli</persName> (Traktandum 5) soll zusammen mit dem Traktandum 10 (Interpellation
+                <persName n="eb75de07-52e3-407c-b5de-0752e3607c7c">Walter Meier</persName> - <placeName n="26b4e58a-92f8-494e-b4e5-8a92f8e94e88">Winterthur</placeName> vom <date>15. April 1946</date> über die Lenkung der Bautätigkeit)
+                beantwortet werden.</p>
+		</body>
+	</text>
+</tei:TEI>

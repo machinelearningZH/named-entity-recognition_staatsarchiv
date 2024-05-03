@@ -1,0 +1,95 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abänderung der Taxordnung für die Vergütungen der Krankenkassen an die Ärzte vom 13. Oktober 1960</title>
+                <respStmt>
+                    <resp ref="#jsn" key="transcript">Transkript: jsn<date when="2015-07-02">02.07.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Abänderung der Taxordnung für die Vergütungen der Krankenkassen an die Ärzte vom 13. Oktober 1960</title>
+                    <date when="1967-09-29">29.09.1967</date>
+                    <ident>StAZH OS 42 (S. 784)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_42__S__784__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3461771"/>
+                    <listRelation>
+                        <relation name="Änderung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3461771" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3462978"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="784"/>
+            </p>
+            <p>Auf Antrag der <orgName n="5ee27b62-0d5b-4267-a27b-620d5b426790">Direktion des Gesundheitswesens</orgName>
+            </p>
+            <p>beschliesst der <orgName n="0cf8225d-9558-4a7f-b822-5d95582a7ff8">Regierungsrat</orgName>:</p>
+            <p>I. Die Taxordnung für die Vergütungen der Krankenkassen an die Ärzte vom 13. Oktober 1960 wird wie folgt geändert und ergänzt:</p>
+            <p>§ 1 Absatz 2. Der Tarifrahmen berechnet sich auf Grund der im II. Abschnitt aufgeführten Taxen. Den Mindesttarif bilden die um 40 %, den Höchsttarif die um 60 % erhöhten Taxen.</p>
+            <p>§ 3 Absatz 2. Erreicht der Gesamtbetrag für besondere Verrichtungen bei einer Konsultation Fr. 60.–, ist eine Konsultationstaxe nicht mehr anzurechnen.</p>
+            <p>Abschnitt II</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Ansatz </cell>
+                        <cell>23 a. Anoskopie </cell>
+                        <cell>Fr. 5.80 </cell>
+                    </row>
+                    <row>
+                        <cell>Ansatz </cell>
+                        <cell>23 b. Rektoromanoskopie </cell>
+                        <cell>Fr. 13.60 </cell>
+                    </row>
+                    <row>
+                        <cell>Ansatz </cell>
+                        <cell>87 a. Sehschulbehandlung </cell>
+                        <cell>Fr. 8.– </cell>
+                    </row>
+                    <row>
+                        <cell>Ansatz </cell>
+                        <cell>96 a. Audiogramm, Vestibularisprüfung </cell>
+                        <cell>Fr. 15.– </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Die in § 1 Absatz 2 der Taxordnung festgesetzten prozentualen Zuschläge zu den Taxen gelten auch für diese neuen Ansätze.</p>
+            <p>II. Die Änderungen treten am 1. Oktober 1967 in Kraft.</p>
+            <p>III. Veröffentlichung im Amtsblatt und in der Gesetzessammlung.</p>
+            <p>
+                <placeName n="7fd4d70f-8d62-4f90-94d7-0f8d62df90e1">Zürich</placeName>, den 29. September 1967.</p>
+            <p>Im Namen des <orgName n="1bf731f0-a2e3-4cac-b731-f0a2e3fcac34">Regierungsrates</orgName>,</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Der Präsident: </cell>
+                        <cell>Der Staatsschreiber: </cell>
+                    </row>
+                    <row>
+                        <cell>Dr. <persName n="20c85021-865e-4021-8850-21865e10214f">König</persName> </cell>
+                        <cell>Dr. <persName n="9489b32c-512a-4e28-89b3-2c512ade28eb">Epprecht</persName> </cell>
+                    </row>
+                </table>
+            </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Der K. Würtembergische Tutelarrath in Stuttgard zeigt an, daß der Frau Bick von da, die sich in Zürich aufhalten soll, ein Legat zugefallen sey. </title>
+                <respStmt>
+                    <resp key="transcript" ref="#ufn">Transkript: ufn<date when="2010-09-21">21.09.2010</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2010</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Der K. Würtembergische Tutelarrath in Stuttgard zeigt an, daß der Frau Bick von da, die sich in Zürich aufhalten soll, ein Legat zugefallen sey. </title>
+                    <date when="1817-12-27">27.12.1817</date>
+                    <ident>StAZH MM 1.65 RRB 1817/1204</ident>
+                    <idno>283–284</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_1_052_MM_1_113/MM_1_065/MM_1_65_RRB_1817_1204_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1361091"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="283"/>Da der K. <placeName n="afb9c5fa-2203-44b1-b9c5-fa220314b142" type="deriv">Würtembergische</placeName> Tutelarrath in <placeName n="d07cd2c4-466c-4321-bcd2-c4466c832130">Stuttgard</placeName> mit Zuschrift d. d. 11ten hujus einberichtet, daß einer gewißen, der Sage nach in <placeName n="30ea3d7b-a083-483a-aa3d-7ba083b83a68">Zürich</placeName> befindlichen <persName n="dfa098e1-1754-4f6c-a098-e11754ff6c06">Friederika Beck</persName>, Tochter der gewesenen Bereuters <persName n="ff0977f4-c872-484c-8977-f4c872084c8a">Beck</persName> von der verstorbenen Wittwe des Buchhalter <persName n="0e1021ed-70e9-4ade-9021-ed70e9badeeb">Lindenmeyer</persName> ein Legat von 100. fl. zugefallen seye, das der dortige pensionirte Holzinspector <persName n="8ed75cb0-d04e-42a1-975c-b0d04eb2a18c">Stetter</persName> zu entrichten habe, wovon jedoch ein Abzug zu 10 .pr. C. entrichtet werden müßen, wenn die Empfängerin nicht erweisen könnte, daß sie in der <placeName n="ec627bf6-7129-4eb4-a27b-f67129beb47d">Schweiz</placeName> oder einem andern Staate der in Freyzügigkeitstractaten mit <placeName n="db4c36aa-bd05-44e6-8c36-aabd05d4e686">Würtemberg</placeName> stehe, als Bürgerin aufgenom-<pb n="284"/>men seye, so wird das <orgName n="441e44a3-c38c-453c-9e44-a3c38c153c4f">L. Oberamt Zürich</orgName> beauftragt, die erforderlichen Erkundigungen über den Aufenthalt und die Verhältniße benannter Person einzuziehen, und das Resultat nebst allfälligen Attestaten wieder an Hohe Behörde einzusenden, damit das Erforderliche an die <placeName n="065fae81-328c-4e1a-9fae-81328c5e1ad1" type="deriv">Würtembergische</placeName> Behörde geantwortet werden könne. </p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

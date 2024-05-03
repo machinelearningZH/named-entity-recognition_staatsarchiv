@@ -1,0 +1,85 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Wahl der kaufmännischen Mitglieder des Handelsgerichtes (Traktandum 8)</title>
+                <respStmt>
+                    <resp ref="#OCR/rke" key="transcript">Transkript: OCR/rke<date when="2011-11-18">18.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Wahl der kaufmännischen Mitglieder des Handelsgerichtes (Traktandum 8)</title>
+                    <date when="1917-09-03">03.09.1917</date>
+                    <ident>StAZH MM 24.51 KRP 1917/004/0059</ident>
+                    <idno>75–77</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_51_KRP_1917_004_0059_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3627639"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="76"/> In offener Abstimmung werden gewählt:</p>
+            <p>1. <persName n="9d6f5a64-fed2-402f-af5a-64fed2502f11">Aebli, Jacques</persName>, in <placeName n="fa51705a-43dd-4fb7-9170-5a43dd1fb738">Zürich</placeName> (Agenturen),</p>
+            <p>2. <persName n="4fd1eda3-6abb-4871-91ed-a36abbc87182">Bodmer, Hermann</persName>, Firma <orgName n="26af0f7d-fe0e-457d-af0f-7dfe0e157d4c">Gebr. F. &amp; H. Bodmer</orgName> in <placeName n="cd286065-9104-4fa9-a860-6591044fa90f">Zürich</placeName> (Seidenwaren).</p>
+            <p>3. <persName n="8acc2b60-7beb-492d-8c2b-607beb692da8">Brugger-Leumann, Joh. Konrad</persName>, Firma <orgName n="0e4ae98e-a8e7-47c8-8ae9-8ea8e7c7c86b">J. C. Brugger &amp; Co.</orgName> in <placeName n="3fcf8aa1-01c5-435e-8f8a-a101c5335e72">Zürich</placeName> (Agentur und Kommission).</p>
+            <p>4. <persName n="7f9d0861-1bb6-4fa9-9d08-611bb6afa9d1">Hofammann, Albert</persName>, Geschäftsführer des <orgName n="fb343301-3117-43e6-b433-01311763e645">Schweizer. Kaufmännischen Vereins</orgName>, Stellenvermittlung, in <placeName n="373d3140-ef4d-4d49-bd31-40ef4d9d49f3">Zürich 1</placeName>.</p>
+            <p>5. <persName n="c3afbbe1-1319-49d7-afbb-e1131949d741">Keyser-Cramer, Ernst</persName>, Firma <orgName n="e2ad1652-5c76-48c3-ad16-525c7608c3d8">Keyser &amp; Co.</orgName> in <placeName n="0a2e91d8-1c96-4b84-ae91-d81c963b8459">Zürich</placeName> (Kautschukindustrie).</p>
+            <p>6. <persName n="19f1b39f-8d73-4bb8-b1b3-9f8d737bb8f6">Leu, Johannes</persName>, Firma <orgName n="35b54d05-a7d0-4ea8-b54d-05a7d0bea8e2">Leu &amp; Meier</orgName> in <placeName n="2c126389-6bfe-4928-9263-896bfe5928bb">Zürich</placeName> (Konfektionsindustrie).</p>
+            <p>7. <persName n="c81deb90-5d0f-4ec0-9deb-905d0f5ec0a7">Pestalozzi-Junghans, Friedrich Otto</persName>, Firma <orgName n="a43869ad-1f85-403b-b869-ad1f85503b30">Gebr. Pestalozzi &amp; Co.</orgName> in <placeName n="eb0a1b9a-9fcd-4150-8a1b-9a9fcdc15037">Zürich</placeName> (Eisenhandel).</p>
+            <p>8. <persName n="357d73dc-bcc3-4f4d-bd73-dcbcc38f4db4">Quidort, Julius Ernst</persName>, Firma <orgName n="214bb8db-eed4-4c1a-8bb8-dbeed42c1a1a">Gebr. Quidort</orgName> in <placeName n="0c66ef40-0269-47ce-a6ef-400269f7ce8d">Winterthur</placeName> (Drogeriewaren).</p>
+            <p>9. <persName n="75c06b34-1590-445c-806b-341590045cb3">Schaertlin, Georg Gottfried</persName>, Dr., Direktionsmitglied der <orgName n="cfba6c7e-2cd2-4af6-ba6c-7e2cd2daf6d4">Schweizerischen Lebensversicherungs- und Rentenanstalt</orgName> in <placeName n="732dd98b-5875-4e45-add9-8b58758e45eb">Zürich 2</placeName>.</p>
+            <p>10. <persName n="7b56861f-ccfb-4309-9686-1fccfbd3094e">Schwarzenbach, Alfred</persName>, Dr., Firma <orgName n="32c84832-94d4-482e-8848-3294d4a82e45">Rob. <placeName n="e6ba4610-6c5a-4f90-ba46-106c5a9f9080">Schwarzenbach</placeName> &amp; Co.</orgName> in <placeName n="66fea1f1-a3da-4d53-bea1-f1a3da8d5339">Thalwil</placeName> (Seidenstofffabrikation).</p>
+            <p>11. <persName n="01ec6273-6b2b-4650-ac62-736b2b3650c2">Stünzi-Baumann, Otto</persName>, in <placeName n="26b81410-8107-4d2c-b814-108107ad2c0c">Zürich 2</placeName> (Manufakturwaren).</p>
+            <p>12. <persName n="227de3a2-0463-40b2-bde3-a20463d0b295">v. Waldkirch, Oskar</persName>, Dr., Mitglied des Direktoriums der <orgName n="77bca473-bda2-46f4-bca4-73bda246f42a">Eidgenössischen Bank (Aktiengesellschaft</orgName>) in <placeName n="6462b485-14c9-42b0-a2b4-8514c9f2b002">Zürich 1</placeName>.</p>
+            <p>13. <persName n="d0fb2d45-d750-46d7-bb2d-45d750d6d737">Weber, Julius</persName>, Direktor der <orgName n="59bde804-92a8-4b27-bde8-0492a89b273a">Schweizerischen Lokomotiv- und Maschinenfabrik</orgName> in <placeName n="2c7b3b80-679f-4abb-bb3b-80679fdabbe7">Winterthur</placeName>.</p>
+            <p>14. <persName n="0c3d1a5e-f8d8-4ec0-bd1a-5ef8d8fec0c6">Wismer, Hermann</persName>, Firma <orgName n="0e1e4d6c-e7cd-4613-9e4d-6ce7cdf613d1">Werner Sträuli &amp; Co.</orgName> in <placeName n="0134fd80-e0fe-49c0-b4fd-80e0fed9c00c">Winterthur</placeName> (Kolonialwaren).</p>
+            <p>15. <persName n="9f1d4b82-6e06-428c-9d4b-826e06a28c11">Sulzer-Imhof, Jakob</persName>, Dr., in <placeName n="a4a2302f-4cd5-4109-a230-2f4cd5b109c8">Winterthur</placeName> (Maschinenbau und Gießerei).</p>
+            <p>16. <persName n="532cd843-0ed5-4fe3-acd8-430ed5cfe3d3">Baer-Acklin, Fritz</persName>, Firma <orgName n="224831ef-b645-436f-8831-efb645536fec">von Arx, Beer &amp; Co.</orgName> in <placeName n="aa9838cf-d8b8-4fea-9838-cfd8b8cfeaab">Winterthur</placeName> (Manufakturwaren).</p>
+            <p>17. <persName n="79d1d305-c9fa-44de-91d3-05c9faa4de84">Baumann-Knobel, J.</persName>
+                <hi rend="sub">;</hi> Firma <orgName n="79eab7ab-27ba-45e6-aab7-ab27baf5e6af">Baumann &amp; Dr. Müller, A.-G.</orgName>, <placeName n="82b8e0af-c139-4403-b8e0-afc1391403e3">Lessingstraße 5</placeName>, in <placeName n="83b24e60-58a8-4895-b24e-6058a8c89589">Zürich 2</placeName> (Seidenfärberei).</p>
+            <p>18. <persName n="18d75e5b-f1b1-4041-975e-5bf1b17041b1">Bruppacher, Kaspar</persName>, Direktor der <orgName n="cbfc5f1e-0105-4306-bc5f-1e0105030647">
+                    <placeName n="a35a88d8-a753-4c2d-9a88-d8a7535c2de7">Banco</placeName> Sete</orgName> in <placeName n="a087a54e-e383-412f-87a5-4ee383912f8d">Zürich 7</placeName> (Handel und Industrie in Rohseide).</p>
+            <p>19. <persName n="d2df744a-b11e-42f7-9f74-4ab11e22f747">Bühler, Karl</persName>, Direktor der <orgName n="52bcda38-aab5-4ba5-bcda-38aab56ba5a2">Schweizerischen Bankgesellschaft</orgName> in <placeName n="7c656d05-0269-4ce8-a56d-0502699ce845">Winterthur</placeName>.</p>
+            <p>20. <persName n="ca432abf-4ab5-407d-832a-bf4ab5107dc3">Corti Arnold</persName>, Dr., <orgName n="5949237b-bbdf-45a9-8923-7bbbdf35a9af">Chemische Fabrik Flora</orgName> in <placeName n="ab4c37fe-b815-458d-8c37-feb815b58d17">Dübendorf</placeName> (Chemische Produkte).  <pb n="77"/>
+            </p>
+            <p>21. <persName n="aa95e5ca-dcc6-47a6-95e5-cadcc607a6f1">Dietler, Hans</persName>, Dr., Direktor der Aktiengesellschaft <orgName n="43c34068-6804-48ec-8340-686804e8ec32">Leu &amp; Co.</orgName> in <placeName n="6bc24f92-dad2-4e9d-824f-92dad23e9d63">Zürich</placeName> (<orgName n="3bb412a7-88f2-4228-b412-a788f2c22872">Bankwesen</orgName>).</p>
+            <p>22. <persName n="dfe47fac-c86f-43a0-a47f-acc86ff3a025">Forster-Schwarzer, Otto</persName>, Firma <orgName n="0276cf8f-a52a-4ad2-b6cf-8fa52aaad2ff">Forster, Altorfer &amp; Cie.</orgName> in <placeName n="93c17e4d-0fa3-4da3-817e-4d0fa3cda33b">Zürich</placeName> (Teppichhandel).</p>
+            <p>23. <persName n="eb03288a-5fea-4370-8328-8a5fea737042">Furrer, Max</persName>, Firma <orgName n="c59bb571-2dd8-4798-9bb5-712dd8d798af">Rud. Schnorf</orgName> in <placeName n="f5a9dc0b-a19d-440c-a9dc-0ba19d840c6c">Zürich</placeName> (<placeName n="80fe338e-3f40-4086-be33-8e3f40b086c0">Kohlen</placeName>).</p>
+            <p>24. <persName n="d9a0a3bc-3026-4db2-a0a3-bc3026ddb288">Ganzoni-Nadler, Moritz</persName>, Firma <orgName n="d4153f64-5822-435c-953f-645822e35c11">M, Ganzoni &amp; Cie.</orgName> in <placeName n="6e0e1de0-e122-4603-8e1d-e0e12286033d">Winterthur</placeName> (Mechan. Bandweberei).</p>
+            <p>25. <persName n="f93ac7a2-450b-4bf5-bac7-a2450b5bf5c8">Gattiker-Sautter, Aug.</persName>, Firma <orgName n="f54ca205-7c47-4c24-8ca2-057c476c2459">Gattiker &amp; Steinmann</orgName> in <placeName n="9bfbd31f-0705-4946-bbd3-1f0705894641">Richterswil</placeName> (Manufakturwarenhandel),</p>
+            <p>26. Nationalrat <persName n="27ee35f5-941b-468b-ae35-f5941b568b27">Guyer-Berchtold, Julius</persName>, in <placeName n="395f65f8-fafc-4d5b-9f65-f8fafcbd5b6e">Zürich 7</placeName> (Baumwolle).</p>
+            <p>27. <persName n="fa0ca8f2-4a74-4f33-8ca8-f24a748f3398">Haffter, Martin</persName>, Firma <orgName n="a8e15bbf-6185-4079-a15b-bf61854079db">M. Haffter &amp; Co.</orgName> in <placeName n="beab4eca-34b2-4a4d-ab4e-ca34b29a4deb">Zürich</placeName> (Agentur und Kommission).</p>
+            <p>28. <persName n="d5239c63-aad4-403d-a39c-63aad4f03d12">Hegner v. Juvalta, Robert</persName>, Firma <orgName n="534181e5-b55d-4657-8181-e5b55d5657fd">Siber, Hegner &amp; Co.</orgName> in <placeName n="c4b26937-602e-4708-b269-37602ea7089d">Zürich</placeName> (Import und Export).</p>
+            <p>29. <persName n="ba9b47bc-0db3-49b0-9b47-bc0db319b014">Kölliker, Th. G.</persName>, Ingenieur, Firma <orgName n="cb4b0324-647d-4239-8b03-24647db239da">Baumann-Kölliker &amp; Co.</orgName> in <placeName n="d6f5f7cd-e1c3-4a01-b5f7-cde1c39a01e3">Zürich 2</placeName> (Elektrische Licht- und Kraftanlagen).</p>
+            <p>30. <persName n="50b45056-0a90-48de-b450-560a9038de43">Kuoni Hermann</persName>, Firma <orgName n="350eacb9-6e34-4db8-8eac-b96e346db8e8">Gebr. Kuoni</orgName> in <placeName n="64939074-ed85-433e-9390-74ed85933eb0">Zürich 1</placeName> (Spedition).</p>
+            <p>31. <persName n="737625cf-b759-4964-b625-cfb75909648a">Reinhart-Sulzer, Paul</persName>, Firma <orgName n="f73bdb50-edb0-4653-bbdb-50edb066531c">Paul Reinhart &amp; Cie.</orgName> in <placeName n="d9250e1d-3189-43a9-a50e-1d318993a9b3">Winterthur</placeName> (Baumwollindustrie).</p>
+            <p>32. <persName n="45f913c2-a59d-4ef4-b913-c2a59deef472">Steinfels-Saurer, Heinrich</persName>, Verwaltungsratspräsident der A.-G. <orgName n="78256d26-2691-4629-a56d-2626915629da">Friedrich Steinfels</orgName> in <placeName n="62a61955-1c49-40c6-a619-551c49e0c6d5">Zürich</placeName> (Seifenfabrikation).</p>
+            <p>33. <persName n="30142bc9-2048-4a5a-942b-c920486a5a8d">Streuli, A.</persName>, Firma <orgName n="a738f813-b67f-4599-b8f8-13b67f459925">A. Streuli &amp; Co.</orgName> in <placeName n="c1389f86-4cc0-4e18-b89f-864cc02e188d">Zürich 1</placeName> (Baumwollwarenhandel).</p>
+            <p>34. <persName n="c49a7575-557f-4911-9a75-75557fc91112">Studer, Hugo</persName>, Direktor der <orgName n="5568b07c-bc23-49fb-a8b0-7cbc2359fbdc">Maschinenfabrik Örlikon</orgName>.</p>
+            <p>35. <persName n="0ea7b6df-9977-477b-a7b6-df9977b77be9">Stünzi, Cäsar</persName>, Delegierter der A.-G. <orgName n="15aaafd2-1cc8-425f-aaaf-d21cc8925fca">Baumann-Streuli &amp; Co.</orgName> in <placeName n="86c2fcd0-a53d-44ad-82fc-d0a53d54ad72">Zürich 1</placeName> (Seidenweberei).</p>
+            <p>36. <persName n="e4cf752b-35bb-49e2-8f75-2b35bbb9e29d">Wettstein, Albert</persName>, Direktor der A.-G. <orgName n="3ef71b9d-a4bd-4a62-b71b-9da4bd6a62ec">Bierbrauerei am Ütliberg</orgName> in <placeName n="89874bd1-2953-45dd-874b-d12953d5ddf6">Zürich 3</placeName> (Bierbrauerei).</p>
+            <p>37. <persName n="a3dd4f96-c653-4087-9d4f-96c653b087fc">Corrodi-Sulzer, A.</persName>, Firma <orgName n="7085a058-2ca9-4474-85a0-582ca9c47413">Corrodi &amp; Co.</orgName> in <placeName n="34515c5a-d99f-411d-915c-5ad99fe11dbc">Zürich 1</placeName> (Seidenhandel).</p>
+            <p>38. <persName n="7c603ced-fa42-43bd-a03c-edfa42d3bd68">Egli, C. August</persName>, Firma <orgName n="a22aa577-310a-4ef3-aaa5-77310a2ef393">C. August Egli</orgName>, Aktiengesellschaft in <placeName n="8e592fea-add5-443c-992f-eaadd5443ce2">Zürich 6</placeName> (Weinhandel).</p>
+            <p>39. <persName n="49c7dd24-2e29-4e24-87dd-242e29ee246d">Peter, Jakob</persName>, Firma <orgName n="9b8aa934-1529-4305-8aa9-3415291305ed">Peter &amp; Co.</orgName>, <placeName n="8e3534ab-77d7-4a79-b534-ab77d7fa7935">Rennweg 15</placeName>, in <placeName n="6b6fabeb-830f-4806-afab-eb830f7806fd">Zürich 1</placeName> (Fensterglas en gros).</p>
+            <p>40. <persName n="e7ebe3fb-0802-4859-abe3-fb0802c85983">Reutener, Jakob</persName>, Prokurist der Aktiengesellschaft <orgName n="108a9083-e92e-4e2a-8a90-83e92e4e2a94">Stünzi Söhne</orgName> in <placeName n="d0f06c22-f740-4e4c-b06c-22f740be4c7c">Horgen</placeName> (Textilindustrie). </p>
+        </body>
+    </text>
+</tei:TEI>

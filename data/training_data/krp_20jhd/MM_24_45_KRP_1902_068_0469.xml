@@ -1,0 +1,54 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abtretung der Versuchsstation für Obst-, Wein- und Gartenbau in Wädenswil an den Bund, Antrag des Regierungsrates vom 27. Februar 1902.</title>
+                <respStmt>
+                    <resp ref="#OCR/amr" key="transcript">Transkript: OCR/amr<date when="2011-10-05">05.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Abtretung der Versuchsstation für Obst-, Wein- und Gartenbau in Wädenswil an den Bund, Antrag des Regierungsrates vom 27. Februar 1902.</title>
+                    <date when="1902-03-10">10.03.1902</date>
+                    <ident>StAZH MM 24.45 KRP 1902/068/0469</ident>
+                    <idno>806–807</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_45_KRP_1902_068_0469_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3605129"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="806"/>Dem <orgName n="a347a1b9-7976-432c-87a1-b97976232c72">Kantonsrat</orgName> liegt ein Antrag des <orgName n="b3845dae-8d64-4059-845d-ae8d641059ff">Regierungsrates</orgName> vom <date>27. Februar 1902</date> vor für einen „Beschluss des <orgName n="8fc94c03-01b1-4fda-894c-0301b14fdaa1">Kantonsrates</orgName> betreffend die Abtretung der <orgName n="7484d7ff-3c78-439d-84d7-ff3c78f39d99">Versuchsstation für Obst-, Wein- und Gartenbau</orgName> in <placeName n="02810c44-8110-491e-810c-448110091e60">Wädenswil</placeName> an den <orgName n="de8401a9-fb0a-4dcd-8401-a9fb0a8dcdcf">Bund</orgName>“. Namens der zur Berichterstattung eingeladenen <orgName n="d37b0bcc-1b89-4769-bb0b-cc1b89e76962">Staatsrechnungsprüfungskommission</orgName> referiert in Vertretung des in Amtsgeschäften abwesenden Präsidenten Herr <persName n="26c3cf99-8ea6-41ff-83cf-998ea6c1ffbf">Amsler</persName> - <placeName n="de8f6891-5623-4570-8f68-915623d57066">Meilen</placeName> im wesentlichen an Hand der bezüglichen einlässlichen Weisung des <orgName n="14b81b7d-7fdb-48ad-b81b-7d7fdbf8adc3">Regierungsrates</orgName>, auf die hiemit verwiesen wird (siehe Amtsblatt, Textteil, Seite 149–170). Die Kommission beantragt Zustimmung zum Antrag des <orgName n="bc6714c2-13a6-4455-a714-c213a6b45503">Regierungsrates</orgName>; sie wünscht aber, dass der <orgName n="6ae04fa7-0837-4bfe-a04f-a708373bfe29">Regierungsrat</orgName> eingeladen werde, über die Amortisation des durch die Abtretung der Versuchsanstalt an den <orgName n="dd6094da-a711-4038-a094-daa711603887">Bund</orgName> in der Vermögensrechnung entstehenden Ausfalles Bericht und Antrag einzubringen, da in der <orgName n="bd885b03-c563-4b17-885b-03c563fb1729" type="deriv">regierungsrätlichen</orgName> Weisung hierüber nichts enthalten sei. In diesem Sinne stellt sie den Antrag auf Ergänzung des Beschlussentwurfes.</p>
+            <p>Herr Regierungsrat <persName n="ad6dc623-d200-406d-adc6-23d200b06d0e">Nägeli</persName> macht Mitteilung, dass sich der <orgName n="da265bad-8d43-4035-a65b-ad8d4340350e">Regierungsrat</orgName> bereits mit der Frage befasst und die <orgName n="0fb4a979-0d81-44c7-b4a9-790d81e4c705">Finanzdirektion</orgName> zur Begutachtung hierüber eingeladen habe.</p>
+            <p>Der Rat stimmt dem Antrage der Kommission zu.</p>
+            <p>Der Beschluss lautet:  <pb n="807"/>
+            </p>
+            <p>Der <orgName n="91c684cd-6d32-4f48-8684-cd6d32ff4885">Kantonsrat</orgName>,</p>
+            <p>nach Einsicht eines Berichtes und Antrages des <orgName n="841071fd-35fc-4e09-9071-fd35fcbe099f">Regierungsrates</orgName>,</p>
+            <p>beschliesst:</p>
+            <p>I. Dem vom <orgName n="025dd9bc-4047-4e0c-9dd9-bc4047ee0c4d">Regierungsrat des Kantons <placeName n="e7885228-3900-417f-8852-283900a17f50">Zürich</placeName>
+                </orgName> mit dem h. <orgName n="2df73315-3f70-401f-b733-153f70401fd7">Bundesrat</orgName> unter Vorbehalt der Ratifikation der zuständigen Instanzen abgeschlossenen Vertrag über Abtretung der <orgName n="6bcc2968-0c09-4412-8c29-680c09041245">Versuchsstation für Obst-, Wein- und Gartenbau</orgName> in <placeName n="30dd8f53-7cde-451b-9d8f-537cde851bfc">Wädenswil</placeName> an den <orgName n="682a2af8-9cb2-445b-aa2a-f89cb2545b32">Bund</orgName> und deren Fortbetrieb als <orgName n="4443a6d0-d716-420f-83a6-d0d716120ff9">eidgenössische Versuchsanstalt für Obst-, Wein- und Gartenbau</orgName> wird die Genehmigung erteilt.</p>
+            <p>II. Dieser Beschluss ist der Volksabstimmung zu unterbreiten.</p>
+            <p>III. Der <orgName n="21e825ea-cb55-496e-a825-eacb55496ebd">Regierungsrat</orgName> wird eingeladen, über die Amortisation des durch diese Abtretung in der Vermögensrechnung entstehenden Ausfalles dem <orgName n="ffb0e0f1-8a56-43f6-b0e0-f18a5683f610">Kantonsrate</orgName> Bericht und Antrag vorzulegen.</p>
+            <p>IV. Mitteilung an den <orgName n="1f367fd4-5e52-480a-b67f-d45e52f80ac5">Regierungsrat</orgName> zur Vollziehung.</p>
+        </body>
+    </text>
+</tei:TEI>

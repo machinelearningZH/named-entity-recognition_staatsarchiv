@@ -1,0 +1,66 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ausscheidung der Competenz zwischen dem Erziehungsdirektor u. Erziehungsraths betr. die Wahlen der Lehrer an den Primarschulen.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#sbh">Transkript: sbh<date when="2011-08-29">29.08.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Ausscheidung der Competenz zwischen dem Erziehungsdirektor u. Erziehungsraths betr. die Wahlen der Lehrer an den Primarschulen.</title>
+                    <date when="1850-06-03">03.06.1850</date>
+                    <ident>StAZH MM 2.108 RRB 1850/1037</ident>
+                    <idno>452–454</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_101_MM_2_150/MM_2_108/MM_2_108_RRB_1850_1037_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1843167"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="452"/>Der <orgName n="7c2b1b26-8928-41b9-ab1b-268928b1b982">Regierungsrath</orgName> nach Einsicht eines Antrages des Direktors des <orgName n="668592fd-350c-42a3-8592-fd350c52a321">Erziehungswesens</orgName> mit Rücksicht darauf, daß das Gesetz betreffend die Wahlen der Lehrer an den Primarschulen vom 2ten April 1850. noch auf die früher bestandene Organisation der Erziehungsbehörden basirt ist, daß nun aber eine Ausscheidung der Kraft jenes Gesetzes dem <orgName n="b5fb260a-cfad-4eec-bb26-0acfadbeecc6">Erziehungsrathe</orgName> zugetheilten Competenz zwischen den nunmehr in Folge des Gesetzes betreffend die Organisation des <orgName n="c446cd40-5f90-4b12-86cd-405f900b12d4">Regierungsrathes</orgName> u. s. f. mit Bezug auf das <orgName n="b9cc1b57-590d-4b8b-8c1b-57590dfb8ba3">Erziehungswesen</orgName> bestehenden Stellen nothwendig ist;</p>
+            <p/>
+            <p>– in Anwendung des §. 119. des Gesetzes betreffend die Organisation des <orgName n="87b94a41-e43c-4c5c-b94a-41e43cbc5ce9">Regierungsrathes</orgName> u. s. f.</p>
+            <p/>
+            <p>beschließt:</p>
+            <p>I. Mit Bezug auf die in §. 1. lemma 2. des Gesetzes betreffend die Wahl der Lehrer an den Primarschulen dem <orgName n="ad4a5c78-0b39-46e1-8a5c-780b3986e142">Erziehungsrathe</orgName> eingeräumte Befugniß der provisorischen Besetzung von Lehrstellen durch Verweser gelten, die in §. 85. 11. und §. 86. 16] [sic!] des Gesetzes betreffend die Organisation<pb n="453"/>des <orgName n="a0fb42cb-3086-4d34-bb42-cb30868d3489">Regierungsrathes</orgName> enthaltenen Kompetenzbestimmungen.</p>
+            <p/>
+            <p>II. Die in §. 3. b. c. des mehrerwähnten Gesetzes dem <orgName n="58e752da-383f-44ef-a752-da383f94ef9c">Erziehungsrathe</orgName> eingeräumten Befugnisse, einen Bewerber um eine Lehrstelle beim Besitze eines Fähigkeitszeugnisses 3<hi rend="sup">ter</hi> Klasse im speciellen Falle für wählbar zu erklären oder der Verpflichtung zur Uebernahme vom <orgName n="c35759cb-d135-4783-9759-cbd13557835f">Erziehungsrathe</orgName> übertragener Schuldienst. §. 7. des Seminargesetzes behufs der Anmeldung im einzelnen Falle zu entheben, stehen auch in Zukunft dem <orgName n="14d9ea65-53ce-41ef-99ea-6553cee1efc2">Erziehungsrathe</orgName> zu.</p>
+            <p/>
+            <p>III. Die Kraft §. 5. lemma 2. des zitirten Gesetzes dem <orgName n="4de038b5-8f06-40be-a038-b58f0680beb5">Erziehungsrathe</orgName> zustehende Befugniß einer Schulgenossenschaft zu gestatten, den Weg der Berufung eines Lehrers zum dritten Male einzuschlagen verbleibt dem <orgName n="c43e8af7-5429-4fa9-be8a-f75429efa94e">Erziehungsrathe</orgName>.</p>
+            <p/>
+            <p>IV. Die in §. 6. des zitirten Gesetzes dem <orgName n="b123180c-9f2c-4325-a318-0c9f2c332515">Erziehungsrathe</orgName> aufgetragene Ausschreibung der Lehrstellen, hat in Zukunft von dem Erziehungsdirektor auszugehen.</p>
+            <p/>
+            <p>V. Die in §. 7. des zitirten Gesetzes erwähnte Entscheidung über die Erfüllung der gesetzlichen Bestimmungen der Wahlfähigkeit von Seite der Bewerber um Lehrstellen steht unter Vorbehalt der dem <orgName n="c133d805-966b-4309-b3d8-05966b3309bf">Erziehungsrathe</orgName> zustehenden Entscheidung über die in §. 3. b. c. des zitirten Gesetzes<pb n="454"/>erwähnten Punkte, [Ziffer 2. dieses Beschlusses] im übrigen dem Erziehungsdirektor allein zu.</p>
+            <p/>
+            <p>VI. Die in §. 11. lemma 2. des zitirten Gesetzes dem <orgName n="755fe2b1-0109-4481-9fe2-b101096481de">Erziehungsrathe</orgName> eingeräumte Befugniß eine Schulgenossenschaft zu definitiver Besetzung einer Lehrstelle aufzufordern, steht in Zukunft dem <orgName n="a57c5fe0-a6b5-47c3-bc5f-e0a6b5b7c3ab">Erziehungsrathe</orgName> zu.</p>
+            <p/>
+            <p>VII. Die am Schlusse des §. 10. des zitirten Gesetzes erwähnte Anerkennung der Wahlen von Primarlehrern steht Kraft §. 86. [<hi rend="italic">[</hi>]15] des Gesetzes über die Organisation des <orgName n="85e7fa73-6bec-4234-a7fa-736beca23493">Regierungsrathes</orgName> u. s. w. dem Direktor des <orgName n="e4aa0fe6-0fbf-413d-aa0f-e60fbf413dd0">Erziehungswesens</orgName> allein zu.</p>
+            <p/>
+            <p>VIII. Die Entscheidung über die in §. 12. des zitirten Gesetzes erwähnten Rekurse betreffend die Gültigkeit eines die Besetzung der Lehrstelle betreffenden Beschlusses der Schulgenossenschaft oder einer Wahl, sowie die Verhängung von Ordnungsbußen bei muthwilligen oder Umtriebe bezweckenden Rekursen geht auch in Zukunft von dem <orgName n="c5298b36-2212-4a27-a98b-362212aa27f0">Erziehungsrathe</orgName> aus.</p>
+            <p/>
+            <p>IX. Von dieser Schlußnahme ist dem Direktor des <orgName n="f19f4354-7c48-4937-9f43-547c489937e4">Erziehungswesens</orgName> für sich und zu weiterer Mittheilung Kenntniß zu geben.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

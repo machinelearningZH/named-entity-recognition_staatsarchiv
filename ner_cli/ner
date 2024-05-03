@@ -1,0 +1,364 @@
+#!/usr/bin/env python3
+import argparse
+import datetime
+import logging
+import os.path
+import sys
+import time
+from pathlib import Path
+
+import requests
+import tqdm
+from dotenv import load_dotenv
+from containers import Collection, File
+from logger import logger, file_logger, log_level
+from requests.sessions import Session
+from typing import Dict, List, Union
+
+from console import (
+    get_row_strs,
+    log_time_projection,
+    print_ner_header,
+    print_table_header,
+    print_table_row,
+    report_annotation_error,
+    report_diff_error,
+    report_export_error,
+)
+
+from tei_publisher_interface import (
+    get_pipeline,
+    get_tp_servers_availability,
+    tei_publisher_login,
+    annotate,
+    delete_existing_documents,
+    get_xml,
+    upload_documents,
+    verify_upload,
+    process_ner_params
+)
+
+from file_handling import collate_files, get_file_list, prepare_paths
+
+from util import diff_xml_texts, log_errors
+
+load_dotenv()
+
+try:
+    ROOT = os.environ["ROOT"]
+except KeyError:
+    logger.error("Root directory not set in .env!")
+    sys.exit(1)
+
+
+def setup(args: argparse.Namespace) -> str:
+    """
+    Check server availability, set NER parameters and confirm that they have been set correctly.
+    """
+    print_ner_header()
+
+    if not get_tp_servers_availability():
+        logger.error(
+            "TEI Publisher and/or TEI Publisher NER API not available, quitting ..."
+        )
+        sys.exit(1)
+
+    args_dict = vars(args)
+
+    has_ner_params, sm_model, tag_with_sm, tag_locs_within_orgs, tag_dates = (
+        process_ner_params(args, args_dict)
+    )
+
+    # Confirm that parameters are set correctly
+    params_set_correctly = True
+    if has_ner_params:
+        for ner_param, set_param in [
+            ("sm_model", sm_model),
+            ("tag_with_sm", tag_with_sm),
+            ("tag_locs_within_orgs", tag_locs_within_orgs),
+            ("tag_dates", tag_dates),
+        ]:
+            if args_dict[ner_param] is not None:
+                if args_dict[ner_param] != set_param:
+                    params_set_correctly = False
+    else:
+        logger.info("No NER params passed, using currently set params of NER API")
+
+    pipeline = get_pipeline()
+
+    if params_set_correctly:
+        logger.info(
+            f"""NER parameters set as follows:
+                                         * sm_model: {sm_model} 
+                                         * tag_with_sm: {tag_with_sm}
+                                         * tag_locs_within_orgs: {tag_locs_within_orgs} 
+                                         * tag_dates: {tag_dates}"""
+        )
+        print()
+    else:
+        logger.error(
+            "TEI NER API parameters do not match requested parameters, quitting ..."
+        )
+        sys.exit(1)
+
+    return pipeline
+
+
+def main(
+    args: argparse.Namespace,
+    model: str,
+    time_stamp: str,
+    teipublisher_user: str,
+    teipublisher_password: str,
+) -> None:
+    """
+    Set paths and trigger processing.
+    """
+
+    if not args.output_path:
+        args.output_path = ROOT
+
+    collection = Collection(
+        Path(args.input_path),
+        Path(args.output_path) / "out",
+        Path(args.output_path) / "error",
+        Path(args.output_path) / "worker",
+        Path(args.output_path) / "log",
+        continue_from=args.continue_from,
+        time_stamp=time_stamp
+    )
+
+    process_collection(
+        model,
+        teipublisher_user,
+        teipublisher_password,
+        collection,
+        recursive=args.recursive
+    )
+
+
+def process_collection(
+    pipeline: str,
+    teipublisher_user: str,
+    teipublisher_password: str,
+    collection: Collection,
+    recursive: bool = False
+) -> None:
+    """
+    Obtain flat list of files from specified path and iteratively process them.
+    """
+    prepare_paths(collection)
+
+    (
+        progress_dict,
+        file_dict,
+    ) = collate_files(collection, recursive)
+
+    log_time_projection(progress_dict)
+
+    #
+    # Process files
+    #
+
+    with requests.Session() as session:
+        tei_publisher_login(session, teipublisher_user, teipublisher_password)
+        with tqdm.tqdm(
+            file_dict,
+            desc="Path:",
+            delay=2,
+            position=0,
+            disable=bool(int(os.environ["DEBUG"])),
+        ) as subpath_pbar:
+            for subpath in subpath_pbar:
+                subpath_pbar.set_description(f"Path: {collection.p_in / subpath}")
+                files = get_file_list(collection, file_dict, subpath)
+
+                if files:
+                    try:
+                        delete_existing_documents(session)
+                        upload_documents(session, files)
+                        if not verify_upload(session, files):
+                            raise RuntimeError(
+                                "Error: Remote files do not correspond to local files."
+                            )
+                    except Exception as e:
+                        logger.error(
+                            f"Preparing TEI Publisher database failed with exception: {e}"
+                        )
+                        sys.exit(1)
+
+                    # Annotate and retrieve annotated XML
+                    process_subpath(
+                        pipeline, progress_dict, files, collection, subpath, session
+                )
+
+    logger.info(
+        f"Execution complete. Processed {len(file_dict)} paths with {collection.file_count} files, "
+        f'of which {collection.error_count} produced errors (see files {collection.p_log / "errors-*.json"}).'
+    )
+
+
+def process_subpath(
+    pipeline: str,
+    progress_dict: Dict[str, Union[Dict[str, Dict[str, Union[float, int]]], float]],
+    files: List[File],
+    collection: Collection,
+    subpath: str,
+    session: Session,
+) -> None:
+    """
+    Process xmls from provided list.
+    """
+    # Create one table header per subpath
+    print_table_header()
+
+    with tqdm.tqdm(files,
+                   desc="File:",
+                   position=1,
+                   disable=bool(int(os.environ["DEBUG"])),
+                ) as files_pbar:
+        for file in files_pbar:
+            files_pbar.set_description(f"File: {file.file}")
+            start_time_doc = time.time()
+
+            # Format file and title strings to fit table
+            get_row_strs(file)
+
+            # Annotate
+            try:
+                annotate(session, file, pipeline=pipeline)
+                get_xml(session, file)
+            except Exception as e:
+                report_annotation_error(collection, file, e)
+                continue
+
+            # Check if annotations introduced changes to plaintext
+            xml_texts_diff = diff_xml_texts(file)
+
+            # Export file
+            try:
+                with open(file.p_out / file.file, "w") as f:
+                    f.write(file.xml_annotated)
+
+                if not bool(int(os.environ["DEBUG"])):
+                    print_table_row(progress_dict, file, start_time_doc)
+            except Exception as e:
+                report_export_error(collection, file, e)
+
+            # Files with diff errors are exported but moved to the error directory
+            if xml_texts_diff:
+                report_diff_error(collection, file, xml_texts_diff)
+
+    log_errors(collection)
+
+
+if __name__ == "__main__":
+    try:
+        teipublisher_user = os.environ["TEIPUBLISHER_USER"]
+        teipublisher_password = os.environ["TEIPUBLISHER_PASSWORD"]
+    except KeyError:
+        logger.error("User credentials not set or incomplete.")
+        sys.exit(1)
+
+    parser = argparse.ArgumentParser(
+        prog="KtZH/StaZH TEI XML Named Entity Recognition CLI client",
+        description="Supports SpanMarker NER, as well as regex-based "
+        "tagging of LOCs nested in ORGs and dates.",
+    )
+    parser.add_argument(
+        "-i",
+        "--input-path",
+        required=True,
+        help="Input path"
+    )
+    parser.add_argument(
+        "-o",
+        "--output-path",
+        required=False,
+        help="Output path. If not specified, files are stored in the default "
+        "output directory (see README)",
+    )
+    parser.add_argument(
+        "-cf",
+        "--continue-from",
+        required=False,
+        help="Skip directories up to one that matches the specified string. "
+        "Note that strings are always matched as substrings, specify full string for exact matching"
+    )
+    parser.add_argument(
+        "-sm",
+        "--sm-model",
+        required=False,
+        help="SpanMarker model. If not specified, the model currently set in "
+        "the NER API server is used.",
+    )
+    parser.add_argument(
+        "-r",
+        "--recursive",
+        action="store_true",
+        help="Whether to walk the directory recusively. The directory structure "
+        "is replicated in the output directory.",
+    )
+    parser.add_argument(
+        "-tsm",
+        "--tag-with-sm",
+        required=False,
+        action=argparse.BooleanOptionalAction,
+        help="Tag persons, locations and organizations with SpanMarker",
+    )
+    parser.add_argument(
+        "-tlwo",
+        "--tag-locs-within-orgs",
+        required=False,
+        action=argparse.BooleanOptionalAction,
+        help="Tag LOCs nested in ORGs using the corresponding regex of the NER service. "
+        'Can be used independently from "--tag-with-sm"',
+    )
+    parser.add_argument(
+        "-td",
+        "--tag-dates",
+        action=argparse.BooleanOptionalAction,
+        required=False,
+        help="Tag date expressions using the corresponding regex of the NER service.",
+    )
+    parser.add_argument(
+        "-ra",
+        "--reset-api",
+        action="store_true",
+        help="Reset NER settings as defined in the .env of the NER API",
+    )
+
+    args = parser.parse_args()
+
+    time_stamp = datetime.datetime.isoformat(datetime.datetime.now())
+
+    #
+    # Logging
+    #
+
+    if args.output_path is not None:
+        log_path = Path(args.output_path) / "log"
+    else:
+        log_path = Path(ROOT) / "log"
+    log_file = log_path / f"run-{time_stamp}.log"
+    if not os.path.exists(log_path):
+        os.makedirs(log_path)
+    # Create file handler
+    file_handler = logging.FileHandler(log_file)
+    file_handler.setLevel(log_level)
+
+    # Create formatter and add to handler
+    file_formatter = logging.Formatter(
+        "[ %(levelname)-8s ] - [ %(asctime)s ] - %(message)s"
+    )
+    file_handler.setFormatter(file_formatter)
+    for logger_ in [logger, file_logger]:
+        logger_.addHandler(file_handler)
+
+    #
+    # Processing
+    #
+
+    pipeline = setup(args)
+
+    main(args, pipeline, time_stamp, teipublisher_user, teipublisher_password)

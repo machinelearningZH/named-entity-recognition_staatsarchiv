@@ -1,0 +1,175 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reglement über die Ausbildung von Abiturienten zürcherischer Mittelschulen zu Primarlehrern (Primarlehramtskurs).</title>
+                <respStmt>
+                    <resp ref="#jsn" key="transcript">Transkript: jsn<date when="2015-09-24">24.09.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Reglement über die Ausbildung von Abiturienten zürcherischer Mittelschulen zu Primarlehrern (Primarlehramtskurs).</title>
+                    <date when="1934-03-10">10.03.1934</date>
+                    <ident>StAZH OS 35 (S. 274-277)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_35__S__274-277__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3469920"/>
+                    <listRelation>
+                        <relation name="Aufhebung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3469920" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3471138"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="274"/>
+            </p>
+            <p>
+                <title>A. Die Organisation der Kurse.</title>
+            </p>
+            <p>§ 1. Den Abiturienten der <orgName n="50c3fb3e-e057-4791-83fb-3ee05727913b">Lehramtsabteilung der Kantonsschule Winterthur</orgName> wird Gelegenheit geboten, in Ergänzungskursen sich für das Primarlehramt vorzubereiten.</p>
+            <p>Der <orgName n="0234416b-c22c-40dc-b441-6bc22c80dc98">Erziehungsrat</orgName> bestimmt jedes Frühjahr vor Beginn des Schuljahres in angemessener Berücksichtigung der ins <orgName n="0ae05db4-4cbd-45c5-a05d-b44cbdc5c55c">Seminar Küsnacht</orgName> bewilligten Aufnahmen die Zahl der Schüler und Schülerinnen, die in die <orgName n="20392053-5971-4528-b920-535971852840">Lehramtsabteilung der Kantonsschule Winterthur</orgName> aufgenommen werden dürfen.</p>
+            <p>Der <orgName n="255bced4-e270-4054-9bce-d4e27030545d">Erziehungsrat</orgName> setzt gleichzeitig die Höchstzahl der Teilnehmer des im folgenden Herbste beginnenden Primarlehramtskurses fest. Die Zahl der Teilnehmer darf in der Regel die Hälfte der Schülerzahl der obersten Klasse des <orgName n="29bdea92-c2b2-406c-bdea-92c2b2b06cd8">Seminars Küsnacht</orgName> nicht übersteigen.</p>
+            <p>Innerhalb der so festgelegten Höchstzahl können bei Bedarf in den Primarlehramtskurs Abiturienten der übrigen Kantonsschulabteilungen <placeName n="68ec7bc4-f7a5-4e23-ac7b-c4f7a5fe23fb">Zürich</placeName> und <placeName n="9a255bf8-c3f9-47b0-a55b-f8c3f987b00a">Winterthur</placeName>, sowie der <orgName n="baa2cd5e-bb03-4285-a2cd-5ebb035285bb">Gymnasialabteilung der Töchterschule der Stadt Zürich</orgName> aufgenommen werden. Ihre Zahl bleibt in der Regel auf ein Viertel der auf Grund ihrer Ausweise zugelassenen Kandidaten aus der <orgName n="fdf5f547-616f-4bbb-b5f5-47616f2bbb53">Lehramtsabteilung Winterthur</orgName> beschränkt. Die  <pb n="275"/>Abiturienten der <orgName n="280e878d-d434-422a-8e87-8dd434322a09">kantonalen Handelsschule Zürich</orgName>, die ausgenommen zu werden wünschen, haben sich einer Ergänzungsprüfung zu unterziehen, deren Bedingungen vom <orgName n="ce782eb2-efd9-4285-b82e-b2efd9928502">Erziehungsrate</orgName> festgelegt werden.</p>
+            <p>§ 2. Für die Zulassung zu den Kursen sind außer dem Maturitätszeugnisse folgende Ausweise notwendig:</p>
+            <p>a)	Ausweis über genügende Kenntnisse und Fertigkeiten in Gesang und Musiktheorie, Zeichnen, Turnen und Instrumentalmusik (Klavier oder Violine), sowie über den Besuch eines physikalischen und chemischen Praktikums. Die <orgName n="4525d0ed-28ce-4446-a5d0-ed28ced44614">Erziehungsdirektion</orgName> ist berechtigt, die Zulassung vom Ergebnis einer Prüfung abhängig zu machen.</p>
+            <p>b)	Ärztliches Zeugnis über guten Gesundheitszustand und Ausweis über Impfung.</p>
+            <p>Kandidaten, die bei der Schlußprüfung an der vorbereitenden Schulanstalt im Deutschen, im Französischen, in Geschichte, in den Naturwissenschaften und in Mathematik die Note 4 nicht erreicht haben, werden erst zum Besuche des Kurses zugelassen, wenn sie in den betreffenden Fächern eine Nachprüfung bestanden haben.</p>
+            <p>§ 3. Die Kurse beginnen im Herbst und dauern ein Jahr.</p>
+            <p>§ 4. Lehrgegenstände sind:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>I. </cell>
+                        <cell>Psychologie und Pädagogik: </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>a)	Psychologie; </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>b)	Allgemeine Pädagogik; </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>c)	Geschichte der Pädagogik; </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>d)	Einführung in die Heilpädagogik. </cell>
+                    </row>
+                    <row>
+                        <cell>II. </cell>
+                        <cell>Didaktik, Schulgesundheitspflege und Staatskunde: </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>a)	Allgemeine Didaktik; </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>b)	Spezielle Methodik des Volksschulunterrichtes; </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>c)	Einführung in die Unterrichtspraxis; </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>d)	Schulgesundheitslehre; </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>e)	Staatskunde unter besonderer Berücksichtigung der Schulgesetzeskunde. </cell>
+                    </row>
+                    <row>
+                        <cell>III. </cell>
+                        <cell>Kunstfächer: </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>a)	Gesang und Musiktheorie und Methodik des Gesangunterrichts;  <pb n="276"/>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>b)	Turnen und Methodik des Turnunterrichtes; </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>c)	Zeichnen und Methodik des Zeichenunterrichtes; </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>d)	Instrumentalmusik. </cell>
+                    </row>
+                    <row>
+                        <cell>IV. </cell>
+                        <cell>Religion: </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>a)	Religionskunde (fakultativ); </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>b)	Methodik des Religionsunterrichtes. </cell>
+                    </row>
+                </table>
+            </p>
+            <p>§ 5. Der Unterricht in Psychologie und Pädagogik, Schulgesundheitslehre, Religionskunde und Didaktik wird nach Möglichkeit durch Vorlesungen an der <orgName n="c129be12-b5dc-4585-a9be-12b5dcb585ab">Universität</orgName> vermittelt. Die Einführung in die Schulpraxis erfolgt in der den Kursen angegliederten <orgName n="1256816c-f272-44ff-9681-6cf272f4ff6b" type="deriv">kantonalen</orgName> Übungsschule. Die Ausbildung in Instrumentalmusik geht auf Kosten des Kandidaten.</p>
+            <p>§ 6. Die Einrichtung der Kurse wird durch eine vom <orgName n="c460b0bc-b21a-40c3-a0b0-bcb21a90c3c9">Erziehungsrate</orgName> zu erlassende Studienordnung geregelt. Die Dozenten und Übungsleiter werden vom <orgName n="fe2f1580-8395-4c68-af15-8083958c68e7">Erziehungsrate</orgName> bestimmt. Für die Durchführung der Kurse trifft im übrigen die <orgName n="08b511e6-aff6-445f-b511-e6aff6945f06">Erziehungsdirektion</orgName> in Verbindung mit dem Leiter der methodologischen Übungen die erforderlichen Anordnungen.</p>
+            <p>
+                <title>B. Die Fähigkeitsprüfungen.</title>
+            </p>
+            <p>§ 7. Die Kurse werden mit einer Fähigkeitsprüfung abgeschlossen. Die Prüfung erstreckt sich auf die in § 4 bezeichneten Fachgruppen und Fächer. Umfang und Dauer der Prüfung setzt der <orgName n="997c26e6-1869-4ff5-bc26-e618696ff549">Erziehungsrat</orgName> fest.</p>
+            <p>§ 8. Zur Bezeichnung der Prüfungsergebnisse dienen die ganzen und halben Noten 1 bis 6, wobei 1 die niedrigste, 6 die höchste Note bedeutet.</p>
+            <p>§ 9. Für die Erteilung des Zeugnisses der Wählbarkeit an <placeName n="2be29df7-4431-4667-a29d-f74431766771" type="deriv">zürcherische</placeName> Primarlehrstellen muß sowohl die Gesamtdurchschnittszensur, als auch die Durchschnittszensur der einzelnen Fächergruppen mindestens 4 betragen.</p>
+            <p>Bei Examinanden, die sich der Prüfung in Religionskunde unterziehen, wird diese Fachnote zur Ermittlung der Durchschnittszensur herangezogen. Im übrigen bleibt sie ohne Einfluß auf das Prüfungsresultat.</p>
+            <p>§ 10. Kandidaten, die dieses Resultat nicht erreicht haben, können die Prüfung nach einem Semester wiederholen. Die Nachprüfung wird in denjenigen Fächergruppen erlassen, in denen wenigstens die Durchschnittszensur erreicht wurde.  <pb n="277"/>
+            </p>
+            <p>
+                <title>C. Schlußbestimmung.</title>
+            </p>
+            <p>§ 11. Dieses Reglement tritt auf den 1. April 1934 in Kraft; es ersetzt das Reglement über die Fähigkeitsprüfung zur Patentierung <placeName n="49b43a08-a281-4c4f-b43a-08a281cc4f3d" type="deriv">zürcherischer</placeName> Primarlehrer an der <orgName n="0fd95fd8-4491-41f1-995f-d8449151f1f1">Universität</orgName> vom 26. September 1912 und die Studienordnung vom 21. August 1912.</p>
+            <p>
+                <placeName n="04a894a1-7b53-455e-a894-a17b53455e83">Zürich</placeName>, den 16. Januar 1934.</p>
+            <p>Namens des <orgName n="80dc2cef-d5a2-4b5d-9c2c-efd5a29b5d46">Erziehungsrates</orgName>,</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Der Direktor des <orgName n="c94f778a-5175-4c8c-8f77-8a51753c8c12">Erziehungswesens</orgName>: </cell>
+                        <cell>Der Sekretär: </cell>
+                    </row>
+                    <row>
+                        <cell>Dr. <persName n="67cffd78-0bd9-4187-8ffd-780bd9418795">O. Wettstein</persName>. </cell>
+                        <cell>Dr. <persName n="7257e47b-d6d8-4243-97e4-7bd6d8424357">A. Mantel</persName>. </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Vorstehendem Reglement wird die Genehmigung erteilt.</p>
+            <p>
+                <placeName n="75823b52-7614-4fc5-823b-5276141fc52f">Zürich</placeName>, den 10. März 1934.</p>
+            <p>Vor dem <orgName n="ae1e5d80-dae4-49e4-9e5d-80dae409e4fb">Regierungsrate</orgName>,</p>
+            <p>Der Staatsschreiber: <persName n="c9e6dacd-07f5-4585-a6da-cd07f5a5858f">Paul Keller</persName>.</p>
+        </body>
+    </text>
+</TEI>

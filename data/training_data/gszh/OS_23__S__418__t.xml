@@ -1,0 +1,59 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zusatz zur Verordnung betreffend das Schlachten von Vieh und den Verkauf des Fleisches vom 17. Juni 1882.</title>
+                <respStmt>
+                    <resp ref="#jsn" key="transcript">Transkript: jsn<date when="2015-12-08">08.12.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Zusatz zur Verordnung betreffend das Schlachten von Vieh und den Verkauf des Fleisches vom 17. Juni 1882.</title>
+                    <date when="1894-08-23">23.08.1894</date>
+                    <ident>StAZH OS 23 (S. 418)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_23__S__418__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3471803"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="418"/>
+            </p>
+            <p>Die Verordnung betreffend das Schlachten von Vieh und den Verkauf des Fleisches vom 17. Juni 1882 erhält folgenden Zusatz:</p>
+            <p>§ 1. Nach Maassgabe der Verordnung betreffend das Schlachten von Vieh und den Verkauf des Fleisches vom 17. Juni 1882 wird das zum öffentlichen Verkauf bestimmte Fleisch von Kaninchen der polizeilichen Kontrole unterstellt.</p>
+            <p>§ 2. Die Fleischschau erfolgt gemäss § 7 der Verordnung vom 17. Juni 1882 an den geschlachteten Thieren.</p>
+            <p>§ 3. Die Fleischschauer beziehen für die Untersuchung:</p>
+            <p>von 1–3 Stücken 30 Rp.,</p>
+            <p>für 4–20 Stücke je 10 Rp. per Stück,</p>
+            <p>für jedes weitere Stück 5 Rp.,</p>
+            <p>vorausgesetzt, dass die Thiere dem gleichen Metzger angehören.</p>
+            <p>Für Besichtigung und Eintragung jeder besondern Lieferung von Kaninchenfleisch aus andern Gemeinden bis zum Maximalgewicht von 100 Kilo, sowie für Ausstellung eines Fleischschauzeugnisses, Stempel inbegriffen, gelten die in § 20 der Verordnung vom 17. Juni 1882 vorgesehenen Taxen.</p>
+            <p>§ 4. Die Lokalitäten, in welchen dieses Gewerbe betrieben wird, unterliegen den Bestimmungen des § 2 des Gesetzes betreffend das Metzg- und Wurstereigewerbe vom 27. Februar 1866.</p>
+            <p>
+                <placeName n="ad03387d-6437-45e1-8338-7d643725e166">Zürich</placeName>, den 23. August 1894.</p>
+            <p>Vor dem <orgName n="2c83858e-c399-4263-8385-8ec3999263d6">Regierungsrathe</orgName>,</p>
+            <p>Der Staatsschreiber:</p>
+            <p>
+                <persName n="e4040eb8-e38a-4563-840e-b8e38a0563ff">Stüssi</persName>.</p>
+        </body>
+    </text>
+</TEI>

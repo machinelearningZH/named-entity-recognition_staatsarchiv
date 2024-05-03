@@ -1,0 +1,45 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschluß des Kantonsrates über Kreditbewilligung für die Verbauung des Albisgütlibaches in Zürich-Wiedikon (Anträge des Regierungsrates vom 31. März 1942 und der Staatsrechnungsprüfungskommission vom 10. April 1942) [Traktandum 3].</title>
+                <respStmt>
+                    <resp ref="#OCR/der" key="transcript">Transkript: OCR/der<date when="2011-10-19">19.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Beschluß des Kantonsrates über Kreditbewilligung für die Verbauung des Albisgütlibaches in Zürich-Wiedikon (Anträge des Regierungsrates vom 31. März 1942 und der Staatsrechnungsprüfungskommission vom 10. April 1942) [Traktandum 3].</title>
+                    <date when="1942-04-20">20.04.1942</date>
+                    <ident>StAZH MM 24.60 KRP 1942/078/0727</ident>
+                    <idno>1587–1588</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_60_KRP_1942_078_0727_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3684526"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="1587"/>Dr. <persName n="52e357b7-e4a7-4d33-a357-b7e4a7ed3332">Hauser</persName> - <placeName n="8a17f972-72bc-4340-97f9-7272bce3409f">Winterthur</placeName> referiert namens der Kommission. Mangels einer genügenden Entwässerung haben sich  <pb n="1588"/>im Gebiet des <placeName n="a26406b4-5194-4230-a406-b4519402306c">Albisgütlibaches</placeName> größere Rutschungen ereignet. Eine Verbauung ist notwendig. Der <orgName n="31ffbb9f-4dd4-4bbf-bfbb-9f4dd46bbf84">Bund</orgName> leistet 24%, die Stadt <placeName n="0076d12b-c9b0-4555-b6d1-2bc9b04555a9">Zürich</placeName> 12% an die Kosten. Der Referent empfiehlt Zustimmung.</p>
+            <p>Der Rat stimmt diskussionslos zu und beschließt gemäß Antrag des <orgName n="4cf29431-c2dc-425a-b294-31c2dca25a56">Regierungsrates</orgName> und der Kommission:</p>
+            <p>I. Für die Verbauung des <placeName n="302012df-d282-4b93-a012-dfd2821b9306">Albisgütlibaches</placeName> in der Stadtgemeinde <placeName n="d11b779b-fc07-46a4-9b77-9bfc0796a423">Zürich</placeName>, umfassend den rund 200 m langen Abschnitt von der Mündung in die <placeName n="53cdd5d0-6122-4760-8dd5-d06122376058">Sihl</placeName> aufwärts bis zum <placeName n="82bdab86-0417-4d38-bdab-8604174d385f">Gänzilooweg</placeName> in <placeName n="ca49aefe-4a8a-4205-89ae-fe4a8ac2059b">Zürich-Wiedikon</placeName>, wird in Anwendung von § 5 des Wasserbaugesetzes auf Rechnung des Titels XI D 61 (Gewässerkorrektionen) ein Kredit von Fr. 80 000.– bewilligt.</p>
+            <p>II. Mitteilung an den <orgName n="a55dc656-60bb-4bbe-9dc6-5660bb6bbe9e">Regierungsrat</orgName> zum Vollzug.</p>
+        </body>
+    </text>
+</tei:TEI>

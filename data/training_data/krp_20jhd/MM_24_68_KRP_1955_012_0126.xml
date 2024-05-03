@@ -1,0 +1,50 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Interpellation Josef Stößer - Oberrieden vom 12. September 1955 über die Erstellung von Pavillon-Schulhausbauten (Traktandum 6).</title>
+                <respStmt>
+                    <resp ref="#OCR/skn" key="transcript">Transkript: OCR/skn<date when="2011-10-27">27.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Interpellation Josef Stößer - Oberrieden vom 12. September 1955 über die Erstellung von Pavillon-Schulhausbauten (Traktandum 6).</title>
+                    <date when="1955-10-24">24.10.1955</date>
+                    <ident>StAZH MM 24.68 KRP 1955/012/0126</ident>
+                    <idno>287–289</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_68_KRP_1955_012_0126_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3658483"/>
+                    <listRelation>
+                        <relation name="Fortsetzung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3658483" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3658501"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="287"/>Die Interpellation lautet wie folgt:</p>
+            <p>«Seit einiger Zeit besteht im Kanton <placeName n="76101d07-3c5f-45d6-901d-073c5ff5d656">Zürich</placeName> die Tendenz, auch auf der Landschaft an Stelle von mehrgeschossigen Schulhäusern pavillonförmig angeordnete Bauten zu erstellen. Es ist schon wiederholt vorgekommen, daß Schulhäuser bald nach ihrer Fertigstellung Mangel an Schulraum aufwiesen. Ist der <orgName n="2c191cad-bbb9-48bb-991c-adbbb9a8bb27">Regierungsrat</orgName> bereit, 1. die Baukosten pro Schulhaus nach den verschiedenen Bauweisen für ausgeführte Bauten im Kantonsgebiet sowie in angrenzenden Kantonen bekanntzugeben? 2. darauf zu dringen, daß die Planung von Schulhausbauten so gründlich erfolgt, daß nicht schon kurz nach der Bauvollendung Raummangel besteht? 3. bei der Bewilligung von Staatsbeiträgen dahin zu wirken, daß wohl zweckmäßige und gediegene, aber trotzdem einfache Schulhäuser erstellt werden, bei denen die Wirtschaftlichkeit genügend berücksichtigt ist?»</p>
+            <p><persName n="7733fbc3-d409-42f4-b3fb-c3d40922f417">Stößer</persName> - <placeName n="e4ed2f62-8033-49d3-ad2f-628033f9d3ea">Oberrieden</placeName> verbreitet sich in der Begründung über die beim Schulhausbau vollzogene Wandlung. Es wird in zunehmendem Maße – selbst auf dem Lande – zum Pavillon-Bausystem übergegangen. Dabei ergibt sich nur noch eine Ausnützung von 40% des Rauminhaltes für Klassenzimmer, während bei mehrgeschossigen Bauten die Ausnützung bedeutend größer ist. In den letzten zehn Jahren wurden im Kanton <placeName n="1a1050c5-8a10-42e3-9050-c58a10d2e318">Zürich</placeName> 76 neue Schulhäuser erstellt, die einen Kostenaufwand von rund 200 Millionen Franken erforderten. Dabei wurden  <pb n="288"/>828 neue Klassenzimmer geschaffen. Die Bauaufwendungen für den Schulhausbau belaufen sich jährlich auf 20 bis 25 Millionen Franken. Der <orgName n="03fab915-ed80-4b69-bab9-15ed805b693d">Kanton</orgName> leistete im Jahre 1954 Beiträge an Schulhausbauten in der Höhe von 6,7 Millionen Franken. Nach dem Geschäftsbericht des Regierungsrates wurden im Jahre 1954 21 Schulhausbauprojekte geprüft. Für die nächsten Jahre wird die Zahl der Bauvorhaben noch größer sein. Es erweist sich dabei als unbedingt notwendig, auch der Wirtschaftlichkeit des Schulhausbaues größere Aufmerksamkeit zu schenken.</p>
+            <p>Während beim Schulhausbau eine deutliche Entwicklung von der hohen zur niedrigen Bauweise festzustellen ist, zeigt sich beim Wohnungsbau die umgekehrte Tendenz. Die Zahl der Einfamilienhäuser, welche im Jahre 1947 noch 37,3% aller Wohnbauten ausmachte, ist bis zum Jahre 1954 auf 12,1% gesunken. Baufachleute vertreten die Auffassung, daß nur noch drei- und mehrgeschossige Wohnhausbauten eine Rendite abwerfen. Es ist sicher nicht anzunehmen, daß die Wirtschaftlichkeit beim Schulhausbau in der entgegengesetzten Richtung verläuft. Der <orgName n="e9913537-e454-499a-9135-37e454199acf">Regierungsrat</orgName> möchte deshalb dem <orgName n="f6885eb9-91b6-4d9c-885e-b991b65d9c57">Kantonsrat</orgName> über die verschiedenen Schulhausbautypen und über die Ausnützung entsprechende Unterlagen unterbreiten. Es ist sicher nicht stichhaltig, wenn in einem Falle zur Rechtfertigung eines Pavillon-Schulhauses erklärt wurde, das Treppensteigen ermüde die Kinder zu stark. Sind schon die Baukosten bei Pavillonbauten mindestens 15% höher als bei mehrgeschossigen Schulhäusern, so beanspruchen auch die Reinigungs- und Heizungskosten Mehraufwendungen. Wenn schon unserer Landwirtschaft in jeder Minute 3m<hi rend="sup">2</hi> Land für andere Zwecke entzogen werden, sollten Gemeinden und <orgName n="3ef196b4-069e-4382-b196-b4069e23826d">Kanton</orgName> dem Land mehr Sorge tragen. Der heutige Platzbedarf für ein Schulhaus ist entschieden zu groß. Nachdem die Zahl der neuerstellten Wohnungen auf der Zürcher Landschaft von 1402 im Jahre 1950 auf 3501 im Jähre 1954 gestiegen ist, während in der Stadt <placeName n="01ff8108-a8b0-4d18-bf81-08a8b00d18b8">Zürich</placeName> in der gleichen Zeitspanne nur eine Verschiebung von 3460 auf 3809 neuerstellte Wohnungen stattfand, ist anzunehmen, daß der Schulhausbau auf dem Lande in den nächsten Jahren noch bedeutend an Umfang zunehmen wird.</p>
+            <p>Es muß darauf gesehen werden, daß die Schulhausbauten genügend groß dimensioniert werden, damit nicht nach kurzer Zeit erneut Mangel an Schulraum entsteht. Der Redner zitiert verschiedene Beispiele aus Gemeinden, welche bereits bekannte Wohnbauvorhaben beim Neubau von Schulhäusern nicht be-  <pb n="289"/>rücksichtigten, wodurch Schulhäuser oft schon vor der Fertigstellung wieder zu klein wurden. Architektonisch ergeben sich widersprechende Bilder, wenn Schulhausbauten im Pavillonsystem erstellt werden und darum herum bedeutend höhere Wohnhausbauten entstehen. Es sollen keine zu teure Bauten bewilligt oder den Gemeinden gar aufgezwungen werden. Was notwendig ist, ist eine weitsichtige Projektierung und eine gediegene, zweckmäßige Bauweise.</p>
+            <p>Erziehungsdirektor Dr. <persName n="8cbe9a94-e280-49d6-be9a-94e28069d6b6">Vaterlaus</persName> stellt die Antwort des <orgName n="4dfacf27-340d-47df-bacf-27340dc7df4c">Regierungsrates</orgName> auf eine nächste Sitzung in Aussicht.</p>
+        </body>
+    </text>
+</tei:TEI>

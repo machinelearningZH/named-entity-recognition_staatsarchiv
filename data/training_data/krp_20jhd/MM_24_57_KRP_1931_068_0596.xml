@@ -1,0 +1,45 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Eintritt eines neuen Ratsmitgliedes an Stelle des verstorbenen Jakob Wettstein (Traktandum 2).</title>
+                <respStmt>
+                    <resp ref="#OCR/mls" key="transcript">Transkript: OCR/mls<date when="2011-11-17">17.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Eintritt eines neuen Ratsmitgliedes an Stelle des verstorbenen Jakob Wettstein (Traktandum 2).</title>
+                    <date when="1931-10-05">05.10.1931</date>
+                    <ident>StAZH MM 24.57 KRP 1931/068/0596</ident>
+                    <idno>1008</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_57_KRP_1931_068_0596_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3650528"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="1008"/>Der <orgName n="96be8eee-b5e3-4a02-be8e-eeb5e30a02c3">Regierungsrat</orgName> teilt mit Schreiben vom <date>1. Oktober 1931</date> mit, daß im X. Kantonsratswahlkreis (<placeName n="825886ca-4372-4120-9886-ca4372112090">Hinwil</placeName>) an Stelle des verstorbenen Mitgliedes des <orgName n="353359ce-d113-4ec0-b359-ced1134ec0d3">Kantonsrates</orgName> <persName n="81c9e791-96d7-45cd-89e7-9196d765cdbd">Jakob Wettstein</persName> als gewählt erklärt worden ist:</p>
+            <p>
+                <persName n="79a0a37b-3fe3-42fe-a0a3-7b3fe3f2febc">Jean Peter</persName>, Friedensrichter, in <placeName n="3b591d72-7b68-4b67-991d-727b68ab6776">Fischenthal</placeName>.</p>
+            <p>Der Gewählte tritt in den Rat ein und leistet das Amtsgelübde.</p>
+        </body>
+    </text>
+</tei:TEI>

@@ -1,0 +1,58 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Ulrich] Schwarz v. Hettlingen. Wahl dess. z. Sekretär d. Dir. d. Sanitäts- u. Gefängnißwesens.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#rlt">Transkript: rlt<date when="2013-11-22">22.11.2013</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2013</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>[Ulrich] Schwarz v. Hettlingen. Wahl dess. z. Sekretär d. Dir. d. Sanitäts- u. Gefängnißwesens.</title>
+                    <date when="1871-07-31">31.07.1871</date>
+                    <ident>StAZH MM 2.193 RRB 1871/1649</ident>
+                    <idno>331</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_151_MM_2_200/MM_2_193/MM_2_193_RRB_1871_1649_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3311958"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="331"/>
+            </p>
+            <p>Der <orgName n="ba493140-b70f-4bcd-8931-40b70f5bcdf0">Regierungsrath</orgName> hat,</p>
+            <p/>
+            <p>in Vollziehung des Gesetzes betr. die Organisation des <orgName n="4365cbfa-1db7-4318-a5cb-fa1db72318d0">Regierungsrathes</orgName> vom 25. Juni 1871,</p>
+            <p>nach Einsicht eines Vorschlages der <orgName n="1404afba-3fd9-4e53-84af-ba3fd94e53e1">Direktion des Sanitäts- u. Gefängnißwesens</orgName> an die Stelle des Sekretärs dieser Direktion provisorisch</p>
+            <p/>
+            <p>gewählt:</p>
+            <p/>
+            <p>Herrn <persName n="5502f64d-21e6-4b3e-82f6-4d21e69b3e24">Ulrich Schwarz</persName> von <placeName n="4e4335f3-75f1-413e-8335-f375f1713ef3">Hettlingen</placeName>, Sekretär der <orgName n="4d9592a6-629e-48cf-9592-a6629e98cfc9">Spitalpflege</orgName>,</p>
+            <p/>
+            <p>und beschlossen:</p>
+            <p/>
+            <p>Sie hievon den Direktionen des <orgName n="d116651d-8fb7-4473-9665-1d8fb7d47330">Sanitäts- u. Gefängnißwesens</orgName> u. der Finanzen Kenntniß zu geben u. dem Gewählten Urkunde auszustellen.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

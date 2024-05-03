@@ -1,0 +1,54 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Motion Nr. 1786 betreffend die obligatorische Einführung des Handarbeits- und Hauswirtschaftunterrichts für Mädchen und Knaben (Fristerstreckung)</title>
+                <respStmt>
+                    <resp ref="#OCR/lhr" key="transcript">Transkript: OCR/lhr<date when="2011-10-07">07.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Motion Nr. 1786 betreffend die obligatorische Einführung des Handarbeits- und Hauswirtschaftunterrichts für Mädchen und Knaben (Fristerstreckung)</title>
+                    <date when="1981-01-26">26.01.1981</date>
+                    <ident>StAZH MM 24.104 KRP 1981/096/0004</ident>
+                    <idno>5565–5567</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_104_KRP_1981_096_0004_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3728154"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="5565"/>Mit Datum vom 19. November 1980 hat der <orgName n="36829f6b-9077-4207-829f-6b90771207c8">Regierungsrat</orgName> dem <orgName n="8f19d606-3662-408d-99d6-063662508d90">Kantonsrat</orgName> folgendes Fristerstreckungsgesuch eingereicht: Der <orgName n="4c097adb-0703-4d21-897a-db0703fd21fe">Kantonsrat</orgName> hat dem <orgName n="4101d860-b63d-4434-81d8-60b63d7434e0">Regierungsrat</orgName> am 13. Februar 1978 die von Kantonsrat <persName n="c3ad7bb8-b74a-4277-ad7b-b8b74ae277b0">Fritz Höner</persName>, <placeName n="a1e4b912-5a78-4e9f-a4b9-125a78de9fcf">Winterthur</placeName>, eingereichte Motion Nr. 1786 überwiesen. In dieser Motion wird der <orgName n="be080b37-4456-4a5f-880b-374456ba5fec">Regierungsrat</orgName> beauftragt, die obligatorische Einführung des Handarbeits- und Hauswirtschaftsunterrichts für Mädchen und Knaben verteilt auf die neun Jahre der <orgName n="3ad6a15d-bd59-4379-96a1-5dbd59f37907">Volksschule</orgName> sowie die schrittweise Aufhebung der obligatorischen <orgName n="902273bc-fcaf-4d1e-a273-bcfcaf7d1e00">Hauswirtschaftlichen Fortbildungsschule</orgName> für Töchter zu prüfen und dem <orgName n="5f670e01-93d9-4aea-a70e-0193d91aeae0">Kantonsrat</orgName> Bericht zu erstatten.</p>
+            <p>Die Forderung nach Gleichstellung von Mädchen und Knaben – insbesondere in Handarbeit und Haushaltkunde – wird vom <orgName n="14a447d6-c760-46ba-a447-d6c760b6bad2">Regierungsrat</orgName> und vom <orgName n="5177514e-e06a-42a3-b751-4ee06ac2a3b5">Erziehungsrat</orgName> als berechtigt anerkannt. Die Realisierung dieses Anliegens bereitet jedoch erhebliche Schwierigkeiten. Bei einer  <pb n="5566"/>blossen Übertragung der heutigen Mehrstunden von Mädchen und Knaben in einzelnen Fächern auf das andere Geschlecht würde sich eine unzumutbare Gesamtbelastung ergeben. Eine generelle Überprüfung der Stundentafeln ist deshalb nicht zu umgehen. Zusätzlich stellen sich auch die Fragen eines allfälligen Einbezugs der Mittelschulen, des Mehrbedarfs an Lehrkräften und der Mehrkosten. Eine Arbeitsgruppe arbeitet entsprechende Konzepte aus. Die notwendigen Abklärungen im Zusammenhang mit diesem Geschäft sind so umfangreich, dass es nicht möglich war, innerhalb von drei Jahren alle notwendigen Unterlagen bereitzustellen.</p>
+            <p>Der übrige vom Motionär aufgeworfene Problemkreis wird im Zusammenhang mit der Revision des Gesetzes über die <orgName n="20b2dbc5-48ae-4e4b-b2db-c548ae7e4b3a">Hauswirtschaftliche Fortbildungsschule</orgName> vom 5. Juli 1931 seit längerer Zeit grundsätzlich geprüft. Nach Abschluss der ersten Vorarbeiten beauftragte der <orgName n="2d7ae621-4348-405e-bae6-214348305e25">Erziehungsrat</orgName> im Oktober 1976 eine Arbeitsgruppe mit der Erarbeitung von Rahmenzielen für den Unterricht an der <orgName n="5eaae1ca-de91-4423-aae1-cade9104232a">Hauswirtschaftlichen Fortbildungsschule</orgName>, welche als Grundlage für den neuen Gesetzesentwurf dienten. Anfangs November 1977 legte die Arbeitsgruppe dem <orgName n="92926b49-f98d-4bb4-926b-49f98ddbb454">Erziehungsrat</orgName> ihren Bericht vor. Der <orgName n="3d3cdd4b-abf9-4d6b-bcdd-4babf96d6bc9">Erziehungsrat</orgName> erachtete es als zweckmässig, vorangehend zum eigentlichen Gesetzgebungsverfahren informativ die Stellungnahmen der interessierten Kreise zu den Leitideen und Schlussfolgerungen des Berichts sowie zu der Organisationsform einzuholen.</p>
+            <p>Anfangs Januar 1979 – nach erfolgter Auswertung der Stellungnahmen präzisierte der <orgName n="48e09e52-7077-408d-a09e-527077308d19">Erziehungsrat</orgName> seinen Auftrag zur Erarbeitung des Gesetzesentwurfs. Ende Oktober 1980 nahm der <orgName n="84c0c445-fad7-43f9-80c4-45fad753f9d8">Erziehungsrat</orgName> vom ausgearbeiteten Gesetzesentwurf Kenntnis und beauftragte die Abteilung Handarbeit und Hauswirtschaft, eine Vorlage für das Begutachtungsverfahren auszuarbeiten. Dieses Vorgehen ist in Anbetracht der komplexen Probleme angezeigt und zweckmässig. Die Frist für den Motionsbericht, die am 13. Februar 1981 abläuft, kann dann allerdings nicht eingehalten werden.</p>
+            <p>Der <orgName n="f2fe7035-74ed-42cd-be70-3574edd2cdf4">Kantonsrat</orgName> wird ersucht, die Frist gestützt auf § 15 des Gesetzes über die Organisation und die Geschäftsordnung des <orgName n="3cdf5334-24e1-4245-9f53-3424e1424524">Kantonsrates</orgName> um ein Jahr zu erstrecken.</p>
+            <p>
+                <persName n="80436215-7707-4ba3-8362-1577074ba350">E. Wagner</persName> (<orgName n="54f05323-ecde-4e76-b053-23ecde9e765b">FDP</orgName>, <placeName n="f56e8e4f-1d4f-4154-ae8e-4f1d4f51546f">Zollikon</placeName>), Referentin der <orgName n="47be3bdb-4627-443e-be3b-db4627343e25">Geschäftsprüfungskommission</orgName>, welche das Fristerstreckungsgesuch vorberaten hat: Mit Eingabe vom 19. November 1980 ersucht der <orgName n="d4157391-af3d-4b80-9573-91af3d2b808b">Regierungsrat</orgName> um Erstreckung der am 13. Februar 1980 ablaufenden Frist für die Beantwortung der Motion <persName n="36ac6c33-edbd-441a-ac6c-33edbd541a36">Höner</persName>, welche die Gleichstellung von Knaben und Mädchen im Handarbeits- und Hauswirtschaftsunterricht sowie die  <pb n="5567"/>schrittweise Aufhebung der obligatorischen <orgName n="c5f8b092-f9e1-43c8-b8b0-92f9e193c843">Hauswirtschaftlichen Fortbildungsschule</orgName> für Töchter verlangt.</p>
+            <p>Die Realisierung des ersten Teiles der Motion, nämlich die Gleichbehandlung von Knaben und Mädchen in Handarbeit und Haushaltkunde, bietet erhebliche Schwierigkeiten und hat sich als sehr umfangreich erwiesen, können doch die heutigen Mehrstunden von Mädchen und Knaben nicht einfach auch auf das andere Geschlecht übertragen werden, ohne die Schüler unzumutbar zu belasten. Eine Überprüfung der gesamten Stundentafel war daher unumgänglich. In diesem Zusammenhang ist aber auch der Einbezug der Mittelschulen zu prüfen. Es gilt, den Mehrbedarf an Lehrkräften und die anfallenden Mehrkosten zu schätzen. Das alles konnte in der zur Verfügung stehenden Zeit nicht genügend abgeklärt werden.</p>
+            <p>Der zweite Teil der Motion betrifft die obligatorische <orgName n="31eed212-bce3-45ee-aed2-12bce315eef9">Hauswirtschaftliche Fortbildungsschule</orgName>, welche im Gesetz aus dem Jahre 1931 geregelt ist. Schon seit längerer Zeit wird an einer Revision dieses Gesetzes gearbeitet. Der <orgName n="8aaefbfc-3d33-406d-aefb-fc3d33006d1f">Erziehungsrat</orgName> hat den Entwurf zu einem neuen Gesetz bereits zur Kenntnis genommen. Jetzt muss nur noch das Begutachtungsverfahren durch die Lehrerschaft durchgeführt werden. Die Arbeiten an diesem neuen Gesetz stehen somit in der Endphase, können aber noch nicht abgeschlossen werden.</p>
+            <p>Die <orgName n="19c28bc6-3aeb-4d7e-828b-c63aeb4d7ef1">GPK</orgName> hat das Gesuch geprüft und beantragt Ihnen, die Frist zur Beantwortung der Motion um ein Jahr zu erstrecken.</p>
+            <p>Abstimmung</p>
+            <p>Der Rat beschliesst mit 84:0 Stimmen, der Fristerstreckung zuzustimmen.</p>
+            <p>Das Geschäft ist erledigt.</p>
+        </body>
+    </text>
+</tei:TEI>

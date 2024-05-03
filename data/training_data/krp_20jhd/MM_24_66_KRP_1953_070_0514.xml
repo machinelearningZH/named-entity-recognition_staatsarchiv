@@ -1,0 +1,55 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Interpellation Dr. Willy Brupbacher - Küsnacht vom 1. Dezember 1952 über Abkommen im Straßentransportwesen (Traktandum 6).</title>
+                <respStmt>
+                    <resp ref="#OCR/dmr" key="transcript">Transkript: OCR/dmr<date when="2011-10-26">26.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Interpellation Dr. Willy Brupbacher - Küsnacht vom 1. Dezember 1952 über Abkommen im Straßentransportwesen (Traktandum 6).</title>
+                    <date when="1953-01-05">05.01.1953</date>
+                    <ident>StAZH MM 24.66 KRP 1953/070/0514</ident>
+                    <idno>1365–1367</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_66_KRP_1953_070_0514_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3660780"/>
+                    <listRelation>
+                        <relation name="Fortsetzung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3660780" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3660817"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="1365"/>Die Interpellation hat nachstehenden Wortlaut:</p>
+            <p>«Nachdem die Verlängerung der Autotransportordnung (ATO) vom Volke verworfen worden ist, werden Abkommen über das <orgName n="7e4f37f4-431d-4f5a-8f37-f4431d3f5ab3">Straßentransportwesen</orgName> angestrebt, die leider auf Sanktionen durch öffentlichen Zwang beruhen. Solche Vereinbarungen sind zu begrüßen, wenn sie wirklich freiwillig und nicht mit behördlichem Zwang zustande kommen. Im Güterfernverkehr werden z. B. Firmen, welche sich nicht zur Einhaltung festgesetzter Tarife und zur Beschränkung ihres Wagenparkes verpflichten, von jeglichen Transporten vom und zum <placeName n="83c63fbd-e092-46c5-863f-bde09216c584">Basler Rheinhafen</placeName> ausgeschlossen. Im geplanten Abkommen über den Güter-Nahverkehr sollen <orgName n="8924d544-51d6-46c4-a4d5-4451d666c4b6">Bund</orgName>, Kantone und Gemeinden, sowie andere öffentliche Körperschaften grundsätzlich keine Außenseiter mehr berücksichtigen dürfen.</p>
+            <p>1. Ist der <orgName n="34cd451c-2aa6-41bb-8d45-1c2aa601bba3">Regierungsrat</orgName> nicht der Auffassung, daß durch eine solche Ordnung</p>
+            <p>a) der Volksentscheid umgangen wird, der die staatliche Zwangsregelung der ATO ablehnte,</p>
+            <p>b) unter Einführung von Monopolen zweierlei Recht geschaffen wird, indem gewisse Firmen bevorzugt und andere auf die Schwarze Liste gesetzt werden?</p>
+            <p>2. Zieht der <orgName n="ed74e983-43fa-4b31-b4e9-8343fa1b3102">Regierungsrat</orgName> nicht vor, die Ordnung des <orgName n="e548f1ba-d08c-4572-88f1-bad08c4572f4">Transportwesens</orgName> dadurch zu fördern, daß die Öffent-  <pb n="1366"/>liche Hand ihre Aufträge zu wirtschaftlich gerechtfertigten Bedingungen an möglichst breite, sozial aufgeschlossene Transportunternehmerkreise freihändig vergibt?</p>
+            <p>3. Ist der <orgName n="5bb96e16-a073-4d90-b96e-16a0737d9098">Regierungsrat</orgName> in Nachachtung des Volksentscheides bereit, auf den Beitritt zu Zwangs- und Kontingentsabkommen zu verzichten und dahin zu wirken, daß auch die Gemeinden des Kantons <placeName n="6831dbba-a65a-4775-b1db-baa65a777521">Zürich</placeName> von einem Beitritt absehen?»</p>
+            <p>Dr. <persName n="e1eb25c0-7862-4e45-ab25-c07862ee458d">Brupbacher</persName> - <placeName n="6e009287-9058-492b-8092-879058992bd9">Küsnacht</placeName> schildert zunächst die Entwicklung des <orgName n="6857ce22-7e18-4d8b-97ce-227e184d8be3">Straßentransportwesens</orgName> der letzten 20 Jahre. Der 1938 geschaffene dringliche Bundesbeschluß über die ATO setzte Minimaltarife fest. Voraussetzung für die Erteilung einer Bewilligung war das Vorhandensein eines Bedürfnisses, wobei die Verbände zur Vernehmlassung eingeladen wurden. Der <orgName n="6eafc7c8-774c-46ac-afc7-c8774c16ac68">Landesring</orgName> hat dann gegen die Verlängerung der sich lediglich auf das Postregal stützenden ATO das Referendum ergriffen. Die verfassungsmäßige Grundlage war sehr fraglich. In der Folge kam es dann zur Verwerfung der ATO in der Volksabstimmung.</p>
+            <p>Der Interpellant befaßt sich mit dem im Mai 1952 getroffenen Abkommen der <orgName n="0063bda0-3fbe-4177-a3bd-a03fbed177a8">SBB</orgName> und der Autoverkehrs-Organisationen über den Güter-Fernverkehr, insbesondere in bezug auf die Transporte ab dem <placeName n="9f25b580-5b4b-4e7d-a5b5-805b4b7e7da4">Basler Rheinhafen</placeName>. Die nicht beigetretenen Firmen müssen Erschwerungen, speziell bei Transporten aus dem <placeName n="3fae93af-5154-4138-ae93-af5154a138a7">Rheinhafen</placeName>, in Kauf nehmen. Nun soll auch ein Abkommen über den Güter-Nahverkehr abgeschlossen werden, bei dem ein noch viel krasserer Zwang vorgesehen ist. Es ist dabei sogar der Werkverkehr berührt. Die Zahl der hier betroffenen Firmen ist viel größer als beim Fernverkehr. Es ist ein Bundesbeschluß vorgesehen, der sogar eine Einschränkung des Werkverkehrs der eigenen Betriebe bedingen würde. Im weiteren sollen Schritte unternommen werden, wonach der <orgName n="e933717e-d93f-49f4-b371-7ed93f49f452">Bund</orgName> die Kantone und Gemeinden veranlaßt, bei ihren Vergebungen nur Firmen zu berücksichtigen, die sich den Bedingungen im Pflichtenheft unterziehen. Es handelt sich hier um Auflagen und Vorschriften, wie sie die verworfene ATO enthalten hat.</p>
+            <p>Die Ausübung eines solchen Zwanges durch die Öffentliche Hand ist abzulehnen. Die Vergebungen von Transporten sollen in eigener Verantwortung erfolgen können. <orgName n="4ae311e0-9411-4f1d-a311-e09411bf1d9a">Kanton</orgName> und  <pb n="1367"/>Gemeinden haben mit ihren Steuergeldern haushälterisch umzugehen. Die Schaffung eines Monopols für gewisse Transportunternehmen ist abzulehnen. Es gibt andere Lösungen, z. B. freiwillige Vereinbarungen. Der Sprechende würde auch lieber ein neues Bundesgesetz unter Wahrung der Handels- und Gewerbefreiheit sehen, als eine solche Zwangsregelung. Die freie Initiative darf nicht unterdrückt werden. Der Zwang seitens des <orgName n="0f8e57bb-8ebb-4adc-8e57-bb8ebb4adc5c">Bundesrates</orgName> und der <orgName n="3e716c21-787d-4d39-b16c-21787d9d3966">SBB</orgName> ist abzulehnen. Von einer Notlage im Transportgewerbe kann keinesfalls gesprochen werden. Der Bestand an Lieferungs- und Lastwagen hat sich seit der Verwerfung der ATO weiterhin vermehrt. Auch die Tarife sind nicht zurückgegangen.</p>
+            <p>Baudirektor Dr. <persName n="1a8b500e-1780-4f0b-8b50-0e17809f0bd7">Meierhans</persName> stellt die Antwort des <orgName n="d19fa797-8c08-4be2-9fa7-978c082be297">Regierungsrates</orgName> auf eine nächste Sitzung in Aussicht.</p>
+        </body>
+    </text>
+</tei:TEI>

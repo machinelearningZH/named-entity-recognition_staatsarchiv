@@ -1,0 +1,46 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vereinigung der Schulgemeinden Wila, Thalgarten und Manzenhub sowie der Schulgemeinden Horgen, Käpfnach, Horgenberg und Arn. Anträge des Regierungsrates vom 22. Dezember 1904.</title>
+                <respStmt>
+                    <resp ref="#OCR/lsz" key="transcript">Transkript: OCR/lsz<date when="2011-11-16">16.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Vereinigung der Schulgemeinden Wila, Thalgarten und Manzenhub sowie der Schulgemeinden Horgen, Käpfnach, Horgenberg und Arn. Anträge des Regierungsrates vom 22. Dezember 1904.</title>
+                    <date when="1904-12-27">27.12.1904</date>
+                    <ident>StAZH MM 24.46 KRP 1904/085/0493</ident>
+                    <idno>1389</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_46_KRP_1904_085_0493_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3622114"/>
+                    <listRelation>
+                        <relation name="Fortsetzung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3622114" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3622167"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="1389"/>Die vom <orgName n="699cefb2-71b3-42c4-9cef-b271b3e2c4fd">Regierungsrate</orgName> unterm <date>22. Dezember 1904</date> eingereichten Anträge betreffend die Vereinigung der Schulgemeinden <placeName n="67c7a9bd-5c53-4f5b-87a9-bd5c53bf5b82">Wila</placeName>, <placeName n="7d95cf65-4b5c-434c-95cf-654b5c334c55">Thalgarten</placeName> und <placeName n="c576fc0e-1c08-4f9b-b6fc-0e1c087f9b6c">Manzenhub</placeName> (Amtsblatt 1904, Textteil, Seite 799–812) und der Schulgemeinden <placeName n="f7fd3e14-e008-4c72-bd3e-14e008ac72a3">Horgen</placeName>, <placeName n="6e9caed1-dc44-444f-9cae-d1dc44944f8c">Käpfnach</placeName>, <placeName n="ce43139e-dc94-4260-8313-9edc948260c0">Horgenberg</placeName> und <placeName n="a2283683-7e8c-475c-a836-837e8c575cc9">Arn</placeName> (Amtsblatt 1905, Textteil, Seite 000–000 [sic!]) werden gemäß Antrag des Vorsitzenden an eine Kommission von sieben Mitgliedern zum Bericht und Antrag gewiesen. Der Rat ist entsprechend einer Anregung des Herrn Regierungsrat Dr. <persName n="36ef16a5-419e-4478-af16-a5419ed478b1">Locher</persName> einverstanden, daß die weitern in Aussicht gestellten ähnlichen Anträge durch den <orgName n="ce5e48af-5eaf-4043-9e48-af5eaf0043c1">Regierungsrat</orgName> direkt an die Kommission geleitet werden.</p>
+            <p>Das <orgName n="3a7ccd3a-6271-4eed-bccd-3a62713eedfd">Bureau des Kantonsrates</orgName> hat die Kommission in seiner Sitzung vom <date>30. Dezember 1904</date> aus folgenden Mitgliedern bestellt: Usteri-Pestalozzi-Zürich, Präsident, Wegmann-Zürich, Bretscher-Winterthur, Ottiker-Bauma, Bader-Affoltern b. Z., Schäppi-Zürich, Urner-Langnau, als Sekretär: Dr. A. Huber-Küsnacht.</p>
+        </body>
+    </text>
+</tei:TEI>

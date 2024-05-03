@@ -1,0 +1,79 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abänderung der Verordnung über den Vollzug der eidgenössischen Kriegssteuer im Kanton Zürich.</title>
+                <respStmt>
+                    <resp ref="#sef" key="transcript">Transkript: sef<date when="2015-10-08">08.10.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Abänderung der Verordnung über den Vollzug der eidgenössischen Kriegssteuer im Kanton Zürich.</title>
+                    <date when="1922-08-24">24.08.1922</date>
+                    <ident>StAZH OS 32 (S. 262-263)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_32__S__262-263__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3470640"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="262"/>
+            </p>
+            <p>Der <orgName n="a85b4724-ac1b-4fde-9b47-24ac1b2fdea3">Regierungsrat</orgName>,</p>
+            <p>nach Einsicht eines Antrages der <orgName n="a515f000-cf57-4cf7-95f0-00cf574cf755">Finanzdirektion</orgName>,</p>
+            <p>beschließt:</p>
+            <p>I. Die Verordnung über den Vollzug der eidgenössischen Kriegssteuer im Kanton <placeName n="69b5224f-beb4-44fb-b522-4fbeb404fbf8">Zürich</placeName> vom 31. März 1921 (O. S. XXXII. 82) wird wie folgt abgeändert:</p>
+            <p>1. § 1, Ziffer 3, fällt weg.</p>
+            <p>2. § 5, Ziffer 4, fällt weg.</p>
+            <p>3. § 5, Ziffer 5, enthält folgende Fassung: «die Entscheidung über die Einsprachen».</p>
+            <p>4. § 6 erhält folgende Fassung: «die Einsprachen werden durch den ordentlichen Steuerkommissär derjenigen Einschätzungsabteilung erledigt, welche die Einschätzung vorgenommen hat».</p>
+            <p>5. §§ 7 und 8 fallen weg.</p>
+            <p>6. § 10, Ziffer 1, erhält folgende Fassung: «die Entscheidung über die Beschwerden gegen die Einspracheentscheide».</p>
+            <p>7. § 31, Absatz 1, erhält folgende Fassung: «Nach Genehmigung der Taxationen durch die <orgName n="aed5c44a-31a3-4499-95c4-4a31a3349943">eidgenössische Steuerverwaltung</orgName> wird den Pflichtigen durch die <orgName n="90839ed5-85f5-4ad9-839e-d585f50ad975">Kriegssteuerverwaltung</orgName> das Einschätzungsergebnis mitgeteilt».</p>
+            <p>Die Absätze 2 und 3 fallen weg.</p>
+            <p>8. § 35, Absatz 2, erhält folgende Fassung: «Diese sorgt für die Anlage der Einspracheverzeichnisse und übermittelt sie samt den Einsprachen und einem Antrag über deren Zulässigkeit dem zuständigen Steuerkommissär zur Behandlung.»</p>
+            <p>9. § 36 fällt weg.</p>
+            <p>10. In § 37 werden die Worte: «Der Entscheid der Einsprachekommission» durch «Der Einspracheentscheid» ersetzt.</p>
+            <p>11. In § 38 werden die Worte «gegen Entscheide der Einsprachekommissionen» durch «gegen die Einspracheentscheide» ersetzt.  <pb n="263"/>
+            </p>
+            <p>II. Diese Abänderung tritt mit ihrer Genehmigung durch das <orgName n="5306ec7d-b173-4493-86ec-7db173b49383">eidgenössische Finanzdepartement</orgName> in Kraft.</p>
+            <p>
+                <placeName n="860485c1-483f-4a39-8485-c1483f6a3996">Zürich</placeName>, den 24. August 1922.</p>
+            <p>Im Namen des <orgName n="24382c4c-7a59-41ae-b82c-4c7a5951ae90">Regierungsrates</orgName>.</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Der Präsident: </cell>
+                        <cell>Der Staatsschreiber: </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <persName n="449d7140-1f0d-471c-9d71-401f0dc71c39">Tobler</persName>. </cell>
+                        <cell>
+                            <persName n="20dc8289-8eaf-44b4-9c82-898eaf74b456">Paul Keller</persName>. </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Das <orgName n="3ba53d59-0fc0-4114-a53d-590fc07114c6">eidgenössische Finanzdepartement</orgName> hat vorstehender Abänderung der Verordnung über den Vollzug der eidgenössischen Kriegssteuer im Kanton <placeName n="b66f88ad-a3c9-40e5-af88-ada3c9f0e5dd">Zürich</placeName> am 31. August/5. September 1922 die Genehmigung erteilt.</p>
+        </body>
+    </text>
+</TEI>

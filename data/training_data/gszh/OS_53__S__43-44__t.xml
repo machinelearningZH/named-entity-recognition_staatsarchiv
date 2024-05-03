@@ -1,0 +1,125 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sozialhilfegesetz (Änderung)</title>
+                <respStmt>
+                    <resp ref="#jsn" key="transcript">Transkript: jsn<date when="2015-03-06">06.03.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Sozialhilfegesetz (Änderung)</title>
+                    <date when="1994-12-04">04.12.1994</date>
+                    <ident>StAZH OS 53 (S. 43-44)</ident>
+                    <idno>851.1</idno>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_53__S__43-44__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3457196"/>
+                    <listRelation>
+                        <relation name="Inkraftsetzung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3457196" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3457197"/>
+                        <relation name="Änderung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3457196" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3458931"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="43"/>
+            </p>
+            <p>Art. I</p>
+            <p>Das Sozialhilfegesetz vom 14. Juni 1981 wird wie folgt geändert:</p>
+            <p>§ 36. Jeder Ehegatte hat einen eigenen Wohnsitz.<add place="margin right">3. Ehegatten </add>
+            </p>
+            <p>Für die Regelung der Kostenersatzpflicht des <orgName n="9822618a-b5b0-4db7-a261-8ab5b05db708">Staates</orgName> ist bei gemeinsamem Wohnsitz der Ehegatten mit unterschiedlicher Wohnsitzdauer die längere massgebend. Lösen die Ehegatten den gemeinsamen Wohnsitz auf, so wird ihnen die bisherige Wohnsitzdauer angerechnet.</p>
+            <p>§ 37. Das unmündige Kind teilt, unabhängig von seinem Aufenthaltsort, den Wohnsitz der Eltern oder jenes Elternteils, unter dessen Gewalt es steht.<add place="margin right">4. Unmündige Kinder </add>
+            </p>
+            <p>Wenn die Eltern keinen gemeinsamen zivilrechtlichen Wohnsitz haben, teilt es den Wohnsitz jenes Elternteils, bei dem es wohnt.</p>
+            <p>Es hat einen eigenen Wohnsitz</p>
+            <p>a)	am Sitz der Vormundschaftsbehörde, unter deren Vormundschaft es steht;</p>
+            <p>b)	am Ort nach § 34, wenn es erwerbstätig und in der Lage ist, für seinen Lebensunterhalt selber aufzukommen;</p>
+            <p>c)	am letzten Wohnsitz nach den Absätzen 1 und 2, wenn es dauernd nicht bei den Eltern oder einem Elternteil wohnt;</p>
+            <p>d)	an seinem Aufenthaltsort in den übrigen Fällen.</p>
+            <p>Erhält das unmündige Kind einen eigenen Wohnsitz, so wird ihm für die Regelung der Kostenersatzpflicht des <orgName n="21d2aa67-cc9b-4672-92aa-67cc9be672c3">Staates</orgName> die bisherige Wohnsitzdauer angerechnet.</p>
+            <p>§ 38. Der Wohnsitz endet mit dem Wegzug aus der Gemeinde.<add place="margin right">5. Beendigung </add>
+            </p>
+            <p>Ist der Zeitpunkt des Wegzugs zweifelhaft, gilt derjenige der polizeilichen Abmeldung.</p>
+            <p>Der Eintritt in ein Heim, ein Spital oder eine andere Anstalt sowie die behördliche oder vormundschaftliche Unterbringung einer mündigen oder entmündigten Person in Familienpflege beendigen einen bestehenden Wohnsitz nicht.  <pb n="44"/>
+            </p>
+            <p>Art. II</p>
+            <p>Dieses Gesetz untersteht der Volksabstimmung.</p>
+            <p>Der <orgName n="c564d43b-ad91-4941-a4d4-3bad91294139">Regierungsrat</orgName> bestimmt den Zeitpunkt des Inkrafttretens.</p>
+            <p>Der <orgName n="d6db2708-4c67-4d74-9b27-084c670d74af">Kantonsrat</orgName>,</p>
+            <p>nach Einsichtnahme in den Bericht seines Büros über die Ergebnisse der <orgName n="4c8e9ce0-7b36-4b79-8e9c-e07b36ab79ca" type="deriv">kantonalen</orgName> Volksabstimmung vom 4. Dezember 1994</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Zahl der Stimmberechtigten </cell>
+                        <cell>761072 </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Eingegangene Stimmzettel </cell>
+                        <cell>353108 </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Annehmende Stimmen  </cell>
+                        <cell>273071 </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Verwerfende Stimmen </cell>
+                        <cell>57274 </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Ungültige Stimmen </cell>
+                        <cell>2004 </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Leere Stimmen </cell>
+                        <cell>20759 </cell>
+                        <cell/>
+                    </row>
+                </table>
+            </p>
+            <p>beschliesst:</p>
+            <p>Die Referendumsvorlage «Sozialhilfegesetz» (Änderung) wird als vom Volke angenommen erklärt.</p>
+            <p>
+                <placeName n="77a6a2c4-4d81-464f-a6a2-c44d81764f41">Zürich</placeName>, den 9. Januar 1995</p>
+            <p>Im Namen des <orgName n="bc9f4a64-c11b-466d-9f4a-64c11b366d13">Kantonsrates</orgName>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Der Präsident: </cell>
+                        <cell>Der Sekretär: </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <persName n="d46db769-1d4d-4aea-adb7-691d4dbaea60">Peter Lauffer</persName> </cell>
+                        <cell>
+                            <persName n="6277e4dd-8b53-4d12-b7e4-dd8b533d12e9">Andreas Ganz</persName> </cell>
+                    </row>
+                </table>
+            </p>
+        </body>
+    </text>
+</TEI>

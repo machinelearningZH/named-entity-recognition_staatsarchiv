@@ -1,0 +1,51 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Motion Rudolf Großmann - Regensdorf vom 3. September 1956 über die Verordnung zum Schutze der Katzenseen vom 12. Juli 1956 (Traktandum 15).</title>
+                <respStmt>
+                    <resp ref="#OCR/skn" key="transcript">Transkript: OCR/skn<date when="2011-10-27">27.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Motion Rudolf Großmann - Regensdorf vom 3. September 1956 über die Verordnung zum Schutze der Katzenseen vom 12. Juli 1956 (Traktandum 15).</title>
+                    <date when="1956-09-10">10.09.1956</date>
+                    <ident>StAZH MM 24.68 KRP 1956/048/0399</ident>
+                    <idno>1096–1098</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_68_KRP_1956_048_0399_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3658783"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="1096"/>Die Motion hat nachstehenden Wortlaut: </p>
+            <p>
+                <pb n="1097"/>«Gestützt auf § 182 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch hat der <orgName n="e2dbba85-d035-44d2-9bba-85d035c4d2b4">Regierungsrat</orgName> am 12. Juli 1956 eine Verordnung zum Schutze der <placeName n="a820b870-f578-46d9-a0b8-70f57866d9a2">Katzenseen</placeName> erlassen. Diese Schutzverordnung hat ein solches Ausmaß, daß sie für die Landeigentümer und die Gemeinden <placeName n="9e9a34de-0c7d-436d-9a34-de0c7d836df8">Regensdorf</placeName> und <placeName n="d09caa2c-cf83-411a-9caa-2ccf83911a4b">Rümlang</placeName> untragbar ist.</p>
+            <p>Dem <orgName n="65d97a22-5294-43c6-997a-225294f3c6da">Regierungsrat</orgName> dürfte auch bekannt sein, daß der Erlaß dieser Verordnung viele Millionen Franken Entschädigungen zur Folge hat, da prädestiniertes Bauland mit einem Bauverbot belegt wird.</p>
+            <p>Um einen entsprechenden Kredit ist aber nicht nachgesucht worden.</p>
+            <p>Der <orgName n="722b0345-ef5d-4eb2-ab03-45ef5d2eb22e">Regierungsrat</orgName> wird daher eingeladen, nochmals auf diese Schutzverordnung zurückzukommen, diese auf ein vernünftiges Maß zu reduzieren und vor allem aber zuerst um den notwendigen Kredit nachzusuchen.»</p>
+            <p>
+                <persName n="5ec0d921-8885-488f-80d9-218885d88f31">Großmann</persName> - <placeName n="604c783e-3bc2-4f9b-8c78-3e3bc2bf9b57">Regensdorf</placeName> referiert einleitend über das Ausmaß der Schutzverordnung. Während die beiden <placeName n="f2462a70-3391-47a7-862a-703391f7a7a9">Katzenseen</placeName> eine Fläche von 35ha umfassen, sind von der Schutzverordnung 500ha betroffen. Mehr als die Hälfte dieser Fläche entfällt auf den Gemeindebann <placeName n="c035b285-1915-4562-b5b2-851915956202">Regensdorf</placeName>. Das Schutzgebiet ist in fünf Zonen eingeteilt. Es ist dabei auch von der Gemeinde <placeName n="35d8d36f-9fdc-4b71-98d3-6f9fdc3b71b6">Regensdorf</placeName> eine der schönsten Wohnlagen am Berghang, die als bevorzugtes Wohngebiet ausgeschieden wurde und mehr als ein Kilometer vom See entfernt liegt, in die Schutzzone einbezogen worden. Es setzen sich nicht nur die privaten Grundeigentümer, sondern auch die betroffenen Gemeinden zur Wehr. Neben <placeName n="efe112ae-e2c6-43f5-a112-aee2c6f3f515">Regensdorf</placeName> wird besonders auch die Gemeinde <placeName n="559fb692-3761-4cc7-9fb6-923761ccc776">Rümlang</placeName> betroffen. Besondern Anlaß zur Kritik gibt das von der <orgName n="06970ba6-8fe6-4d3f-970b-a68fe66d3fb7">Baudirektion</orgName> eingeschlagene Vorgehen. Leider gibt es noch keine Instanz, welche die Tragbarkeit solcher Maßnahmen für die Gemeinden überprüft. Vor drei Jahren wurde den beteiligten Gemeinden <placeName n="21c787e7-558d-4b85-8787-e7558ddb857f">Rümlang</placeName> und <placeName n="227e201a-c49c-4865-be20-1ac49cc86584">Regensdorf</placeName> sowie der Stadt <placeName n="70ca0877-af6b-4142-8a08-77af6b114218">Zürich</placeName> ein Verordnungsentwurf vorgelegt. Die Gemeinderäte von <placeName n="cc050c55-a4d1-4027-850c-55a4d1502719">Regensdorf</placeName> und <placeName n="31c60128-efd8-45d3-8601-28efd895d393">Rümlang</placeName> erhoben Einspruch und verlangten eine nochmalige Besprechung mit dem <orgName n="aee116dc-5901-4cff-a116-dc59018cffd9">Kanton</orgName>. Diesem Begehren wurde jedoch keine Folge gegeben. Es geschah nichts mehr, bis dann der Zeitung entnommen werden konnte, daß die Verordnung ohne Änderungen in Rechtskraft gesetzt wurde. Grundeigentümer und Gemeinden waren durch dieses unverständ-  <pb n="1098"/>liche Vorgehen der <orgName n="99649d1f-2297-457d-a49d-1f2297357d22">Baudirektion</orgName> gleichermaßen überrascht. Eine Beschwerde von 92 Grundeigentümern beim <orgName n="203f2f61-c5f3-4e14-bf2f-61c5f35e1438">Bundesgericht</orgName> wird auch von den Gemeinden <placeName n="96589561-f9a0-4e89-9895-61f9a00e8958">Regensdorf</placeName> und <placeName n="f39c7766-fcbc-4db7-9c77-66fcbcbdb7a1">Rümlang</placeName> unterstützt. Durch ein solches Vorgehen von seiten des <orgName n="741f11f5-b0cb-495c-9f11-f5b0cb995c77">Kantons</orgName> wird die Gemeindeautonomie gefährdet. Der Motionär erachtet es nicht als in Ordnung, wie hier mit Grundeigentümern und Gemeinden umgesprungen und Heimatschutz betrieben werden will. Er ersucht den <orgName n="d627cb99-c3d4-45a2-a7cb-99c3d455a279">Regierungsrat</orgName>, auf die Verordnung zurückzukommen.</p>
+            <p>Wenn die Beschwerde der Grundeigentümer abgelehnt werden sollte, stellt sich auch das finanzielle Problem. Die Entschädigungen gehen in die Millionen. Die sich dabei stellenden Kompetenzfragen sind zweifellos noch offen. Der Motionär kann sich des Eindruckes nicht erwehren, die <orgName n="18f7abf5-db93-465f-b7ab-f5db93a65fd9">Baudirektion</orgName> übe hier die Kunst, sich an den äußersten Grenzen des Erlaubten zu bewegen, wenn sie so weitgehende Verordnungen erläßt, ohne sich nur im geringsten um die dafür notwendigen Kredite zu kümmern. Abschließend stellt der Sprechende fest, daß der Schutz der <placeName n="30a241cd-f52f-4679-a241-cdf52fc6790d">Katzenseen</placeName> zu befürworten ist, aber nur in einer Weise, die für Landeigentümer, Gemeinden und Steuerzahler tragbar wird. Es kann sicher nicht die Krönung einer weisen Regierungstätigkeit sein, wenn der <orgName n="a67d5adf-ac8d-4d79-bd5a-dfac8d5d7935">Staat</orgName> mit den Gemeinden nur noch auf dem Prozeßwege zu verhandeln beliebt.</p>
+            <p>Baudirektor Dr. <persName n="c9fb6b73-0a80-4ae0-bb6b-730a801ae095">Meierhans</persName> nimmt die Motion namens des <orgName n="89a9f663-3fe7-4712-a9f6-633fe7471255">Regierungsrates</orgName> zur Prüfung entgegen. Er begrüßt es, dem <orgName n="3d7f5092-36fc-47ce-bf50-9236fce7cea3">Kantonsrat</orgName> die Gründe darzulegen, welche die <orgName n="bf7f7c6a-2686-4287-bf7c-6a2686f287c7">Regierung</orgName>, die ein gutes Gewissen hat, veranlaßte, die Verordnung zu erlassen. Der <orgName n="2a1fd125-5d00-4087-9fd1-255d00c08795">Kantonsrat</orgName> wird die Haltung der <orgName n="e012c84e-baf5-40d5-92c8-4ebaf5d0d58d">Regierung</orgName> nach Kenntnis der genauen Verhältnisse sicher unterstützen.</p>
+        </body>
+    </text>
+</tei:TEI>

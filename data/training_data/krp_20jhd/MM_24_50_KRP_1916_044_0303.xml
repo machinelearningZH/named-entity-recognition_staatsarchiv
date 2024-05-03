@@ -1,0 +1,50 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zuschrift des Kirchenrates (Traktandum 5).</title>
+                <respStmt>
+                    <resp ref="#OCR/amr" key="transcript">Transkript: OCR/amr<date when="2011-11-17">17.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Zuschrift des Kirchenrates (Traktandum 5).</title>
+                    <date when="1916-01-10">10.01.1916</date>
+                    <ident>StAZH MM 24.50 KRP 1916/044/0303</ident>
+                    <idno>822–823</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_50_KRP_1916_044_0303_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3627223"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="822"/>Mit Datum vom <date>4. Januar 1916</date> richtet der <orgName n="6135b006-b9db-4ccd-b5b0-06b9dbfccd16">Kirchenrat</orgName> folgendes Schreiben an den <orgName n="9c8413b3-f1d2-4f8f-8413-b3f1d23f8fd3">Kantonsrat</orgName>:</p>
+            <p>Die <orgName n="530f00c4-6292-449a-8f00-c46292149a70">Kirchensynode</orgName> hat in ihrer Sitzung vom <date>24. November 1915</date> einstimmig folgenden Beschluß gefaßt:</p>
+            <p>1. Die <orgName n="6943b4aa-d2fd-4fba-83b4-aad2fd2fbacc">Kirchensynode</orgName> spricht ihre große Befriedigung darüber aus, daß die Stadträte von <placeName n="41e523b4-14e1-41c8-a523-b414e101c889">Zürich</placeName> und <placeName n="7343c6e2-0b73-49ae-83c6-e20b73b9ae86">Winterthur</placeName>, sowie die Gemeinderäte anderer Gemeinden des <orgName n="e056a5e0-9dd8-4b25-96a5-e09dd8eb252b">Kantons</orgName> von der Erlaubnis des <orgName n="064efe82-f920-49a0-8efe-82f920f9a020">Regierungsrates</orgName> (siehe Beschluß desselben betreffend Polizeistunde vom 28. Oktober 1. J., Amtsblatt, Textteil, Seite 947) zu späterer Ansetzung der Polizeistunde keinen Gebrauch gemacht haben.</p>
+            <p>2. Sie erwartet bestimmt, daß im neuen Wirtschaftsgesetz die Frage der Polizeistunde, gemäß den Eingaben des <orgName n="8b1fb089-0f78-42aa-9fb0-890f78a2aa43">Kirchenrates</orgName> vom <date>28. August 1912</date> und <date>29. Dezember 1913</date>, in dem Sinne erledigt werde, daß die Gemeinden gesetzlich gehalten sind, das Schließen der Wirtschaften auf eine bestimmte Nachtstunde festzusetzen.</p>
+            <p>Sie spricht sich dahin aus, daß nachts 12 Uhr als spätester Termin gelten sollte.</p>
+            <p>3. Für den Fall, daß die <orgName n="0967608a-0062-4a11-a760-8a0062da1127">kantonsrätliche Kommission für das Wirtschaftsgesetz</orgName> dem Postulate, daß die Gemeinden gesetzlich gehalten sind, das Schließen der Wirtschaften auf spätestens 12 Uhr nachts festzulegen, nicht gerecht werden sollte, wird der <orgName n="a6452917-6912-4561-8529-176912f56185">Kirchenrat</orgName> eingeladen, sofort in Verbindung mit dem Bureau der <orgName n="010c3a40-2094-474a-8c3a-402094474aad">Kirchensynode</orgName> die Frage zu prüfen, welche Schritte getan werden können, um die Einführung der Polizeistunde für den ganzen <orgName n="2243f522-36ab-4eaf-83f5-2236ab5eafdc">Kanton</orgName> gesetzlich festzulegen, wobei eventuell auch eine Volksinitiative in Betracht zu ziehen wäre. </p>
+            <p>
+                <pb n="823"/>Indem wir Ihnen von diesem Postulate der <orgName n="5125a526-9c76-4aa6-a5a5-269c766aa620">Kirchensynode</orgName> Kenntnis geben, möchten wir Sie noch einladen, uns rechtzeitig davon Mitteilung zu machen, ob die <orgName n="3f59919a-e5d8-469f-9991-9ae5d8969f2e">kantonsrätliche Kommission zur Vorberatung des Wirtschaftsgesetzes</orgName> diesem Postulate, Absatz 3, Rechnung getragen habe.</p>
+            <p>Der Rat beschließt Notiznahme der Zuschrift am Protokoll und Mitteilung vom Inhalt derselben an die <orgName n="fd05f92d-b72d-4c71-85f9-2db72d8c716c">Kommission für das Wirtschaftsgesetz</orgName>.</p>
+        </body>
+    </text>
+</tei:TEI>

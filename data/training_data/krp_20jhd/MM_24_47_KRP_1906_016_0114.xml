@@ -1,0 +1,121 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wahl des Bureau.</title>
+                <respStmt>
+                    <resp ref="#OCR/rke" key="transcript">Transkript: OCR/rke<date when="2011-10-05">05.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Wahl des Bureau.</title>
+                    <date when="1906-01-15">15.01.1906</date>
+                    <ident>StAZH MM 24.47 KRP 1906/016/0114</ident>
+                    <idno>252–253</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_47_KRP_1906_016_0114_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3623047"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="252"/>Die Wahl des <orgName n="6d09edd6-a8aa-42c4-89ed-d6a8aaa2c400">Bureau des Kantonsrates</orgName> wird vorgenommen.</p>
+            <p>I. Wahl des Präsidenten.</p>
+            <p>Anwesende 183.</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Eingegangene Stimmzettel </cell>
+                        <cell>183 </cell>
+                    </row>
+                    <row>
+                        <cell>Davon leer </cell>
+                        <cell>12 </cell>
+                    </row>
+                    <row>
+                        <cell>Absolutes Mehr </cell>
+                        <cell>86 </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Es erhält Herr <persName n="d2981b6e-59d4-4e1e-981b-6e59d4ee1e23">Viktor Hauser</persName> in <placeName n="334e3550-7cbc-469a-8e35-507cbcc69a6f">Horgen</placeName>, 1. Vizepräsident 162 Stimmen. Gewählt.</p>
+            <p>Vereinzelt sind 9 Stimmen (<persName n="a90436d7-c740-40dd-8436-d7c740a0dd9c">O. Lang</persName> 5, <persName n="5ed80c43-20cb-497e-980c-4320cbc97e49">E. Müller</persName> 3, <persName n="5a14e2a5-ce34-4b81-94e2-a5ce34cb817b">Greulich</persName> 1).</p>
+            <p>Herr <persName n="775e19f8-3bd9-4117-9e19-f83bd991173e">V. Hauser</persName> übernimmt den Vorsitz.</p>
+            <p>II. Wahl des I. Vizepräsidenten.</p>
+            <p>Anwesende 201.</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Eingegangene Stimmzettel </cell>
+                        <cell>201 </cell>
+                    </row>
+                    <row>
+                        <cell>Davon leer </cell>
+                        <cell>5 </cell>
+                    </row>
+                    <row>
+                        <cell>Absolutes Mehr </cell>
+                        <cell>99 </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Es erhält Herr <persName n="3afd177d-c03e-4642-bd17-7dc03ef64227">Emil Müller</persName> in <placeName n="7cf11c6b-a6de-41cc-b11c-6ba6de91cc55">Winterthur</placeName>, II. Vizepräsident, 176 Stimmen. Gewählt.</p>
+            <p>Vereinzelt sind 19 Stimmen (<persName n="2f1b083b-7b75-4250-9b08-3b7b75725035">H. Greulich</persName> 13, <persName n="004a6d5a-e5f3-44b7-8a6d-5ae5f3e4b756">O. Lang</persName> 3, Oberrichter <persName n="7d3bbe67-b693-4365-bbbe-67b693b36560">Müller</persName>, <persName n="9239cf02-7c67-43a0-b9cf-027c67b3a011">R. Amsler</persName>, Dr. <persName n="c0a83e0c-5049-4060-a83e-0c5049e06094">Studer</persName> je 1 Stimme). Ungültig 1 Stimme.</p>
+            <p>III. Wahl des H. Vizepräsidenten.</p>
+            <p>Anwesende 208.</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Eingegangene Stimmzettel </cell>
+                        <cell>207 </cell>
+                    </row>
+                    <row>
+                        <cell>Davon leer </cell>
+                        <cell>7 </cell>
+                    </row>
+                    <row>
+                        <cell>Absolutes Mehr </cell>
+                        <cell>101 </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Es erhält Herr <persName n="6799fc88-b6e1-456c-99fc-88b6e1d56cfc">Rudolf Amsler</persName> in <placeName n="a48d456f-48c2-4dd5-8d45-6f48c2fdd5bd">Meilen</placeName> 165 Stimmen. Gewählt.</p>
+            <p>Vereinzelt sind 35 Stimmen (<persName n="f3f2a93f-aa4c-4824-b2a9-3faa4c382411">H. Greulich</persName> 29, <persName n="4ffa0d07-4751-488e-ba0d-074751b88e77">Lang</persName> 4, <persName n="441d7c0b-65a9-4c5a-9d7c-0b65a94c5aef">Frey-Nägeli</persName>, <persName n="0cb3576d-929a-4bb5-b357-6d929abbb5dd">P. Pflüger</persName> je 1 Stimme).</p>
+            <p>IV. Wahl der Sekretäre.</p>
+            <p>Sie wird offen vorgenommen; es werden gewählt die Herren:</p>
+            <p>1. Dr. <persName n="020a22db-f33e-4bdc-8a22-dbf33edbdc28">A. Huber</persName>, Staatsschreiber, in <placeName n="c50aa194-467d-4051-8aa1-94467db051b8">Zürich</placeName>.</p>
+            <p>2. Dr. <persName n="28aa402c-5241-4980-aa40-2c5241c980ef">Bindschedler</persName> in <placeName n="50090315-4b57-41ae-8903-154b57d1aec3">Männedorf</placeName> gegen <persName n="0a228e85-10c7-4836-a28e-8510c78836c3">Paul Wolfensberger</persName>.  <pb n="253"/>
+            </p>
+            <p>3. <persName n="e7f60cbd-21a5-4966-b60c-bd21a5396638">Paul Wolfensberger</persName> in <placeName n="88da10fd-c838-4646-9a10-fdc838b6469d">Zürich</placeName> gegen <persName n="cf19f497-4d73-424e-99f4-974d73c24e01">K. Koller</persName> in <placeName n="0236bc80-21d8-45c8-b6bc-8021d8c5c8e7">Thalwil</placeName>.</p>
+            <p>4. <persName n="91f6cbc1-a085-482d-b6cb-c1a085e82d1d">K. Koller</persName> in <placeName n="839df9b6-f121-471b-9df9-b6f121071bad">Thalwil</placeName>.</p>
+            <p>V. Wahl der Stimmenzähler.</p>
+            <p>In offener Wahl werden gewählt die Herren:</p>
+            <p>1. <persName n="e11fd0a3-49f9-418b-9fd0-a349f9618bdb">A. Ochsner</persName> in <placeName n="3a17373f-f2cd-4024-9737-3ff2cdf02485">Uster</placeName> gegen <persName n="ff035961-db3a-4804-8359-61db3a0804f8">Heinrich Albrecht</persName> in <placeName n="c9b4941c-0ba8-46c3-b494-1c0ba846c3e4">Boppelsen</placeName>.</p>
+            <p>2. <persName n="7f82f200-a6e8-4f6f-82f2-00a6e81f6fcf">Heinrich Albrecht</persName> in <placeName n="d05f7d78-2c84-4d48-9f7d-782c84ed4872">Boppelsen</placeName>.</p>
+            <p>3. Dr. <persName n="6feb2f7f-e37d-42c6-ab2f-7fe37d62c609">F. Studer</persName> in <placeName n="62ad5f8d-99e5-4036-ad5f-8d99e5703649">Winterthur</placeName>. </p>
+            <p>4. <persName n="18b210a5-1a98-40eb-b210-a51a98c0ebeb">C. Hörni</persName> in <placeName n="071f3916-81cf-4abe-9f39-1681cf0abe04">Unterstammheim</placeName>.</p>
+            <p>5. <persName n="00a578ba-ca13-4193-a578-baca13719343">Heinrich Schmid</persName> in <placeName n="4fc4ebf7-e001-4b42-84eb-f7e0013b42cf">Richterswil</placeName>,</p>
+            <p>6. <persName n="3726361f-ce72-405e-a636-1fce72e05ee2">R. Welti</persName> in <placeName n="4e06a12c-2c0b-4d12-86a1-2c2c0bfd12c5">Zürich</placeName>.</p>
+            <p>7. <persName n="6c81defd-8f8a-4b23-81de-fd8f8aeb2348">J. J. Dünki</persName> in <placeName n="d290566d-d069-4f94-9056-6dd0693f9457">Rorbas</placeName>.</p>
+            <p>8. <persName n="f61027d3-41e5-4686-9027-d341e5f6866c">J. J. Hauser</persName> in <placeName n="dfeaefb5-9043-4e9f-aaef-b590432e9f2a">Richterswil</placeName>.</p>
+            <p>Von den getroffenen Wahlen wird den Gewählten Kenntnis gegeben.</p>
+        </body>
+    </text>
+</tei:TEI>

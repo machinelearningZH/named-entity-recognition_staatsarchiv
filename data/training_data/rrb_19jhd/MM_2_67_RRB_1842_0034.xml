@@ -1,0 +1,46 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben an die K. französische Gesandtschaft betreffend Verification von Angaben des Heimathlosen J. G. [Pfenniger].</title>
+                <respStmt>
+                    <resp key="transcript" ref="#mld">Transkript: mld<date when="2010-10-29">29.10.2010</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2010</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Schreiben an die K. französische Gesandtschaft betreffend Verification von Angaben des Heimathlosen J. G. [Pfenniger].</title>
+                    <date when="1842-01-06">06.01.1842</date>
+                    <ident>StAZH MM 2.67 RRB 1842/0034</ident>
+                    <idno>286–287</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_051_MM_2_100/MM_2_067/MM_2_67_RRB_1842_0034_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1419251"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="286"/>Mit Eingabe vom 4. d. M. berichtet der <orgName n="197721fd-4974-4565-b721-fd4974056580">Policeyrath</orgName>, er habe sich veranlaßt gesehen, betreffend die Angaben des Heimathlosen <persName n="0f85b3f4-1030-4cd1-85b3-f41030fcd16c">J. G. Pfenninger</persName>, denen zufolge derselbe im Jahr 1795. von einem gewißen Scheerschleifer <persName n="1f232d32-db4b-4138-a32d-32db4b013896">Leuthy</persName> in <placeName n="9c22c169-8041-4501-a2c1-698041750143">Mühlhausen</placeName> angenommen, auferzogen und vom Jahr 1806. an mit demselben, seinen zwey noch am Leben befindlichen Söhnen und zwey Gehilfen auf der Schleiferproceßion herumgereist sey, zu welchem Zwecke im Jahre 1822. oder 1823. verstorbene <persName n="6914c761-31df-4e37-94c7-6131df1e373b">Leuthy</persName> einen in <placeName n="833c1748-ad9b-4477-bc17-48ad9b047752">Straßburg</placeName> ausgestellten Paß nebst einem Wanderbuche bey sich geführt habe, in denen die zwey Gehülfen und die drey Knaben speciell bezeichnet und <persName n="9ec4a875-8993-49f5-84a8-758993d9f53f">Pfenninger</persName> mit diesem Namen auf dem Paß aufgeführt gewesen sey, unter dem 8. v. M. den Maire in <placeName n="151997aa-211c-4db6-9997-aa211cbdb63c">Müllhausen</placeName> um nähere Auskunft zu ersuchen, die aber weder ertheilt noch auch der Empfang des dießseitigen Requisitorials angezeigt worden sey.</p>
+            <p>Es hat hierauf der <orgName n="8df53e4f-bc59-4963-b53e-4fbc5959631e">Regierungsrath</orgName> beschloßen, es solle die K. <placeName n="71de8609-ee4b-4433-9e86-09ee4ba43342" type="deriv">Französische</placeName> Gesandtschaft um die gewünschte Verification der <persName n="7368d378-5b53-4ce0-a8d3-785b534ce059" type="deriv">Pfenningerischen</persName> Aussagen angegangen und zugleich auch auf das Ausbleiben einer Antwort von Seite des Maire von <placeName n="0f083349-4e0e-4a4b-8833-494e0eea4bc5">Mühlhausen</placeName> aufmerksam gemacht<pb n="287"/>werden.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

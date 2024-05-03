@@ -1,0 +1,103 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Nachtragskreditbegehren für das Jahr 1994, III. Serie (Bericht und Antrag des Regierungsrates vom 16. November 1994 und geänderter Antrag der Finanzkommission vom 8. Dezember 1994) 3433a</title>
+                <respStmt>
+                    <resp ref="#OCR/rke" key="transcript">Transkript: OCR/rke<date when="2011-11-16">16.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Nachtragskreditbegehren für das Jahr 1994, III. Serie (Bericht und Antrag des Regierungsrates vom 16. November 1994 und geänderter Antrag der Finanzkommission vom 8. Dezember 1994) 3433a</title>
+                    <date when="1994-12-19">19.12.1994</date>
+                    <ident>StAZH MM 24.140 KRP 1994/195/0003</ident>
+                    <idno>12642–12645</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_140_KRP_1994_195_0003_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3744880"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="12642"/>Dr. <persName n="4483f48a-5a59-464d-83f4-8a5a59a64d9d">Regula Pfister</persName> (<orgName n="d222cd8f-15c2-44ee-a2cd-8f15c294ee94">FDP</orgName>, <placeName n="21dd9ecb-92b6-498e-9d9e-cb92b6698ef7">Zürich</placeName>), Präsidentin der <orgName n="f5c6cede-0436-42cb-86ce-de0436b2cbcb">Finanzkommission</orgName>: Mit der III. Serie der Nachtragskredite 1994 beantragt der <orgName n="e2197608-d260-4649-9976-08d260064955">Regierungsrat</orgName> weitere Nachtragskredite; erlauben Sie mir, dass ich bereits die neuen Nachtragskredite nehme, nämlich nach Rückzug von Position 4 bzw. auch aufgrund der geänderten Ausfertigung gemäss Vorlage 3433b, welche Sie heute morgen erhalten haben.</p>
+            <p>Nach diesen Korrekturen ergeben sich in der Laufenden Rechnung nicht gut 44 Millionen Franken, sondern Fr. 54 506 200. In der Investitionsrechnung bleiben die Zahlen gleich, nämlich Fr. 14 938 000. Das ergibt insgesamt Nachtragskredite von Fr. 69 444 200. Diese Nachtragskredite liegen ungefähr im Rahmen der Vorjahre. Hinzu kommen Kreditüberschreitungen von insgesamt Fr. 1 547 500. Sie liegen weit unter jenen der Vorjahre. Frau <persName n="fbe04b6a-8366-4c0b-a04b-6a83665c0b4e">Illi</persName> wird dann zur <orgName n="9834324d-72b0-4731-b432-4d72b0073130">Gesundheitsdirektion</orgName> noch eine Anmerkung machen.</p>
+            <p>Nach Auskunft des Finanzdirektors wird trotz dieser Nachtragskredite – das ist ja immer die entscheidende Frage – das Budget 1994 eingehalten.</p>
+            <p>Ich komme nun zu den Anträgen der <orgName n="ad55fe8c-cc30-44e2-95fe-8ccc3094e23b">Finanzkommission</orgName> bzw. des <orgName n="7f1db1be-6277-414f-9db1-be6277714fb2">Regierungsrates</orgName>, und ich gehe auf zwei Positionen ein, vorerst Position 4, Flughafendirektion, Fr. 450 000. Dieser Nachtragskredit hat der Regierungsrat zurückgezogen, nachdem die <orgName n="c0365054-62c8-4e21-b650-5462c86e21d3">Finanzkommission</orgName> ihn abgelehnt hatte. Der Informationspavillon am <orgName n="bb74be7a-1546-4b50-b4be-7a15462b50d4">Flughafen Kloten</orgName>, um den es ging, war, als die Nachtragskredite in die <orgName n="c3912c74-2f45-4163-912c-742f454163ec">Finanzkommission</orgName> kamen, bereits erstellt. Die Eröffnung war bereits durchgeführt worden.</p>
+            <p>Die <orgName n="87c634dc-7697-4547-8634-dc7697e547bd">Finanzkommission</orgName> wäre nicht bereit gewesen, diesem Nachtragskredit zuzustimmen, sie hätte ihn abgelehnt. Dieser Pavillon muss nun von den übrigen Partnern erstellt werden, der <orgName n="e25a11cf-1646-4448-9a11-cf1646d44819">SBB</orgName>, der <orgName n="1beba891-8059-47d5-aba8-918059a7d5ff">Swissair</orgName> und der <orgName n="d5ba1da5-df90-41a4-ba1d-a5df9091a4a9">FIG</orgName>.</p>
+            <p>Zweitens Position 13, <orgName n="54307445-8a19-400f-b074-458a19800fd0">Erziehungsdirektion</orgName> betr. <orgName n="8e1345b6-9f79-451f-9345-b69f79451f0b">Opernhaus</orgName>, Nachtragskredit Fr. 11 424 200: Hier ist die Situation etwas komplexer. Der <orgName n="d08218fc-0801-4873-8218-fc0801f8731e">Regierungsrat</orgName> hat uns ursprünglich diesen Nachtragskredit beantragt, den man nach der <orgName n="b09c5755-bf4b-4cbd-9c57-55bf4b4cbda0" type="deriv">Kantonalisierung</orgName> des <orgName n="9316f94f-b383-4796-96f9-4fb383e79624">Opernhauses</orgName> zur Finanzierung zwischen dem 1. August 1994 und dem 31. Dezember 1994 hätte einsetzen sollen. Da der Rahmenkredit jedoch vom <orgName n="e0c05c18-6f7a-4308-805c-186f7aa30856">Kantonsrat</orgName> noch nicht bewilligt war, hätte dieser Nachtragskredit, selbst wenn ihm der <orgName n="e8410a7a-cbe5-47a6-810a-7acbe507a634">Kantonsrat</orgName> zugestimmt hätte, gar nicht ausbezahlt werden können. Aus diesem Grund hat die <orgName n="8ddb1e85-a120-4cfd-9b1e-85a1201cfd67">Finanzkommission</orgName> aus finanzrechtlichen, nicht aus politischen Gründen, diesen Nachtragskredit abgelehnt. Ich muss  <pb n="12643"/>betonen: Niemand wollte dem <orgName n="c1bc204a-be0f-4be1-bc20-4abe0fbbe17d">Opernhaus</orgName> das Geld vorenthalten, denn der Volksentscheid ist ja sehr klar ausgefallen. Die finanzrechtlichen Grundlagen bzw. jene für die Auszahlung waren aber nicht vorhanden. Der <orgName n="a95f40be-e9b4-4ad9-9f40-bee9b48ad92d">Regierungsrat</orgName> war ursprünglich nicht bereit, diesen Nachtragskredit ebenfalls zurückzuziehen, und ich bin sehr froh, dass noch in letzter Minute von unserem Mitglied <persName n="06e496d1-820c-4dc9-a496-d1820cddc97a">Rudolf Bolli</persName>, der <orgName n="5776a7e2-c307-4c58-b6a7-e2c3078c5860">Finanzverwaltung</orgName> und der <orgName n="7b57eb8c-f77b-4ca7-97eb-8cf77b8ca706">Erziehungsdirektion</orgName> der nun in Vorlage 3433b vorliegende Antrag formuliert werden konnte. Der <orgName n="40817d81-4876-4012-817d-814876f0120a">Regierungsrat</orgName> zog seinen Nachtragskredit zurück und beantragt nun zusätzlich einen solchen über Fr. 22 099 200. Dabei handelt es sich um eine Akontozahlung, welche das <orgName n="9aa7a26e-5934-4261-a7a2-6e5934c2610e">Opernhaus</orgName> zurückzuerstatten hätte – das ist der entscheidende Satz –, wenn der <orgName n="8e69b386-7cb0-4177-a9b3-867cb08177b3">Kantonsrat</orgName> den Rahmenkredit, welcher jetzt in die <orgName n="a538748f-9979-40e4-b874-8f9979a0e472" type="deriv">kantonsrätliche</orgName> Kommission kommt, ablehnen würde. Der Betrag erhöht sich auf die genannte Summe, weil das Bruttoprinzip gewählt wurde.</p>
+            <p>Diesem Nachtragskredit von gut 22 Millionen Franken stehen nicht beanspruchte Staatsbeiträge von insgesamt knapp 16 Millionen Franken gegenüber, nämlich Fr. 10 675 000 auf dem bisherigen Konto Kulturförderungsbeiträge <orgName n="c32997e6-aaf6-48ba-a997-e6aaf6a8baf5">Opernhaus</orgName> und Fr. 5 300 000 bei den Beiträgen an die übrigen Kunstinstitute <orgName n="3a23f8c3-9626-4ad3-a3f8-c396268ad3d4">Schauspielhaus</orgName>, <orgName n="142ff8c8-2947-420e-aff8-c82947320e51">Tonhalle</orgName> und <orgName n="1dca8010-25b4-4c21-8a80-1025b4dc21d9">Kunstgesellschaft</orgName>. Die Nettobelastung, auf die es schliesslich ankommt, beläuft sich auf Fr. 6 124 200. Durch diesen neuen Antrag erhöht sich die Summe der beantragten Nachtragskredite, wie gesagt, um die Fr. 10 675 000; die Nettobelastung der Staatsrechnung 1994 verändert sich indessen nicht. Ich bitte Sie, unter Berücksichtigung dieser Erwägungen, den Nachtragskrediten zuzustimmen. Ich muss sagen, dass die <orgName n="6a5d705f-2d1d-4182-9d70-5f2d1d5182c5">Finanzkommission</orgName> diesem Nachtragskredit per Zirkularbeschluss einstimmig zugestimmt hat. Ich bitte auch Sie, diesen Nachtragskrediten zuzustimmen.</p>
+            <p>
+                <persName n="17c1323c-622a-4bde-8132-3c622a8bde82">Liselotte Illi</persName> (<orgName n="1f48618b-cdad-4f17-8861-8bcdad4f17a2">SP</orgName>, <placeName n="8319e729-47f2-4a75-99e7-2947f22a75be">Bassersdorf</placeName>): Ich spreche noch ganz kurz zu den Nachtragskrediten der <orgName n="a12f4084-b11c-4b09-af40-84b11ccb09be">Gesundheitsdirektion</orgName>, zu den Positionen 6 und 7. Die Begründung für diese Nachtragskredite ist uns ja hinlänglich bekannt. Das Argument lautet: Rascherer Baufortschritt. Ich stelle jetzt keinen Ablehnungsantrag, weil diese Staatsbeiträge an sich zugesichert sind und wir nur über den Zeitpunkt der Auszahlung frei entscheiden können.</p>
+            <p>Die <orgName n="7924d80f-e7d5-4868-a4d8-0fe7d5c8686f">Gesundheitsdirektion</orgName> bietet uns für diese Nachtragskredite Kompensationen an, aber hier liegt ein Problem. Diese Kompensationspraxis beruht auf der Reservebildung der Krankenhäuser, das heisst, jenen Spitälern, welche Betriebskosten sparen, wird erlaubt, die eingesparten Betriebskosten teilweise für Investitionen auszugeben. Das ist finanz-  <pb n="12644"/>rechtlich problematisch und kein schöner Weg. Das hat der Gesundheitsdirektor selbst einmal an einer Finanzkommissionssitzung gesagt. Die <orgName n="cea6a467-7b01-420f-a6a4-677b01120f78">Finanzkommission</orgName> bewilligt diese Nachtragskredite; sie erwartet aber, dass die Frage dieser Kompensationen an einer der nächsten Finanzkommissionssitzungen mit dem Finanzdirektor geklärt wird und dass diese Fragen sauber geregelt werden. Was uns hier nämlich an Kompensation angeboten wird, ist unkontrollierbar, nicht transparent. Bei Position 6 beispielsweise ist es gar nicht möglich, dass die ganzen 5 Millionen Franken innerhalb eines Jahres und im gleichen Spital kompensiert werden könnten. Bei Position 7 wird bei einem Krankenhaus kompensiert, bei dem wir vor einem halben Jahr das gleiche Konto aufgestockt haben.</p>
+            <p>In Zukunft muss bei solchen Kompensationen klar sein, nach welchen Kriterien Reservebildungen erlaubt werden und wer solche bewilligt.</p>
+            <p>Das Wort wird weiter nicht verlangt.</p>
+            <p>Eintreten</p>
+            <p>ist beschlossen, nachdem kein Antrag auf Nichteintreten gestellt wurde.</p>
+            <p>Detailberatung</p>
+            <p>Es erfolgen keine Wortmeldungen.</p>
+            <p>Schlussabstimmung</p>
+            <p>Der <orgName n="503639e5-c8a1-4f87-b639-e5c8a1cf875e">Kantonsrat</orgName> stimmt folgenden Nachtragskrediten III. Serie mit 127:0 Stimmen zu, und zwar in der</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Laufenden Rechnung </cell>
+                        <cell>Fr. 54 506 200 </cell>
+                    </row>
+                    <row>
+                        <cell>Investitionsrechnung </cell>
+                        <cell>Fr. 14 938 000 </cell>
+                    </row>
+                    <row>
+                        <cell>Total </cell>
+                        <cell>Fr. 69 444 200 </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Das Geschäft ist erledigt.</p>
+            <p>Ratspräsident <persName n="e23ab139-4d2b-4fb6-bab1-394d2bffb66e">Peter Lauffer</persName>: Wir kommen zum Schluss der Sitzung. Vorerst haben wir noch zu entscheiden über den Antrag, den Herr Prof. Dr. <persName n="cf562ee9-8e4f-427c-962e-e98e4f727ca6">Richard Hirt</persName> eingereicht hat und der mittlerweile durch die <orgName n="6da42207-53f6-432d-a422-0753f6032daa">Grüne Fraktion</orgName> erweitert wurde.</p>
+            <p>Wir haben nun bezüglich der Dienstagsitzungen drei Varianten:</p>
+            <p>Variante Büro</p>
+            <p>14.30 bis 17.30 Uhr und 19.30 bis 22.00 Uhr Sitzungsdauer</p>
+            <p>5<hi rend="sup"> 1</hi>/<hi rend="sub">2</hi> Stunden, </p>
+            <p>
+                <pb n="12645"/>Variante <persName n="a5250fcf-3447-4c55-a50f-cf34477c55e9">Hirt</persName>
+            </p>
+            <p>16.30 bis 19.30 Uhr und 20.00 bis 22.00 Uhr</p>
+            <p>Sitzungsdauer 5 Stunden, Imbiss im Haus,</p>
+            <p>Variante <orgName n="28d815a6-5497-4d21-9815-a65497bd2194">Grüne Fraktion</orgName>
+            </p>
+            <p>15.30 bis 18.30 Uhr und 19.30 bis 22.00 Uhr</p>
+            <p>Sitzungsdauer 5<hi rend="sup"> 1</hi>/<hi rend="sub">2</hi> Stunden, Verpflegung ausserhalb des Hauses.</p>
+            <p>Der Rat entscheidet sich in eventueller Abstimmung mit eindeutiger Mehrheit für die Variante <persName n="868ae69b-d744-4307-8ae6-9bd744b3071b">Hirt</persName> gegenüber der Variante der <orgName n="b1825a86-cf7e-4893-825a-86cf7ea8935c">Grünen</orgName>. In der Hauptabstimmung entscheidet sich der Rat mit deutlicher Mehrheit für die Variante <persName n="0aa90acd-f2ae-4f36-a90a-cdf2ae9f361e">Hirt</persName>.</p>
+            <p>Regierungsrat Dr. <persName n="5c4c98fd-2cc1-44c7-8c98-fd2cc164c7e6">Eric Honegger</persName>: Es fällt mir die angenehme Aufgabe zu, Ihnen im Namen unserer Regierungsratspräsidentin und des gesamten <orgName n="657fd118-d6d8-4dff-bfd1-18d6d81dffa2">Regierungsrates</orgName> eine frohe Weihnacht und schöne Festtage zu wünschen. Ich wünsche Ihnen auch ein gutes neues Jahr und viel Glück bei der Bewältigung der Traktandenliste bis zu den Wahlen. Selbstverständlich wünsche ich jenen, die sich für dieses <orgName n="bb1ad937-6a23-4471-9ad9-376a233471da">Parlament</orgName> wieder zur Verfügung stellen, eine erfolgreiche Neuwahl.</p>
+            <p>Ratspräsident <persName n="62895b0e-105e-4edf-895b-0e105e3edfc9">Peter Lauffer</persName>: Ich spreche wohl in Ihrem Namen, wenn ich diese Wünsche herzlich erwidere.</p>
+            <p>Hier werden die Beratungen abgebrochen.</p>
+            <p>Schluss der Sitzung: 17.20 Uhr.</p>
+            <p>Nächste Sitzung: Montag, 9. Januar 1995, 8.15 Uhr und 14.30 Uhr, (Doppelsitzung)</p>
+            <p>
+                <placeName n="f3261e56-f675-4666-a61e-56f675f666ee">Zürich</placeName>, den 19. Dezember 1994</p>
+            <p>Der Protokollführer:</p>
+            <p>
+                <persName n="0b7cc622-f37f-4a1b-bcc6-22f37f3a1b96">H. Kuhn</persName>
+            </p>
+            <p>Vom Büro des Rates in seiner Sitzung vom 26. Januar 1995 genehmigt. </p>
+        </body>
+    </text>
+</tei:TEI>

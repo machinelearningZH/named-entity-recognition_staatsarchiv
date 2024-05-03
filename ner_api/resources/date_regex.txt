@@ -1,0 +1,245 @@
+\b(?<!d)(?:
+  (?:(?:0?[1-9]|[12]\d)|3[01])\s?(?:[./][\s]?|s?ten[\s]|[\s])
+    (?:0?[13578]
+    |1[02]
+    |J(?:an(?:uar|\.)?|ul(?:i|\.)?)
+    |M(?:[äe]r(?:z||\.)?|a[iy])
+    |Aug(?:ust|\.)?
+    |De[cz](?:emb(?:er|ris)|\.)?
+    |O[ck]t(?:ob(?:er|ris)|\.)?
+    |Barmanot
+    |Bastianmonath?
+    |Fabianman
+    |Genner
+    |Genarius
+    |Hartmand
+    |Grosser Horn
+    |Jänner
+    |Jarmanot
+    |Jenner
+    |Kalemant
+    |Kindelmonath?
+    |Königsmonath?
+    |Lasmand
+    |Laumaend
+    |Neujahrsmonath?
+    |Paulmonath?
+    |Der erste Augst
+    |Dieboldmonath?
+    |Heumonath?
+    |Heuet
+    |Hundshochzeit
+    |Jacobsmonath?
+    |Lugius
+    |mensis fenalis
+    |Ackermonath?
+    |Klibelmonath?
+    |Lenzmonath?
+    |Mergenmonath?
+    |Mertemand
+    |Eselmonath?
+    |Maimant
+    |Pfingstmonath?
+    |Winnemonath?
+    |Wonnemonath?
+    |Wunnimonath?
+    |Adolfsmonath?
+    |Arne
+    |Arnemonath?
+    |Augst
+    |der ander Augst
+    |Augstmond
+    |Biesemonath?
+    |Kochmonath?
+    |mensis messionum
+    |Obsmon
+    |Andresmond
+    |Christmond
+    |Christmonath?
+    |Duistermant
+    |Hartmonath?
+    |Heiligmond
+    |Vierter Herbstmonath?
+    |Julmonath?
+    |Lestemant
+    |Schlachtmonath?
+    |Speckmant
+    |Thomasmonath?
+    |Volrot
+    |Aarzelmand
+    |Ander Herbst
+    |Luxtag
+    |Remeismaent
+    |Weinmonath?
+    |Wimmet
+    |Wolfgangmonath?
+    |Wintermonath?
+    |Wolfmond)(?:\s?(?:[./][\s.]?)?
+      (?:[1-9]\d)?\d\d)?|
+  (?:(?:0?[1-9]|[12]\d)|30)\s?(?:[./][\s]?|s?ten[\s]|[\s])
+    (?:0?[13-9]
+    |1[012]
+    |J(?:an(?:uar|\.)?|u[nl](?:[iy]|\.)?)
+    |M(?:[äe]r(?:z||\.)?|a[iy])
+    |A(?:pr(?:ill?|\.)?|ug(?:ust|\.)?)
+    |Sep(?:temb(?:er|ris)|\.)?
+    |(?:Nov|De[cz])(?:emb(?:er|ris)|\.)?
+    |O[ck]t(?:ob(?:er|ris)|\.)?
+    |Barmanot
+    |Bastianmonath?
+    |Fabianman
+    |Genner
+    |Genarius
+    |Hartmand
+    |Grosser Horn
+    |Jänner
+    |Jarmanot
+    |Jenner
+    |Kalemant
+    |Kindelmonath?
+    |Königsmonath?
+    |Lasmand
+    |Laumaend
+    |Neujahrsmonath?
+    |Paulmonath?
+    |Ackermonath?
+    |Klibelmonath?
+    |Lenzmonath?
+    |Mergenmonath?
+    |Mertemand
+    |Abrellen
+    |Abrulle
+    |Effeler
+    |Effilre
+    |Eppurle
+    |Gauchmonath?
+    |Grasmaent
+    |Hirtenmonath?
+    |Marxmonath?
+    |mensis novorum
+    |mensis venustus
+    |Ostermonath?
+    |Prillemaent
+    |Eselmonath?
+    |Maimant
+    |Pfingstmonath?
+    |Winnemonath?
+    |Wonnemonath?
+    |Wunnimonath?
+    |Brachmonath?
+    |Brachet
+    |Hundsmonath?
+    |Johannsmonath?
+    |Lusemand
+    |mensis magnus
+    |Resaille
+    |Rosenmonath?
+    |Weidemaen
+    |Der erste Augst
+    |Dieboldmonath?
+    |Heumonath?
+    |Heuet
+    |Hundshochzeit
+    |Jacobsmonath?
+    |Lugius
+    |mensis fenalis
+    |Adolfsmonath?
+    |Arne
+    |Arnemonath?
+    |Augst
+    |der ander Augst
+    |Augstmond
+    |Biesemonath?
+    |Kochmonath?
+    |mensis messionum
+    |Obsmon
+    |Ander Augst
+    |Augstin
+    |Bonenarne
+    |Evenmaend
+    |Grillismaend
+    |Gerstmaend
+    |Hanffluchet
+    |Erste Herbst
+    |Herbstmonath?
+    |Herbstsaat
+    |Michelsmonath?
+    |Picmaent
+    |Samanet
+    |Septembris
+    |Speltmaent
+    |Uberherbst
+    |Verenenmonath?
+    |Folmano
+    |Aarzelmand
+    |Ander Herbst
+    |Luxtag
+    |Remeismaent
+    |Weinmonath?
+    |Wimmet
+    |Wolfgangmonath?
+    |Allerheiligenmond
+    |Eckermonath?
+    |Dritte Herbstmonath?
+    |Laubryszmonath?
+    |Martinsmaent
+    |Wintmonath?
+    |Andresmond
+    |Christmond
+    |Christmonath?
+    |Duistermant
+    |Hartmonath?
+    |Heiligmond
+    |Vierter Herbstmonath?
+    |Julmonath?
+    |Lestemant
+    |Schlachtmonath?
+    |Speckmant
+    |Thomasmonath?
+    |Volrot
+    |Wintermonath?
+    |Wolfmond)(?:\s?(?:[./][\s.]?)?
+      (?:[1-9]\d)?\d\d)?|
+  (?:0?[1-9]|[12]\d)\s?(?:[./][\s]?|s?ten[\s]|[\s])
+    (?:0?2
+    |Fe(?:b(?:ruar|\.)?)?
+    |Brigidenmonath?
+    |Fassnachtman
+    |Fronfastmonath?
+    |Kleiner Horn
+    |Hornung
+    |Lichtmessman
+    |mensis Plutonis
+    |mensis purgatorius
+    |Oculimonath?
+    |Rebmonath?
+    |Selle
+    |Sporkel
+    |Volborn
+    |Weibermonath?
+    |Letzter Wintermonath?
+    |Olle Wiwermond
+    |Zelle)(?:\s?(?:[./][\s.]?)?(?:(?:[1-9]\d)?
+      [02468][048]|[13579][26]))?|
+  (?:0?[1-9]|[12][0-8]|19)\s?(?:[./][\s]?|s?ten[\s]|[\s])
+    (?:0?2
+    |Fe(?:b(?:ruar|\.)?)?
+    |Brigidenmonath?
+    |Fassnachtman
+    |Fronfastmonath?
+    |Kleiner Horn
+    |Hornung
+    |Lichtmessman
+    |mensis Plutonis
+    |mensis purgatorius
+    |Oculimonath?
+    |Rebmonath?
+    |Selle
+    |Sporkel
+    |Volborn
+    |Weibermonath?
+    |Letzter Wintermonath?
+    |Olle Wiwermond
+    |Zelle)(?:\s?(?:[./][\s.]?)?
+      (?:[1-9]\d)?\d\d)?)
+(?!\d)\b

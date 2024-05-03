@@ -1,0 +1,52 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verhandlungsgegenstände.</title>
+                <respStmt>
+                    <resp ref="#OCR/rke" key="transcript">Transkript: OCR/rke<date when="2011-10-25">25.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Verhandlungsgegenstände.</title>
+                    <date when="1949-04-11">11.04.1949</date>
+                    <ident>StAZH MM 24.63 KRP 1949/085/0624</ident>
+                    <idno>1567–1568</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_63_KRP_1949_085_0624_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3656690"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="1567"/>Im Einladungsschreiben vom <date>4. April 1949</date> sind nachstehende Geschäfte aufgeführt:</p>
+            <p>1. Mitteilungen.</p>
+            <p>2. Erwahrung der Ergebnisse der Volksabstimmung vom <date>3. April 1949</date> (Antrag des Büros des <orgName n="90c16461-fa7c-4245-8164-61fa7cc245da">Kantonsrates</orgName> vom <date>9. April 1949</date>) (136).</p>
+            <p>3. Ergänzung der Verordnung des <orgName n="7adc5ed8-f9b3-4d85-9c5e-d8f9b36d85b2">Kantonsrates</orgName> betreffend die Notariats- und Grundbuchgebühren (Antrag des <orgName n="c428df7f-0e86-4f2a-a8df-7f0e86af2acd">Regierungsrates</orgName> vom <date>13. Januar 1949</date> und Antrag der Kommission vom <date>12. März 1949</date>) (127).</p>
+            <p>4. Beschluß des <orgName n="739ccd2f-49aa-46a0-9ccd-2f49aaa6a084">Kantonsrates</orgName> über die Erteilung de Expropriationsrechtes an die Stiftung <orgName n="8921eab6-ded9-48a1-a1ea-b6ded9a8a117">Kreisspital <placeName n="2e0dd77b-648e-4b77-8dd7-7b648e2b77bb">Männedorf</placeName>
+                </orgName> (Antrag des <orgName n="35d9abff-c8e0-4986-99ab-ffc8e00986f2">Regierungsrates</orgName> vom <date>24. Februar 1949</date> und gleichlautender Antrag der Kommission vom <date>28. März 1949</date>) (131).</p>
+            <p>5. Gesetz über die Leistungen des <orgName n="2de267bf-deda-40ec-a267-bfdedaa0ec72">Staates</orgName> und der Gemeinden für die Besoldungen und die Alters-, Invaliditäts- und Hinterlassenenfürsorge der Volksschullehrer (Anträge des <orgName n="89236e77-197b-4a87-a36e-77197bca8794">Regierungsrates</orgName> vom <date>14. Oktober 1948</date> und der Kommission vom <date>11. März 1939</date>) (Fortsetzung der Beratungen) (111).</p>
+            <p>6. Motion <persName n="b81886ae-423d-42c4-9886-ae423dd2c407">Walter Meier</persName> - <placeName n="b705f4f4-1bf0-4191-85f4-f41bf03191bd">Winterthur</placeName> vom <date>16. März 1949</date> über Arbeitsbeschaffungsmaßnahmen und Revision der <orgName n="d0657fd5-b18c-47df-a57f-d5b18c07df06">Arbeitslosenversicherung</orgName>.</p>
+            <p>7. Interpellation <persName n="d743c7ff-889b-4db2-83c7-ff889b7db200">Robert Messikommer</persName> - <placeName n="c750e8d5-3f09-4af5-90e8-d53f091af5e4">Uster</placeName> vom <date>14. März 1949</date> über die Beschäftigung ausländischer Arbeitskräfte (Beantwortung).  <pb n="1568"/>
+            </p>
+            <p>8. Interpellation <persName n="7bc3113b-5a2f-4aee-8311-3b5a2f3aeef0">Carl Baur</persName> - <placeName n="6cbc3904-58c0-44ad-bc39-0458c0a4adfb">Zürich</placeName> vom <date>8. Dezember 1948</date> über das Strafverfahren Dr. <persName n="dd1b0995-c74e-44cf-9b09-95c74ea4cfaf">Jakob Springer</persName> (Beantwortung).</p>
+        </body>
+    </text>
+</tei:TEI>

@@ -1,0 +1,9 @@
+{
+    "person": ["PER", "PERSON", "persName", "PRS"],
+    "place": ["LOC", "GPE", "placeName", "geogName"],
+    "organization": ["ORG", "orgName"],
+    "personderiv": ["PERderiv"],
+    "placederiv": ["LOCderiv"],
+    "orgderiv": ["ORGderiv"],
+    "date": ["DATE"]
+}

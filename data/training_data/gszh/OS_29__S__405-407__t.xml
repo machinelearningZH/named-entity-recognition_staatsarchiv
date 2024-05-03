@@ -1,0 +1,96 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschluß des Regierungsrates betreffend Ausscheidung von Schutzwaldungen im
+                    Kanton Zürich.</title>
+                <respStmt>
+                    <resp ref="#jsn" key="transcript">Transkript: jsn<date when="2015-10-30">30.10.2015</date></resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl><title>Beschluß des Regierungsrates betreffend Ausscheidung von
+                        Schutzwaldungen im Kanton Zürich.</title><date from="1901-06-06" to="1901-07-31">06.06.1901-31.07.1901</date><ident>StAZH OS 29 (S.
+                        405-407)</ident><idno/><edition>Zürcher Gesetzessammlung seit 1803
+                        online</edition><figure>
+                        <graphic url="PDF_Dokumente/OS_29__S__405-407__p.pdf"/>
+                    </figure><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3471123"/></bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><pb n="405"/></p>
+            <p>Der <orgName n="f5b77b29-9b9c-4a3c-b77b-299b9c4a3c5b">Regierungsrat</orgName>,</p>
+            <p>gestützt auf:</p>
+            <p>1. Den Bundesbeschluß vom <date>15. April 1898</date> betreffend Ausdehnung der Oberaufsicht des
+                <orgName n="ad5a539f-5c10-456f-9a53-9f5c10556fb9">Bundes</orgName> über die <orgName n="32156e17-9c35-48ba-956e-179c35b8badd">Forstpolizei</orgName> auf das gesamte Gebiet der <orgName n="63dd287b-28cb-4c42-9d28-7b28cb7c427a">Eidgenossenschaft</orgName>;</p>
+            <p>2. den Bundesratsbeschluß vom <date>27. Juli 1898</date>, durch welchen der vorstehend erwähnte
+                Bundesbeschluß auf den <date>1. August 1898</date> in Kraft gesetzt wurde;</p>
+            <p>3. die Art. 4, 5, 6 und 19 des laut obiger Beschlüsse seit <date>1. August 1898</date>
+                transitorisch für die ganze <placeName n="f0ae01de-2ed1-41f6-ae01-de2ed181f6cd">Schweiz</placeName> geltenden <orgName n="2b829c4e-89a2-4926-829c-4e89a20926d4" type="deriv">eidgenössischen</orgName> Forstpolizeigesetzes
+                vom <date>24. März 1876</date>;</p>
+            <p>sowie nach Einsicht eines Antrages der <orgName n="678ed7cd-eb92-4b76-8ed7-cdeb929b760d">Volkswirtschaftsdirektion</orgName>,</p>
+            <p>beschließt: <pb n="406"/></p>
+            <p>I. Als Schutzwaldgebiete werden im Kanton <placeName n="0c88cf8c-3f69-40c9-88cf-8c3f6980c9a7">Zürich</placeName> ausgeschieden:</p>
+            <p>a) Das Gebiet der Gemeinden <placeName n="56c421c4-5cc9-4fe2-8421-c45cc93fe286">Albisrieden</placeName>, <placeName n="014bc213-5142-4792-8bc2-135142a79266">Zürich</placeName>, <placeName n="70085bb7-74eb-4231-885b-b774ebf2318f">Uitikon</placeName>, <placeName n="6454db8e-2cbc-4d3b-94db-8e2cbc7d3be0">Adliswil</placeName>, <placeName n="ad7ebe10-7182-4f06-bebe-107182ff0671">Stallikon</placeName>, <placeName n="8d802bb5-65e8-4756-802b-b565e8f7562e">Äugst</placeName>,
+                <placeName n="fd75af64-70a6-447c-b5af-6470a6e47c99">Langnau</placeName>, <placeName n="529711c9-95e8-4f75-9711-c995e8df755d">Horgen</placeName> und <placeName n="2a7d65ef-0590-40c1-bd65-ef059010c1cd">Hausen</placeName>, welches zwischen der <placeName n="9ea3e285-7576-4958-a3e2-857576b95872">Sihl</placeName> einerseits und der Straße
+                Zürich-Birmensdorf-Stallikon-Dägerst-Kloster-Mühleberg-Äugst-Vollenweid-Riedmatt-Heisch-Hausen-Sihlbrücke
+                anderseits gelegen ist.</p>
+            <p>b) Das Gebiet der Gemeinde <placeName n="a45ccce2-28ea-4145-9ccc-e228ea11458e">Hütten</placeName> links der <placeName n="f83fe424-2016-4910-bfe4-2420162910a7">Sihl</placeName>.</p>
+            <p>c) Das Gebiet der Gemeinden <placeName n="cadee054-e4a2-4747-9ee0-54e4a2a7471f">Wald</placeName>, <placeName n="bb019fa6-6e72-43e0-819f-a66e7263e00a">Fischenthal</placeName>, <placeName n="a2c5e6f7-d438-4a18-85e6-f7d4384a185e">Sternenberg</placeName>, <placeName n="9505a096-4af8-4a77-85a0-964af8fa77f0">Bauma</placeName>, <placeName n="4ce871fd-5b9b-4ef6-a871-fd5b9bbef674">Wila</placeName>, <placeName n="009b0cb9-3fb8-4329-9b0c-b93fb88329fe">Turbenthal</placeName>,
+                <placeName n="1d7e7c9a-c192-43c1-be7c-9ac192c3c1b8">Bäretswil</placeName> und <placeName n="36e66375-ae43-4db5-a663-75ae43ddb582">Hinwil</placeName>, das zwischen der Kantonsgrenze <placeName n="d470fef1-7ba8-4bd7-b0fe-f17ba8ebd74a">St. Gallen</placeName> und <placeName n="94685fd5-3067-4bbc-a85f-d530678bbcb6">Thurgau</placeName>
+                einerseits und der Straße von <placeName n="0f1a7d28-63d4-4518-9a7d-2863d455182d">Laupen</placeName> nach
+                Wald-Bäretswil-Bauma-Wila-Turbenthal-Oberhofen (<placeName n="20d3a292-1613-4a91-93a2-921613fa9168" type="deriv">thurgauische</placeName> Kantonsgrenze)
+                anderseits gelegen ist.</p>
+            <p>II. Die staatliche Aufsicht im Schutzwaldgebiete erstreckt sich auf:</p>
+            <p>a) Die Erhaltung des Waldareals.</p>
+            <p>b) Die Wiederaufforstung aller Blößen und Schläge ohne genügenden natürlichen
+                Aufwuchs.</p>
+            <p>c) Die Säuberung der Kulturen und Reinigung der Jungwüchse.</p>
+            <p>d) Die Schlagführung und Stockrodung.</p>
+            <p>e) Die Entwässerung nasser Stellen.</p>
+            <p>f) Die Einhaltung der Holzfällungs- und Abfuhrzeit und die Vollziehung der
+                Anordnungen betreffend Verhütung von Insektenschaden und Feuersgefahr.</p>
+            <p>g) Die Ausübung der Nebennutzungen und Ablösung von Servituten.</p>
+            <p>h) Sämtliche Schlaganlegungen, welche ausnahmslos – sowohl grundsätzlich als nach Art
+                und Weise der Ausführung – von der Bewilligung des Kreisforstamtes abhängig gemacht
+                werden.</p>
+            <p>III. Als Strafbestimmungen kommen diejenigen der Art. 27 und 28 des eidgenössischen
+                Forstgesetzes in Anwendung; mit Bezug auf die dort nicht erwähnten Forstvergehen
+                gelten die kantonalen Strafbestimmungen. <pb n="407"/></p>
+            <p>IV. Der <orgName n="458e0f3c-43ca-4971-8e0f-3c43caf97144">Staat</orgName> leistet zur Besoldungsaufbesserung der Förster der Privatwaldungen im
+                Schutzgebiet Beiträge, welche nach den seitens der Privaten bezahlten
+                Entschädigungen bemessen werden und im vollen Umfange den Förstern zukommen
+                sollen.</p>
+            <p>Dabei hat es die Meinung, daß da, wo bereits Privatförster vorhanden sind, die
+                bisherigen Leistungen der Privaten nicht vermindert werden dürfen; ebenso behält
+                sich der <orgName n="5e7f95fe-5eea-42ae-bf95-fe5eea12aefc">Staat</orgName> mit Bezug auf neu zu wählende Förster das Recht vor, ein Minimum der
+                seitens der Privatwaldbesitzer zu zahlenden Entschädigung festzusetzen.</p>
+            <p>V. Dieser Beschluß ist im Amtsblatt zu publizieren, sowie in Separatabzügen den
+                sämtlichen forstlichen Aufsichtsbehörden des Schutzwaldgebietes zuzustellen.</p>
+            <p><placeName n="1863e1d2-3fe4-4db1-a3e1-d23fe4bdb1da">Zürich</placeName>, den 6. Juni/31. Juli 1901.</p>
+            <p>Im Namen des <orgName n="5a25c35d-9755-4d18-a5c3-5d9755dd1858">Regierungsrates</orgName>,</p>
+            <p><table>
+                    <row>
+                        <cell>Der Präsident: </cell>
+                        <cell>Der Staatsschreiber: </cell>
+                    </row>
+                    <row>
+                        <cell><persName n="8f55582e-e13c-4161-9558-2ee13c4161b9">H. Ernst</persName>. </cell>
+                        <cell>Dr. <persName n="9060210d-f0ba-4daa-a021-0df0ba1daae2">A. Huber</persName>. </cell>
+                    </row>
+                </table></p>
+        </body>
+    </text>
+</TEI>

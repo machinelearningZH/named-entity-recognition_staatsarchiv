@@ -1,0 +1,24 @@
+{
+    "servers": {
+        "localhost": {
+            "server": "http://localhost:8080/exist",
+            "user": "admin",
+            "password": "",
+            "root": "/db/apps/tei-publisher"
+        }
+    },
+    "sync": {
+        "server": "localhost",
+        "polling": false,
+        "interval": 500,
+        "ignore": [
+            ".existdb.json",
+            ".git/**",
+            "components/**",
+            "node_modules/**",
+            "bower_components/**",
+            "build/**",
+            "webtest/**"
+        ]
+    }
+}

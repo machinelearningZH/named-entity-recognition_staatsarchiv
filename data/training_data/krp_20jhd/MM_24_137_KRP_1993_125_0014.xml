@@ -1,0 +1,61 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Interpellation Franz Cahannes, Zürich, Dorothée Fierz, Egg, und Jacqueline Fehr, Winterthur, vom 10. Mai 1993 betreffend Einrichtung eines Bevorschussungssystems in der Arbeitslosenversicherung durch die Gemeindearbeitsämter (schriftlich begründet) 
+KR-Nr. 144/1993, RRB-Nr. 1935/23.6.1993</title>
+                <respStmt>
+                    <resp ref="#OCR/jsr" key="transcript">Transkript: OCR/jsr<date when="2011-11-15">15.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Interpellation Franz Cahannes, Zürich, Dorothée Fierz, Egg, und Jacqueline Fehr, Winterthur, vom 10. Mai 1993 betreffend Einrichtung eines Bevorschussungssystems in der Arbeitslosenversicherung durch die Gemeindearbeitsämter (schriftlich begründet) 
+KR-Nr. 144/1993, RRB-Nr. 1935/23.6.1993</title>
+                    <date when="1993-09-20">20.09.1993</date>
+                    <ident>StAZH MM 24.137 KRP 1993/125/0014</ident>
+                    <idno>7977–7980</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_137_KRP_1993_125_0014_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3741436"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="7977"/>Die Interpellation hat folgenden Wortlaut: Berichtigte Fassung</p>
+            <p>Die Arbeitslosigkeit nimmt täglich zu, die Arbeitslosenkassen sind heillos überlastet. Die Taggeldzahlungen stehen in Tausenden von Fällen noch nach Monaten aus. Unverständlich ist in diesem Zusammenhang, dass das Vorschusswesen durch Auflagen des <orgName n="fb5dffa4-30c4-424a-9dff-a430c4524ab0">BIGA</orgName> verbürokratisiert und damit verkompliziert wird. Damit bleibt den Betroffenen in vielen Fällen nur die Möglichkeit, das <orgName n="6562c77c-af3e-4cd8-a2c7-7caf3e0cd8b0">Fürsorgeamt</orgName> aufzusuchen, um ihren notwendigsten Zahlungsverpflichtungen nachkommen zu können.</p>
+            <p>Wir bitten den <orgName n="44c5e309-7af5-4ce6-85e3-097af57ce63d">Regierungsrat</orgName> in diesem Zusammenhang um die Beantwortung folgender Fragen:</p>
+            <p>1. Teilt der <orgName n="02ed441f-5730-4484-ad44-1f5730f48481">Regierungsrat</orgName> die Meinung, dass Art. 20.4 AVIG und Art. 31 AVIV betreffend die Gewährung von Vorschüssen grosszügig auszulegen und in unbürokratischer Form anzuwenden wären?</p>
+            <p>2. Wie beurteilt der <orgName n="adc6e664-c323-4dd1-86e6-64c3230dd12f">Regierungsrat</orgName> folgenden Vorschlag: Zur Milderung des oben beschriebenen Missstandes erhalten die Gemeindearbeitsämter die Kompetenz, bei Bedarf den Versicherten angemessene Vorschüsse zu gewähren. Die Versicherten unterschreiben eine Abtretungserklärung, so dass die vorgeschossenen Taggelder durch die Kasse den Gemeinden zurückerstattet werden können.</p>
+            <p>3. Ist der <orgName n="2bf289b6-818d-42d8-b289-b6818da2d8d0">Regierungsrat</orgName> bereit, den Gemeinden die Zinsverluste auf die vorgeschossenen Beträge sowie den Mehraufwand abzugelten, sei es auf entsprechende Rechnungstellung oder mittels einer gemeindeweise angesetzten Pauschale? Bestünde die Möglichkeit, für diese Abgeltungen den Arbeitslosenfonds zu belasten? </p>
+            <p>
+                <pb n="7978"/>Die schriftliche Begründung wurde wie folgt abgegeben:</p>
+            <p>Die monatlich steigende Zahl an Arbeitslosen und die Zunahme der Kurzarbeit, kombiniert mit der Umstellung auf ein neues EDV-System, haben sämtliche Arbeitslosenkassen heillos in Verzug gebracht. Die Situation wird sich kurz- bis mittelfristig kaum verbessern. Zum einen müssen die Personen, die bei den Kassen in grosser Zahl neu angestellt worden sind, zuerst ausgebildet und geschult werden. Frühestens in einem halben Jahr werden sie ihre Aufgaben selbständig erledigen können. Zum andern führt der dringliche Bundesbeschluss zu spürbarem administrativem Mehraufwand. Nicht zuletzt steht 1994 die Totalrevision des AVIG an, welche nochmals Umstellungen und Komplikationen verursachen wird.</p>
+            <p>Verschiedene Kassen haben in der Vergangenheit ein unbürokratisches Vorschusswesen praktiziert und bei entsprechender Aktenlage die Vorschüsse bar am Schalter ausbezahlt. Dieses bewährte Ventil wird nun auf Anweisung des <orgName n="3659ea19-7290-4283-99ea-19729052836c">BIGA</orgName> verstopft, indem nur mehr auf schriftlichen Antrag und mittels bargeldlosem Zahlungsverkehr Vorschüsse bezogen werden können. Da die Versicherten tagtäglich auf die Auszahlung ihrer Taggelder hoffen, stellen sie solche Anträge meist erst dann, wenn sie finanziell bereits vor dem Abgrund stehen. In solchen Fällen bleibt ihnen nichts anderes mehr übrig, als das <orgName n="b73e0769-bbf8-4285-be07-69bbf8c285b9">Fürsorgeamt</orgName> aufzusuchen.</p>
+            <p>Damit werden Menschen, die bereits mit Problemen zu kämpfen haben, in ihrem Stolz erheblich verletzt. Zudem beginnt die Mühle erneut zu mahlen. Die Fürsorgestellen müssen von neuem Abklärungen vornehmen, Abklärungen notabene, die bereits im System der <orgName n="d372b15f-4013-4447-b2b1-5f40130447e4">Arbeitslosenversicherung</orgName> im Gange sind. Die Bürokratie wird damit geradezu verdoppelt.</p>
+            <p>Am nächsten bei den Versicherten stehen die Vermittlerinnen und Vermittler auf den Gemeindearbeitsämtern. Durch regelmässigen Kontakt mit den Versicherten, infolge Kenntnis der Aktenlage und der versicherungstechnischen Probleme, sind sie in der Lage, zu beurteilen, ob Ansprüche gegenüber der <orgName n="e131e3b2-4402-449e-b1e3-b24402549e06">Arbeitslosenversicherung</orgName> bestehen und in welcher Höhe. Die Möglichkeit, das Vorschusswesen direkt über die Arbeitsämter zu steuern, wäre damit gegeben.</p>
+            <p>Der <orgName n="257d711c-aba1-4fef-bd71-1caba12fefc4">Regierungsrat</orgName> antwortet wie folgt:</p>
+            <p>Gemäss Art. 30 der Verordnung über die obligatorische <orgName n="136ab225-60ed-409e-aab2-2560ed009ea3">Arbeitslosenversicherung</orgName> und die Insolvenzentschädigung (AVIV) zahlt die Arbeitslosenkasse die Entschädigung für die abgelaufene Kontrollperiode (Kalendermonat) in der Regel im Laufe des folgenden Monats aus. Gemäss Art. 104 AVIV zahlen die Kassen die Leistungen der Arbeits-  <pb n="7979"/>losenversicherung soweit möglich bargeldlos aus. Nach Art. 31 AVIV haben die Versicherten Anspruch auf einen angemessenen Vorschuss für kontrollierte Tage, wenn sie ihre Anspruchsberechtigung glaubhaft machen. Zur Festsetzung der Rahmenfrist für den Bezug von Arbeitslosenentschädigung, des Umfangs des Anspruchs und des Taggeldes benötigen die Arbeitslosenkassen folgende Unterlagen: Doppel der Anmeldung zur Stellenvermittlung, Antrag auf Arbeitslosenentschädigung, Arbeitgeberbescheinigung(en) für die letzten zwei Jahre, Kontrollausweis (Stempelkarte).</p>
+            <p>Die Arbeitgeber sind zur Ausstellung der Bescheinigungen gesetzlich verpflichtet (Art. 88 und Art. 96 des Bundesgesetzes über die obligatorische <orgName n="2d20a16c-9de8-4696-a0a1-6c9de8b69659">Arbeitslosenversicherung</orgName> und die Insolvenzentschädigung, AVIG). Arbeitgeber, die dieser Pflicht nicht nachkommen, werden verzeigt. Die verzögerte Beibringung dieser Bescheinigung(en) ist aber nicht in jedem Fall auf säumige Arbeitgeber zurückzuführen. Zum Erhalt eines Vorschusses können Versicherte die Anspruchsberechtigung glaubhaft machen, indem sie als vorläufigen Ersatz für ausstehende Arbeitgeberbescheinigungen bei der Arbeitslosenkasse Fotokopien der letzten Lohnabrechnung und der Arbeitsbestätigung (Arbeitszeugnis) einreichen.</p>
+            <p>Im Kanton sind zwölf Arbeitslosenkassen tätig. Die kantonale Verwaltung ist nur für die <orgName n="71f0b00c-0ddd-4426-b0b0-0c0ddd142670">Arbeitslosenkasse des Kantons Zürich</orgName> zuständig. Bei dieser entstand mit dem Übergang vom bisherigen Auszahlungssystem zu einem gesamtschweizerisch einheitlichen Auszahlungssystem beim Monatswechsel Januar/Februar und mit dem starken Anstieg der Arbeitslosigkeit im Januar dieses Jahres leider ein Rückstand in der Auszahlung der Januar-Taggelder. Seither hat sich der Auszahlungsrhythmus wieder normalisiert. Das Gros der Fortsetzungszahlungen kann jeweils an den ersten Arbeitstagen des Monats bearbeitet werden. Als erstmalige Zahlung richtet die <orgName n="041586dd-f5bf-4ba1-9586-ddf5bffba148">kantonale Arbeitslosenkasse</orgName> bei noch ausstehender Arbeitgeberbescheinigung einen Vorschuss aus, wenn die anderen Unterlagen und die erwähnten Ersatzdokumente eingereicht sind. Besondere Auflagen des <orgName n="31d79c95-3c11-48c8-979c-953c1108c8f7">BIGA</orgName> sind nicht bekannt. Gemäss Kreisschreiben des <orgName n="8e032b58-fb5a-445e-832b-58fb5a245e42">BIGA</orgName> über die Arbeitslosenentschädigung (Ziffer 177) bedarf das Gesuch um Vorschuss nicht der Schriftform.</p>
+            <p>Über Ansprüche auf Leistungen der <orgName n="b0a55f36-dbdd-40a5-a55f-36dbdd80a54e">Arbeitslosenversicherung</orgName> können nur die Durchführungsstellen dieser Versicherung entscheiden. Es liegt nicht in der Zuständigkeit des <orgName n="9e3cf284-cc48-46be-bcf2-84cc4826becb">Regierungsrates</orgName>, Vorschriften über Leistungen von Gemeinden unter dem Titel «Vorschüsse auf Arbeitslosenentschädigung» zu erlassen. Der <orgName n="3cda33e8-f233-479b-9a33-e8f233579b9f">Regierungsrat</orgName> begrüsst es, wenn die Gemeinden ein einfaches Vorgehen einschlagen und das Arbeitsamt  <pb n="7980"/>oder eine andere Stelle zur Erbringung von Leistungen ermächtigen, wenn die vom Arbeitslosen gewählte Arbeitslosenkasse aufgrund zwingender Bestimmungen nicht in der Lage ist, einen Vorschuss auszurichten. Die Gemeinde kann zu ihrer Absicherung mit dem Empfänger die Abtretung seiner allfälligen Ansprüche gegenüber der <orgName n="f53419a5-2786-4935-b419-a52786c935ae">Arbeitslosenversicherung</orgName> vereinbaren. Die zweckgebundenen Mittel des Arbeitslosenfonds dürfen zur Abgeltung solcher Gemeindeleistungen nicht herangezogen werden. In dauernden Notfällen ist die Inanspruchnahme der <orgName n="c549cc32-ec52-460d-89cc-32ec52160da3">Sozialhilfe</orgName> nicht zu vermeiden.</p>
+            <p>[Fortsetzung KRP_1993_125_0015]</p>
+        </body>
+    </text>
+</tei:TEI>

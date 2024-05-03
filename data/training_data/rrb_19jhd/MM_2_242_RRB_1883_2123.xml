@@ -1,0 +1,56 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vergebung der Holzlieferungen für Flußkorrektionen.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#mls">Transkript: mls<date when="2015-08-27">27.08.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2015</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Vergebung der Holzlieferungen für Flußkorrektionen.</title>
+                    <date when="1883-11-17">17.11.1883</date>
+                    <ident>StAZH MM 2.242 RRB 1883/2123</ident>
+                    <idno>522–525</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_201_MM_2_256/MM_2_242/MM_2_242_RRB_1883_2123_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3600015"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="522"/>Die <orgName n="627ed676-9937-4903-bed6-769937b903e9">Direktion der öffentlichen Arbeiten</orgName> berichtet:</p>
+            <p>Auf erfolgte Ausschreibung sind für Lieferung der verschiedenen Holzsortimente 60 Offerten eingegangen, wie sie in mitfolgende Tabellen zusammengestellt sind. Gegenüber denjenigen vom vorigen Jahr sind mit Ausnahme des Weidenholzes, welches wieder größtentheils von auswärts bezogen werden muß, die Angebote erheblich zurück geblieben, namentlich von Seite der Wald besitzenden Gemeinden, welche zugleich beitragspflichtig sind. Von diesen ist schon voriges Jahr auf Abrechnung kein Holz mehr erhältlich gewesen &amp; werden auch die neuen Lieferungen nur unter Zusicherung der Baarbezahlung erhältlich sein. Angebote von Gemeinden liegen vor von der Stadt <placeName n="3c0de372-a776-4f22-8de3-72a776cf22d9">Winterthur</placeName>, von der Zivilgemeinde <placeName n="01cc92c1-3477-4bfa-8c92-c134771bfa28">Neftenbach</placeName> &amp; von den Gemeinden <placeName n="4adc2eba-9920-43de-9c2e-ba992083dead">Flaach</placeName>, <placeName n="748e642a-961b-44e7-8e64-2a961b64e757">Klein-Andelfingen</placeName>, <placeName n="2882ad5e-c962-4100-82ad-5ec962e10084">Ossingen</placeName> &amp; <placeName n="928ccf70-6489-4512-8ccf-7064893512d1">Altikon</placeName>, sowie nachträglich noch von <placeName n="99cf713d-0258-4747-8f71-3d02584747d3">Engstringen</placeName>, außerdem ist das <orgName n="5763b308-b303-4e26-a3b3-08b3030e2685">Oberforstamt</orgName> in der Lage, ein ziemliches Quantum Wuhrholz liefern zu können. Für die <placeName n="e044397f-97a5-4474-8439-7f97a58474db">Töß</placeName> &amp; die <placeName n="ece5eb45-b054-4f63-a5eb-45b054ff63a2">Thur</placeName> wird mit Ausnahme von Weidenholz der ganze Bedarf an Tannästen, Streuholz, Mischholz &amp; Stangen nebst<pb n="523"/>Pfählen aus den betreffenden Kantonsgegenden erhältlich sein, während für die Korrektionsarbeiten an der <placeName n="d73da40e-8648-4797-bda4-0e8648c797b6">Limmat</placeName> das <placeName n="3c7c8ede-ddd7-41f3-bc8e-deddd711f362">Limmatthal</placeName> nicht genügend liefert, sondern der größere Theil auf weitere Entfernung beschafft werden muß.</p>
+            <p>Die Preise halten sich denjenigen vom letzten Jahr ziemlich gleich, mit Ausnahme derjenigen für Weidenholz, für welches gegenüber Fr. 2 40 des Vorjahres jetzt Fr. 2 55 bis Fr. 2 70 per Doppelzentner franko Bahnhof <placeName n="c2d04de4-d901-464e-904d-e4d901864efe">Winterthur</placeName> verlangt werden. Für die <placeName n="ae279f79-0dcd-4248-a79f-790dcdf24817">Thur</placeName> bedarf es c<hi rend="sup">a</hi> 1300<hi rend="sup">q</hi>, welche von der Gemeinden <placeName n="c7de3695-9ce2-4926-9e36-959ce2392683">Flaach</placeName> &amp; <placeName n="c9658bea-f4d1-4d55-a58b-eaf4d1fd550f">Altikon</placeName> &amp; einigen Privatwaldbesitzer à Fr. 2 20–Fr. 2 40 franko Baustelle erhältlich sind. – Die für die <placeName n="16ff43fe-8d35-4a13-bf43-fe8d358a1342">Limmat</placeName> nothwendigen c<hi rend="sup">a</hi> 500<hi rend="sup">q</hi> werden in der Hauptsache aus dem Kanton <placeName n="75824e81-c0f3-4ba3-824e-81c0f3bba33b">Aargau</placeName> bezogen werden. Für die Korrektionsarbeiten an der <placeName n="6d8a7bd8-ef20-4bd8-8a7b-d8ef20bbd85c">Töß</placeName> bedarf es außer dem in der Gegend selbst erhältlichen Weidenholz noch eine Zufuhr von c<hi rend="sup">a</hi> 4800 Meterzentner, &amp; es wird vorgeschlagen, die Lieferung derselben an zwei Uebernehmer zu vergeben, &amp; zwar das größere Quantum an Hrn. <persName n="14ae1863-3397-45d4-ae18-63339775d42b">E. Ernst</persName> in <placeName n="d1813465-e1c5-45b2-8134-65e1c525b2b7">Pfungen</placeName> für Holz aus dem <placeName n="a2125406-d9ac-4be7-9254-06d9acdbe76d">Elsaß</placeName> &amp; ein Quantum von 800–1000<hi rend="sup">q</hi> an Hrn. <persName n="cb2f968c-bd2c-4587-af96-8cbd2c458766">Dietschweiler</persName> für Weidenholz aus dem <placeName n="196fc819-c71b-4997-afc8-19c71b7997db">Thurgau</placeName>, um nicht ganz von den nicht seltenen Störungen in den Lieferungen aus dem <placeName n="1fc958b5-f246-47dc-8958-b5f246f7dc89">Elsaß</placeName> abhängig zu sein. //</p>
+            <p>
+                <pb n="524"/>Bei Vergebung der Lieferungen würde nun im Wesentlichen nach dem vorliegenden Tableau verfahren. Dabei sind namentlich die niedrigsten Angebote berücksichtigt worden, außerdem die Zuverläßigkeit &amp; Leistungsfähigkeit der Betreffenden, wofür bereits hinreichende Erfahrungen vorliegen, &amp; selbstverständlich die an den betreffenden Baustrecken liegenden Gemeinden, welche Holz liefern wollen &amp; das <orgName n="c834fc36-96f3-4d32-b4fc-3696f33d32ce">Oberforstamt</orgName>. Dabei hat es immerhin die Meinung, daß gemäß den Umständen &amp; Verhältnissen mit jedem Einzelnen über Preis, Quantum &amp; Zahlung u. s. w. verhandelt werde, um wo möglich günstige Bedingungen zu erzielen. Die <orgName n="c9d8914e-0d3f-49d7-9891-4e0d3f59d764">Direktion der öffentlichen Arbeiten</orgName> sucht daher die Ermächtigung nach, auf Grundlage des vorgelegten Tableaus von sich aus Lieferungsverträge abzuschließen.</p>
+            <p/>
+            <p>Der <orgName n="125e8040-48dc-45de-9e80-4048dc05deff">Regierungsrath</orgName>,</p>
+            <p>nach Einsicht eines Antrages der <orgName n="3f8ec678-5982-451a-8ec6-785982251a92">Direktion der öffentlichen Arbeiten</orgName>,</p>
+            <p>beschließt:</p>
+            <p>I. Die <orgName n="16712a23-588b-4d59-b12a-23588b9d59d2">Direktion der öffentlichen Arbeiten</orgName> wird ermächtigt, auf Grundlage des vorgelegten Tableaus für das laufende Baujahr 1883/84 für den nöthigen Holzbedarf bezügliche Lieferungsverträge abzuschließen. </p>
+            <p/>
+            <p>II. Mittheilung an die Direktion der öffent-<pb n="525"/>lichen Arbeiten zur Vollziehung unter Rücksendung der Akten.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

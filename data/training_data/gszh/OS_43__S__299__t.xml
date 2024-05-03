@@ -1,0 +1,99 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschluss des Kantonsrates über die Leistung eines Staatsbeitrages an den Neubau einer Schwesternschule sowie an Verbesserungen und Umbauten im Spital des Diakoniewerkes Neumünster in Zollikerberg</title>
+                <respStmt>
+                    <resp ref="#jsn" key="transcript">Transkript: jsn<date when="2015-05-29">29.05.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Beschluss des Kantonsrates über die Leistung eines Staatsbeitrages an den Neubau einer Schwesternschule sowie an Verbesserungen und Umbauten im Spital des Diakoniewerkes Neumünster in Zollikerberg</title>
+                    <date when="1969-02-10">10.02.1969</date>
+                    <ident>StAZH OS 43 (S. 299)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_43__S__299__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3461295"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="299"/>
+            </p>
+            <p>Der <orgName n="531a3378-a7a7-49f5-9a33-78a7a769f5aa">Kantonsrat</orgName>,</p>
+            <p>nach Einsicht eines Antrages des <orgName n="0fef1890-1024-4ac1-af18-9010240ac17b">Regierungsrates</orgName>,</p>
+            <p>beschliesst:</p>
+            <p>I. Dem <orgName n="264dace1-9458-4bb4-8dac-e19458fbb49a">Diakoniewerk Neumünster</orgName> wird an den Neubau einer Schwesternschule sowie an Verbesserungen und Umbauten in seinem Spital in <placeName n="1b39bc68-fb10-43ec-b9bc-68fb10e3ec33">Zollikerberg</placeName> ein Staatsbeitrag von Fr. 4815000.–, höchstens aber von 70 % der subventionsberechtigten Kosten gewährt.</p>
+            <p>II. Die Kreditsumme erhöht oder ermässigt sich allenfalls um 70 % der Kosten, die durch eine Bau Verteuerung oder -verbilligung in der Zeit zwischen der Aufstellung der Kostenvoranschläge und der Bauausführung entstehen.</p>
+            <p>III. Dieser Beschluss ist der Volksabstimmung zu unterbreiten.</p>
+            <p>IV. Mitteilung an den <orgName n="a4f70004-6793-4e3a-b700-046793ce3a66">Regierungsrat</orgName> zum Vollzug.</p>
+            <p>Der <orgName n="70b9879b-58ef-43c4-b987-9b58ef23c420">Kantonsrat</orgName>,</p>
+            <p>nach Einsichtnahme in den Bericht seines Büros über das Ergebnis der Volksabstimmung vom 1. Juni 1969,</p>
+            <p>wonach sich ergibt:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Zahl der Stimmberechtigten </cell>
+                        <cell>291949 </cell>
+                    </row>
+                    <row>
+                        <cell>Eingegangene Stimmzettel </cell>
+                        <cell>140765 </cell>
+                    </row>
+                    <row>
+                        <cell>Annehmende Stimmen </cell>
+                        <cell>114646 </cell>
+                    </row>
+                    <row>
+                        <cell>Verwerfende Stimmen </cell>
+                        <cell>17902 </cell>
+                    </row>
+                    <row>
+                        <cell>Ungültige Stimmen </cell>
+                        <cell>32 </cell>
+                    </row>
+                    <row>
+                        <cell>Leere Stimmen </cell>
+                        <cell>8185 </cell>
+                    </row>
+                </table>
+            </p>
+            <p>beschliesst:</p>
+            <p>Die Referendumsvorlage «Beschluss des <orgName n="716eb157-da02-401d-aeb1-57da02501d0c">Kantonsrates</orgName> über die Leistung eines Staatsbeitrages an den Neubau einer Schwesternschule sowie an Verbesserungen und Umbauten im Spital des <orgName n="be1dee2b-1d08-471d-9dee-2b1d08471d71">Diakoniewerkes Neumünster</orgName> in <placeName n="ba0a867b-8db1-47cf-8a86-7b8db137cf54">Zollikerberg</placeName>» wird als vom Volke angenommen erklärt.</p>
+            <p>
+                <placeName n="a447d49a-46de-48b2-87d4-9a46deb8b276">Zürich</placeName>, den 9. Juni 1969.</p>
+            <p>Im Namen des <orgName n="fec7cc03-12cf-44df-87cc-0312cfa4dff1">Kantonsrates</orgName>,</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Der Präsident: </cell>
+                        <cell>Der Sekretär: </cell>
+                    </row>
+                    <row>
+                        <cell>Dr. <persName n="a9039447-2a80-431a-8394-472a80e31a6b">A. Gilgen</persName> </cell>
+                        <cell>
+                            <persName n="f622d154-7fc8-4612-a2d1-547fc8f612aa">E. Stutz</persName> </cell>
+                    </row>
+                </table>
+            </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz über die Kontrolle der Mobiliarversicherungen.</title>
+                <respStmt>
+                    <resp ref="#OCR/lro" key="transcript">Transkript: OCR/lro<date when="2011-10-06">06.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Gesetz über die Kontrolle der Mobiliarversicherungen.</title>
+                    <date when="1925-06-29">29.06.1925</date>
+                    <ident>StAZH MM 24.55 KRP 1925/064/0537</ident>
+                    <idno>867–868</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_55_KRP_1925_064_0537_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3640805"/>
+                    <listRelation>
+                        <relation name="Fortsetzung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3640805" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3640854"/>
+                        <relation name="Fortsetzung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3640805" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3640796"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="867"/>Das Bureau hat in seiner Sitzung vom <date>23. Juni 1925</date> die vorberatende Kommission aus folgenden Mitgliedern bestellt:</p>
+            <p>1. <persName n="9799b9f9-fcc6-470d-99b9-f9fcc6770d80">Butz</persName> - <placeName n="4ae6e88b-81b2-4990-a6e8-8b81b299909d">Seebach</placeName>, Präsident;</p>
+            <p>2. <persName n="0f621b49-f78d-4ee3-a21b-49f78d4ee31f">Berger</persName> - <placeName n="9dcebafd-04b4-4004-8eba-fd04b4600465">Marthalen</placeName>;</p>
+            <p>3. <persName n="944d7225-5fbc-49ba-8d72-255fbc29ba1a">Casserini</persName> - <placeName n="28d8aa0d-d597-47cb-98aa-0dd597c7cb81">Bäretswil</placeName>;</p>
+            <p>4. <persName n="769e5903-9e73-4840-9e59-039e73684029">Hauser</persName> - <placeName n="6a13668a-f8ad-49cf-9366-8af8ad09cfdb">Albisrieden</placeName>;</p>
+            <p>5. <persName n="b7d06085-10f4-4f49-9060-8510f46f4995">Meyer</persName> - <placeName n="9f34e53c-f654-4e45-b4e5-3cf6549e45c2">Embrach</placeName>;</p>
+            <p>6. <persName n="8337fe54-2043-471c-b7fe-542043c71ce1">Metzger</persName> - <placeName n="899a579e-3f2d-4214-9a57-9e3f2d321467">Kemptthal</placeName>;  <pb n="868"/>
+            </p>
+            <p>7. Dr. <persName n="581d4575-7c86-4f58-9d45-757c861f584c">Meyer</persName> - <placeName n="8f0b0c5e-812e-4e1b-8b0c-5e812ebe1b0d">Richterswil</placeName>;</p>
+            <p>8. <persName n="752a0833-7500-47dc-aa08-33750027dcac">Rebsamen</persName> - <placeName n="26b9cf94-26cd-4d11-b9cf-9426cd9d11ba">Zürich</placeName>;</p>
+            <p>9. <persName n="bc517a76-472b-4b89-917a-76472b8b89dd">Stotz</persName> - <placeName n="e0e62a0e-6044-4c43-a62a-0e60440c4383">Feuerthalen</placeName>;</p>
+            <p>10. <persName n="9c05c147-7629-4cc2-85c1-4776297cc284">Waldvogel</persName> - <placeName n="9262c5af-6dea-4102-a2c5-af6dea910245">Hinwil</placeName>;</p>
+            <p>11. <persName n="e41ffce1-8c7d-41a4-9ffc-e18c7d01a456">Wuhrmann</persName> - <placeName n="394dccb9-eeb1-45f6-8dcc-b9eeb1d5f6f4">Dällikon</placeName>;</p>
+            <p>Sekretär: <persName n="22712bc6-f89f-4fe5-b12b-c6f89fbfe5d6">Kuhn</persName> - <placeName n="a2618901-4abe-469a-a189-014abeb69a53">Winterthur</placeName>.</p>
+        </body>
+    </text>
+</tei:TEI>

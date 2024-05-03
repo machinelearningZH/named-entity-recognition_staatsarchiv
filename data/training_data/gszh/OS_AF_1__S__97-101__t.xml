@@ -1,0 +1,356 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Etat der Besoldungen der öffentlichen Beamten des Cantons Zürich.</title>
+                <respStmt>
+                    <resp ref="#jsn" key="transcript">Transkript: jsn<date when="2016-05-06">06.05.2016</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Etat der Besoldungen der öffentlichen Beamten des Cantons Zürich.</title>
+                    <date when="1803-06-02">02.06.1803</date>
+                    <ident>StAZH OS AF 1 (S. 97-101)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_AF_1__S__97-101__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3544715"/>
+                    <listRelation>
+                        <relation name="Siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3544715" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3544865"/>
+                        <relation name="Siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3544715" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3544947"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="97"/>
+            </p>
+            <p>
+                <title> I.</title>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>1. </cell>
+                        <cell>Jährliche Besoldung.  </cell>
+                        <cell>Der 2 Herren Burgermeister, jedem 25 Mütt Kernen, 25 Eimer Wein, an Geld 900 Schweitzer-Franken. </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>2. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>Der 23 Mitglieder des <orgName n="1b833d8e-2ae8-451a-833d-8e2ae8c51a42">Kleinen Raths</orgName>, jedem 25 Mütt Kernen, 25 Eimer Wein, an Geld 600 Schweizerfranken. </cell>
+                    </row>
+                    <row>
+                        <cell>3. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>Der 13 Herren Ober-Richter, jedem 20 Mütt Kernen, 20 Eimer Wein, an Geld 520 Schweizerfranken. </cell>
+                    </row>
+                    <row>
+                        <cell>4. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>Der Suppleanten des <orgName n="59b2d1b8-a1e6-469c-b2d1-b8a1e6b69c2f">Obergerichts</orgName>; in den Fällen, da wegen öffentlichen Geschäften, Ausstand oder Krankheit eines Richters,  <pb n="98"/>ein Suppleant eintreten muß, für jeden Tag, da er den Sitzungen beywohnt, ein Taggeld von 4 Schweitzer-Franken. </cell>
+                    </row>
+                    <row>
+                        <cell>5. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>Der vier Bezirksstatthalter, jedem an Geld 800 Schweizerfranken. </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>NB. Da in dem Stadtbezirk ein besonderer Vollziehungsbeamter von dem <orgName n="c886797c-de89-481f-8679-7cde89e81fed">kleinen Rathe</orgName> ernennt, und ihm seine besondere Besoldung vorbehalten wird, – so sind die 800 Franken nur für jeden der 4 Bezirksstatthalter auf der Landschaft bestimmt. </cell>
+                    </row>
+                    <row>
+                        <cell>6. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>Der 5 Unterstatthalter – </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>2. </cell>
+                        <cell>im </cell>
+                        <cell>Bezirk </cell>
+                        <cell>
+                            <placeName n="740fddf7-d9cd-493a-8fdd-f7d9cd393a6d">Horgen</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>1. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>
+                            <placeName n="56cff6c5-e269-4298-8ff6-c5e269f29829">Uster</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>1. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>
+                            <placeName n="1841a1d3-c7ca-4540-81a1-d3c7ca5540a7">Bülach</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>1. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>
+                            <placeName n="ff7babf3-82fb-4dfd-bbab-f382fbcdfd48">Winterthur</placeName>, </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>jedem an Geld 640 Schweizerfranken. </cell>
+                    </row>
+                    <row>
+                        <cell>7. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>Der 5 Bezirksgerichte, jedem der 35 Richter an Geld 600 Schweizerfranken, wobey den Präsidenten für ihre mehrere Mühe die Siegeltaxen nach ehevoriger Uebung zufliessen sollen.  <pb n="99"/>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>8. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>Der Suppleanten bey den Bezirksgerichten: – In den Fällen, da wegen öffentlichen Geschäften, Ausstand oder Krankheit eines Richters, ein Suppleant eintretten muß, für jeden Tag, da er den Sitzungen beywohnt, ein Taggeld von drey Schweizerfranken. </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>
+                            <title>II.</title>
+						</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>9. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>
+                            <title>Der</title>
+						</cell>
+                        <cell>
+                            <title>Canzleyen.</title>
+						</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>" </cell>
+                        <cell>
+                            <orgName n="64cbf337-8288-46d7-8bf3-378288c6d75f">Staats-Canzley</orgName>. </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Demi 1ten Staats-Secretair 15 Mütt Kernen, </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>15 Eimer Wein, </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>an Geld 760 Schweizer-Franken, nebst freyer Wohnung. </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dem 2ten [Staatssecretair] 15 Mütt Kernen, </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>15 Eimer Wein, </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>an Geld 760 Schweizerfranken.  <pb n="100"/>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>Dem 3ten Staats-Secretair 15 Mütt Kernen, </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>15 Eimer Wein, an Geld 760 Schweizerfranken; mit Vorbehalt dessen, was in Betref der Canzleytaxen späterhin auch zu Gunsten der <orgName n="54b8b766-0e86-4570-b8b7-660e86c5700b">Staats-Canzley</orgName> angeordnet werden könnte. </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>10. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>Der </cell>
+                        <cell>Canzley </cell>
+                        <cell>des </cell>
+                        <cell>
+                            <orgName n="117a3947-066a-4a67-ba39-47066ada67b4">Obergerichts</orgName>, </cell>
+                    </row>
+                    <row>
+                        <cell>11. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>der </cell>
+                        <cell>Bezirksgerichte, </cell>
+                    </row>
+                    <row>
+                        <cell>12. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>Bezirksstatthalter, </cell>
+                    </row>
+                    <row>
+                        <cell>13. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>Unterstatthalter, </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>wird, so wie die Besoldung der Sekretariate der verschiedenen Commissionen, und der Angestellten in der <orgName n="4fca62fc-4adb-4b45-8a62-fc4adbdb45ea">Staats-Canzley</orgName> in der Folge bestimmt werden. </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <title>III.</title>
+						</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>
+                            <title>Abwarten.</title>
+						</cell>
+                    </row>
+                    <row>
+                        <cell>14. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>Des obersten Weibels. </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>An Geld 640 Franken, nebst freyer Wohnung, – wogegen ihm obliegt, für die Reinhaltung der Versammlungs-Zimmer  <pb n="101"/>auf dem Rathhause und des Gebäudes überhaupt geflissen zu sorgen, und hiezu die nöthigen Dienste zu halten. </cell>
+                    </row>
+                    <row>
+                        <cell>15. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>Der 2 Abwarten des <orgName n="53a43314-95d1-4964-a433-1495d1e964c8">kleinen Raths</orgName>, jedem an Geld 480 Schweizerfranken. </cell>
+                    </row>
+                    <row>
+                        <cell>16. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell>Der Abwarten des <orgName n="0f732067-2106-460c-b320-672106160c9a">Obergerichts</orgName>, zusammen an Geld 800 Schweizerfranken, nebst den ihnen gebührenden gesetzlichen Sporteln, deren Vertheilung sowol, als die der fixen Summe von 800 Franken, nach Maaßgabe der Geschäfte seiner Abwarten, dem <orgName n="18e173e1-303c-497f-a173-e1303cd97fcd">Obergerichte</orgName> selbst überlassen ist. </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <placeName n="477ca3d9-a97c-4c5c-bca3-d9a97c2c5c18">Zürich</placeName>, den 2. Junii 1803.</p>
+            <p>Im Namen des <orgName n="2db91742-52c3-494d-b917-4252c3c94d0d">großen Raths</orgName> unterzeichnet:</p>
+            <p>Der Amtsburgermeister,</p>
+            <p>
+                <persName n="469b995e-e379-4f7d-9b99-5ee379cf7d60">Reinhard</persName>.</p>
+            <p>Der Erste Staatsschreiber,</p>
+            <p>
+                <persName n="a42fec03-3afb-46d7-afec-033afb36d736">Lavater</persName>.</p>
+        </body>
+    </text>
+</TEI>

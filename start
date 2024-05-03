@@ -1,0 +1,8 @@
+#!/bin/bash
+
+unset SSH_AUTH_SOCK
+conda activate ner_api
+python -m uvicorn ner_api.app.main:app --reload --host localhost --port 8001 --log-config=ner_api/resources/log_conf.yaml --env-file=ner_api/.env &
+podman run --rm -p 8080:8080 -p 8444:8443 -p 8001:8001 --name tei-publisher-ner -v tei-publisher-ner:/exist/data tei-publisher-ner:local &
+sleep 10
+open "http://localhost:8080/exist/apps/tei-publisher/index.html?collection=annotate&query=&sort=title&field=text&start=1"

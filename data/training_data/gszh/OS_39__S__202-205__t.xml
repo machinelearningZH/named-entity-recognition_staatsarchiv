@@ -1,0 +1,84 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vollziehungsverordnung zum Bundesgesetz über die Luftfahrt vom 21. Dezember 1948 und zur eidg. Vollziehungsverordnung vom 5. Juni 1950.</title>
+                <respStmt>
+                    <resp ref="#jsn" key="transcript">Transkript: jsn<date when="2015-09-01">01.09.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Vollziehungsverordnung zum Bundesgesetz über die Luftfahrt vom 21. Dezember 1948 und zur eidg. Vollziehungsverordnung vom 5. Juni 1950.</title>
+                    <date when="1952-03-13">13.03.1952</date>
+                    <ident>StAZH OS 39 (S. 202-205)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_39__S__202-205__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3468953"/>
+                    <listRelation>
+                        <relation name="Aufhebung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3468953" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3460120"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="202"/>
+            </p>
+            <p>§ 1. Der <orgName n="b5cea9ca-1841-4af1-8ea9-ca1841caf14e">Regierungsrat</orgName> ist zuständig:</p>
+            <p>a)	für den Entscheid, ob dem Kanton gestützt auf Art. 4 LFG übertragene einzelne Aufsichtsbefugnisse auf dem Gebiete der Luftfahrt vom <orgName n="95b8af80-4465-4e6d-b8af-8044651e6d5f">Regierungsrat</orgName> oder von der <orgName n="bab1128e-75ff-4fb3-b112-8e75ff3fb3cb">Baudirektion</orgName> ausgeübt werden;</p>
+            <p>b)	für die Antragstellung an das <orgName n="a2eebf43-fe13-40a8-aebf-43fe13e0a8a1">Eidg. Post- und Eisenbahndepartement</orgName> betreffend die Übertragung von einzelnen Aufsichtsbefugnissen an Gemeindebehörden, Flugplatzleitungen oder dazu geeignete Verbände gemäß Art. 4 LFG;</p>
+            <p>c)	für die Stellungnahme zu Vorschriften des <orgName n="6ed54f6f-c79c-43b4-954f-6fc79ca3b40c">Eidg. Post- und Eisenbahndepartementes</orgName> über die Benützung von Gewässern und des darüber liegenden Luftraumes durch Luftfahrzeuge gemäß Art. 20 LFG;</p>
+            <p>d)	für die Ernennung des Vertreters des <orgName n="cf66612b-eb82-41b5-a661-2beb8231b5b9">Kantons</orgName> in der <orgName n="52e65902-008d-4ded-a659-02008d3ded05">Eidg. Untersuchungskommission für Flugunfälle</orgName> gemäß Art. 25 LFG und Art. 132 VVO zum LFG;</p>
+            <p>e)	für die Stellungnahme zu Gesuchen um Konzessionierung oder Bewilligung von Flugplätzen gemäß Art. 37 LFG sowie Art. 50 und 60 VVO zum LFG;</p>
+            <p>f)	für die Einleitung von Beschwerden an den <orgName n="1f3a9ef1-173e-4316-ba9e-f1173e4316af">Bundesrat</orgName> gegen den Entscheid des <orgName n="67bdfb56-96c0-402b-bdfb-5696c0702b43">Post- und Eisenbahndepartementes</orgName> in Flughafenkonzessionsfragen gemäß Art. 57 VVO zum LFG;  <pb n="203"/>
+            </p>
+            <p>g)	für die Ernennung des Vertreters des <orgName n="1f05ade6-aacd-4b98-85ad-e6aacdcb983d">Kantons</orgName> in der Rekurskommission zur Beurteilung von Anständen über die unentgeltliche Inanspruchnahme von Grundeigentum gemäß Art. 82 VVO zum LFG;</p>
+            <p>h)	für die Einleitung von Beschwerden an den <orgName n="be331531-6017-42a4-b315-31601702a467">Bundesrat</orgName> gegen Entscheide des <orgName n="bbdec7f5-6b8a-4bb9-9ec7-f56b8a6bb90c">Post- und Eisenbahndepartementes</orgName> über Konzessionsgesuche gemäß Art. 144 VVO zum LFG;</p>
+            <p>i)	für die Einleitung von Beschwerden an den <orgName n="a4998d8f-8178-4cd3-998d-8f81788cd348">Bundesrat</orgName> gegen den Entzug von Konzessionen gemäß Art. 153 VVO zum LFG.</p>
+            <p>§ 2. Die <orgName n="701ee9ec-e6b4-4276-9ee9-ece6b4927680">Ba'udir ektion</orgName> ist zuständig:</p>
+            <p>a)	für die Stellungnahme zu Konzessionsgesuchen für die gewerbsmäßige Beförderung von Personen und Sachen auf regelmäßig beflogenen Luftverkehrslinien gemäß Art. 28 LFG und Art. 143 VVO zum LFG;</p>
+            <p>b)	für die Stellungnahme zu Gesuchen konzessionierter Luftverkehrsunternehmungen um Übertragung einzelner Rechte und Pflichten oder der ganzen Konzession auf einen Dritten gemäß Art. 32 LFG und Art. 152 VVO zum LFG;</p>
+            <p>c)	für die Stellungnahme zu Reglementen des <orgName n="d9464b39-acc1-4fcd-864b-39acc1efcd7b">Luftamtes</orgName> über den Flugsicherungsdienst gemäß Art. 66 VVO zum LFG;</p>
+            <p>d)	für die Entgegennahme von Vorlagen über Bauvorhaben, die ein Flughindernis bilden, sowie für die Eröffnung des Entscheides des <orgName n="8e475a91-6d67-4176-875a-916d6751766f">Luftamtes</orgName> an den Gesuchsteller gemäß Art. 68 VVO zum LFG;</p>
+            <p>e)	für die Entgegennahme von Gesuchen über die Verlegung und wesentliche Veränderung von Flughindernissen sowie für die Eröffnung des Entscheides des <orgName n="c6ab19a9-baba-4ced-ab19-a9baba9ced4e">Luftamtes</orgName> an den Gesuchsteller gemäß Art. 69 VVO zum LFG;  <pb n="204"/>
+            </p>
+            <p>f)	für die Beschaffung von Unterlagen für das vom <orgName n="495f338e-90f6-4232-9f33-8e90f65232c9">Luftamt</orgName> zu erstellende Verzeichnis der Flughindernisse gemäß Art. 74 VVO zum LFG;</p>
+            <p>g)	für die Erklärung an das <orgName n="f1ee4e37-5b19-4629-ae4e-375b19162909">Luftamt</orgName>, daß gegen die Bewilligung von öffentlichen Flugveranstaltungen keine Einwendungen erhoben werden gemäß Art. 87 VVO zum LFG;</p>
+            <p>h)	für Einsprachen gegen das Steigenlassen von Fesselballonen gemäß Art. 103 VVO zum LFG;</p>
+            <p>i)	für die Stellungnahme zu Gesuchen um die Bewilligung von Reklame und Propaganda unter Verwendung von Luftfahrzeugen gemäß Art. 115 VVO zum LFG;</p>
+            <p>k)	für die Stellungnahme zu Gesuchen von Konzessionären um Befreiung von einzelnen auferlegten Pflichten und um Beschränkung oder Aufhebung des Betriebes vor Ablauf der Konzession gemäß Art. 146 VVO zum LFG;</p>
+            <p>l)	für die Stellungnahme zu den Flugplanentwürfen und Tarifvorschlägen des <orgName n="7b1a220c-3b9f-4d98-9a22-0c3b9f8d98b1">Luftamtes</orgName> und zur Vertretung des <orgName n="055213c6-ba26-48db-9213-c6ba26e8db32">Kantons</orgName> an den Flugplankonferenzen gemäß Art. 149 VVO zum LFG;</p>
+            <p>m) für die Gewährung von Benützungsrechten auf dem <orgName n="6fb79ef4-d468-4b73-b79e-f4d468db73c5">Flughafen Zürich</orgName> für gewerbsmäßige Flüge außerhalb des Linienverkehrs gemäß Art. 157 VVO zum LFG;</p>
+            <p>n)	für die Gewährung des Benützungsrechtes auf dem <orgName n="fd4bef11-9a58-4774-8bef-119a585774c5">Flughafen Zürich</orgName> an Schulen für die Ausbildung von Flugpersonal gemäß Art. 166 VVO zum LFG.</p>
+            <p>§ 3. Für die administrative Untersuchung von Flugunfällen in Verbindung mit dem <orgName n="2d5d85b3-035a-4cf6-9d85-b3035a2cf6c4">Eidg. Luftamt</orgName> nach Art. 24 LFG und Art. 130 VVO zum LFG sind die Bezirksanwälte unter Mithilfe der <orgName n="58e5da53-c63c-44e9-a5da-53c63cf4e9f8">Kantonspolizei</orgName> gemäß den Bestimmungen der Strafprozeßordnung zuständig.</p>
+            <p>§ 4. Anträge auf Aufhebung der Sicherungsbeschlagnahme werden vom Einzelrichter im summarischen und beschleu-  <pb n="205"/>nigten Verfahren entsprechend dem Verfahren bei der Aufhebung von Arresten (§ 20, Abs. 2, des Gerichtsverfassungsgesetzes vom 28. Januar 1911) behandelt.</p>
+            <p>§ 5. Die §§ 1 bis 3 dieser Verordnung treten sofort und § 4 nach seiner Genehmigung durch den <orgName n="f168b57b-de62-4f28-a8b5-7bde624f28c6">Bundesrat</orgName> in Kraft.</p>
+            <p>
+                <placeName n="04eeaf22-deea-4d4f-aeaf-22deea7d4fbf">Zürich</placeName>, den 13. März 1952.</p>
+            <p>Im Namen des <orgName n="cf780a3e-66fd-4d4b-b80a-3e66fd9d4b38">Regierungsrates</orgName>,</p>
+            <p>Der Präsident:</p>
+            <p>
+                <persName n="b6305e1b-f26e-48c8-b05e-1bf26ed8c8f4">Streuli</persName>.</p>
+            <p>Der Staatsschreiber i. V.:</p>
+            <p>Dr. <persName n="06ce7bd9-af9b-4258-8e7b-d9af9b82589f">O. Moesch</persName>.</p>
+            <p>Der <orgName n="73c5c03b-c174-4e1f-85c0-3bc1745e1f63">Bundesrat</orgName> hat § 4 der vorstehenden Vollziehungsverordnung am 20. August 1952 genehmigt.</p>
+        </body>
+    </text>
+</TEI>

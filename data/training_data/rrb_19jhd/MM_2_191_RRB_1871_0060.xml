@@ -1,0 +1,70 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Staatskanzlei, Beschluß betr. deren Anfrage üb. d. fernere Abverlangung v. Militärurlaubsscheinen bei Aushingabe v. Reiseausweisen.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#rlt">Transkript: rlt<date when="2013-02-08">08.02.2013</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2013</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Staatskanzlei, Beschluß betr. deren Anfrage üb. d. fernere Abverlangung v. Militärurlaubsscheinen bei Aushingabe v. Reiseausweisen.</title>
+                    <date when="1871-01-14">14.01.1871</date>
+                    <ident>StAZH MM 2.191 RRB 1871/0060</ident>
+                    <idno>49–52</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_151_MM_2_200/MM_2_191/MM_2_191_RRB_1871_0060_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3305968"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="49"/>Aus einem Berichte der <orgName n="3a6cce64-50ae-431e-acce-6450ae731e86">Staatskanzlei</orgName> vom 23. Sept. a. p. ergibt sich:</p>
+            <p>Gemäß den §§ 11,b. und 15 der Verordnung betreffend die Ertheilung von Reiseschriften vom 27. November 1854 [O. S. Band X. S. 238] und § 213 der <orgName n="1f74c087-5d78-4e4b-b4c0-875d78de4bcd" type="deriv">kantonalen</orgName> Militärorganisation [Bd. VIII. S. 454] darf die <orgName n="2269cc39-a1a5-4bbc-a9cc-39a1a59bbcef">Staatskanzlei</orgName> Pässe und Wanderbücher an Solche, die noch im dienstpflichtigen Alter stehen, nur nach Vorweisung eines Militär-Urlaubscheines ertheilen. In neuerer Zeit müssen zu den bezeichneten Reiseschriften auch die Heimatscheine gezählt werden, da weitaus die Mehrzahl der Leute, welche den Kanton verlassen, lediglich einen solchen Ausweis statt eines Passes etc. mitnimmt, nachdem derselbe durch die <orgName n="06f074ca-1e16-42d9-b074-ca1e16d2d96c">Staatskanzlei</orgName> legalisirt worden ist. Ebenso häufig werden diese Heimatscheine von auswärts her zur nachträglichen Legalisation eingesandt. Namentlich in diesen letzteren Fällen ist die <orgName n="5bdc7cd5-ae34-4267-9c7c-d5ae34326729">Staatskanzlei</orgName> öfter in der Lage, für die Beibringung der Urlaubsbewilligung selber zu sorgen, indem sie den betreffenden Bezirkskommandanten von den Begehren in Kenntniß setzt. </p>
+            <p>Eine der Bedingungen für Ertheilung des Urlaubes, die in § 213 lit. a des Militärgesetztes erwähnten Ablieferung von Militäreffekten ist weggefallen, da diese littera durch das Gesetz betreffend Ausrüstung der Wehrpflichtigen ausdrücklich aufgehoben werde. </p>
+            <p>Dagegen hat der Bezug von schuldigen Militär-<pb n="50"/>pflichtersatzbeträgen anläßlich der Ertheilung von Urlaubsbewilligungen resp. Aushingabe von Reiseausweisen u. Legalisation von Heimatscheinen bis jetzt fortgedauert und den Betrag der durch Vermittlung der <orgName n="544f9efb-0921-4435-8f9e-fb09215435a6">Staatskanzlei</orgName> jährlich eingehenden Militärpflichtersatzgelder ist nicht unbedeutend. Da es nun zum ersten Mal vorgekommen ist, daß ein Kantonsangehöriger den Behörden das Recht bestreitet, die Legalisation des Heimatscheines von dem Militärurlaub resp. von der Bezahlung des rückständigen Militärpflichtersatzes abhängig zu machen, so sieht sich die <orgName n="6d0741ef-d0d3-489c-8741-efd0d3f89cf4">Staatskanzlei</orgName> veranlaßt, den <orgName n="8c33889a-e8a5-43d0-b388-9ae8a563d0e7">Regierungsrath</orgName> um Ertheilung einer Anweisung zu ersuchen, wie es in Sachen gehalten werden solle.</p>
+            <p/>
+            <p>Es kommt in Betracht:</p>
+            <p>A. Da in neuerer Zeit zur Reise in das Ausland Heimatscheine anstatt der Pässe vielfach genügen, so sind an die Legalisation der ersteren die nämlichen Bedingungen zu knüpfen, wie an die der Pässe d. h. dieselben sind in fraglicher Beziehung als Reiseschriften zu behandeln.</p>
+            <p/>
+            <p>B. § 11.b. der Verordnung betreffend die Ertheilung von Reiseschriften vom 27. Wintermonat 1854 schreibt vor, daß der Paßbegehrende, wenn er im dienstpflichtigen Alter steht, möge derselbe den Dienst wirklich leisten oder aus irgend einem Grunde davon befreit sein, eine Urlaubsbewilligung des betreffenden <orgName n="7ffc1a75-7c5b-4796-bc1a-757c5b879672" type="deriv">militärischen</orgName> Beamten beizubringen habe.<pb n="51"/>
+            </p>
+            <p>Diese Bestimmung ist um so unerläßlicher, als sie den Militärbehörden das wirksamste Mittel an die Hand gibt, die Erfüllung der Wehrpflicht der Kantonsangehörigen, welche das Land verlassen haben oder im Begriffe stehen, es zu thun, zu kontroliren.</p>
+            <p>Der citirte § 11. b ist demnach aufrecht zu erhalten und auch auf die Heimatscheine auszudehnen.</p>
+            <p/>
+            <p>C. Eine für sich bestehende Frage ist die, in welchen Fällen die Militärbehörden einem Wehrpflichtigen den gewünschten Urlaub zur Reise ins Ausland verweigern können und sollen.</p>
+            <p>Hiefür ist zunächst § 213. b des Gesetztes betreffend die Militärorganisation vom 31. März 1852 maßgebend, welcher folgendermaßen lautet:</p>
+            <p>„eine Verweigerung dieser Bewilligung findet nur Statt, wenn ein Aufgebot noch bevorsteht, oder wenn die Bestimmungen der vorliegenden [Militär] oder des Gesetztes über den Militärpflichtersatz nicht erfüllt sind.“</p>
+            <p>Nach bisheriger Praxis der <orgName n="3c68a125-4cb8-48d4-a8a1-254cb8f8d433">Militärdirektion</orgName> werde den wirklich Dienst leistenden der Urlaub höchst selten verweigert u. sogar Leuten bewilligt, die einem auf Piket stehenden Korps angehörten, sofern das Aufgebot nicht in allernächster Aussicht stand.</p>
+            <p>Gegenüber Urlaubbegehrenden, welche sich mit dem<pb n="52"/>Militärpflichtersatz im Rückstand befanden, wurde in der Regel die Bewilligung an die Bedingung geknüpft, daß die Schuld vorerst abgetragen werde, wo sich dann aber die Zahlungsunfähigkeit den Pflichtigen herausstellte, von der Bedingung Umgang genommen u. der Urlaub ertheilt, dieß namentlich, wo es sich um Erneuerung der Ausweisschriften bereits im Ausland wohnender Kantonsbürger handelte.</p>
+            <p>Mit Rücksicht auf den Grundsatz der allgemeinen Wehrpflicht und die Gleichheit aller Bürger vor dem Gesetz ist die in Rede stehende Bestimmung des Militärgesetztes unbedingt am Platze u. es erscheine unstatthaft durch Aufhebung derselben die außer Landes gehenden Kantonsangehörigen hinsichtlich der Erfüllung ihrer Dienstpflicht besser zu stellen als die im Kanton wohnenden.</p>
+            <p>Durch das von der <orgName n="3e2a45fa-bf7a-4cee-aa45-fabf7adcee50">Militärdirektion</orgName> in Sachen beobachtete Verfahren werden überdieß allfällige Härten des Gesetzes gegenüber einzelnen Dienstpflichtigen von vornherein vermieden.</p>
+            <p/>
+            <p>Der <orgName n="ec188d53-49af-4eb9-988d-5349afdeb931">Regierungsrath</orgName>,</p>
+            <p>nach Einsicht eines Antrages der <orgName n="038ec5a7-4176-43c7-8ec5-a7417673c753">Direktion des Militärs</orgName>,</p>
+            <p>beschließt:</p>
+            <p/>
+            <p>Die <orgName n="2adc8785-38b8-4cfd-9c87-8538b84cfdd2">Staatskanzlei</orgName> ist angewiesen, bei der Ertheilung von Reiseschriften mit Einschluß der Legalisation der Heimatscheine gemäß § 11. b der betreffenden Verordnung vom 27. Wintermonat 1854 zu verfahren. </p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

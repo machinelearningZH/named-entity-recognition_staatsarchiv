@@ -1,0 +1,65 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abänderung der Verordnung über das Jugendstrafverfahren vom 31. März 1942.</title>
+                <respStmt>
+                    <resp ref="#sef" key="transcript">Transkript: sef<date when="2015-08-26">26.08.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Abänderung der Verordnung über das Jugendstrafverfahren vom 31. März 1942.</title>
+                    <date when="1951-09-27">27.09.1951</date>
+                    <ident>StAZH OS 38 (S. 767)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_38__S__767__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3469350"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="767"/>
+            </p>
+            <p>Auf Antrag der Direktionen des <orgName n="83ef095a-3b8f-4524-af09-5a3b8f45249e">Erziehungswesens</orgName>, der Finanzen und der Justiz</p>
+            <p>beschließt der <orgName n="9caa3c85-923d-4f3d-aa3c-85923d6f3dc1">Regierungsrat</orgName>:</p>
+            <p>I. § 16 der Verordnung über das Jugendstrafverfahren vom 31. März 1942 erhält folgende Fassung:</p>
+            <p>§ 16. Der <orgName n="62222da9-0519-4934-a22d-a90519793469">Regierungsrat</orgName> wählt auf Antrag der <orgName n="e4c7b9a3-fdec-461d-87b9-a3fdec861dc7">Justizdirektion</orgName>, welche zuvor die Vernehmlassung und die Wahlvorschläge des <orgName n="91b21545-53e9-43e3-b215-4553e913e31f">kantonalen Jugendamtes</orgName> einholt, für jeden Bezirk auf die Amtsdauer der Bezirksverwaltungsbehörden eine Bezirksjugendschutzkommission. Wenigstens ein Drittel der Mitglieder sollen Frauen sein.</p>
+            <p>Statt für einen Bezirk eine Jugendschutzkommission zu wählen, kann der <orgName n="28bbd412-c854-43fc-bbd4-12c85403fc25">Regierungsrat</orgName> auf Antrag der <orgName n="1a5672cb-8d17-40ed-9672-cb8d1770edeb">Justizdirektion</orgName>, welche zuvor die Vernehmlassung des <orgName n="33555c81-ee2a-435d-955c-81ee2a935d87">kantonalen Jugendamtes</orgName> einholt, die Funktionen der Jugendschutzkommission der für den Bezirk vom Bezirksrat und der Bezirksschulpflege gemäß § 16, Absatz 2 der Verordnung über das <orgName n="ffac61a3-f545-4cbe-ac61-a3f5459cbebb">kantonale Jugendamt</orgName> vom 10. Februar 1919 gebildeten Bezirksjugendkommission oder einem Ausschuß derselben übertragen, sofern mindestens ein Drittel der Kommissions- oder Ausschußmitglieder Frauen sind.</p>
+            <p>II. Veröffentlichung im Amtsblatt und in der Gesetzessammlung.</p>
+            <p>
+                <placeName n="c9899727-d058-4aee-8997-27d0587aeee2">Zürich</placeName>, den 27. September 1951.</p>
+            <p>Im Namen des <orgName n="87a91f49-5aef-4e0e-a91f-495aef4e0e8d">Regierungsrates</orgName>,</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Der Präsident: </cell>
+                        <cell>Der Staatsschreiber: </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <persName n="fe31168e-6f60-42f7-b116-8e6f6082f7e7">Streuli</persName>. </cell>
+                        <cell>Dr. <persName n="c9511058-b636-4be5-9110-58b6363be564">Isler</persName>. </cell>
+                    </row>
+                </table>
+            </p>
+        </body>
+    </text>
+</TEI>

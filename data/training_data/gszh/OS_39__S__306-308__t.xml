@@ -1,0 +1,105 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abänderung des Normalarbeitsvertrages für Hausangestellte vom 30. Januar 1947 / 20. Juli 1950.</title>
+                <respStmt>
+                    <resp ref="#jsn" key="transcript">Transkript: jsn<date when="2015-09-01">01.09.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Abänderung des Normalarbeitsvertrages für Hausangestellte vom 30. Januar 1947 / 20. Juli 1950.</title>
+                    <date when="1953-05-13">13.05.1953</date>
+                    <ident>StAZH OS 39 (S. 306-308)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_39__S__306-308__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3468992"/>
+                    <listRelation>
+                        <relation name="Änderung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3468992" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3469289"/>
+                        <relation name="Änderung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3468992" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3469579"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="306"/>
+            </p>
+            <p>Auf Antrag der <orgName n="73a54652-e7e6-438c-a546-52e7e6838ccb">Direktion der Volkswirtschaft</orgName>
+            </p>
+            <p>beschließt der <orgName n="60c4c7cd-5714-4991-84c7-cd571479913a">Regierungsrat</orgName>:</p>
+            <p>I. Der Normalarbeitsvertrag für Hausangestellte vom 30. Januar 1947/20. Juli 1950 wird in § 12, Absätze 1–3 und Absatz 8, § 20, Absatz 1, § 22, Absatz 1, und § 28, Absatz 1, wie folgt abgeändert:  <pb n="307"/>
+            </p>
+            <p>
+                <title>§ 12, Abs. 1–3:</title>
+            </p>
+            <p>Die volljährige Hausangestellte hat in jedem Kalenderjahr Anspruch auf Ferien in folgendem Umfange:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>für die ersten vier Dienstjahre </cell>
+                        <cell>je zwei Wochen, </cell>
+                    </row>
+                    <row>
+                        <cell>für die folgenden Dienstjahre </cell>
+                        <cell>je drei Wochen. </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Die jugendliche Hausangestellte hat bis und mit dem Kalenderjahr, in welchem sie das 19. Altersjahr vollendet, in jedem Kalenderjahr einen Ferienanspruch von mindestens drei Wochen, im Kalenderjahr, in welchem sie das 20. Altersjahr vollendet, einen solchen von zwei Wochen.</p>
+            <p>Für das Kalenderjahr, in dem das Dienstverhältnis angetreten oder aufgelöst wird, werden die Ferien nach dem Verhältnis der tatsächlichen Dienstzeit zum vollen Kalenderjahr bemessen. Bruchteile von weniger als einem Ferientag fallen außer Betracht.</p>
+            <p>Ferien sind erst zu gewähren, wenn das Dienstverhältnis sechs Monate, bei jugendlichen Hausangestellten, wenn es zwei Monate gedauert hat.</p>
+            <p>
+                <title>§ 12, Abs. 8:</title>
+            </p>
+            <p>Bezieht die Hausangestellte die volle Verpflegung beim Arbeitgeber, so ist ihr während der Ferien neben dem Barlohn eine Entschädigung von mindestens Fr. 4.– im Tag zu gewähren. Für jugendliche Hausangestellte beträgt diese mindestens Fr. 3.–.</p>
+            <p>
+                <title>§ 20, Abs. 1:</title>
+            </p>
+            <p>Muß die Hausangestellte ohne ihre vorgängig gegebene Zustimmung aus Gründen, die beim Arbeitgeber liegen, die Arbeit vorübergehend aussetzen, so ist sie berechtigt, für diese Zeit ohne Pflicht zur Nachleistung der Arbeit den vereinbarten Barlohn und eine Entschädigung von Fr. 6.– im Tag für ausgefallenen Naturallohn zu fordern. Sie muß sich jedoch anrechnen lassen, was sie infolge des Unterbleibens der Dienstleistung erspart oder durch anderweitige Arbeit erworben oder zu er-  <pb n="308"/>werben absichtlich unterlassen hat (Art. 332 des <placeName n="ff9aaa38-0122-49e9-9aaa-38012219e9a2" type="deriv">schweizerischen</placeName> Obligationenrechtes).</p>
+            <p>
+                <title>§ 22, Abs. 1:</title>
+            </p>
+            <p>Verweigert der Arbeitgeber der Hausangestellten ohne hinreichenden Grund den Antritt des mündlich oder schriftlich vereinbarten Dienstverhältnisses, so hat die Hausangestellte das Recht, ohne Pflicht zur Nachleistung der Arbeit entweder eine Konventionalstrafe von Fr. 20.– oder für die Dauer von drei Tagen den Barlohn und eine Entschädigung für den ausgefallenen Naturallohn in der Höhe von Fr. 6.– im Tag zu fordern.</p>
+            <p>
+                <title>§ 28, Abs. 1:</title>
+            </p>
+            <p>Entläßt der Arbeitgeber, dem ein wichtiger Grund zu sofortiger Auflösung des Dienstverhältnisses nicht zusteht, die Hausangestellte ohne Einhaltung der durch den Normalarbeitsvertrag oder durch eine Vereinbarung vorgeschriebenen Kündigungsfrist, so hat die Hausangestellte das Recht, ohne Pflicht zur Nachleistung der Arbeit entweder eine Konventionalstrafe oder bis zum Zeitpunkte, auf den die Kündigung erstmals zulässig war, den Barlohn und eine Entschädigung von Fr. 6.– im Tag für den ausgefallenen Naturallohn zu fordern. Die Konventionalstrafe beträgt während der Probezeit Fr. 20.–, nach deren Ablauf die Hälfte des monatlichen Barlohnes der Hausangestellten.</p>
+            <p>II. Dieser Beschluß tritt sofort in Kraft. Er ersetzt denjenigen vom 20. Juli 1950.</p>
+            <p>III. Veröffentlichung im Amtsblatt und in der Gesetzessammlung.</p>
+            <p>
+                <placeName n="b8f9450d-59c4-4ebd-b945-0d59c4bebd83">Zürich</placeName>, den 13. Mai 1953.</p>
+            <p>Im Namen des <orgName n="4995af96-5221-43ab-95af-96522193ab1a">Regierungsrates</orgName>,</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Der Präsident: </cell>
+                        <cell>Der Staatsschreiber: </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <persName n="04619859-43a5-4475-a198-5943a5d475cb">Heusser</persName>. </cell>
+                        <cell>Dr. <persName n="62d0bee7-9831-49df-90be-e79831c9dfe8">Isler</persName>. </cell>
+                    </row>
+                </table>
+            </p>
+        </body>
+    </text>
+</TEI>

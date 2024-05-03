@@ -1,0 +1,69 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung, betreffend die Organisation einer Behörde für die Beaufsichtigung der Cantons-Apotheke.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#sbh">Transkript: sbh<date when="2009-10-15">15.10.2009</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date/>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Verordnung, betreffend die Organisation einer Behörde für die Beaufsichtigung der Cantons-Apotheke.</title>
+                    <date when="1833-04-13">13.04.1833</date>
+                    <ident>StAZH MM 2.11 RRB 1833/0665</ident>
+                    <idno>156157</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_001_MM_2_050/MM_2_011/MM_2_11_RRB_1833_0665_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=528651"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="156"/>Es hat der <orgName n="eb551209-1eef-4a58-9512-091eef1a5848">Regierungsrath</orgName>, nach Anhörung und sorgfältiger Berathung eines von dem <orgName n="84865b55-7b05-4471-865b-557b055471c4">Gesundheitsrathe</orgName> unterm 10. d. M. erstatteten Berichtes und Antrages, nachfolgende Verordnung erlaßen:</p>
+            <p>
+                <hi rend="underline">Verordnung</hi>
+            </p>
+            <p>
+                <hi rend="underline">betreffend die Organisation einer Behörde für die </hi>
+                <hi rend="underline">Beaufsichtigung der <orgName n="f8e541fb-869c-4f7c-a541-fb869cef7c62">Cantons-Apotheke</orgName>
+                </hi>
+                <hi rend="underline">.</hi>
+            </p>
+            <p/>
+            <p>§. 1.</p>
+            <p>Die Beaufsichtigung der <orgName n="24c0e209-1ca9-47bc-80e2-091ca9b7bceb">Cantons-Apotheke</orgName> wird einer besondern Commißion übertragen. // </p>
+            <p/>
+            <p>
+                <pb n="157"/>§. 2.</p>
+            <p>Die Commißion besteht aus drey vom <orgName n="f8fcb784-9b5e-45a6-bcb7-849b5e45a681">Gesundheitsrath</orgName> selbst aus seiner Mitte oder aus deßen Sectionen gewählten Mitgliedern, von denen das erste Mitglied des <orgName n="d4e02df9-22c4-46a5-a02d-f922c436a581">Regierungsrathes</orgName> seyn soll, welches das Präsidium zu führen hat; von den 2. übrigen soll wenigstens das eine Mitglied ein Apotheker seyn. Ferner aus einem ebenfalls vom <orgName n="78fd6f9c-bac3-43aa-bd6f-9cbac363aa87">Gesundheitsrathe</orgName> gewählten klinischen Director und aus einem Mitgliede der <orgName n="c46df4a8-d30b-48cb-adf4-a8d30ba8cb92">Spitalpflege</orgName>, das von ihr selbst gewählt wird. Die Amtsdauer der Mitglieder dieser Commißion ist auf 4. Jahre festgesetzt, mit zweyjähriger Erneuerungswahl. Die zwey zuletzt bezeichneten Mitglieder fallen zuerst in dieselbe; nach vier Jahren die übrigen Mitglieder.</p>
+            <p/>
+            <p>§. 3.</p>
+            <p>Der Cantons-Apotheker hat den Sitzungen der Commißion beyzuwohnen, so oft er dazu von derselben eingeladen wird.</p>
+            <p/>
+            <p>§. 4.</p>
+            <p>Die Commißion versammelt sich alljährlich wenigstens zwey Mahl, und erstattet dem <orgName n="f40d3c96-04ee-4ec1-8d3c-9604eefec15f">Gesundheitsrathe</orgName> jährlich einen Bericht über die Verrichtungen des Cantons-Apothekers und die Verhältniße der Apotheke im abgewichenen Jahre.</p>
+            <p/>
+            <p>Von dieser Verordnung wird dem <orgName n="c9a70bc8-ed3f-4465-a70b-c8ed3fc465b8">Gesundheitsrath</orgName> mit der Einladung Kenntniß gegeben, nunmehr beförderlich die nöthige Bestellung der Commißion vorzunehmen. </p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

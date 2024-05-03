@@ -1,0 +1,53 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Interpellation Fritz Bucher (SP, Zürich) und Rene Mahrer (SP, Zürich) vom 14. März 1979 betreffend die Engpässe in der Krankenpflege</title>
+                <respStmt>
+                    <resp ref="#OCR/mls" key="transcript">Transkript: OCR/mls<date when="2011-11-07">07.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Interpellation Fritz Bucher (SP, Zürich) und Rene Mahrer (SP, Zürich) vom 14. März 1979 betreffend die Engpässe in der Krankenpflege</title>
+                    <date when="1979-05-28">28.05.1979</date>
+                    <ident>StAZH MM 24.100 KRP 1979/007/0036</ident>
+                    <idno>399–401</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_100_KRP_1979_007_0036_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3727533"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="399"/>
+                <persName n="32ff2335-39ac-4e9e-bf23-3539ac6e9e98">F. Bucher</persName> (<orgName n="c1b8e92d-e225-44fc-b8e9-2de22574fc15">SP</orgName>, <placeName n="6c1093a9-b753-4a06-9093-a9b7539a0645">Zürich</placeName>): Ich bin in der Lage, eine Interpellation, die ich vor zwei Wochen eingereicht habe, bereits zu begründen. Es scheint doch so, dass wir zu einer Normalisierung im Ratsbetrieb gelangen. Es gibt im Grunde genommen drei Arten von Interpellationen. Die eine, die Entscheide, welche die <orgName n="9a0ab72e-8a1e-41e5-8ab7-2e8a1ec1e552">Regierung</orgName> getroffen hat, umbiegen möchte, was im Grunde genommen nur noch selten gelingt, die zweite Art, wenn man «Hasen aufscheucht», und die dritte, die darauf ausgerichtet ist, die Öffentlichkeit über ein gewisses Zeitproblem zu orientieren. Mir geht es um die dritte Art, und ich weiss, dass ich in dieser Frage nicht allein stehe. Frau <persName n="5cfc50fe-2a7b-4499-bc50-fe2a7b349963">Bohren</persName> hat in ähnlichem Sinn vor einiger Zeit interpelliert. In den meisten Spitälern, in vielen Heimen und Kliniken ist man heute von einer grossen Sorge erfüllt. Die Sorge ist der Personalmangel. Bereits in der Antwort der <orgName n="fed12357-9dbb-430e-9123-579dbbf30ef7">Regierung</orgName> auf die Interpellation von Frau <persName n="339e2be4-4360-4fce-9e2b-e443602fcec7">Bohren</persName> wird festgehalten, dass dies nicht mit dem Personalstopp zu-  <pb n="400"/>sammenhängt, sondern dass viele Stellen heute einfach mit dem besten Willen nicht mehr besetzt werden können. Wir laufen in eine beängstigende Situation. Es zeichnet sich ab, dass gewisse Abteilungen geschlossen werden müssen, und dies nicht nur während der Ferien, sondern auch darüber hinaus. Man muss sich fragen, ob die medizinische Versorgung noch in vollem Umfang gewährleistet sein wird. Das gilt vielleicht besonders für die <orgName n="178d6dd6-4cf4-4abc-8d6d-d64cf4fabca6">Unfallklinik</orgName>, für die Intensivstation am <orgName n="425d6c25-e2f8-4fa1-9d6c-25e2f85fa1d5">Universitätsspital Zürich</orgName>. Ich frage mich, was geschieht, wenn nicht alle Unfallopfer aufgenommen werden können. Wer wird dann aufgenommen? Sind es Schweizer, Ausländer, Alte, Junge, sind es Arme, sind es Reiche? Das Problem ist ausserordentlich ernst und muss hier diskutiert und besprochen werden. Der Engpass im Pflegedienst zeichnet sich mehr und mehr ab. Die <orgName n="07bf0fac-b8ca-46c0-bf0f-acb8ca16c0f5">Gesundheitsdirektion</orgName> wird sich überlegen müssen, welche Massnahmen getroffen werden müssen, um lang- oder kurzfristig über die Runden zu kommen, wo der Hebel anzusetzen ist, damit kein Zusammenbruch der ärztlichen Versorgung eintritt. Man muss sich überlegen, wie der gute Stock und die guten Mitarbeiter in den Spitälern gehalten werden können. In der Krankenpflege hat sich ausserordentlich viel gewandelt. Es werden mehr Leute ausgebildet, aber es wandern auch mehr Leute ab. Ein Zeichen dafür, dass sie mit dem Beruf nicht mehr zufrieden sind. Wir müssen uns überlegen, was werbemässig anzuordnen ist; wir müssen versuchen, die Bevölkerung in weitem Sinne besser über diese Berufe aufzuklären, und danach trachten, dass zusätzliche Leute rekrutiert werden können. Es stellen sich in diesem Zusammenhang einige Fragen über die Arbeitsbedingungen, über den erschwerten Dienst, über die Belastung und die Belastbarkeit im Pflegeberuf, über die Schwere der Verantwortung, die mangelnde Abwechslung, die Einseitigkeit, aber auch Fragen über das Gehalt und die Freizeit, über jene, die effektiv bezogen werden kann. Ein entscheidendes Problem scheint mir in diesem Zusammenhang auch die Kommunikation zu sein, das Miteinanderreden, und an dem hapert es an vielen Spitälern ausserordentlich stark. Es ist hart, wenn Mitarbeiterinnen und Mitarbeiter in Spitälern vor vollendete Tatsachen gestellt werden. Ich möchte hier nicht verallgemeinern. Es ist sicher Tatsache, dass in einem kleinen Spital in der Regel die Kommunikation besser klappt als in einem grösseren. Man muss versuchen, die Verständigung zu fördern, sie muss Tatsache werden. Es lässt  <pb n="401"/>sich nicht leugnen, dass gute Schwestern die Spitäler verlassen, weil sie über den Dienstbetrieb enttäuscht sind. Man spricht ihnen öffentlich die Anerkennung aus, übergeht sie jedoch in vielen wichtigen Belangen des Spitalbetriebs. Das Anrecht auf Mitsprache, auf Mitbestimmung, ist insbesondere im Spitalbetrieb von entscheidender Bedeutung. Ich glaube, wir müssen dafür sorgen, Verhältnisse zu schaffen, welche dazu führen, den Pflegerinnen- und Pflegerberuf attraktiver zu gestalten, damit wir Menschen mit sozialen Neigungen, die gewillt sind, zu helfen und zu dienen, nicht vor den Kopf stossen.</p>
+            <p>Die Beantwortung der Interpellation erfolgt an einem der vier nächsten Sitzungstage. Das Geschäft ist bis dahin erledigt.</p>
+            <p>Hier werden die Beratungen abgebrochen.</p>
+            <p>Kantonsratspräsident Dr. <persName n="193c7681-8faa-4cad-bc76-818faa7cadfa">K. Müller</persName> stellt am Schluss der Sitzung fest: Wir haben heute einen erheblichen Aktualitätsgewinn in den Ratsverhandlungen erreicht. Nachdem die Traktandenliste am Anfang dieser Amtsdauer 101 Geschäfte umfasste, wird die nächste noch 34 oder 35 Traktanden umfassen.</p>
+            <p>Schluss der Sitzung: 16.40 Uhr.</p>
+            <p>Nächste Sitzung: Montag, 11. Juni 1979, 9.15 Uhr.</p>
+            <p>
+                <placeName n="f6427e67-693a-4c04-827e-67693a7c04a4">Zürich</placeName>, 28. Mai 1979</p>
+            <p>Der Sekretär: <persName n="6690131a-b58c-47ef-9013-1ab58cb7ef39">Erhard Szabel</persName>
+            </p>
+            <p>Vom Büro des <orgName n="bb57709d-5eed-433a-9770-9d5eede33a31">Kantonsrates</orgName> in seiner Sitzung vom 16. August 1979 genehmigt. </p>
+        </body>
+    </text>
+</tei:TEI>

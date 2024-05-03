@@ -1,0 +1,43 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bericht des Kantonsratsbureaus über die Ventilation, Heizung und Bestuhlung im Kantonsratssaal.</title>
+                <respStmt>
+                    <resp ref="#OCR/ihr" key="transcript">Transkript: OCR/ihr<date when="2011-10-17">17.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Bericht des Kantonsratsbureaus über die Ventilation, Heizung und Bestuhlung im Kantonsratssaal.</title>
+                    <date when="1920-03-30">30.03.1920</date>
+                    <ident>StAZH MM 24.52 KRP 1920/117/0954</ident>
+                    <idno>2644</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_52_KRP_1920_117_0954_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3629796"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="2644"/>Referent ist der I. Vizepräsident <persName n="fa19683c-4783-429f-9968-3c4783029f63">Streuli</persName> - <placeName n="c556ab2d-aca7-4bcb-96ab-2daca77bcbda">Horgen</placeName>. Von der <orgName n="54446c7a-eee9-471a-846c-7aeee9a71a1a">Baudirektion</orgName> ist dem <orgName n="a977a46b-09d8-4a51-b7a4-6b09d82a51ce">Bureau des Kantonsrates</orgName> auf dessen Ersuchen hin eine Vorlage über eine neue Bestuhlung, Beheizung und Ventilation des Ratsaales unterbreitet worden. Die Gesamtkosten dieser Neueinrichtungen wurden auf 244,000 Franken berechnet. Die Zuführung der frischen Luft geschieht nach den Plänen in unsichtbaren Kanälen durch Ventilatoren mit Motorbetrieb. Die schlechte Luft wird mittelst Sauglöchern, die unter den Sitzen angebracht sind, nach außen abgeführt. Für die Beheizung des Saales ist eine Dampfheizung vorgesehen, welche zugleich die Aufgabe hätte, die eingeführte neue frische Luft vorzuwärmen. Der Referent erinnert daran, daß im Dezember dieses Jahres eine Volkszählung stattfindet, die ohne Zweifel eine Vermehrung der Einwohnerzahl und demgemäß nach dem heutigen Wahlgesetze auch eine Erhöhung der Mitgliederzahl des <orgName n="864ad0be-1b70-46fe-8ad0-be1b7086fe57">Kantonsrates</orgName> zur Folge hätte, sofern nicht eine Erhöhung des Quorums oder eine Fixierung der Mitgliederzahl beschlossen wird. Bis das entschieden ist, beantragt der Referent im Namen des Bureaus, mit den vorgesehenen Restaurationsarbeiten zuzuwarten, um so mehr, als sich die Frage erheben wird, ob der Kantonsratssaal seiner Bestimmung erhalten bleibt. Um seiner historischen Bedeutung willen sollte man ihn nicht verlassen. Die Finanzlage des <orgName n="3c22b0e2-22d1-4dcd-a2b0-e222d15dcd2f">Staates</orgName> gestattet nicht, für eine eventuell kurze Zeit einen solchen Betrag für Reparaturen auszugeben.</p>
+            <p>Der Rat stimmt stillschweigend zu. </p>
+        </body>
+    </text>
+</tei:TEI>

@@ -1,0 +1,44 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschwerde des G. Berger, in Zürich 6 über das Statthalteramt Uster.</title>
+                <respStmt>
+                    <resp ref="#OCR/ihr" key="transcript">Transkript: OCR/ihr<date when="2011-10-17">17.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Beschwerde des G. Berger, in Zürich 6 über das Statthalteramt Uster.</title>
+                    <date when="1920-03-08">08.03.1920</date>
+                    <ident>StAZH MM 24.52 KRP 1920/111/0901</ident>
+                    <idno>2531</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_52_KRP_1920_111_0901_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3629736"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="2531"/>Durch Zuschrift vom <date>4. März 1920</date> beschwert sich ein <persName n="d994604b-7956-4c43-9460-4b79561c4338">G. Berger</persName>, wohnhaft <placeName n="6e9c3439-1cff-4c69-9c34-391cff6c69d3">Habsburgerstraße 42</placeName>, <placeName n="a6f6fb1c-1a6e-4bc7-b6fb-1c1a6e5bc790">Zürich 6</placeName>, über die Bezirksanwaltschaft und das <orgName n="353d28bc-b55c-4e27-bd28-bcb55cce27e3">Statthalteramt <placeName n="bac62dad-e881-49d7-862d-ade881a9d7c7">Uster</placeName>
+                </orgName> wegen „Akten- und Unterschriftenfälschungen“. <persName n="3a265d51-cdba-44bd-a65d-51cdbaf4bdfe">Berger</persName> sei am <date>14. Juli 1918</date> „wegen nicht ganz korrektem Angeln am <placeName n="fc639cd9-66e7-418b-a39c-d966e7618b95">Greifensee</placeName>“ vom Fischereipächter angehalten, von demselben um 20 Fr. gebracht und dann erst noch zwei Tage in Untersuchungshaft gesetzt worden. Nachträglich seien ihm gefälschte Akten zugestellt worden, und zwar mit Datum vom <date>1. April 1919</date>, um ihn als Aprilnarren zu verhöhnen.</p>
+            <p>Die Beschwerde geht an den <orgName n="79fc3e3a-221b-45d1-bc3e-3a221b55d138">Regierungsrat</orgName> zuhanden der <orgName n="6310ee12-a82a-4243-90ee-12a82a7243d4">Justizdirektion</orgName> zur Erledigung.</p>
+        </body>
+    </text>
+</tei:TEI>

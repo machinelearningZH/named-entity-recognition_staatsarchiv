@@ -1,0 +1,91 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschluss des Kantonsrates über die Bewilligung eines Kredites für den Bau einer nordwestlichen Umfahrungsstrasse von Bonstetten, von der Zürichstrasse, HVS S, I. Kl. Nr. 1, bis zur Stationsstrasse I. Kl. Nr. 2, als Strasse I. Kl.</title>
+                <respStmt>
+                    <resp ref="#sef" key="transcript">Transkript: sef<date when="2015-05-21">21.05.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Beschluss des Kantonsrates über die Bewilligung eines Kredites für den Bau einer nordwestlichen Umfahrungsstrasse von Bonstetten, von der Zürichstrasse, HVS S, I. Kl. Nr. 1, bis zur Stationsstrasse I. Kl. Nr. 2, als Strasse I. Kl.</title>
+                    <date when="1978-03-06">06.03.1978</date>
+                    <ident>StAZH OS 46 (S. 835-836)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_46__S__835-836__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3460277"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="835"/>
+            </p>
+            <p>Der <orgName n="2af5681a-8081-4ef2-b568-1a80819ef242">Kantonsrat</orgName>,</p>
+            <p>nach Einsichtnahme in einen Antrag des <orgName n="5d7c92b9-132b-4dc1-bc92-b9132b4dc147">Regierungsrates</orgName>,</p>
+            <p>beschliesst:</p>
+            <p>I. Für den Bau einer nordwestlichen Umfahrungsstrasse I. Kl. in der Gemeinde <placeName n="91e9c526-fbc1-4a8a-a9c5-26fbc13a8ae1">Bonstetten</placeName>, von der <placeName n="fc18a6bc-518c-4379-98a6-bc518cf3793f">Zürichstrasse</placeName>, HVS S, I. Kl. Nr. 1 im <placeName n="666fe268-298f-4ed9-afe2-68298f9ed921">Zil</placeName>, bis zur <placeName n="8b7164b7-c63b-4aaf-b164-b7c63bcaaf6f">Stationsstrasse</placeName> I. Kl. Nr. 2 bei den <placeName n="f059081e-ef49-4bae-9908-1eef497baeea">Fischmatten</placeName>, wird zu Lasten der Strassenrechnung ein Kredit von 2,5 Millionen Franken bewilligt.</p>
+            <p>II. Die Kreditsumme erhöht oder ermässigt sich entsprechend der Bauverteuerung oder -verbilligung zwischen der Aufstellung des Kostenvoranschlages (Preisstand 1. Februar 1976) und der Bauausführung.</p>
+            <p>III. Dieser Beschluss unterliegt dem fakultativen Referendum.</p>
+            <p>IV. Veröffentlichung im Amtsblatt, Textteil, und in der Gesetzessammlung.</p>
+            <p>V. Mitteilung an den <orgName n="caf48e73-0741-4d11-b48e-7307419d11a3">Regierungsrat</orgName> zum Vollzug.</p>
+            <p>
+                <placeName n="96132341-62ca-42f3-9323-4162cab2f379">Zürich</placeName>, den 6. März 1978</p>
+            <p>Im Namen des <orgName n="14d7090a-c3bd-4629-9709-0ac3bd6629c0">Kantonsrates</orgName>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Der Präsident: </cell>
+                        <cell>Der Sekretär: </cell>
+                    </row>
+                    <row>
+                        <cell>Dr. <persName n="483ad36c-3b15-4a5c-bad3-6c3b15fa5cee">
+                                <persName n="0a58fa52-cf1b-416a-98fa-52cf1b916afb">J. Landolt</persName> </persName>
+                        </cell>
+                        <cell>
+                            <persName n="7486cb4e-ec50-4ec0-86cb-4eec50aec0da">R. Widmer</persName>  <pb n="836"/>
+                        </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Gegen den vorstehenden Kantonsratsbeschluss wurde das Referendum nicht ergriffen; der Beschluss ist somit in Rechtskraft erwachsen.</p>
+            <p>
+                <placeName n="1c4632b4-ed5d-4435-8632-b4ed5d6435f6">Zürich</placeName>, den 8. Mai 1978</p>
+            <p>Im Namen des <orgName n="05103d7c-2aaa-440a-903d-7c2aaaa40acf">Kantonsrates</orgName>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Der Präsident: </cell>
+                        <cell>Der Sekretär: </cell>
+                    </row>
+                    <row>
+                        <cell>Dr. <persName n="436cb38f-2ab4-4659-acb3-8f2ab41659ea">
+                                <persName n="6e1e8dee-3a06-462d-9e8d-ee3a06b62dbe">J. Landolt</persName> </persName>
+                        </cell>
+                        <cell>
+                            <persName n="90fd0eb4-70df-49ba-bd0e-b470dfa9ba72">R. Widmer</persName> </cell>
+                    </row>
+                </table>
+            </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Postulat Franz Cahannes, Zürich, und Anna Guler, Zürich, vom 23. November 1992 betreffend Revision der kantonalen Bürgerrechtsverordnung (schriftlich begründet) 
+KR-Nr. 307/1992, Entgegennahme</title>
+                <respStmt>
+                    <resp ref="#OCR/amr" key="transcript">Transkript: OCR/amr<date when="2011-11-15">15.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Postulat Franz Cahannes, Zürich, und Anna Guler, Zürich, vom 23. November 1992 betreffend Revision der kantonalen Bürgerrechtsverordnung (schriftlich begründet) 
+KR-Nr. 307/1992, Entgegennahme</title>
+                    <date when="1993-02-22">22.02.1993</date>
+                    <ident>StAZH MM 24.135 KRP 1993/099/0006</ident>
+                    <idno>6284–6285</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_135_KRP_1993_099_0006_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3741286"/>
+                    <listRelation>
+                        <relation name="Fortsetzung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3741286" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3741027"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="6284"/>Das Postulat hat folgenden Wortlaut:</p>
+            <p>Der <orgName n="0bf93ec0-bd7b-46a2-b93e-c0bd7b06a2bd">Regierungsrat</orgName> wird ersucht, die seit dem 25. Oktober 1978 gültige Verordnung über das Gemeinde- und das Kantonsbürgerrecht (<orgName n="e7141794-a721-4558-9417-94a721555839" type="deriv">kantonale</orgName> Bürgerrechtsverordnung, teilrevidiert am 4. Dezember 1991) einer weiteren Prüfung zu unterziehen.</p>
+            <p>Die Revision der Bürgerrechtsverordnung soll insbesondere bezüglich der ordentlichen Einbürgerung von Ausländern anstreben:</p>
+            <p>– die Vereinfachung der Abklärungen und die Verkürzung der Verfahrensdauer;</p>
+            <p>– die Streichung von § 29 Abs. 4, wonach bei Personen mit Geburtsort im Ausland die Aufnahme ohne Begründung abgelehnt werden kann;  <pb n="6285"/>
+            </p>
+            <p>– die Anrechnung aller ausserkantonalen Aufenthaltsjahre;</p>
+            <p>– eine weitere lineare Reduktion sowie den Wegfall von <orgName n="84377eec-09ce-4784-b77e-ec09ce87847c" type="deriv">kantonalen</orgName> Einbürgerungsgebühren bei Personen, die 20 und mehr Jahre im Kanton ansässig sind;</p>
+            <p>– eine Begrenzung der Gemeindeeinbürgerungsgebühren für im Ausland geborene Gesuchstellerinnen und Gesuchsteller auf maximal 100% der <orgName n="26e99648-1875-4cf4-a996-481875bcf483" type="deriv">kantonalen</orgName> Gebühren.</p>
+            <p>Die schriftliche Begründung wurde wie folgt abgegeben:</p>
+            <p>Der Einbürgerung im Wege stehen heute das bürokratische Verfahren, die «Verhöre» und Prüfungen, die lange Verfahrensdauer sowie die hohen Einbürgerungsgebühren, welche weniger gut Verdienende abzuschrecken vermögen. Eine vollständige Integration der hier lebenden niedergelassenen ausländischen Bevölkerung als politische Zielvorstellung sollte nicht durch unnötige Hindernisse behindert werden.</p>
+            <p>Von den Arbeitnehmern und Arbeitnehmerinnen wird seit Jahren eine immer grössere Mobilität verlangt. Um so stossender ist der Umstand zu werten, dass Personen, die nach Jahren den Kanton wechseln, diese Aufenthaltsjahre nicht angerechnet werden. Im weiteren haben Ausländer, die eine bestimmte Zeit im Kanton gelebt haben, durch ihre Arbeit und die entrichteten Steuern Wesentliches zum Wohlstand beigetragen. Es ist nicht einzusehen, wieso sie nun noch zusätzliche <orgName n="bc70d6ca-ffc4-4e4c-b0d6-caffc4be4c9d" type="deriv">kantonale</orgName> Gebühren entrichten sollten.</p>
+            <p>Ratspräsident <persName n="02766c6f-c3f2-4dc2-b66c-6fc3f28dc22b">Fritz Jauch</persName>: Der <orgName n="329f7cdd-98d2-4d52-9f7c-dd98d28d52a0">Regierungsrat</orgName> ist bereit, das Postulat zur Prüfung und Berichterstattung entgegenzunehmen.</p>
+            <p>
+                <persName n="7e3ea574-c8ca-454c-bea5-74c8cae54c4a">Erwin Kupper</persName> (<orgName n="1cf99072-6734-4abd-b990-7267343abdf8">SD</orgName>, <placeName n="a4273cab-98fc-4d6d-a73c-ab98fced6d72">Glattfelden</placeName>) beantragt, das Postulat nicht zu überweisen.</p>
+            <p>Die Diskussion wird auf eine spätere Sitzung verschoben.</p>
+            <p>Das Geschäft ist vorläufig erledigt.</p>
+        </body>
+    </text>
+</tei:TEI>

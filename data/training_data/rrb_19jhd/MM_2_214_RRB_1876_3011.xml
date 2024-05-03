@@ -1,0 +1,56 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Jakob] Burkhart v. Trillfingen; Landrechtsertheilung.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#ihr">Transkript: ihr<date when="2015-04-14">14.04.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2015</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>[Jakob] Burkhart v. Trillfingen; Landrechtsertheilung.</title>
+                    <date when="1876-11-11">11.11.1876</date>
+                    <ident>StAZH MM 2.214 RRB 1876/3011</ident>
+                    <idno>503–504</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_201_MM_2_256/MM_2_214/MM_2_214_RRB_1876_3011_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3372521"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="503"/>Herr a. Reg. <persName n="2de0ea91-c9fe-4479-a0ea-91c9fe747956">Rath Brändli</persName> sucht mit Zuschrift vom 1. dieß um Ertheilung des Kantonsbürgerrechtes an Hrn. <persName n="b1ef6c3e-17f8-4e57-af6c-3e17f86e57bb">Jakob Burkhart</persName> von <placeName n="55aa76b2-095a-4fa3-aa76-b2095a6fa312">Trillfingen</placeName> - <placeName n="5554cb83-79ca-4c32-94cb-8379caac324a">Preußen</placeName>, wohnhaft in <placeName n="7b8bbe8b-55d8-4d5d-8bbe-8b55d8ad5d86">Außersihl</placeName>, welcher am 22. Oktober eventuell in den Bürgerverband der Gemeinde <placeName n="4042e9f1-1d9c-40a6-82e9-f11d9cd0a6d0">Außersihl</placeName> aufgenommen wurde, nach.</p>
+            <p>Nach den beigelegten Akten ist der Ausweis über die in den §§ 18 [Abs. 1] und 19 des Gemeindegesetzes für die Bürgerrechtserwerbung vorgeschriebenen Erfordernisse geleistet; von der Beibringung des Ausweises über die Entlassung des Hrn. <persName n="a1432f5a-adac-4280-832f-5aadac22804f">Burkhart</persName> aus dem <placeName n="8c728f48-f63f-4f23-b28f-48f63fff23cc" type="deriv">preußischen</placeName> Staatsverbande [§ 21. Abs. 3] kann im vorliegenden Falle abstrahirt werden, mit Rücksicht darauf, daß Petent be-<pb n="504"/>absichtigt, sich bleibend in der <placeName n="a1e2e49e-e126-4c87-a2e4-9ee126ac87b2">Schweiz</placeName> aufzuhalten und nie nach <placeName n="67a9043d-092c-4e0a-a904-3d092c8e0a2f">Deutschland</placeName> zurückzukehren.</p>
+            <p/>
+            <p>Der <orgName n="3de22995-5c0b-48ca-a229-955c0b78ca0e">Regierungsrath</orgName>,</p>
+            <p>nach Einsicht eines Antrages der <orgName n="f7e5b954-a854-46fe-a5b9-54a854a6fecc">Direktion des Innern</orgName>,</p>
+            <p>beschließt:</p>
+            <p/>
+            <p>1. Dem Herrn <persName n="02c17f8d-0e39-4305-817f-8d0e398305fc">Jakob Burkhart</persName> wird das Kantonsbürgerrecht ertheilt und seine Aufnahme in das Bürgerrecht der Gemeinde <placeName n="3b0b4b85-0686-4194-8b4b-8506860194d6">Außersihl</placeName> bestätigt, unter der Bedingung, daß er sich innert Monatsfrist über Bezahlung der Einkaufsgebühren in das Gemeinde- und Kantonsbürgerrecht, letzterer im Betrage von Frk. 50 bei der <orgName n="57f6cb9d-d6ba-44b5-b6cb-9dd6ba44b528">Staatskanzlei</orgName> ausweise.</p>
+            <p/>
+            <p>2. Nach Erfüllung dieser Bedingung ist ihm die Landrechtsurkunde auszustellen.</p>
+            <p/>
+            <p>3. Mittheilung an den Petenten unter Rücksendung der betreffenden Akten, an den <orgName n="251a76f2-6cf6-4171-9a76-f26cf6617199">Gemeindrath Außersihl</orgName> und die <orgName n="eda8b172-5daf-4455-a8b1-725daf145529">Direktion der Finanzen</orgName>.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

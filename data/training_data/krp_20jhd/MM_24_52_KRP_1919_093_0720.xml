@@ -1,0 +1,46 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bewilligung eines Kredites für die Erweiterung der Scheune und Stallungen der Korrektionsanstalt Ringwil. (Traktandum 5).</title>
+                <respStmt>
+                    <resp ref="#OCR/ihr" key="transcript">Transkript: OCR/ihr<date when="2011-10-17">17.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Bewilligung eines Kredites für die Erweiterung der Scheune und Stallungen der Korrektionsanstalt Ringwil. (Traktandum 5).</title>
+                    <date when="1919-10-27">27.10.1919</date>
+                    <ident>StAZH MM 24.52 KRP 1919/093/0720</ident>
+                    <idno>2170</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_52_KRP_1919_093_0720_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3629544"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="2170"/>Der <orgName n="6f1775ef-62cc-48ab-9775-ef62cc98ab0c">Regierungsrat</orgName> beantragt durch Vorlage vom <date>18. September 1919</date>, der <orgName n="1e8449df-4109-47cf-8449-df410977cf6a">Kantonsrat</orgName> möchte beschließen:</p>
+            <p>I. Für die Erweiterung der Scheune und Stallungen der <orgName n="58169745-adce-408a-9697-45adce308ab0">Korrektionsanstalt Ringwil</orgName> wird ein Kredit von 50,000 Fr. erteilt.</p>
+            <p>II. Mitteilung an den <orgName n="dad5d45d-5cb6-4a7c-95d4-5d5cb68a7cab">Regierungsrat</orgName> zum Vollzug.</p>
+            <p>Dr. <persName n="7c818f36-572c-4bd1-818f-36572c8bd148">O. Huber</persName> - <placeName n="d143303f-3ccb-4000-8330-3f3ccbc00007">Winterthur</placeName> spricht namens der <orgName n="d0789c07-9ebd-4727-b89c-079ebdb7274b">Staatsrechnungsprüfungskommission</orgName> und beantragt Bewilligung des Kredites.</p>
+            <p>Der Rat stimmt zu.</p>
+        </body>
+    </text>
+</tei:TEI>

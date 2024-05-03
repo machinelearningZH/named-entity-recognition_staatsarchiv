@@ -1,0 +1,46 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Einfrage des H[errn] Unterstatthalter Kauffmann von Küsnacht, welcher Behörde die Ausübung des Rechtstriebs zukomme.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#msu">Transkript: msu<date when="2003-04-28">28.04.2003</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2013</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Einfrage des H[errn] Unterstatthalter Kauffmann von Küsnacht, welcher Behörde die Ausübung des Rechtstriebs zukomme.</title>
+                    <date when="1803-08-25">25.08.1803</date>
+                    <ident>StAZH MM 1.2 RRB 1803/0816</ident>
+                    <idno>415–416</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_1_001_MM_1_051/MM_1_002/MM_1_2_RRB_1803_0816_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1555222"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="415"/>Da der Herr Unterstatthalter <persName n="67a69049-262e-4728-a690-49262e9728b4">Kaufmann</persName> [sic!] von <placeName n="71a0c626-d01b-48a9-a0c6-26d01b48a9b2">Küßnacht</placeName> [sic!] mittelst seiner Zuschrift vom 23ten Augstmonat den <orgName n="c7a56726-edea-405e-a567-26edea505e44">Kleinen Rath</orgName> auf die Nothwendigkeit einer provisorischen Bestimmung derjenigen Behörde welcher die Aus-<pb n="416"/>übung des Rechtstriebs zukomme, aufmerksam macht, und die Folgen darstellt, welche sich hin und wieder aus der ungleichartigen, und an keine feste Norm gebundene Behandlung dieses Gegenstandes ergeben haben, – so wird beschloßen, nachstehendes Circulare an sämtliche Herren Bezirks und Unterstatthalter abgehen zu laßen:</p>
+            <p>Da der Zeitpunkt der Wiedereröffnung des Rechtstriebs vorhanden ist, und sich aus dem Mangel einer gesezlichen Bestimmung derjenigen Behörde, welcher die Ausübung des Rechtstriebs zukomme, eine, mit verschiedenen mißbeliebigen Folgen begleitete ungleiche Behandlung dieses Gegenstandes ergeben hat, auch dießfalls verschiedene Einfragen an die <orgName n="d88bec5e-b832-4ae0-8bec-5eb8323ae09b">Regierung</orgName> gelangt sind, – so wird die Besorgung des Rechtstriebs provisorisch und mit Vorbehalt anderweitiger gesezlicher Bestimmungen, in jedem Gemeindsbezirk des hiesigen Cantons ausschließend in die Hand des Gemeindammanns gelegt; welches den sämtlichen Herren Bezirks- und Unterstatthalteren durch Zustellung gegenwärtiger Erkanntnuß zu wißentlichem Verhalt und weiterer Bekanntmachung angezeigt wird.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

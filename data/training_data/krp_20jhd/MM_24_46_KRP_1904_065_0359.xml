@@ -1,0 +1,44 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reglement betreffend die Filialen der Kantonalbank, Vorlage des Bankrates vom 29. April 1903, Antrag der Bankrechnungsprüfungskommission.</title>
+                <respStmt>
+                    <resp ref="#OCR/lsz" key="transcript">Transkript: OCR/lsz<date when="2011-11-16">16.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Reglement betreffend die Filialen der Kantonalbank, Vorlage des Bankrates vom 29. April 1903, Antrag der Bankrechnungsprüfungskommission.</title>
+                    <date when="1904-03-01">01.03.1904</date>
+                    <ident>StAZH MM 24.46 KRP 1904/065/0359</ident>
+                    <idno>1078–1079</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_46_KRP_1904_065_0359_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3621960"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="1078"/>Unterm <date>29. April 1903</date> hat der Bankrat den Entwurf für ein „Reglement für die Filialen der <orgName n="98d1b494-90f4-479f-91b4-9490f4b79feb">Zürcher Kantonalbank</orgName>“ eingereicht. Derselbe ist der <orgName n="b45514f2-4a59-4254-9514-f24a59925428">Bankrechnungsprüfungskommission</orgName> zum Bericht und Antrag  <pb n="1079"/>überwiesen worden. Namens der Kommission referiert Herr Dr. Huber-Winterthur. Die Hauptneuerung enthält Art. 3: Es wird die Kompetenz der Filialen hinsichtlich des Wechselverkehrs zunächst innert den bisher geltenden Grenzen belassen, dagegen dem Bankrate die Befugnis eingeräumt, die Kompetenzen einzelner oder aller Filialen mit Bezug auf das Wechselgeschäft zu erweitern. Insbesondere für die Filialen in den industriellen Bezirken (<placeName n="0d08a4f4-24e0-4e37-88a4-f424e00e37cc">Winterthur</placeName>, <placeName n="541d592a-0db9-4ad5-9d59-2a0db9bad51d">Rüti</placeName>, <placeName n="9777301c-61bb-4f23-b730-1c61bb6f23cd">Horgen</placeName>, <placeName n="b3adbc4e-bab4-4e0e-adbc-4ebab44e0e20">Uster</placeName>) hat sich das Bedürfnis geltend gemacht, die Kunden durch direkte Abgabe von Checks, Anweisungen und kurzfälligen Wechseln auf ausländische Plätze bedienen zu können. Im ferneren soll den Filialen – um Zinsverluste zu ersparen – gestattet werden können, Checks, Anweisungen und kurzfällige Wechsel für Rechnung und nach Anweisung der Hauptbank auch an Dritte zu indossieren. Sodann wird bestimmt, daß die Filialen auch Einzahlungen entgegennehmen für Kunden, die mit der Hauptbank oder einer anderen Filiale in Rechnung stehen. Es sind die Filialen – innert der ihnen vom Bankrate gesetzten Grenzen – ermächtigt, für Rechnung der Hauptbank Mandate auf letztere und auf die <placeName n="19216406-f386-4a70-a164-06f386aa70a9" type="deriv">schweizerischen</placeName> Emissionsbanken auszustellen, und solche der Hauptbank, der anderen Filialen und der <placeName n="2d6b7784-2f63-44f3-ab77-842f6354f3a5" type="deriv">schweizerischen</placeName> Emissionsbanken einzulösen.</p>
+            <p>Beide Bestimmungen werden wesentlich zur Erleichterung des Zahlungs- und Übertragungsverkehrs beitragen und den Kunden der <orgName n="52a67907-6990-4203-a679-076990f2039e">Zürcher Kantonalbank</orgName> schätzenswerte Vorteile bieten. Während nach dem jetzt geltenden Reglement jeder Filiale zwei Beisitzer beigegeben sind, soll nach dem neuen Entwurfe die Zahl der Beisitzer für jede Filiale vom Bankrate bestimmt werden. Nach dem bisherigen Reglement führen für die Filiale <placeName n="4304df8a-a48e-480e-84df-8aa48ec80e90">Winterthur</placeName> der Verwalter und der Kassier die Kollektivunterschrift. Die Geschäfte dieser Filiale und namentlich deren Kassaverkehr haben sich derart vermehrt, daß es als angezeigt erscheint, zur Entlastung des Kassiers noch einen dritten Beamten mit der Kollektiv-Prokura zu betrauen.</p>
+            <p>Die Kommission beantragt Annahme des Reglements in globo. Das wird stillschweigend beschlossen. Von der Genehmigung wird dem <orgName n="2dc306a5-7902-4c96-8306-a57902dc9692">Bankrate</orgName> Kenntnis gegeben.</p>
+        </body>
+    </text>
+</tei:TEI>

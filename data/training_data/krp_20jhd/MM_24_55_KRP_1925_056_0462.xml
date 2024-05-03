@@ -1,0 +1,43 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Eintritt neuer Ratsmitglieder (Traktandum 1).</title>
+                <respStmt>
+                    <resp ref="#OCR/lro" key="transcript">Transkript: OCR/lro<date when="2011-10-06">06.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Eintritt neuer Ratsmitglieder (Traktandum 1).</title>
+                    <date when="1925-03-16">16.03.1925</date>
+                    <ident>StAZH MM 24.55 KRP 1925/056/0462</ident>
+                    <idno>769</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_55_KRP_1925_056_0462_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3640722"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="769"/>Mit Zuschriften vom <date>12. März 1925</date> teilt der <orgName n="8f5b193b-1256-4dcc-9b19-3b12564dcc5f">Regierungsrat</orgName> mit, daß im II. Kantonsratswahlkreis (Stadt <placeName n="e7d0c99a-8814-43a6-90c9-9a881473a605">Zürich</placeName>, Kreise 3, 4 und 5) an Stelle des die Wahl ablehnenden <persName n="8b00536f-92da-4f2e-8053-6f92daff2e64">Fritz Brupbacher</persName>, in <placeName n="7ce7c56b-2d9e-40dc-a7c5-6b2d9e50dca9">Zürich 4</placeName>, <persName n="f410f006-6faa-4670-90f0-066faac67024">Oskar Schultheß</persName>, Lokomotivführer, in <placeName n="f1d57cea-e171-4d75-957c-eae1713d7501">Zürich 5</placeName>, und im XIII. Wahlkreis an Stelle des die Wahl ablehnenden Dr. <persName n="3a21a52b-2fb1-4fd5-a1a5-2b2fb1dfd5f3">Oskar Sulzer</persName>, Dr. <persName n="be664859-d6db-4b63-a648-59d6db5b6359">O. Denzler</persName>, in <placeName n="b21b9727-8f97-429e-9b97-278f97529e9d">Winterthur</placeName>, als gewählt erklärt worden sind.</p>
+            <p>Dr. <persName n="5472a94e-0c7b-45bd-b2a9-4e0c7b25bd10">Denzler</persName> - <placeName n="2e65e10f-9720-4e16-a5e1-0f9720ce1651">Winterthur</placeName> leistet das Amtsgelübde.</p>
+        </body>
+    </text>
+</tei:TEI>

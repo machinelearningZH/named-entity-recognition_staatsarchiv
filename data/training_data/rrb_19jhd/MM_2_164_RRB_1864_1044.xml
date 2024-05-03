@@ -1,0 +1,57 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bundesrath, Uebermittlung v. Beweisakten üb. die Verehelichung des [Fridolin] Rotzler in Hancok, Staat New-York mit der verstorb. [Barbara] Hofmann v. Maur.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#ukr">Transkript: ukr<date when="2013-04-24">24.04.2013</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2013</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Bundesrath, Uebermittlung v. Beweisakten üb. die Verehelichung des [Fridolin] Rotzler in Hancok, Staat New-York mit der verstorb. [Barbara] Hofmann v. Maur.</title>
+                    <date when="1864-06-13">13.06.1864</date>
+                    <ident>StAZH MM 2.164 RRB 1864/1044</ident>
+                    <idno>590</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_151_MM_2_200/MM_2_164/MM_2_164_RRB_1864_1044_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=2525511"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="590"/>
+            </p>
+            <p>[<hi rend="italic">Präsidial-Verfügungen.</hi>
+            </p>
+            <p>
+                <hi rend="italic">Actum den 13. Juni 1864</hi>
+                <hi rend="italic">.</hi>]</p>
+            <p/>
+            <p>Mit Zuschrift vom 10. d. Mts. theilt der <orgName n="89ac29bc-ae97-4559-ac29-bcae976559b3">Bundesrath</orgName> mit, <persName n="d25b2689-d6c0-449c-9b26-89d6c0849cad">Fridolin Rotzler</persName>, in <placeName n="39591e77-210e-4706-991e-77210e67067c">Hancok</placeName>, <placeName n="eb622a84-4def-4a4d-a22a-844deffa4da5">Delaware Co.</placeName> <placeName n="c4686e93-b6ab-4076-a86e-93b6abe076a3">New-York</placeName>, habe nach Empfang des herwärtigen Berichtes vom 14. März d. Js. über den dießseitigen Nachlaß seiner verstorbenen Frau <persName n="ee38cac3-392a-48d3-b8ca-c3392a98d3cf">Barbara geb. Hofmann</persName>, von <placeName n="453c61bf-91c9-4c02-bc61-bf91c9fc029f">Maur</placeName>, dem <placeName n="9e07ad50-80be-452e-87ad-5080be052e44" type="deriv">schweiz.</placeName> Konsulat in <placeName n="27781d08-9721-4fac-b81d-0897210faca8">New-York</placeName> die Beweisakten für seine Verehelichung, sowie über Geburt und Leben der aus dieser Ehe entsprungenen fünf Kinder eingereicht. Zugleich übermittelt der <orgName n="dd99db7f-0c61-49e7-99db-7f0c6169e7db">Bundesrath</orgName> diese Beweisakten gehörig beglaubigt mit dem Ersuchen, für die Bereinigung dieser Erbschaftssache das weiter erforderliche vorkehren u. über die Erledigung sr. Zt. Bericht zu erstatten.</p>
+            <p/>
+            <p>Es wird verfügt:</p>
+            <p/>
+            <p>Sei hievon unter Zustellung der erwähnten Dokumente der <orgName n="7c392f7e-85af-4f2b-b92f-7e85af2f2b34">Civil-Abtheilung des Obergerichtes</orgName> Mittheilung zu machen u. dieselbe zu ersuchen, von dem weitern Verlauf dieser Angelegenheit zu Handen des <orgName n="3d926c81-2e9e-4f54-926c-812e9e4f548f">Bundesrathes</orgName> sr. Zt. dem <orgName n="53f6bd25-0b54-4419-b6bd-250b54b41948">Regierungsrathe</orgName> Kenntniß zu geben.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

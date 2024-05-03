@@ -1,0 +1,80 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Geschäftsbericht des Regierungsrates für das Jahr 1929 (Traktandum 6).</title>
+                <respStmt>
+                    <resp ref="#OCR/mls" key="transcript">Transkript: OCR/mls<date when="2011-11-17">17.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Geschäftsbericht des Regierungsrates für das Jahr 1929 (Traktandum 6).</title>
+                    <date when="1930-11-10">10.11.1930</date>
+                    <ident>StAZH MM 24.57 KRP 1930/038/0356</ident>
+                    <idno>543–547</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_57_KRP_1930_038_0356_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3650262"/>
+                    <listRelation>
+                        <relation name="Fortsetzung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3650262" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3650287"/>
+                        <relation name="Fortsetzung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3650262" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3650253"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="543"/>Fortsetzung der Beratung.</p>
+            <p>
+                <orgName n="d565a396-9e9e-4933-a5a3-969e9ed9339e">Polizeidirektion</orgName>.</p>
+            <p>Dr. <persName n="f33cd50f-457e-4166-bcd5-0f457eb1661e">Pestalozzi</persName> - <placeName n="69865c9d-4935-4d02-865c-9d4935cd0219">Zürich</placeName> wünscht vermehrte Öffnung der Akten der <orgName n="a99e880e-51e9-4c53-9e88-0e51e90c5399">Polizeidirektion</orgName> zuhanden der Betroffenen, nicht nur bei der <orgName n="c90a75df-11f2-44bb-8a75-df11f2a4bb5b">Fremdenpolizei</orgName>, sondern auch bei den anderen Abteilungen. Es soll unter bestimmten Bedingungen geschehen, nämlich dann, wenn die Erhebungen der <orgName n="95f66874-25a4-42ad-b668-7425a402adcc">Polizei</orgName> abgeschlossen sind und bereits eine Verfügung vorliegt, ferner dann, wenn der Petent gutbeleumdet ist und Gewähr bietet für diskrete Behandlung, und drittens, wenn jeder Mißbrauch mit den Akten ausgeschlossen ist. Ohne Garantie der Aktenöffnung kann das Verfahren der <orgName n="baf7fefb-90e4-412f-b7fe-fb90e4712f12">Polizei</orgName> keinen Anspruch auf Unparteilichkeit erheben. Der Redner verweist auf andere Verfahren, in denen die Einsicht in die Akten gesetzlich gewährt ist.</p>
+            <p>Dr. <persName n="abb2efc5-ff3b-40e4-b2ef-c5ff3b90e462">Hitz</persName> - <placeName n="cd3b61f3-66e0-4a79-bb61-f366e02a79d1">Zürich</placeName> unterstützt das Begehren des Vorredners, ohne aber die Einschränkungen, die dieser gezogen hat, billigen zu können. Heute ist es fast unmöglich, gegen Verfügungen der <orgName n="e76db797-a126-4ae1-adb7-97a1261ae16d">Polizeidirektion</orgName> zu rekurrieren, weil die Grundlagen fehlen. Die Aktenöffnung ist um so notwendiger, weil bei Poliseverfügungen vielfach politische Momente mitspielen, namentlich in Ausweisungsfällen.</p>
+            <p>Dr. <persName n="a0102010-629d-481e-9020-10629dc81e3d">Guhl</persName> - <placeName n="a9d6c226-86b9-4be3-96c2-2686b90be385">Zürich</placeName> ist mit der Anregung von Dr. <persName n="d96aec51-25c1-4e58-aaec-5125c19e5864">Pestalozzi</persName> einverstanden, befürchtet aber, daß auf diesem Wege unter der heutigen gesetzlichen Lage das Ziel nicht erreicht werde. Deshalb muß eine gesetzliche Regelung getroffen wer-   <pb n="544"/>den; dies ist von der Kommission zur Vorberatung des Gesetzes über die <orgName n="1a05de00-2b2d-47fc-85de-002b2df7fce2">Verwaltungsrechtspflege</orgName> und die Kompetenzkonflikte erkannt worden und soll Im genannten Gesetz geregelt werden.</p>
+            <p>Dr. <persName n="25ff45e4-9044-45f1-bf45-e4904475f15e">Eugster</persName> - <placeName n="4301183b-00b7-4fc0-8118-3b00b7efc05c">Zürich</placeName> beantragt, auf die Anregung von Dr. <persName n="dad2fec7-615a-497b-92fe-c7615a897b71">Pestalozzi</persName> nicht einzutreten, weil es sich um ein ganz besonderes Verfahren handelt, bei dem Material beschafft werden muß. Werden die Akten geöffnet, so wird die Beibringung von Beweismaterial außerordentlich erschwert. Der Rekurs richtet sich fast immer gegen die Begründung einer Verfügung; die obere Instanz wird dann jeweilen an Hand der Akten die Einwände prüfen. Sehr schwer wird es sein, die Einschränkungen, die Dr. <persName n="3d7c1aec-1915-493a-bc1a-ec1915193a08">Pestalozzi</persName> genannt hat, festzustellen. Wir müssen Vertrauen in unsere Verwaltung haben.</p>
+            <p>Dr. <persName n="be2becf9-61fe-483f-abec-f961fec83fab">Lang</persName> - <placeName n="b3ce78bd-b354-4686-8e78-bdb354468612">Zürich</placeName> wendet sich entschieden gegen die Argumentationen des Vorredners. Das Vertrauen in die Behörden ist nur bei denjenigen vorhanden, die nicht davon betroffen sind. Es ist zu beachten, daß die Verfügungen in der Regel auf Grund von Berichten der Polizeisoldaten getroffen werden; die Richtigkeit dieser Rapporte kann von der verfügenden Behörde nicht geprüft werden. Das jetzige Verfahren ist für die Verwaltung angenehmer, als wenn die Akten geöffnet werden, aber so gut wie die Gerichte es tun, müssen sich auch die Verwaltungsbehörden darein fügen.</p>
+            <p>Dr. <persName n="54d2ae14-c702-4554-92ae-14c702d55400">Faas</persName> - <placeName n="f4a76e6f-e901-439f-a76e-6fe901739fc7">Zürich</placeName> unterstützt den Vorredner. Wir haben in unserer Demokratie einen viel zu geringen Respekt vor den Freiheitsgarantien. Nicht auf die aktiven und politischen Freiheiten kommt es allein an, einem Angeschuldigten muß in seiner Verteidigung Freiheit gegeben werden.</p>
+            <p>
+                <persName n="3cca1492-81d2-46a9-8a14-9281d266a9cb">Trostel</persName> - <placeName n="361484f6-3834-41ef-9484-f6383441ef49">Zürich</placeName> wendet sich gegen die Schnüffelei der <orgName n="39c75fde-e30f-4923-875f-dee30fe92331">Polizei</orgName> bei Einbürgerungen und Niederlassung von Ausländern. In <placeName n="d2827c82-5319-4e5d-827c-825319de5d6f">Zürich</placeName> wird man abgewiesen, wenn man Abonnent des „<orgName n="69749b46-a266-41b5-b49b-46a266b1b554">Kämpfer</orgName>“ ist. Der Redner zitiert wieder einen Fall, in welchem Arbeitern das Asylrecht verweigert worden ist mit der Begründung, sie würden den Arbeitsmarkt überlasten. Der städtische Polizeidirektor unter dem roten Regime macht es nicht besser.</p>
+            <p>
+                <persName n="e1f21634-3a3f-4b5c-b216-343a3fdb5c46">Pfister</persName>, Polizeidirektor, erklärt, es sei bei der Beurteilung der vom Vorredner aufgegriffenen Frage tatsächlich auch der Arbeitsmarkt zu konsultieren, namentlich auch bei der Behandlung von hier einwandernden Ausländern. Bezüg-  <pb n="545"/>lich des Antrages Dr. <persName n="6a1d4332-cc0e-46f0-9d43-32cc0e76f023">Pestalozzi</persName> steht der Redner auf dem gleichen Boden wie der Antragsteller; es gibt aber Fälle, in denen die Akten nicht geöffnet werden können, wie der Redner an Beispielen darlegt. Die Anregung wird ohne bestimmte Vorschriften entgegengenommen; in kurzem werden übrigens <orgName n="925d2e09-e745-426b-9d2e-09e745c26b11" type="deriv">eidgenössische</orgName> Bestimmungen über diese Angelegenheit erscheinen.</p>
+            <p>
+                <persName n="87c2f634-98d2-468b-82f6-3498d2668b76">Trostel</persName> - <placeName n="181ded06-a4f0-4d4b-9ded-06a4f0fd4b05">Zürich</placeName> hält seine Anschuldigungen gegenüber der <orgName n="b8977a36-ae93-4d8e-977a-36ae931d8e0f">Kantonspolizei</orgName> aufrecht, sie stehe in Verbindung mit faschistischen Organisationen; auch seien Ausweisungen erfolgt, die eine Verletzung des Asylrechtes bedeuten.</p>
+            <p>Der Vorsitzende verweigert dem Ratsmitglied <persName n="eff7b450-b8de-4a10-b7b4-50b8de3a100d">Bickel</persName> das Wort, weil die Diskussion geschlossen werden sei, und zitiert eine Bemerkung im „<orgName n="c56ab585-605e-4211-aab5-85605e721174">Kämpfer</orgName>“, wo erklärt wurde, der <orgName n="285825ac-04d8-4753-9825-ac04d87753df">Kantonsrat</orgName> sei für die <orgName n="eb78d14a-0e9b-4ead-b8d1-4a0e9bcead17" type="deriv">Kommunisten</orgName> die Tribüne, von der aus sie ihre Parteipropaganda ausüben.</p>
+            <p>
+                <persName n="d567594e-228f-421f-a759-4e228f321f03">Walter</persName> - <placeName n="1668ab85-3b1d-4707-a8ab-853b1de707da">Zürich</placeName> wünscht Auskunft, warum der Vorsitzende das Wort nicht an <persName n="7ab40444-022b-4b97-b404-44022beb97b6">Bickel</persName> erteile. Auch er betrachte übrigens das <orgName n="d79f10e3-96e6-474d-9f10-e396e6b74d86">Parlament</orgName> als die gegebene Tribüne zur Propagierung der Parteizwecke.</p>
+            <p>Der Vorsitzende beruft sich darauf, daß er genügend Gelegenheit gegeben habe, die Diskussion zu benützen. Nachdem der Referent das Schlußwort gehabt habe, könne die Diskussion nicht wieder aufgenommen werden.</p>
+            <p>
+                <persName n="a06d1c9d-1b26-4e50-ad1c-9d1b269e50b5">Bickel</persName> - <placeName n="989f226e-78ea-4998-9f22-6e78ead998a8">Zürich</placeName> stellt fest, daß er nur zur Geschäftsordnung sprechen wollte.</p>
+            <p>Dr. <persName n="45eff15e-e566-4e75-aff1-5ee5668e7515">Gasser</persName> - <placeName n="0bc5a4b5-0030-4463-85a4-b50030846316">Winterthur</placeName> glaubt, die Diskussion sollte nach dem Votum des Regierungsvertreters noch fortgesetzt werden können.</p>
+            <p>Der Vorsitzende stellt fest, daß das auch seine Ansicht sei und schließt die Diskussion endgültig.</p>
+            <p>Der Abschnitt „<orgName n="25817ac5-bca1-4182-817a-c5bca1c1823d">Polizeidirektion</orgName>“ wird genehmigt.</p>
+            <p>
+                <orgName n="025baabc-1069-4cce-9baa-bc10698cce11">Direktion des Gesundheitswesens</orgName>.</p>
+            <p>
+                <persName n="40324622-0f66-4e3b-b246-220f661e3b4c">Henggeler</persName> - <placeName n="7e864627-c384-43fd-8646-27c384b3fd14">Zürich</placeName> referiert und erwähnt besonders beachtenswerte Stellen des Berichtes. Die Kommission hat auch den Milchuntersuchungen besondere Aufmerksamkeit geschenkt. Es zeigt sich, daß die Milchverbände eine weit-  <pb n="546"/>gebende Kontrolle ausüben und regelmäßige Untersuchungen der Sammelstellen und der Ställe vornehmen. Die Milchverbände geben sich alle Mühe, eine einwandfreie Milch zu liefern. Wie im gedruckten Bericht der Kommission festgestellt wird, hat die Kommission durch Augenschein in verschiedenen Kranken- und Versorgungsanstalten Einblick in den Anstaltsbetrieb genommen. Sie stellt fest, daß die Leiter dieser Anstalten und ihre Mitarbeiter bestrebt sind, das Beste im Interesse der ihnen anvertrauten Kranken zu leisten. Pflicht des <orgName n="2344ab2f-59d4-49ae-84ab-2f59d489ae24">Staates</orgName> ist es anderseits, die Anstaltsleiter und das Personal in der Erfüllung ihrer schweren Aufgabe wirksam zu unterstützen. Das wird dadurch erreicht, daß der <orgName n="144f987e-2dee-4149-8f98-7e2deec149cd">Staat</orgName> den Ausbau der Anstalten weiterführt. Die Kommission ist der Auffassung, daß dadurch die Anstaltsleitungen in Stand gesetzt werden, den Heilzweck so weitgehend als möglich zu erfüllen. Die Anstellungsverhältnisse des Pflegepersonals sollen so geregelt werden, daß gut qualifizierte Angestellte herangezogen und dauernd behalten werden können. Speziell die Arbeitszeit sollte so bemessen sein, daß dem Pflegepersonal die notwendigen Ruhepausen gewährt werden. Die Kommission erachtet eine Reduktion der heute geltenden Arbeitszeit dieser Angestellten im Interesse der Anstaltsbetriebe liegend. Der allgemeine Teil des Berichtes wird ohne Diskussion genehmigt. Der Referent begründet sodann im Zusammenhang mit dem Bericht über die Spitäler und Anstalten die obigen Bemerkungen der Kommission und hebt die schwere Arbeit hervor, die das Personal unter den gegenwärtig bestehenden Raumverhältnissen zu leisten hat. Nachdrücklich wird auf die geradezu unverantwortlich gewordene Raumnot in einzelnen Anstalten hingewiesen. Die Ausbildung von Personal für Irrenanstalten sollte vom <orgName n="4e189db8-cfaa-4493-989d-b8cfaa7493ed">Staate</orgName> an die Hand genommen werden. Bezüglich der <orgName n="c8b63fc6-8ff5-4c14-b63f-c68ff5cc14c0">Wäckerling-Stiftung</orgName> sollte dem Alkoholkonsum der Insassen ein Ende gemacht werden. Zu der in Absatz 2 der gedruckten Bemerkung der Kommission wird der <orgName n="5436ecd4-d233-4ddf-b6ec-d4d2337ddfe1">Rat</orgName> bei Behandlung des Voranschlages 1931 Stellung zu nehmen haben; es handelt sich um zirka 300,000 Franken, die bewilligt werden sollen. Der Redner schildert einläßlich die Bestrebungen, die Arbeitszeit des Anstaltspersonals zu reduzieren, und die besondere Art des Dienstes der Wärter und Wärterinnen. Er hofft, der Rat werde zur gegebenen Zeit den berechtigten Wünschen des Personals Rechnung tragen und den Kredit bewilligen.</p>
+            <p>Der Vorsitzende teilt mit, daß noch vier Redner in  <pb n="547"/>der Rednerliste eingetragen sind, und schlägt vor, hier die Beratung abzubrechen.</p>
+            <p>Schluß der Sitzung 12 Uhr 20.</p>
+            <p>Die nächste Sitzung findet Montag, den <date>17. November 1930</date>, vormittags 8 <hi rend="sup">1</hi>/<hi rend="sub">4</hi> Uhr, statt.</p>
+            <p>
+                <placeName n="2bc5c53c-5942-4b0c-85c5-3c59423b0c35">Zürich</placeName>, den <date>10. November 1930</date>.</p>
+            <p>Der Protokollführer: <persName n="6986c31a-cb5b-4d16-86c3-1acb5bdd1615">A. Stamm</persName>.</p>
+            <p>Vom <orgName n="42759432-3302-4637-b594-32330236370e">Kantonsratsbureau</orgName> in seiner Sitzung vom <date>20. November 1930</date> genehmigt. </p>
+        </body>
+    </text>
+</tei:TEI>

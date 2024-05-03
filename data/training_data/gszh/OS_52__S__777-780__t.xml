@@ -1,0 +1,122 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Regulativ über die Ausführung der interkantonalen Vereinbarung über die Kontrolle der Heilmittel (Änderung)</title>
+                <respStmt>
+                    <resp ref="#sef" key="transcript">Transkript: sef<date when="2015-04-01">01.04.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Regulativ über die Ausführung der interkantonalen Vereinbarung über die Kontrolle der Heilmittel (Änderung)</title>
+                    <date when="1994-05-19">19.05.1994</date>
+                    <ident>StAZH OS 52 (S. 777-780)</ident>
+                    <idno>812.21</idno>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_52__S__777-780__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3457835"/>
+                    <listRelation>
+                        <relation name="Änderung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3457835" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3460934"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="777"/>
+            </p>
+            <p>Die Konferenz der <orgName n="40194ee2-b0d2-4c67-994e-e2b0d29c672e">Interkantonalen Vereinigung für die Kontrolle der Heilmittel</orgName>,</p>
+            <p>gestützt auf Art. 8 Bst. b der Interkantonalen Vereinbarung über die Kontrolle der Heilmittel vom 3. Juni 1971,</p>
+            <p>beschliesst:</p>
+            <p>I.</p>
+            <p>Das Regulativ vom 25. Mai 1972 über die Ausführung der <orgName n="3ef591b5-a458-4e5a-b591-b5a458ce5afa" type="deriv">interkantonalen</orgName> Vereinbarung über die Kontrolle der Heilmittel wird wie folgt geändert:</p>
+            <p>Art. 5. Als Heilmittelwerbung gelten alle Massnahmen zur Information, zur Marktbearbeitung und zur Schaffung von Anreizen, welche zum Ziel haben, die Verschreibung, die Abgabe, den Verkauf oder die Anwendung von Heilmitteln zu beeinflussen.<add place="margin right">Heilmittelwerbung 1. Grundsatz </add>
+            </p>
+            <p>Alle Elemente der Werbung für ein bestimmtes Heilmittel müssen mit der von der <orgName n="6008496a-7417-4ced-8849-6a74178ced40">IKS</orgName> zuletzt genehmigten Arzneimittelinformation im Einklang stehen.</p>
+            <p>Art. 6. Als Publikumswerbung gelten Anpreisungen, die sich an das Publikum richten.<add place="margin right">2. Publikums- und Fachwerbung </add>
+            </p>
+            <p>Als Fachwerbung gelten insbesondere:</p>
+            <p>a)	Anpreisungen, die sich an Personen richten, die zur Verschreibung, zur Abgabe oder zur beruflichen Anwendung von Heilmitteln berechtigt sind;</p>
+            <p>b)	Besuche von Arzneimittelvertretern bei Personen, die zur Verschreibung, zur Abgabe oder zu beruflichen Anwendung von Heilmitteln berechtigt sind;</p>
+            <p>c)	die Lieferung von Arzneimittelmustern an Personen, die zur Verschreibung, zur Abgabe oder zur beruflichen Anwendung von Heilmitteln berechtigt sind;</p>
+            <p>d)	die Durchführung und finanzielle Unterstüzung von Verkaufsförderungstagungen, an denen Personen teilnehmen, die zur Verschrei-  <pb n="778"/>bung, zur Abgabe oder zur beruflichen Anwendung von Heilmitteln berechtigt sind;</p>
+            <p>e)	die direkte oder indirekte finanzielle Unterstützung von wissenschaftlichen Kongressen, an denen Personen teilnehmen, die zur Verschreibung, zur Abgabe oder zur beruflichen Anwendung von Heilmitteln berechtigt sind, insbesondere die Übernahme der Reise- und Aufenthaltskosten dieser Personen.</p>
+            <p>Art. 7. Als unzulässig gilt jede irreführende, unwahre oder der öffentlichen Ordnung und den guten Sitten widersprechende Werbung sowie die Werbung, welche zu einem übermässigen, missbräuchlichen oder unzweckmässigen Einsatz von Heilmitteln verleiten kann.<add place="margin right">3. Unzulässige Werbung </add>
+            </p>
+            <p>Unzulässig ist das Gewähren, Anbieten oder Versprechen von finanziellen oder materiellen Vorteilen. Diese Bestimmung ist nicht anwendbar auf Publikums Werbung für freiverkäufliche Heilmittel.</p>
+            <p>Heilmittel, deren Inverkehrbringen in der <placeName n="5cd080a5-527e-418a-9080-a5527ed18ae9">Schweiz</placeName> nicht zulässig ist, dürfen nicht beworben werden.</p>
+            <p>Publikumswerbung ist nicht zulässig für Heilmittel, die</p>
+            <p>a)	nur auf ärztliche Verschreibung abgegeben werden dürfen;</p>
+            <p>b)	psychotrope Substanzen oder Suchtstoffe im Sinne der entsprechenden bundesrechtlichen Vorschriften enthalten;</p>
+            <p>c)	nach ihrer Zusammensetzung und Zweckbestimmung so beschaffen und konzipiert sind, dass sie ohne Tätigwerden eines Arztes für die entsprechende Diagnose, Verschreibung oder Behandlung nicht verwendet werden können.</p>
+            <p>Die <orgName n="8a4cfeb0-b541-4d17-8cfe-b0b541dd17e1">IKS</orgName> kann zum Schutz der öffentlichen Gesundheit weitere Heilmittel oder Heilmittelgruppen von der Publikumswerbung ausschliessen. Sie regelt die Einzelheiten.</p>
+            <p>Art. 8<hi rend="sup">ter</hi>. Die Herstellung von Arzneimitteln hat nach den anerkannten Regeln der Guten Herstellungspraxis zu erfolgen. Soweit die Vereinbarung und deren Ausführungserlasse nichts anderes bestimmen, gelten als solche insbesondere die Anforderungen der Vorschriften und Empfehlungen der <orgName n="6032a7ad-6ce7-46c1-b2a7-ad6ce756c10d">Pharmazeutischen Inspektions-Convention</orgName> (<orgName n="599c01f2-12cd-4c55-9c01-f212cdec55f0">PIC</orgName>) und der <orgName n="77eb0360-28bf-49cb-ab03-6028bf59cbac">Weltgesundheitsorganisation</orgName> (<orgName n="9a4630cd-58e6-4ba0-8630-cd58e60ba0b1">WHO</orgName>).<add place="margin right">Gute Herstellungspraxis, Gute Klinische Praxis und Gute Laborpraxis </add>
+            </p>
+            <p>Die Untersuchungen am Menschen und am Tier sind zum Schutz der Versuchspersonen bzw. Versuchstiere und zur Gewährleistung einwandfreier Untersuchungsergebnisse nach den anerkannten Regeln der Guten, Klinischen Praxis bzw. der anerkannten Regeln der Guten Laborpraxis durchzuführen. Soweit die Vereinbarung und deren Ausführungserlasse nichts anderes bestimmen, gelten als solche die  <pb n="779"/>Anforderungen der international anerkannten Vorschriften, ethischen Grundsätze und Empfehlungen.</p>
+            <p>Art. 11 Abs. 2. Ferner sind einzureichen:<add place="margin right">b) Allgemeine Unterlagen </add>
+            </p>
+            <p>–	die Entwürfe für das Packungsmaterial und die Arzneimittelinformation in der von der <orgName n="de01a7d7-0da3-46ae-81a7-d70da326ae16">IKS</orgName> näher zu bezeichnenden Form.</p>
+            <p>Art. 15 Abs. 1. Die pharmazeutischen Spezialitäten und die ihnen gemäss Art. 2 Abs. 2 dieses Regulativs gleichgestellten Arzneimittel werden von einem Begutachtungskollegium auf Zusammensetzung, Wirksamkeit, Gesundheitsschädlichkeit und Verkaufsart begutachtet.</p>
+            <p>Art. 17 Abs. 1. Die <orgName n="5be91f44-3ce2-4af9-a91f-443ce21af979">IKS</orgName> orientiert den Gesuchsteller über die Begutachtung und gibt ihm bei zustimmendem Befund Kenntnis über die in der Arzneimittelinformation sowie im Packungsmaterial allenfalls vorzunehmenden Änderungen, Ergänzungen und Weglassungen.<add place="margin right">c) Angaben und Texte auf Behälter und Packungsmaterial </add>
+            </p>
+            <p>Art. 19. Ein Heilmittel wird abgewiesen, wenn<add place="margin right">e) Abweisung </add>
+            </p>
+            <p>–	(Lemma 1 bis 3 unverändert)</p>
+            <p>–	(Lemma 4 aufgehoben)</p>
+            <p>–	die Bezeichnung (Marke) unwahr ist oder der öffentlichen Ordnung und den guten Sitten widerspricht oder irreführend sein kann.</p>
+            <p>–	(Lemma 6 aufgehoben)</p>
+            <p>Art. 24<hi rend="sup">bis</hi>. Die <orgName n="4572ea33-d303-4c04-b2ea-33d3034c049e">IKS</orgName> kann für Arzneimittel, deren Herstellung insbesondere in bezug auf die Gewährleistung der Sicherheit besondere Massnahmen erfordern, anordnen, dass für jede Charge, die in der <placeName n="058b5813-7862-40ca-8b58-13786240ca14">Schweiz</placeName> vertrieben werden soll, eine Bewilligung der <orgName n="383f0243-f862-43ba-bf02-43f862a3ba37">IKS</orgName> einzuholen ist (behördliche Chargenfreigabe).<add place="margin right">4 a. Behördliche Chargenfreigabe </add>
+            </p>
+            <p>Die Arzneimittelgruppen, die unter das System der behördlichen Chargenfreigabe fallen, werden nach Anhörung der betroffenen Kreise von der <orgName n="9080b71f-7e25-4afd-80b7-1f7e25fafd57">IKS</orgName> festgelegt und in einer Liste publiziert.</p>
+            <p>Die <orgName n="b74f9148-0c71-46a8-8f91-480c7176a80b">IKS</orgName> erlässt Vorschriften über die Anforderungen und das Verfahren der behördlichen Chargenfreigabe.</p>
+            <p>Art. 27 Abs. 1. Die <orgName n="3dcb88d3-94e8-4642-8b88-d394e8b64286">IKS</orgName> kontrolliert die registrierten Arzneimittel periodisch in bezug auf ihre Übereinstimmung mit der genehmigten Zusammensetzung, den genehmigten Spezifikationen, den geltenden Qualitätsanforderungen, der genehmigten Arzneimittelinformation, dem genehmigten Packungsmaterial sowie die Vignettierung.<add place="margin right">IV. Nachkontrollen 1. Periodische Kontrolle </add>
+            </p>
+            <p>Art.27<hi rend="sup">bis</hi>. Die <orgName n="65588ef9-f648-45c4-988e-f9f64835c426">IKS</orgName> kontrolliert, ob die Fach- und Publikumswerbung für die ihrer Kontrolle unterstehenden Heilmittel den dafür geltenden Bestimmungen entspricht. Sie kann für die Werbung in den  <pb n="780"/>elektronischen Medien ein besonderes Kontrollverfahren vorsehen. Die <orgName n="9bfe3b3d-1ddd-4462-be3b-3d1ddd9462b2">IKS</orgName> erlässt Vorschriften über die Heilmittelwerbung.<add place="margin right">2. Kontrolle der Werbung </add>
+            </p>
+            <p>Stellt die <orgName n="962eded8-6eff-418e-aede-d86eff418ecb">IKS</orgName> fest, dass eine Fach- oder Publikumswerbung unzulässig ist, kann sie ohne Nachweis eines Schadens oder eines Verschuldens verlangen, dass diese Werbung eingestellt oder berichtigt wird.</p>
+            <p>Die <orgName n="2cfc62e1-beb0-4dcf-bc62-e1beb09dcfa4">IKS</orgName> kann die Entscheidung über eine unzulässige Fach- oder Publikumswerbung in der ihr als geeignet erscheinenden Form publizieren.</p>
+            <p>Im Falle von schweren oder wiederholten Verstössen gegen die Bestimmungen über die Publikumswerbung kann die <orgName n="b02e7bd9-954a-43d5-ae7b-d9954ae3d58f">IKS</orgName> der Vertriebsfirma die Befugnis, für das betroffene Präparat Publikumswerbung zu betreiben, für eine angemessene Dauer entziehen. Der Entzug wird im Monatsbericht der <orgName n="f6f649af-3da8-4d59-b649-af3da83d598c">IKS</orgName> publiziert.</p>
+            <p>Die Vertriebsfirma trägt die Kosten eines Verfahrens gemäss den Abs. 2 bis 4.</p>
+            <p>Gegen Entscheidungen gemäss den Abs. 2 bis 5 kann die betroffene Vertriebsfirma Rekurs erheben.</p>
+            <p>Die <orgName n="845b7523-1d92-408e-9b75-231d92b08eb9">IKS</orgName> kann im Rahmen der Kontrolle der Heilmittelwerbung mit Institutionen der Selbstkontrolle Zusammenarbeiten und bei Beanstandungen vorab die Durchführung eines Verfahrens vor derartigen Institutionen verlangen.</p>
+            <p>Art. 27ter (bisheriger Art. 27<hi rend="sup">bis</hi>)</p>
+            <p>II.</p>
+            <p>Diese Änderungen treten wie folgt in Kraft:</p>
+            <p>a)	Die Artikel 8<hi rend="sup">ter</hi> und 24<hi rend="sup">bis</hi> des Regulativs vom 25. Mai 1972 über die Ausführung der <orgName n="8cfe63d5-4792-437c-be63-d54792737ce2" type="deriv">interkantonalen</orgName> Vereinbarung über die Kontrolle der Heilmittel am 1. Oktober 1994.</p>
+            <p>b)	Die Artikel 5, 6, 7, 11 Abs. 2, 15 Abs. 1, 17 Abs. 1, 19, 27 Abs. 1 und 27<hi rend="sup">bis</hi> des Regulativs vom 25. Mai 1972 über die Ausführung der interkantonalen Vereinbarung über die Kontrolle der Heilmittel am 1. Januar 1995.</p>
+            <p>
+                <placeName n="be543335-a434-41b7-9433-35a43401b77c">Lugano</placeName>, den 19. Mai 1994</p>
+            <p>
+                <orgName n="82f74ad6-ef81-4bfd-b74a-d6ef810bfdfd">Konferenz der Interkantonalen Vereinigung</orgName>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Der Präsident: </cell>
+                        <cell>Der Sekretär: </cell>
+                    </row>
+                    <row>
+                        <cell>Dr. <persName n="d38dbb8e-116a-433e-8dbb-8e116a433ee1">Kurt Meyer</persName> </cell>
+                        <cell>Dr. <persName n="6d53b289-2520-45d5-93b2-89252095d581">Jürg Rieben</persName> </cell>
+                    </row>
+                </table>
+            </p>
+        </body>
+    </text>
+</TEI>

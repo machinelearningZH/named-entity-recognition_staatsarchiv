@@ -1,0 +1,59 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ertheilung e. Tavernenrechtes an die H[erren] Witzig u. Söhne v. Feuerthalen in die Gemeinde Dachsen.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#szn">Transkript: szn<date when="2012-01-13">13.01.2012</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2012</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Ertheilung e. Tavernenrechtes an die H[erren] Witzig u. Söhne v. Feuerthalen in die Gemeinde Dachsen.</title>
+                    <date when="1856-02-28">28.02.1856</date>
+                    <ident>StAZH MM 2.131 RRB 1856/0271</ident>
+                    <idno>444–446</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_101_MM_2_150/MM_2_131/MM_2_131_RRB_1856_0271_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1888203"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="444"/>In Sachen der Herrn <persName n="1ae4070d-69ac-4ea6-a407-0d69ac1ea64c">Witzig</persName> u. Söhne in <placeName n="1e6fa135-d02b-4b8f-afa1-35d02b5b8f85">Feuerthalen</placeName>, Petenten um Ertheilung eines Tavernenrechtes,</p>
+            <p>hat sich ergeben:</p>
+            <p>A. Mittelst Zuschrift vom 18 v. Mts stellen die Herren <persName n="ac3265a0-cfe0-41eb-b265-a0cfe0f1eb03">Witzig</persName> u. Söhne das Gesuch um Ertheilung eines Tavernenrechtes in die Gemeinde <placeName n="7cb62873-466a-46a6-b628-73466a66a6e3">Dachsen</placeName>, gestützt darauf, daß sie daselbst in unmittelbarer Nähe des Eisenbahn-Stationsplatzes &amp; des Schienengeleises der Rheinfallbahn Grundeigenthum erworben, in der Absicht auf demselben eine dem benannten Zwecke u. dem Bedürfnisse entsprechende Baute aufzuführen.<pb n="445"/>
+            </p>
+            <p>B. Der <orgName n="96cd095b-b849-4d97-8d09-5bb849ed977a">Gemeindrath Dachsen</orgName> berichtet unterm 28 Januar d. Js, daß durch die Erbauung der Eisenbahn, sowie durch die Errichtung eines Stationsplatzes daselbst unzweifelhaft eine größere Lebhaftigkeit des Verkehres eintreten u. die Ertheilung eines Tavernenrechtes als allgemeines Bedürfniß anerkannt werde.</p>
+            <p>C. Der <orgName n="4376325f-6669-4e41-b632-5f66699e41de">Bezirksrath Andelfinden</orgName> in seinem diesfälligen Gutachten vom 16 d. Mts bemerkt, daß in der Gemeinde <placeName n="c3488001-64ce-41d9-8880-0164cee1d921">Dachsen</placeName> sich noch keine Tavernenwirthschaft befinde &amp; wenn auch die Frequenz einer solchen daselbst nicht von Bedeutung sein werde, so halte er gleichwohl dafür, daß das Bedürfniß eines Tavernenrechtes vorhanden sei, daher das Gesuch der Petenten empfohlen werde.</p>
+            <p/>
+            <p>Demnach hat der <orgName n="2a755f48-305e-43da-b55f-48305ef3daf9">Regierungsrath</orgName>,</p>
+            <p>gestützt auf das Gutachten des <orgName n="4ed447ea-8691-4759-9447-ea86916759c4">Bezirksrathes Andelfingen</orgName>, sowie mit Hinsicht auf § 8 des Gesetzes vom 11 Mai 1832, wonach in jede politische Gemeinde, in welcher noch kein Tavernenrecht bestehe, ein solches zu ertheilen ist, –</p>
+            <p>nach Einsicht eines Antrages der <orgName n="b44e74a4-c7b3-46ab-8e74-a4c7b356abd2">Direktion der Finanzen</orgName>, –<pb n="446"/>
+            </p>
+            <p/>
+            <p>beschlossen:</p>
+            <p>I.) Den Herrn <persName n="b72203b1-8f63-42ab-a203-b18f6342abf4">Witzig</persName> &amp; Söhne in <placeName n="2238762f-7eab-4f3e-b876-2f7eab1f3e40">Feuerthalen</placeName> wird für die denselben in der Gemeinde <placeName n="dd2ec598-e5a6-47ab-aec5-98e5a617abf4">Dachsen</placeName> zu errichtende Baute auf die gesetzliche Dauer von zwanzig Jahren ein Tavernenrecht N<hi rend="sup">o</hi>. 355 gegen eine binnen 4 Wochen an die <orgName n="d6c02f87-0c4a-45dc-802f-870c4aa5dceb">Staatskassaverwaltung</orgName> zu entrichtende Rekognitionsgebühr von Frk 900 ertheilt.</p>
+            <p>II.) Mittheilung an die Petenten, in der Meinung, daß das Patent auf der <orgName n="a6246b53-89c7-4c6f-a46b-5389c71c6f6d">Staatskanzlei</orgName> gegen Vorweisung der Bescheinigung der <orgName n="648b0076-3f1d-4ac7-8b00-763f1daac708">Staatskassaverwaltung</orgName> u. gegen Entrichtung der Kanzleigebühr bezogen werden kann, an das <orgName n="a115d402-9863-4611-95d4-0298631611b6">Statthalteramt Andelfingen</orgName> u. an die <orgName n="127b4884-f264-4c9b-bb48-84f264fc9b7f">Direktion der Finanzen</orgName>.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

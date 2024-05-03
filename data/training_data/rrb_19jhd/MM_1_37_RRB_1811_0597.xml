@@ -1,0 +1,54 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erklärung zu Handen der Thurgauischen Regierung, wegen der Theilung des Waserischen Erbes zu Straß, und künftig dießfalls zu beobachtende Grundsätze.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#msu">Transkript: msu<date when="2006-09-19">19.09.2006</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2013</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Erklärung zu Handen der Thurgauischen Regierung, wegen der Theilung des Waserischen Erbes zu Straß, und künftig dießfalls zu beobachtende Grundsätze.</title>
+                    <date when="1811-05-09">09.05.1811</date>
+                    <ident>StAZH MM 1.37 RRB 1811/0597</ident>
+                    <idno>79–82</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_1_001_MM_1_051/MM_1_037/MM_1_37_RRB_1811_0597_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1528956"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="79"/>Auf den von Herrn Bezirksstatthalter <persName n="2451dfc5-0628-4da2-91df-c506282da20e">Steiner</persName> unterm 8ten dieß dem <orgName n="8b03db54-7e4e-4b00-83db-547e4eeb00b8">Kleinen Rathe</orgName> erstatteten Bericht über den entsprechenden Erfolg der von demselben, gemäß dem durch den Rathsbeschluß vom 26sten Merz d. J. wegen Theilung der Verlaßenschaft des zu <placeName n="79de7d40-8ec1-4032-9e7d-408ec11032c7">Straß</placeName>, im L. Canton <placeName n="8894aefe-1797-4b03-94ae-fe17972b03de">Thurgau</placeName>, verstorbenen <persName n="b7072326-90b4-4d8f-8723-2690b4ed8ff4">Jacob Waser</persName> von <placeName n="3edaa0fc-5244-4f27-9aa0-fc52440f278d">Eschlikon</placeName> gethanen Schritte, wurde für gut befunden, dem Herrn Statthalter nachstehende Erklärung der hießigen Regierung in einer besonderen Ausfertigung zu übermachen, um selbige, wenn der Herr Statthalter die gedachte Erbschaft zu Handen des von dem verstorbenen <persName n="97e53c2f-aacb-4b89-a53c-2faacbfb8936">Waser</persName> hinterlaßenen Knaben in Empfang nihmt, dem Herrn Friedensrichter <persName n="18299178-68a7-472f-a991-7868a7172f23">Rogg</persName> zu <placeName n="e410bcec-fdf1-46cc-90bc-ecfdf196cc80">Frauenfeld</placeName>, als Präsidenten<pb n="80"/>des <orgName n="b389f676-c61d-4daa-89f6-76c61dbdaa44">Waysenamtes</orgName> des dortigen Kraises, zu Handen der Hohen Regierung des L. Cantons <placeName n="66c3e1c2-6e02-4dc4-83e1-c26e022dc4d7">Thurgau</placeName>, nach dem von derselben durch den gedachten Beamten gegen den Herrn Bezirksstatthalter <persName n="fd33ec8b-dc59-482e-b3ec-8bdc59c82e25">Steiner</persName> geäußereten Verlangen, zuzustellen:</p>
+            <p>Wir Burgermeister und Kleine Räthe des Cantons <placeName n="aebd8a41-a967-4025-bd8a-41a96780252a">Zürich</placeName> urkunden hiermit: Nachdem uns unser Obervollziehungsbeamte des Bezirks <placeName n="f50a6acc-959e-4ad3-8a6a-cc959e9ad39d">Winterthur</placeName>, Herr Bezirksstatthalter <persName n="b4ae9017-b8ce-47ed-ae90-17b8ce67ed12">Steiner</persName> zu <placeName n="d1bc4c19-5acd-47dd-bc4c-195acdf7dd16">Winterthur</placeName>, den amtlichen Bericht erstattet hat, daß er in Folge unseres Beschlußes vom 26sten Merz d. J., in Hinsicht auf die Theilung der Verlaßenschaft des zu <placeName n="a79703de-b39a-4e9f-9703-deb39a9e9f09">Straß</placeName>, der Pfarre <placeName n="08f1a337-c664-43e1-b1a3-37c66433e18a">Gachnang</placeName>, im L. Canton <placeName n="f774a5fe-273b-4512-b4a5-fe273b251229">Thurgau</placeName>, als Ansäß gestorbenen hießigen Cantonsangehörigen, <persName n="1d49967e-9ea2-4e33-8996-7e9ea25e3363">Jacob Waser</persName> von <placeName n="d5d5a379-25b6-4f0a-95a3-7925b65f0a47">Eschlikon</placeName>, der Pfarre <placeName n="2923e310-3c83-4343-a3e3-103c83434336">Dynhard</placeName>, die nöthigen Schritte gethan, und der Herr Friedensrichter <persName n="8382f8a3-97ad-42c8-82f8-a397ad62c8b7">Rogg</persName> zu <placeName n="0a27bced-4827-4248-a7bc-ed4827c248d6">Frauenfeld</placeName>, welchem, als Präsidenten des <orgName n="8591edfb-85de-4fd0-91ed-fb85de1fd013">Waysenamtes</orgName> des dortigen Kraises, Notiz davon gegeben worden, seiner Hohen Regierung darüber Bericht erstattet, und hierauf von Hochderselben die rükantwortliche Verbscheidung erhalten habe: „daß nach dortseits an-<pb n="81"/>genohmenen Grundsätzen, die Verhandlung mittelst Zustellung des Inventars über die <persName n="20fdb770-27b7-4512-bdb7-7027b75512be" type="deriv">Waserische</persName> Verlaßenschaft wirklich der betreffenden <orgName n="3845fe67-fcc1-4eec-85fe-67fcc1eeecf7" type="deriv">waysenamtlichen</orgName> Behörde des Cantons <placeName n="3210b599-9e57-4a86-90b5-999e576a863a">Zürich</placeName> zu überlaßen sey, wenn dagegen dieselbe von Seite der Hohen Regierung des hießigen Cantons eine Erklärung beybringe, daß in ähnlichen Fällen im Canton <placeName n="50297c31-9630-4222-a97c-319630522229">Zürich</placeName> das Reciprocum werde beobachtet werden;“ – so nehmen wir keinen Anstand, hiermit zu erklären, daß in ähnlichen Fällen, wo es um die Theilung der Verlaßenschaft eines in unserem Canton als Ansäß verstorbenen <placeName n="a7a09a68-722c-46b6-a09a-68722c96b677" type="deriv">Thurgauischen</placeName> Cantons-Angeghörigen zu thun ist, dießeits das Gegenrecht beobachtet, und bey den dießfälligen Verhandlungen nach den gleichen Grundsätzen verfahren werden soll, welche die hohe <placeName n="ab8ee730-8add-40e2-8ee7-308addc0e2a6" type="deriv">Thurgauische</placeName> Cantonsregierung rüksichtlich der Theilung der <persName n="a49bd263-1fd0-444d-9bd2-631fd0e44d3d" type="deriv">Waserischen</persName> Verlaßenschaft zu Straß angenohmen und in Anwendung zu bringen befohlen hat.</p>
+            <p>Wir haben zu dem Ende die gegenwärtige Erklärung mit unserem Standessiegel und den Unterschriften unseres präsidierenden HHerren<pb n="82"/>Burgermeisters und unseres dritten Staatsschreibers bekräftigen laßen, und unseren Bezirksstatthalter von <placeName n="317d8f62-b35c-4b25-bd8f-62b35c3b2508">Winterthur</placeName> angewiesen, dieselbe, wann die Erbschaft zu Handen des von dem verstorbenen <persName n="417fc581-aca9-4ea5-bfc5-81aca90ea5cb">Jacob Waser</persName> hinterlaßenen Knaben in Empfang nehmen wird, dem Herrn Friedensrichter <persName n="26a6877e-e2cd-4d3a-a687-7ee2cd3d3a4a">Rogg</persName> zu <placeName n="84c4be0e-74a6-4b5d-84be-0e74a6fb5d33">Frauenfeld</placeName> zu Handen der hohen Regierung des L. Standes <placeName n="2b239918-96a6-43d9-a399-1896a663d975">Thurgau</placeName> zuzustellen, als womit nun die Grundsätze festgesezt sind, nach welchen in beyden Cantonen bey solchen Erbtheilungen in allen künftigen Fällen gegenseitig zu Werk gegangen werden wird.</p>
+            <p>So geschehen, <placeName n="13c9d868-5712-4209-89d8-685712920983">Zürich</placeName> den 9ten May 1811.</p>
+            <p>Der Präsidierende Burgermeister.</p>
+            <p>
+                <persName n="93a9b4bd-32fe-43f7-a9b4-bd32feb3f7ad">(L. S.) Escher</persName>.</p>
+            <p>Der Dritte Staatsschreiber.</p>
+            <p>
+                <persName n="eac613e8-030a-49d9-8613-e8030a69d9ee">Landolt</persName>.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

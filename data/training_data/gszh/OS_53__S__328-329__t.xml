@@ -1,0 +1,120 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wohnbauförderungsverordnung (Anhang) (Änderung)</title>
+                <respStmt>
+                    <resp ref="#jsn" key="transcript">Transkript: jsn<date when="2015-03-13">13.03.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Wohnbauförderungsverordnung (Anhang) (Änderung)</title>
+                    <date when="1996-02-08">08.02.1996</date>
+                    <ident>StAZH OS 53 (S. 328-329)</ident>
+                    <idno>841.1</idno>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_53__S__328-329__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3457299"/>
+                    <listRelation>
+                        <relation name="Änderung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3457299" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3457986"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="328"/>
+            </p>
+            <p>Die <orgName n="1aefdf93-b864-465f-afdf-93b864d65fcd">Direktion der Volkswirtschaft</orgName>,</p>
+            <p>gestützt auf § 23 Abs. 5 der <orgName n="87670b24-c6ec-4b82-a70b-24c6ec9b82a3" type="deriv">kantonalen</orgName> Verordnung über die Förderung des Wohnungsbaus und des Wohneigentums (Wohnbauförderungsverordnung) vom 14. November 1990,</p>
+            <p>verfügt:</p>
+            <p>I. Der Anhang zur Wohnbauförderungsverordnung wird wie folgt geändert:</p>
+            <p>Ziff. 2.1 Abs. 1:</p>
+            <p>Die Grenzen der höchstzulässigen gesamten Investitionskosten und die pauschalierten anrechenbaren Investitionskosten für Wohneigentumsobjekte werden wie folgt festgesetzt:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Wohnungsgrösse (Zimmerzahl) </cell>
+                        <cell>Höchstzulässige Investitionskosten </cell>
+                        <cell>Pauschalierte anrechenbare Investitionskosten </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell/>
+                        <cell>Eigentumswohnung  </cell>
+                        <cell>Einfamilienhaus  </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Fr. </cell>
+                        <cell>Fr. </cell>
+                        <cell>Fr. </cell>
+                    </row>
+                    <row>
+                        <cell>2–2½ </cell>
+                        <cell>340000 </cell>
+                        <cell>– </cell>
+                        <cell>330000 </cell>
+                    </row>
+                    <row>
+                        <cell>3–3½ </cell>
+                        <cell>420000 </cell>
+                        <cell>550000 </cell>
+                        <cell>400000 </cell>
+                    </row>
+                    <row>
+                        <cell>4–4½ </cell>
+                        <cell>480000 </cell>
+                        <cell>630000 </cell>
+                        <cell>480000 </cell>
+                    </row>
+                    <row>
+                        <cell>5–5½ </cell>
+                        <cell>540000 </cell>
+                        <cell>690000 </cell>
+                        <cell>540000 </cell>
+                    </row>
+                    <row>
+                        <cell>6–6½  <pb n="329"/>
+                        </cell>
+                        <cell>600000 </cell>
+                        <cell>750000 </cell>
+                        <cell>580000 </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Ziff. 2.3 Abs. 3:</p>
+            <p>Wohneigentumsobjekte mit gesamten Investitionskosten (einschliesslich Garage, Bastelräume, Miteigentum an Gemeinschaftsanlagen usw.) von über Fr. 750000 werden nur bei Vorliegen ausserordentlicher Umstände unterstützt.</p>
+            <p>II. Diese Verfügung tritt auf den 1. März 1996 in Kraft.</p>
+            <p>III. Veröffentlichung im Amtsblatt (Textteil) und in der Gesetzessammlung.</p>
+            <p>
+                <orgName n="661ed43a-51f5-4552-9ed4-3a51f5455277">
+                    <orgName n="92a587c2-e1a8-41c2-a587-c2e1a8a1c297">Direktion der Volkswirtschaft</orgName>
+                </orgName>
+            </p>
+            <p>
+                <persName n="2ce426d2-36ea-41ad-a426-d236ea41ad7c">Homberger</persName>
+            </p>
+        </body>
+    </text>
+</TEI>

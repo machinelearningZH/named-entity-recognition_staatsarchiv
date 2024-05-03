@@ -1,0 +1,303 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschluß des Regierungsrates betreffend Erweiterung der Tabellen I und V zur Verordnung betreffend den Verkauf von Arzneimitteln, Giften etc. vom 5. November 1903.</title>
+                <respStmt>
+                    <resp ref="#jsn" key="transcript">Transkript: jsn<date when="2015-11-19">19.11.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Beschluß des Regierungsrates betreffend Erweiterung der Tabellen I und V zur Verordnung betreffend den Verkauf von Arzneimitteln, Giften etc. vom 5. November 1903.</title>
+                    <date when="1904-09-22">22.09.1904</date>
+                    <ident>StAZH OS 27 (S. 215-216)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_27__S__215-216__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3471374"/>
+                    <listRelation>
+                        <relation name="Änderung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3471374" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3471363"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="215"/>
+            </p>
+            <p>In Anwendung von § 21 der Verordnung betreffend den Verkauf von Arzneimitteln, Giften, Chemikalien zu technischen Zwecken, Mineralwassern, Geheimmitteln und medizinischen Spezialitäten vom 5. November 1903</p>
+            <p>hat der <orgName n="ac512e63-b29a-446c-912e-63b29a046c71">Regierungsrat</orgName> auf Antrag der <orgName n="c2c12c56-5990-498d-812c-565990f98dd3">Direktion des Gesundheitswesens</orgName>
+            </p>
+            <p>beschlossen:</p>
+            <p>I. ln die Tabellen I und V der vorzitierten Verordnung werden folgende weitere Arzneistoffe eingereiht:</p>
+            <p>
+                <title>Tabelle I.</title>
+            </p>
+            <p>Verzeichnis derjenigen Arzneistoffe der Pharm. helvet., welche von jedermann frei verkauft werden dürfen.</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Aetherpetrolei </cell>
+                        <cell>Petroläther </cell>
+                    </row>
+                    <row>
+                        <cell>Aqua Cinnamomi </cell>
+                        <cell>Zimmtwasser </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Benzoë </cell>
+                        <cell/>
+                        <cell>Benzoe </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Calcium hydricum solut. </cell>
+                        <cell>Kalkwasser </cell>
+                    </row>
+                    <row>
+                        <cell>Carrageen </cell>
+                        <cell>Isländisch Moos </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Catechu </cell>
+                        <cell/>
+                        <cell>Katechu </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Collodium </cell>
+                        <cell>Kollodium </cell>
+                    </row>
+                    <row>
+                        <cell>Dextrinum </cell>
+                        <cell>Dextrin </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Elemi </cell>
+                        <cell/>
+                        <cell>Elemi </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Emplastrum adhaesivum </cell>
+                        <cell>Heftpflaster </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Folium </cell>
+                        <cell>Adianti </cell>
+                        <cell>Frauenhaar </cell>
+                    </row>
+                    <row>
+                        <cell>" </cell>
+                        <cell>Aurantii </cell>
+                        <cell>Pomeranzenblatt </cell>
+                    </row>
+                    <row>
+                        <cell>" </cell>
+                        <cell>Nicotianae  <pb n="216"/>
+                        </cell>
+                        <cell>Tabakblatt </cell>
+                    </row>
+                    <row>
+                        <cell>Herba </cell>
+                        <cell>Absinthii </cell>
+                        <cell>Wermut </cell>
+                    </row>
+                    <row>
+                        <cell>" </cell>
+                        <cell>Centaurii </cell>
+                        <cell>Tausendgüldenkraut </cell>
+                    </row>
+                    <row>
+                        <cell>" </cell>
+                        <cell>Serpylli </cell>
+                        <cell>Quendel </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thymi </cell>
+                        <cell>Thymian </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Kalium bicarbonicum </cell>
+                        <cell>Kaliumbikarbonat </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Oleum </cell>
+                        <cell>Jecoris Aselli </cell>
+                        <cell>Leberthran </cell>
+                    </row>
+                    <row>
+                        <cell>" </cell>
+                        <cell>Ricini </cell>
+                        <cell>Ricinusöl </cell>
+                    </row>
+                    <row>
+                        <cell>" </cell>
+                        <cell>Rosmarini </cell>
+                        <cell>Rosmarinöl </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Pulvis pro pedibus </cell>
+                        <cell>Fußpulver </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Rhizoma </cell>
+                        <cell>Iridis </cell>
+                        <cell>Veilchenwurzel </cell>
+                    </row>
+                    <row>
+                        <cell>" </cell>
+                        <cell>Tormentillae </cell>
+                        <cell>Tormentillwurzel </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Saccharinum </cell>
+                        <cell>Saccharin </cell>
+                    </row>
+                    <row>
+                        <cell>Semen Foenugraeci </cell>
+                        <cell>Bockshornsame </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Spiritus </cell>
+                        <cell>Formicae </cell>
+                        <cell>Ameisengeist </cell>
+                    </row>
+                    <row>
+                        <cell>" </cell>
+                        <cell>Lavandulae </cell>
+                        <cell>Lavendelgeist </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Strobilus Lupuli </cell>
+                        <cell>Hopfen </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Succus </cell>
+                        <cell>Juniperi inspissatus </cell>
+                        <cell>Wachholdermus </cell>
+                    </row>
+                    <row>
+                        <cell>" </cell>
+                        <cell>Sambuci [inspissatus] </cell>
+                        <cell>Hollundermus </cell>
+                    </row>
+                    <row>
+                        <cell>Tinctura </cell>
+                        <cell>Benzoes </cell>
+                        <cell>Benzoetinktur </cell>
+                    </row>
+                    <row>
+                        <cell>" </cell>
+                        <cell>Myrrhae </cell>
+                        <cell>Myrrhentinktur </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Unguentum refrigerans </cell>
+                        <cell>Cold cream </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <title>Tabelle V.</title>
+            </p>
+            <p>Verzeichnis derjenigen Stoffe, welche nur nach Maßgabe der in §§ 12 und 13 niedergelegten Bestimmungen verkauft werden dürfen:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Cerussa </cell>
+                        <cell>Bleiweiß </cell>
+                    </row>
+                    <row>
+                        <cell>Gutti </cell>
+                        <cell>Gummigutt </cell>
+                    </row>
+                </table>
+            </p>
+            <p>II. Aufnahme dieses Beschlusses in das Amtsblatt und die Gesetzessammlung und Mitteilung desselben durch Separatabzüge an die interessierten Behörden, Apotheker etc.</p>
+            <p>
+                <placeName n="f1be93b2-1358-422c-be93-b21358922c33">Zürich</placeName>, den 22. September 1904.</p>
+            <p>Vor dem <orgName n="803403b5-9ff2-4ef6-b403-b59ff23ef626">Regierungsrate</orgName>,</p>
+            <p>Der Staatsschreiber:</p>
+            <p>Dr. <persName n="150c2615-ef97-4fe5-8c26-15ef971fe51a">A. Huber</persName>.</p>
+        </body>
+    </text>
+</TEI>

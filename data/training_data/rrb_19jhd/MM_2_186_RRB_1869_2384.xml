@@ -1,0 +1,53 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stadtrath Zürich. Zuschr. betr. Beitritt d. Gemdrathes Enge z. d. Erklärungen betr. Erricht. e. landwirthschaftl. Schule am Polytechnikum.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#rgr">Transkript: rgr<date when="2014-12-17">17.12.2014</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2014</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Stadtrath Zürich. Zuschr. betr. Beitritt d. Gemdrathes Enge z. d. Erklärungen betr. Erricht. e. landwirthschaftl. Schule am Polytechnikum.</title>
+                    <date when="1869-11-30">30.11.1869</date>
+                    <ident>StAZH MM 2.186 RRB 1869/2384</ident>
+                    <idno>404–405</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_151_MM_2_200/MM_2_186/MM_2_186_RRB_1869_2384_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3282220"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="404"/>
+            </p>
+            <p>[<hi rend="italic">Präsidial-Verfügungen.</hi>
+            </p>
+            <p>
+                <hi rend="italic">30. November 1869.</hi>]</p>
+            <p/>
+            <p>Der <orgName n="2ad4247d-b1e7-49fa-9424-7db1e789fa4b">Stadtrath Zürich</orgName> theilt mit Zuschrift vom 27. dieß mit, daß nachträglich auch der <orgName n="4a56d934-4806-4bdf-96d9-3448062bdf8a">Gemeindrath Enge</orgName> seine Zustimmung zu der Antwort ertheilt habe, welche vom <orgName n="872b304e-7897-46e0-ab30-4e789706e04d">Stadtrathe</orgName> unterm 20. Nov. bezüglich der Errichtung einer höhern landwirthschaftlichen<pb n="405"/>Schule am <orgName n="77f50e17-079f-44a0-b50e-17079f24a0a9">Polytechnikum</orgName> an den <orgName n="b505bde4-2991-4d57-85bd-e42991fd57bc">Reg. Rath</orgName> gerichtet worden sei.</p>
+            <p>Diese Zuschrift wird der verordneten Spezialkommission zu den übrigen Akten überwiesen.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

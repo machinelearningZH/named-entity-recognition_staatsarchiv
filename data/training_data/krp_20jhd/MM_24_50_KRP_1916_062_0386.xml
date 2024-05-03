@@ -1,0 +1,42 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschwerde des L. Wolz (Traktandum 5).</title>
+                <respStmt>
+                    <resp ref="#OCR/amr" key="transcript">Transkript: OCR/amr<date when="2011-11-17">17.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Beschwerde des L. Wolz (Traktandum 5).</title>
+                    <date when="1916-05-15">15.05.1916</date>
+                    <ident>StAZH MM 24.50 KRP 1916/062/0386</ident>
+                    <idno>1166</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_50_KRP_1916_062_0386_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3627329"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="1166"/>In der Sitzung vom <date>21. Februar 1916</date> wurde vom Rate eine Beschwerde des <persName n="4b53c3ec-49f7-4c35-93c3-ec49f73c3572">L. Wolz</persName> von <placeName n="69d7f825-0aca-417d-97f8-250acac17d57">Hausen</placeName>, Anstaltsinsassen des <orgName n="05d9ee5f-8f2e-4cb8-99ee-5f8f2e2cb8a9">Burghölzli</orgName>, über unbegründete Inhaftierung in dieser Anstalt, zur Prüfung und Berichterstattung an die <orgName n="0eb87e08-6ae1-4eb7-b87e-086ae11eb79a">Petitionskommission</orgName> gewiesen. Laut Mitteilung des Präsidenten dieser Kommission ist der Beschwerdeführer seither aus dem <orgName n="e735464e-587e-4063-b546-4e587e30636d">Burghölzli</orgName> entlassen und die Beschwerde damit gegenstandslos geworden.</p>
+        </body>
+    </text>
+</tei:TEI>

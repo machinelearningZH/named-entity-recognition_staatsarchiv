@@ -1,0 +1,83 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erwahrung des Ergebnisses der Volksabstimmung vom 28. November 1937 (Traktandum 3).</title>
+                <respStmt>
+                    <resp ref="#OCR/skn" key="transcript">Transkript: OCR/skn<date when="2011-10-25">25.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Erwahrung des Ergebnisses der Volksabstimmung vom 28. November 1937 (Traktandum 3).</title>
+                    <date when="1937-12-06">06.12.1937</date>
+                    <ident>StAZH MM 24.59 KRP 1937/087/0625</ident>
+                    <idno>1767</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_59_KRP_1937_087_0625_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3683083"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="1767"/>
+                <persName n="b7f21661-73c4-4e70-b216-6173c4ee703c">H. Bergmann</persName> referiert für das Bureau, dessen Antrag lautet:</p>
+            <p>Der <orgName n="4eb79136-2390-4b9d-b791-3623903b9d0b">Kantonsrat</orgName>,</p>
+            <p>nach Einsichtnahme des Berichtes seines Bureaus über das Ergebnis der Volksabstimmung vom <date>28. November 1937</date>,</p>
+            <p>wonach sich ergibt:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Zahl der Stimmberechtigten </cell>
+                        <cell>196,941 </cell>
+                    </row>
+                    <row>
+                        <cell>Eingegangene Stimmzettel </cell>
+                        <cell>142,659 </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Beschluß des <orgName n="990260ab-4ddc-4d24-8260-ab4ddc4d247d">Kantonsrates</orgName> über die Beteiligung des Kantons <placeName n="5ff37d06-6bb4-401f-b37d-066bb4201f63">Zürich</placeName> an der <orgName n="5724219f-741c-46f0-a421-9f741cd6f05b">Schweizerischen Landesausstellung</orgName> 1939 in <placeName n="0f356062-3a2c-4161-b560-623a2c41619c">Zürich</placeName>:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Annehmende sind </cell>
+                        <cell>121,193 </cell>
+                    </row>
+                    <row>
+                        <cell>Verwerfende sind </cell>
+                        <cell>15,308 </cell>
+                    </row>
+                    <row>
+                        <cell>Ungültige Stimmen </cell>
+                        <cell>66 </cell>
+                    </row>
+                    <row>
+                        <cell>Leere Stimmen </cell>
+                        <cell>6,092 </cell>
+                    </row>
+                </table>
+            </p>
+            <p>beschließt:</p>
+            <p>I. Die Referendumsvorlage „Beschluß des <orgName n="da19bc65-d02f-43e6-99bc-65d02f23e685">Kantonsrates</orgName> über die Beteiligung des Kantons <placeName n="b54bef36-39bf-46c7-8bef-3639bfe6c7e3">Zürich</placeName> an der <orgName n="d09e0b7d-e0c1-4513-9e0b-7de0c1e513ad">Schweizerischen Landesausstellung</orgName> 1939 in <placeName n="7c52b7f4-1916-4799-92b7-f41916e799b2">Zürich</placeName>“ wird als vom Volke angenommen erklärt.</p>
+            <p>II. Hievon ist dem <orgName n="b38f393f-df96-4dab-8f39-3fdf964dab4f">Regierungsrate</orgName> Kenntnis zu geben, das Ergebnis der Abstimmung überdies, nach Bezirken und Gemeinden geordnet, durch das Amtsblatt zu veröffentlichen.</p>
+            <p>Der Rat erhebt den Antrag des Bureaus zum Beschluß. </p>
+        </body>
+    </text>
+</tei:TEI>

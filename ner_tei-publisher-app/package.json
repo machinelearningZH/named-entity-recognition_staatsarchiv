@@ -1,0 +1,33 @@
+{
+  "name": "tei-publisher-app",
+  "version": "8.1.0",
+  "description": "TEI Publisher facilitates the integration of the TEI Processing Model into exist-db applications",
+  "scripts": {
+    "test": "mocha --exit",
+    "test-watch": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eeditiones/tei-publisher-app.git"
+  },
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@teipublisher/pb-components": "^2.14.1"
+  },
+  "devDependencies": {
+    "adm-zip": "^0.5.9",
+    "axios": "^0.21.2",
+    "chai": "^4.2.0",
+    "chai-openapi-response-validator": "^0.9.4",
+    "chai-xml": "^0.4.0",
+    "form-data": "^3.0.0",
+    "jsdom": "^16.5.0",
+    "mocha": "^8.1.3",
+    "pdfjs-dist": "^2.4.456",
+    "tmp": "^0.2.1"
+  },
+  "mocha": {
+    "timeout": 10000,
+    "slow": 1000
+  }
+}

@@ -1,0 +1,62 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>156. Verordnung betr. die aus Staatsmitteln unterstützten Handwerks- und Gewerbeschulen, vom 7. November 1867. G. u. V. 1868. 1.</title>
+                <respStmt>
+                    <resp ref="#sef" key="transcript">Transkript: sef<date when="2015-12-07">07.12.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>156. Verordnung betr. die aus Staatsmitteln unterstützten Handwerks- und Gewerbeschulen, vom 7. November 1867. G. u. V. 1868. 1.</title>
+                    <date when="1867-11-07">07.11.1867</date>
+                    <ident>StAZH OS 20, Suppl. 2 (S. 665-666)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_20__Suppl__2__S__665-666__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3472542"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="665"/>
+            </p>
+            <p>1. Zum Eintritt ist das zurückgelegte 15. Altersjahr erforderlich. Es kann eine Aufnahmsprüfung verlangt werden.</p>
+            <p>2. Mit dem Eintritte verpflichtet sich der Schüler zum regelmäßigen Schulbesuch. Gegen Absenzen sind Bußen, zuletzt der Ausschluß von der Schule anzuwenden.</p>
+            <p>3. Der Unterricht erstreckt sich mindestens auf Zeichnen, Rechnen und deutsche Sprache und sollte sich in entwickelteren Schulen auch auf Französisch, Physik, Chemie und Mechanik ausdehnen.</p>
+            <p>4. Der Lehrgang ist klassenweise abzustufen.</p>
+            <p>5. Das Zeichnen ist für alle Schüler obligatorisch, ebenso der Unterricht im Rechnen und im Deutschen für diejenigen Schüler, welche sich nicht über den Besitz der nöthigen Kenntnisse ausweisen können.</p>
+            <p>6. Das Zeichnen umfaßt gleichmäßig: Freihandzeichnen nach Vorlagen oder nach Vorzeichnung durch den Lehrer und nach Modellen, geometrisch-konstruktives Zeichnen, technisches Zeichnen (Anfertigung von Rissen nach wirklichen Gegenständen).</p>
+            <p>7. Der Unterricht im Rechnen und im Deutschen begreift wesentlich: gewerbliches Rechnen, Buchführung und Abfassung von Geschäftsaufsätzen.</p>
+            <p>8. Für den Unterricht im Zeichnen ist der im Anhang mitgetheilte Lehrplan zu benutzen, für den Unterricht im Rechnen und im Deutschen derjenige der <orgName n="efe29cec-0b2e-4540-a29c-ec0b2ed540e7">Ergänzungsschule</orgName>, für weitere Fächer derjenige der <orgName n="1829525c-3055-4094-a952-5c305510948e">Sekundarschule</orgName>.</p>
+            <p>9. Als Lehrmittel sind, soweit dienlich, die obligatorischen Lehrmittel der Primar- und <orgName n="290fdbb5-7dbe-4ff1-8fdb-b57dbe6ff1e5">Sekundarschule</orgName>, sowie eine passende Auswahl der im Anhang II genannten oder im Ferneren solche zu gebrauchen, welche vom <orgName n="be5fbb2b-b1e4-4013-9fbb-2bb1e42013e6">Erziehungsrath</orgName> als zulässig erklärt oder Vorgeschrieben werden.</p>
+            <p>10. Die wöchentliche Unterrichtszeit beträgt wenigstens 4 Stunden, wovon wenigstens 2 dem Zeichnen zu widmen sind.</p>
+            <p>11. Der Unterricht soll in der Regel von Sekundar- oder  <pb n="666"/>Primarlehrern ertheilt werden. Von andern Personen kann der <orgName n="1b1b3eb3-aad5-40bc-9b3e-b3aad580bcc8">Erziehungsrath</orgName> den Ausweis ihrer Befähigung verlangen.</p>
+            <p>12. Der Lehrer des technischen Zeichnens ist, soweit er nicht sonst schon dieses Faches hinlänglich mächtig ist, verpflichtet, wenigstens an einem dießsfälligen von der <orgName n="ff2514c7-7f56-4cfc-a514-c77f566cfcaa">Erziehungsdirektion</orgName> angeordneten Instruktionskurs theilzunehmen.</p>
+            <p>13. Das jährliche Schulgeld soll höchstens 4 Fr. betragen.</p>
+            <p>14. Die einzelne Unterrichtsstunde ist mindestens mit 1 Fr. zu honoriren.</p>
+            <p>15. Die Schulen stehen unter Leitung und Aufsicht derjenigen Vereine oder Behörden, welche sie in’s Leben gerufen haben, und sodann unter Aufsicht der öffentlichen Schulbehörden, welchen die reglementarischen Berichte zu erstatten sind.</p>
+            <p>16. Insbesondere ist jährlich bis 1. Mai der <orgName n="d6054455-7143-435e-8544-557143835e3d">Erziehungsdirektion</orgName> direkt Bericht über den Gang und Stand der Schule durch die Vorsteherschaft zuzustellen.</p>
+            <p>17. Der <orgName n="83da33a4-c37a-4dcf-9a33-a4c37a0dcfd9">Erziehungsrath</orgName> sorgt für eine von Zeit zu Zeit wiederkehrende Inspektion.</p>
+            <p>18. Diejenigen Handwerks- und Gewerbeschulen mit wenigstens 10 Schülern, deren Vorsteherschaft sich zur Erfüllung der vorstehenden Bedingungen anheischig macht, haben, so lange dieselben erfüllt werden, Anspruch auf eine jährliche Unterstützung durch den <orgName n="7ca98dc4-ecda-4ad0-a98d-c4ecda4ad0e9">Staat</orgName>.</p>
+            <p>Der beleuchtende Bericht anempfiehlt, auch Fortbildungsschulen für Landwirthe und allgemeine Fortbildungsschulen zu gründen und stellt auch für diese die Mitwirkung des <orgName n="3a9aadbe-3f32-4caa-9aad-be3f32bcaaa8">Staates</orgName> in Aussicht.</p>
+        </body>
+    </text>
+</TEI>

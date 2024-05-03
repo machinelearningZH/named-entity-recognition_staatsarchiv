@@ -1,0 +1,53 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Verhandlungsgegenstände.</title>
+                <respStmt>
+                    <resp ref="#OCR/rke" key="transcript">Transkript: OCR/rke<date when="2011-10-25">25.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Verhandlungsgegenstände.</title>
+                    <date when="1949-01-24">24.01.1949</date>
+                    <ident>StAZH MM 24.63 KRP 1949/077/0564</ident>
+                    <idno>1429–1430</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_63_KRP_1949_077_0564_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3656622"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="1429"/>Das Einladungsschreiben vom <date>17. Januar 1949</date> enthält folgende Verhandlungsgegenstände:</p>
+            <p>1. Mitteilungen.</p>
+            <p>2. Eintritt eines Ratsmitgliedes an Stelle des zurückgetretenen <persName n="a1f00c64-74db-4e9b-b00c-6474db5e9beb">Emil Jucker</persName> - <placeName n="b32ea8fb-b49e-4dc7-aea8-fbb49e3dc7ff">Rüti</placeName>.</p>
+            <p>3. Volksinitiative vom <date>20. Oktober 1948</date> für die Änderung des Gesetzes über die Alters- und Hinterlassenenbeihilfe vom <date>14. März 1948</date> (Überweisung).</p>
+            <p>4. Volksinitiative vom <date>20. Oktober 1948</date> für die Änderung des Gesetzes betreffend die direkten Steuern vom <date>25. November 1917</date> mit den seither erfolgten Abänderungen (Überweisung).</p>
+            <p>5. Beschluß des <orgName n="8c5eda8f-7411-429c-9eda-8f7411f29cd5">Kantonsrate</orgName> über das Volksbegehren zur Förderung der Naturheilkunde durch Abänderung des Gesetzes betreffend das <orgName n="ef28e41b-b840-4a31-a8e4-1bb840ba3199">Medizinalwesen</orgName> vom <date>2. Oktober 1854</date> (Naturarzt-Initiative) (Vorlage der <orgName n="28ef090c-65f5-46cf-af09-0c65f556cffb">Redaktionskommission</orgName> vom <date>27. Dezember 1948</date>, Redaktionslesung) (2).</p>
+            <p>6. Bewilligung von Nachtragskrediten für das Jahr 1948, II. Serie (Bericht und Antrag des <orgName n="8aa149dd-ffa1-45e2-a149-ddffa1f5e279">Regierungsrates</orgName> vom <date>16. Dezember 1948</date> und gleichlautender Antrag der <orgName n="4d9ad18e-2f69-4ea3-9ad1-8e2f697ea330">Staatsrechnungsprüfungskommission</orgName> vom <date>5. Januar 1949</date>) (124).</p>
+            <p>7. Taxordnungen für die Kranken-, Pflege- und Heilanstalten (Anträge des <orgName n="de21e3af-4e8f-4423-a1e3-af4e8fc4239f">Regierungsrates</orgName> vom <date>9. Oktober 1947</date>/<date>12. Februar 1948</date> und der Kommission vom <date>27. Dezember 1948</date>) (41).  <pb n="1430"/>
+            </p>
+            <p>8. Interpellation <persName n="c3904436-305b-4af8-9044-36305bdaf827">Carl Baur</persName> - <placeName n="fa767741-075e-4de9-b677-41075e6de9dd">Zürich</placeName> vom <date>8. Dezember 1948</date> über das Strafverfahren gegen Dr. <persName n="2d82c077-ad84-4a27-82c0-77ad848a2798">Jakob Springer</persName>.</p>
+            <p>9. Motion <persName n="34632e03-150b-4a55-a32e-03150b6a550c">Albert Gnehm</persName> - <placeName n="ff103556-922d-4dca-9035-56922dedca77">Horgen</placeName> vom <date>20. Dezember 1948</date> über die Einführung des fakultativen Finanzreferendums.</p>
+            <p>10. Verordnung zu § 7<hi rend="sup">ter</hi> des Gesetzes betreffend die direkten Steuern vom <date>25. November 1917</date> und zum Abkommen zwischen der <orgName n="3a519518-e0e2-4033-9195-18e0e280339d">Schweizerischen Eidgenossenschaft</orgName> und der <placeName n="9da065b1-e04c-4cbc-a065-b1e04c1cbcec">Französischen Republik</placeName> zur Vermeidung der Doppelbesteuerung auf dem Gebiete der direkten Steuern vom <date>13. Oktober 1937</date> (Antrag des <orgName n="9ddd528f-42e2-481d-9d52-8f42e2481d7b">Regierungsrates</orgName> vom <date>2. Dezember 1948</date> und gleichlautender Antrag der Kommission vom <date>7. Januar 1949</date>) (120).</p>
+        </body>
+    </text>
+</tei:TEI>

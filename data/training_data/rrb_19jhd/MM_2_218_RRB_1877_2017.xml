@@ -1,0 +1,55 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Hubert Ganter v. Hausenvorwald; Landrecht.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#rgr">Transkript: rgr<date when="2015-04-28">28.04.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2015</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Karl Hubert Ganter v. Hausenvorwald; Landrecht.</title>
+                    <date when="1877-12-01">01.12.1877</date>
+                    <ident>StAZH MM 2.218 RRB 1877/2017</ident>
+                    <idno>611–612</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_201_MM_2_256/MM_2_218/MM_2_218_RRB_1877_2017_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3406047"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="611"/>Mit Zuschrift vom 19. Wintermonat sucht Hr. <persName n="47a01008-4ef2-4b65-a010-084ef23b65f1">Karl Hubert Ganter</persName> von <placeName n="d1d63c17-856c-4e26-963c-17856c8e26fa">Hausenvorwald</placeName> - <placeName n="c84448d7-2689-4585-8448-d726891585bb">Baden</placeName>, Speisewirth in <placeName n="60858697-a56f-467e-8586-97a56f667e8a">Zürich</placeName>, welcher am 18. Wintermonat eventuell in den <orgName n="62988f9d-4fc4-40be-988f-9d4fc4a0be63">Bürgerverband der Stadtgemeinde Zürich</orgName> aufgenommen worden ist und die in Art. 1 des bezüglichen Bundesbeschlusses vom 3. Juli 1876 vorgeschriebene Bewilligung des <orgName n="8e032775-44a0-4bcb-8327-7544a05bcb63">Bundesrathes</orgName> zur Erwerbung des Schweizerbürgerrechtes, dat. 3. Juli d. Js., beigebracht hat, – um Ertheilung des Landrechtes nach.</p>
+            <p/>
+            <p>Der <orgName n="424ae5aa-9c8a-49b8-8ae5-aa9c8ae9b8ef">Regierungsrath</orgName>,</p>
+            <p>nach Einsicht eines Antrages der <orgName n="8eafa392-093d-46aa-afa3-92093d16aa33">Direktion des Innern</orgName>,</p>
+            <p>beschließt:</p>
+            <p/>
+            <p>1. Dem Petenten wird gemäß § 21, Abs. 2 des Gesetzes betreffend das <orgName n="2df33f62-4878-4c84-b33f-6248785c8471">Gemeindewesen</orgName> vom 27. Juni 1875 das Kantonsbürgerrecht ertheilt und seine Aufnahme in das Bürgerrecht der Stadtgemeinde <placeName n="7b7b57cb-6411-4481-bb57-cb6411648117">Zürich</placeName> bestätigt unter der Bedingung, daß<pb n="612"/>er sich innert Monatsfrist über Bezahlung der Einkaufsgebühren in das Gemeinde- und Kantonsbürgerrecht, letzterer im Betrage von Fr. 50, bei der <orgName n="8a0cca50-31c7-4d5b-8cca-5031c7bd5b59">Staatskanzlei</orgName> ausweise.</p>
+            <p/>
+            <p>2. Nach Erfüllung dieser Bedingung ist ihm die Landrechtsurkunde auszustellen.</p>
+            <p/>
+            <p>3. Mittheilung an den Petenten unter Rücksendung der betreffenden Akten, an den <orgName n="9c2d0d30-f6ed-49a5-ad0d-30f6ed49a543">Stadtrath Zürich</orgName> und die <orgName n="8283c776-ce77-430a-83c7-76ce77030a40">Direktion der Finanzen</orgName>.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

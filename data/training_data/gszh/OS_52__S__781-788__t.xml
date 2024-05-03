@@ -1,0 +1,196 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reglement über die Heilmittel im klinischen Versuch</title>
+                <respStmt>
+                    <resp ref="#sef" key="transcript">Transkript: sef<date when="2015-04-01">01.04.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Reglement über die Heilmittel im klinischen Versuch</title>
+                    <date when="1993-11-18">18.11.1993</date>
+                    <ident>StAZH OS 52 (S. 781-788)</ident>
+                    <idno>812.24</idno>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_52__S__781-788__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3457836"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="781"/>
+            </p>
+            <p>Die Konferenz der <orgName n="711219b0-6424-4495-9219-b06424b495ff">Interkantonalen Vereinigung für die Kontrolle der Heilmittel</orgName>,</p>
+            <p>gestützt auf Art. 2, 8 und 13 der <orgName n="b530fdab-13bd-4fb4-b0fd-ab13bd9fb4fa" type="deriv">Interkantonalen</orgName> Vereinbarung über die Kontrolle der Heilmittel vom 3. Juni 1971,</p>
+            <p>beschliesst:</p>
+            <p>
+                <title>Allgemeiner Teil</title>
+            </p>
+            <p>Art. 1</p>
+            <p>Dieses Reglement hat die Kontrolle der Heilmittel im klinischen Versuch zum Zweck; es soll den Schutz der Versuchspersonen gewährleisten sowie die Qualität der Ergebnisse von klinischen Versuchen mit Heilmitteln sicherstellen.<add place="margin right">Zweck </add>
+            </p>
+            <p>Art. 2</p>
+            <p>Der Kontrolle untersteht jeder klinische Versuch mit Heilmitteln. Für die folgenden klinischen Versuche kann die <orgName n="1e74bde2-1791-45a9-b4bd-e2179135a90a">IKS</orgName> besondere Verfahren vorsehen:<add place="margin right">Geltungsbereich </add>
+            </p>
+            <p>a)	Anwendungsbelege;</p>
+            <p>b)	Bioverfügbarkeits- und Bioäquivalenzstudien;</p>
+            <p>c)	klinische Versuche mit IKS-registrierten Arzneimitteln (Phase-IV-Studien; siehe Anhang II);</p>
+            <p>d)	klinische Versuche mit Heilvorrichtungen.</p>
+            <p>Art. 3</p>
+            <p>Für das vorliegende Reglement gelten folgende Begriffsbestimmungen:<add place="margin right">Begriffsbestimmungen </add>
+            </p>
+            <p>Heilmittel: Heilmittel im Sinne von Art. 1 des Regulativs über die Ausführung der <orgName n="b6434674-1674-4c8b-8346-741674cc8bb2" type="deriv">interkantonalen</orgName> Vereinbarung über die Kontrolle der Heilmittel vom 25. Mai 1972.</p>
+            <p>Versuchsperson: Patient oder gesunder Proband, der an einem Versuch teilnimmt.  <pb n="782"/>
+            </p>
+            <p>Sponsor: Person oder Organisation, welche für die Einleitung, das Management und/oder die Finanzierung eines klinischen Versuchs die Verantwortung übernimmt. Wenn ein Prüfer selber einen Versuch beginnt und die gesamte Verantwortung übernimmt, ist er zugleich Sponsor.</p>
+            <p>Monitor: Person, welche vom Sponsor bestimmt ist und diesem gegenüber für die Überwachung des Versuchs, den Bericht über den Fortgang des Versuchs und die Überprüfung der Daten verantwortlich ist.</p>
+            <p>Prüfer: Person, welche für die praktische Durchführung eines Versuchs sowie für den Schutz der Gesundheit und das Wohlergehen der Versuchspersonen verantwortlich ist.</p>
+            <p>
+                <title>Schutz der Versuchspersonen</title>
+            </p>
+            <p>Art. 4</p>
+            <p>Ein klinischer Versuch muss nach der Guten Praxis der Klinischen Versuche (GPKV) durchgeführt werden (siehe Anhänge I und II).<add place="margin right">Allgemeine Voraussetzungen </add>
+            </p>
+            <p>Es muss die frei, ausdrücklich und nach Aufklärung erteilte Einwilligung der Versuchspersonen schriftlich eingeholt werden.</p>
+            <p>Der Schutz der persönlichen Daten der Versuchspersonen wird gewährleistet. Die gesetzlichen Regelungen über den Datenschutz bleiben Vorbehalten.</p>
+            <p>Die Versuchspersonen müssen für Schäden, die sie im Rahmen eines Versuchs erlitten haben, vollumfänglich entschädigt werden.</p>
+            <p>Der klinische Versuch muss von der zuständigen <orgName n="8dd77b32-eda5-41de-977b-32eda5c1dee2">Ethikkommission für klinische Versuche</orgName> gemäss den Bestimmungen des vorliegenden Reglementes genehmigt sein.</p>
+            <p>Art. 5</p>
+            <p>Unter Vorbehalt des <orgName n="bde51cc4-35cf-4e4e-a51c-c435cffe4e40" type="deriv">eidgenössischen</orgName> und <orgName n="97ef639b-5af4-4db5-af63-9b5af46db512" type="deriv">kantonalen</orgName> Rechts sind klinische Versuche mit Heilmitteln an urteilsfähigen unmündigen oder entmündigten sowie an urteilsunfähigen Personen nur gemäss den in der Guten Praxis der Klinischen Versuche festgelegten Bedingungen zulässig.<add place="margin right">Urteilsfähige unmündige oder entmündigte sowie urteilsunfähige Personen </add>
+            </p>
+            <p>Die Zustimmung des gesetzlichen Vertreters muss schriftlich eingeholt werden. Ebenso muss die Einwilligung der urteilsfähigen unmündigen oder entmündigten Versuchsperson schriftlich eingeholt werden.  <pb n="783"/>
+            </p>
+            <p>
+                <title>
+                    <orgName n="0d70e347-0e3d-4247-b0e3-470e3d624789">Ethikkommission für klinische Versuche</orgName>
+                </title>
+            </p>
+            <p>Art. 6</p>
+            <p>Die <orgName n="e005cf02-5ac3-4196-85cf-025ac3819697">Ethikkommission für klinische Versuche</orgName> (Ethikkommission) nimmt eine ethische Beurteilung des klinischen Versuchs vor und überprüft seine wissenschaftliche Qualität. Sie muss sich vergewissern, dass der Schutz der Versuchspersonen gemäss der Guten Praxis der Klinischen Versuche gewährleistet ist. Den Versuchen mit schutzbedürftigen Personen ist besondere Aufmerksamkeit zu schenken.<add place="margin right">Aufgaben der <orgName n="c309f037-078c-4384-89f0-37078c53841c">Ethikkommission für klinische Versuche</orgName> </add>
+            </p>
+            <p>Die Ethikkommission prüft insbesondere, ob</p>
+            <p>a)	der Versuch so angelegt ist, dass neue Erkenntnisse gewonnen oder Erkenntnisse erweitert werden können, die verallgemeinerbar sind;</p>
+            <p>b)	das Verhältnis zwischen den voraussehbaren Risiken und dem voraussichtlichen Nutzen vorteilhaft ist;</p>
+            <p>c)	die personellen, materiellen und technischen Voraussetzungen dem Versuch angepasst sind und den Anforderungen an die Sicherheit der Versuchspersonen und an die wissenschaftliche Qualität entsprechen;</p>
+            <p>d)	der Prüfer Inhaber eines <orgName n="326d326e-b19f-4f10-ad32-6eb19f7f10e2" type="deriv">eidgenössischen</orgName> Diploms der Medizin, der Zahnmedizin oder eines gleichwertigen Diploms und zur Ausübung des Berufes befugt ist.</p>
+            <p>Im Falle von neuen wissenschaftlichen Erkenntnissen, beim Auftreten von schwerwiegenden unerwünschten Ereignissen sowie bei Änderungen des Versuchsplans kann die Ethikkommission den Versuch unterbrechen und einer neuen Beurteilung unterziehen.</p>
+            <p>Art. 7</p>
+            <p>Die Ethikkommission muss die Erfahrung und die notwendige Fachkenntnis haben, um die ihr vorgelegten Versuche unter Berücksichtigung der örtlichen Voraussetzungen zu beurteilen.<add place="margin right">Zusammensetzung </add>
+            </p>
+            <p>Die Ethikkommission muss genügend Mitglieder haben, um ein breites Meinungsspektrum abzudecken; beide Geschlechter sowie Personen, die keinen Beruf des <orgName n="23bffc03-776e-475d-bffc-03776e475d18">Gesundheitswesens</orgName> ausüben, müssen vertreten sein. Der Ethikkommission müssen mindestens drei Mediziner mit vertiefter Erfahrung in der Beurteilung der Wirksamkeit und Sicherheit von Heilmitteln oder in klinischen Versuchen sowie drei Nichtmediziner mit Erfahrung auf ethischem, sozialem oder juristischem Gebiet angehören. Ein Mitglied der Ethikkommission muss für Biometrie zuständig sein.  <pb n="784"/>
+            </p>
+            <p>Die Ethikkommission kann nötigenfalls Experten beiziehen, welche jedoch kein Stimmrecht haben.</p>
+            <p>Art. 8</p>
+            <p>Unter Vorbehalt des <orgName n="9cab9123-f61a-45c5-ab91-23f61a45c56b" type="deriv">kantonalen</orgName> Rechts erlässt die Ethikkommission ein Reglement, welches das Verfahren für die Bestimmung ihrer Mitglieder und ihre Arbeitsweise regelt. Das Reglement der Ethikkommission und die aktuelle Mitgliederliste mit der beruflichen Stellung der Mitglieder müssen der <orgName n="63146dc1-a1c6-422b-946d-c1a1c6e22b04">IKS</orgName> unterbreitet und der Öffentlichkeit zugänglich gemacht werden.<add place="margin right">Arbeitsweise </add>
+            </p>
+            <p>Die Ethikkommission ist nur beschlussfähig, wenn mindestens fünf Mitglieder, darunter ein Nichtmediziner, anwesend sind. Ein Mitglied der Ethikkommission muss in den Ausstand treten, wenn es oder einer seiner Angehörigen in der Sache befangen ist.</p>
+            <p>Die Ethikkommission fällt ihren Entscheid innerhalb von höchstens 30 Tagen, nachdem sie das vollständige Dossier vom Prüfer erhalten hat. Falls die Ethikkommission Zusatzinformationen oder einen externen Expertenbericht einfordert, entscheidet sie innert 30 Tagen nach Erhalt der Zusatzinformationen oder des Expertenberichts. Die Ethikkommission informiert den Prüfer über die Fristverlängerung.</p>
+            <p>Im Falle von Multicenter-Versuchen können die anderen betroffenen Ethikkommissionen in einem vereinfachten Verfahren entscheiden, wenn der Hauptprüfer die Genehmigung der zuständigen Ethikkommission in einem ordentlichen Verfahren erhalten hat.</p>
+            <p>Die Ethikkommission muss sämtliche ihr vorgelegten Versuchspläne und Informationen für Prüfer sowie alle Sitzungsprotokolle und die Korrespondenz mindestens zehn Jahre aufbewahren. Die <orgName n="e88b1fb7-d7b4-4790-8b1f-b7d7b4d790e4">IKS</orgName> und die Kantone können in diese Dokumente Einsicht nehmen.</p>
+            <p>
+                <title>Sponsor, Monitor und Prüfer</title>
+            </p>
+            <p>Art. 9</p>
+            <p>Der Sponsor muss gemäss der Guten Praxis der Klinischen Versuche handeln.<add place="margin right">Pflichten des Sponsors </add>
+            </p>
+            <p>Der Sponsor muss insbesondere</p>
+            <p>a)	einen qualifizierten Prüfer auswählen, der für die ganze Dauer des Versuchs verfügbar ist; eine aktuelle Information für Prüfer aushändigen; sich vergewissern, dass der Prüfer dem Versuchsplan und dessen Änderungen, den Prüfungsverfahren, dem Audit und  <pb n="785"/>der Inspektion zustimmt; die Verantwortlichkeiten zusammen mit dem Prüfer festlegen;</p>
+            <p>b)	im Falle von Multicenter-Versuchen kann er einen Hauptprüfer in der <placeName n="99f0213b-6bb8-412f-b021-3b6bb8512fdd">Schweiz</placeName> bezeichnen, der mit der Koordination der Prüfer der verschiedenen Versuchsorte betraut ist;</p>
+            <p>c)	ausgebildete Monitoren bezeichnen und sicherstellen, dass diese ständig weitergebildet werden;</p>
+            <p>d)	alle erforderlichen Massnahmen zur Gewährleistung der Sicherheit der Versuchspersonen treffen; schwerwiegende unerwünschte Ereignisse unverzüglich an sämtliche Prüfer mitteilen; eine vollumfängliche Entschädigung der Versuchspersonen für den Fall eines im Verlauf des Versuchs erlittenen Schadens sicherstellen;</p>
+            <p>e)	die Absicht zur Durchführung eines klinischen Versuchs mit Heilmitteln der <orgName n="b26b1d7a-6c69-4c16-ab1d-7a6c69dc169c">IKS</orgName> mitteilen; die Genehmigung der zuständigen Ethikkommission(en), den Versuchsplan, die Information für Prüfer (siehe Anhang II) und eine Kopie der Identifikationsetikette jedes Versuchspräparates an die <orgName n="854a607c-8432-48b7-8a60-7c843228b781">IKS</orgName> weiterleiten;</p>
+            <p>f)	alle Änderungen des Versuchsplans, alle schwerwiegenden unerwünschten Ereignisse sowie die Beendigung oder den vorzeitigen Abbruch des Versuchs unverzüglich der <orgName n="6f34b876-688b-455f-b4b8-76688b755f7a">IKS</orgName> mitteilen;</p>
+            <p>g)	detaillierte Standard Operating Procedures (SOP) zwecks Einhaltung der Guten Praxis der Klinischen Versuche erstellen; ein internes Audit des Versuchs führen;</p>
+            <p>h)	sämtliche Daten, die den Versuch betreffen, bis zum Verfalldatum der letzten ausgelieferten Charge, jedoch mindestens während zehn Jahren nach der Beendigung oder dem vorzeitigen Abbruch des Versuchs aufbewahren; den Schlussbericht des Versuchs während fünf Jahren nach Ablauf des Verfalldatums der letzten ausgelieferten Charge aufbewahren.</p>
+            <p>Art. 10</p>
+            <p>Der Monitor muss gemäss der Guten Praxis der Klinischen Versuche handeln.<add place="margin right">Pflichten des Monitors </add>
+            </p>
+            <p>Der Monitor muss insbesondere</p>
+            <p>a)	gemäss vorher festgelegten Standard Operating Procedures (SOP) arbeiten; den Prüfer vor, während und nach Abschluss des Versuchs besuchen, um die Einhaltung des Versuchsplans zu kontrollieren und um sich zu vergewissern, dass alle Daten korrekt und vollständig erfasst und festgehalten sind und dass die frei, ausdrücklich und nach  <pb n="786"/>Aufklärung erteilte Einwilligung der Versuchspersonen gemäss der Guten Praxis der Klinischen Versuche eingeholt wurde;</p>
+            <p>b)	sich versichern, dass der Prüfer Räumlichkeiten, Einrichtungen (einschliesslich Laboratorien), Ausrüstung und entsprechendes Personal besitzt und dass während der ganzen Versuchsdauer eine ausreichende Anzahl von geeigneten Versuchspersonen zur Verfügung steht;</p>
+            <p>c)	ein schnelles Kommunikationssystem zwischen dem Prüfer und dem Sponsor errichten;</p>
+            <p>d)	den Prüfer in sämtlichen mit dem Versuch verbundenen Verfahren unterstützen.</p>
+            <p>Art. 11</p>
+            <p>Der Prüfer muss gemäss der Guten Praxis der Klinischen Versuche handeln.<add place="margin right">Pflichten des Prüfers </add>
+            </p>
+            <p>Der Prüfer muss insbesondere</p>
+            <p>a)	dem Versuchsplan zustimmen und diesen zusammen mit dem Sponsor unterschreiben; seine Zustimmung zu den Prüfungsverfahren, zum Audit und zur Inspektion geben;</p>
+            <p>b)	qualifizierte Forschungsmitarbeiter auswählen; alle am Versuch beteiligten Mitarbeiter sowie die für die Betreuung der Versuchspersonen Verantwortlichen informieren;</p>
+            <p>c)	die Fortsetzung einer optimalen medizinischen Betreuung der Versuchspersonen sicherstellen; alle notwendigen Vorkehren zum Schutz ihrer Rechte sowie ihrer physischen und psychischen Integrität ergreifen; die Vertraulichkeit von Daten sicherstellen;</p>
+            <p>d)	die Genehmigung des Versuchs durch die zuständige Ethikkommission einholen; alle Änderungen des Versuchsplans sowie alle schwerwiegenden unerwünschten Ereignisse unverzüglich der zuständigen Ethikkommission und dem Sponsor mitteilen;</p>
+            <p>e)	die Ethikkommission regelmässig, jedoch mindestens einmal pro Jahr, über den Verlauf des Versuchs informieren;</p>
+            <p>f)	die Dossiers über die Versuchspersonen und alle anderen Originaldaten während mindestens zehn Jahren nach Beendigung oder vorzeitigem Abbruch des Versuchs aufbewahren.  <pb n="787"/>
+            </p>
+            <p>
+                <title>
+                    <orgName n="28a9d97c-634c-4f5a-a9d9-7c634c6f5a85">Interkantonale Kontrollstelle für Heilmittel</orgName> (<orgName n="e896194c-5ef5-4ac4-9619-4c5ef55ac470">IKS</orgName>)</title>
+            </p>
+            <p>Art. 12</p>
+            <p>Die <orgName n="00b23e28-319a-4e3c-b23e-28319afe3cbb">IKS</orgName> führt ein Verzeichnis der klinischen Versuche mit Heilmitteln. Sie kann prüfen, ob die klinischen Versuche mit Heilmitteln gemäss dem vorliegenden Reglement und der Guten Praxis der Klinischen Versuche durchgeführt werden.<add place="margin right">Aufgaben der <orgName n="4c7d01c1-44fe-4cce-bd01-c144fe0cce79">IKS</orgName> </add>
+            </p>
+            <p>Im Einvernehmen mit den betroffenen Kantonen kann die <orgName n="839283e0-4937-4305-9283-e04937b3056e">IKS</orgName> Inspektionen der Versuchsorte, der Einrichtungen und der Laboratorien sowie sämtlicher Daten (einschliesslich Originaldaten) und Dokumente, die den Versuch betreffen, durchführen. Ebenso kann sich die <orgName n="4e88ed5b-1f3c-453a-88ed-5b1f3cf53abb">IKS</orgName> über die Tätigkeit der Ethikkommissionen informieren. Die <orgName n="d0c8c5d1-2fd4-444d-88c5-d12fd4f44d23" type="deriv">gesundheitspolizeilichen</orgName> Kompetenzen der Kantone bleiben Vorbehalten.</p>
+            <p>Falls es am Versuchsort keine zuständige Ethikkommission gibt, bezeichnet die <orgName n="2d4e228c-5071-4442-8e22-8c5071f44218">IKS</orgName> unter Vorbehalt des kantonalen Rechts gegenüber dem Sponsor die zuständige Ethikkommission.</p>
+            <p>Art. 13</p>
+            <p>Gleich nach Erhalt einer Notifikation erteilt die <orgName n="54bed5a4-fdf3-4c4e-bed5-a4fdf39c4e6e">IKS</orgName> für das Versuchspräparat und für jeden damit durchgeführten klinischen Versuch eine Referenznummer. Sie teilt diese Nummern dem Sponsor mit.<add place="margin right">Notifikationsverfahren </add>
+            </p>
+            <p>Unter Vorbehalt des kantonalen Rechts ist der Sponsor befugt, 30 Tage nach Erteilung der Referenznummer durch die <orgName n="acee5723-5f90-4561-ae57-235f905561ee">IKS</orgName> den Versuch zu beginnen. Falls die <orgName n="2ce329b9-0018-4e05-a329-b900181e053a">IKS</orgName> Zusatzinformationen oder einen externen Expertenbericht eingefordert hat, kann der Versuch 30 Tage nach Erhalt der Zusatzinformationen oder des Expertenberichts begonnen werden. Die <orgName n="f7d3bdf6-695c-4a11-93bd-f6695c0a1154">IKS</orgName> informiert den Sponsor über die Fristverlängerung.</p>
+            <p>Art. 14</p>
+            <p>Die <orgName n="1d04b8ef-9616-4cfc-84b8-ef9616ecfc0c">IKS</orgName> teilt den betroffenen Kantonen die Referenznummern der Versuchspräparate und der damit durchgeführten klinischen Versuche mit. Ebenso übermittelt die <orgName n="120c72c2-bc02-4e1e-8c72-c2bc023e1e1f">IKS</orgName> den betroffenen Kantonen eine Kopie der Notifikation und informiert sie über eine allfällige Fristverlängerung gemäss Art. 14 Absatz 2 des voliegenden Reglementes.<add place="margin right">Information der Kantone </add>
+            </p>
+            <p>Die <orgName n="2d4e0756-cb14-421b-8e07-56cb14421b0c">IKS</orgName> teilt den betroffenen Kantonen sämtliche Änderungen des Versuchsplans sowie die Beendigung oder den vorzeitigen Abbruch eines Versuchs mit.  <pb n="788"/>
+            </p>
+            <p>
+                <title>Verwaltungsrechtliche Sanktionen</title>
+            </p>
+            <p>Art. 15</p>
+            <p>Daten von klinischen Versuchen mit Heilmitteln werden im Rahmen eines Registrierungs- oder Revisionsverfahrens nicht berücksichtigt, wenn diese unter Missachtung von Bestimmungen des vorliegenden Reglementes erhoben wurden.<add place="margin right">Verwaltungsrechtliche Sanktionen </add>
+            </p>
+            <p>Entscheide der <orgName n="026724a5-9577-42e9-a724-a5957782e901">IKS</orgName> können mit Rekurs an die <orgName n="e9ae6a36-098d-4c83-ae6a-36098d6c8361">Rekurskommission</orgName> gemäss Art. 16 der Interkantonalen Vereinbarung über die Kontrolle der Heilmittel angefochten werden.</p>
+            <p>Die <orgName n="fe4dd77a-0c97-467c-8dd7-7a0c97b67c48">IKS</orgName> zeigt den zuständigen kantonalen Behörden Widerhandlungen, von denen sie Kenntnis erhält, an.</p>
+            <p>
+                <title>Schlussbestimmungen</title>
+            </p>
+            <p>Art. 16</p>
+            <p>Ziffer 3 der Richtlinien der <orgName n="aa87f90c-5745-4636-87f9-0c5745a636a4">IKS</orgName> betreffend Anforderungen an die Dokumentation für die Registrierung von Arzneimitteln der Humanmedizin vom 16. Dezember 1977 wird wie folgt geändert:<add place="margin right">Änderungen bisherigen Rechts </add>
+            </p>
+            <p>…</p>
+            <p>Art. 17</p>
+            <p>Dieses Reglement tritt am 1. Januar 1995 in Kraft.<add place="margin right">Inkrafttreten </add>
+            </p>
+            <p>
+                <placeName n="1851db24-fa67-411e-91db-24fa67d11e62">Bern</placeName>, den 18. November 1993</p>
+            <p>Konferenz der <orgName n="8dd73ab7-8c3e-4df7-973a-b78c3eadf7b0">Interkantonalen Vereinigung</orgName>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Der Präsident: </cell>
+                        <cell>Der Sekretär: </cell>
+                    </row>
+                    <row>
+                        <cell>Dr. <persName n="0730c09c-24a3-4980-b0c0-9c24a3d98032">K. Meyer</persName>, alt Regierungsrat </cell>
+                        <cell>Dr. <persName n="e0443532-0783-49fa-8435-320783e9fa2f">J. Rieben</persName> </cell>
+                    </row>
+                </table>
+            </p>
+        </body>
+    </text>
+</TEI>

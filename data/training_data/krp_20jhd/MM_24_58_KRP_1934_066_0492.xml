@@ -1,0 +1,50 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Motion Amberg - Adliswil vom 20. November 1933 betreffend Konzessionspflicht der Darlehensinstitute etc. (Traktandum 8).</title>
+                <respStmt>
+                    <resp ref="#OCR/ihr" key="transcript">Transkript: OCR/ihr<date when="2011-10-19">19.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Motion Amberg - Adliswil vom 20. November 1933 betreffend Konzessionspflicht der Darlehensinstitute etc. (Traktandum 8).</title>
+                    <date when="1934-01-08">08.01.1934</date>
+                    <ident>StAZH MM 24.58 KRP 1934/066/0492</ident>
+                    <idno>840–842</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_58_KRP_1934_066_0492_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3654812"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="840"/>
+                <persName n="96a24bbe-b489-4504-a24b-beb489e504f7">Amberg</persName> - <placeName n="8eeea9ec-f36a-44b4-aea9-ecf36a64b434">Adliswil</placeName> begründet folgende Motion:</p>
+            <p>Der <orgName n="e3904280-c46c-42dd-9042-80c46c72ddb3">Regierungsrat</orgName> wird eingeladen, Bericht und Antrag darüber einzubringen, ob und in welchem Umfange Darlehens-Institute aller Art für ihre Tätigkeit im Kanton <placeName n="6afa1006-52b3-4910-ba10-0652b3b9109e">Zürich</placeName> konzessionspflichtig zu erklären und unter staatliche Kontrolle zu stellen sind.</p>
+            <p>Der <orgName n="2077d037-2031-4714-b7d0-372031771417">Regierungsrat</orgName> wird ferner eingeladen, in Verbindung mit den Organen der <orgName n="78156519-0fba-4b73-9565-190fbacb7317">Kantonalbank</orgName> die Frage zu prüfen, ob nicht das Tätigkeitsgebiet der <orgName n="f9a440d1-d02c-43a4-a440-d1d02cc3a434">Kantonalbank</orgName> durch Aufnahme des Kleindarlehens-Geschäftes zu erweitern oder unter Beteiligung der <orgName n="d3a58437-9088-4f56-a584-379088ef563b">Kantonalbank</orgName> mit staatlicher Aufsicht ein spezielles Institut für die Gewährung von Kleindarlehens-Krediten zu errichten  <pb n="841"/>sei, um so am wirksamsten die heute unzulänglichen Zustände auf diesem Gebiete im Interesse der kreditsuchenden untern Volksschichten zu sanieren.</p>
+            <p>Der Motionär bemerkt zunächst, es gehe nicht an, eine Motion als unerledigt abzuschreiben, wenn sie überraschend zur Behandlung kommt und der Motionär darum nicht in der Lage ist, sie zu begründen. Ich hätte gerne zum Thema meiner Motion noch Material der <orgName n="5b239330-1543-4c1a-a393-301543ec1a97">Staatsanwaltschaft</orgName> berücksichtigt, das mir zugesichert ist. Heute kommt der kleine Mann in die Notwendigkeit, sich rasch finanzielle Hülfe zu verschaffen. Dieser Notstand wird von jenen Darlehensinstituten, auf die der Geldsuchende, der keine genügenden Sicherheiten leisten kann, durch Inserate aufmerksam wird, gewissenlos ausgenützt. Auf Grund der Zinsbestimmungen des <placeName n="721ccaf4-bd97-4458-9cca-f4bd97545840" type="deriv">zürcherischen</placeName> Einführungsgesetzes zum <placeName n="4643c486-0d62-4dc5-83c4-860d624dc5e1" type="deriv">schweizerischen</placeName> Zivilgesetzbuch werden Wucherzinse von 30 bis 40 Prozent im Jahr verlangt. Als Leiter von Darlehensinstituten eignen sich nur Leute mit großem Verantwortungsgefühl, und staatliche Kautelen gegen Ausnutzung des kleinen Notleidenden durch skrupellose Geldverleiher sind gerechtfertigt. Es sollte ein legitimer Anspruch in unserer Gesellschaft bestehen, daß ein anständiger Geldbedürftiger zu einem tragbaren Zinsfuß Geld erhält. Die Darlehensempfänger sind oft über die Tragweite der unterschriebenen Verträge gar nicht im Klaren und fühlen sich nachträglich als getäuscht. Der <orgName n="f32379a4-af39-4405-a379-a4af3934052d">Staat</orgName> hat alles Interesse, die Geschäftsbedingungen der Darlehensvermittler zu kontrollieren. Das soziale Wohl des Einzelnen geht über die absolute Handels- und Gewerbefreiheit. Es genügt, die Konzessionspflicht zu stipulieren für die Darlehensinstitute, so wie sie auf andern Gebieten bestellt, ferner zu verlangen, daß die Geschäftsprinzipien der staatlichen Genehmigung bedürfen. Überdies wären Strafbestimmungen aufzustellen. Heute, wo sogar Staatsanwaltschaften öffentlich vor gewissen Darlehensvermittlern warnen und gleichzeitig deren Zahl ständig wächst, ist die Zeit gekommen, zum Rechten zu sehen. Gleichzeitig sollte die <orgName n="b825e006-ce77-4b79-a5e0-06ce772b79bd">Kantonalbank</orgName> jenen kleinen Geldsuchern ihre Hülfe zukommen lassen. Wenn das aus Gründen der Zweckbestimmung der <orgName n="a68fcaf2-9b4a-407e-8fca-f29b4a807e3a">Kantonalbank</orgName> nicht möglich sein sollte, dann wäre zu prüfen, ob nicht durch <orgName n="4cd019e3-f6e4-4ccf-9019-e3f6e41ccfd3">Kanton</orgName> und <orgName n="58f6a108-b7d5-4b8d-b6a1-08b7d5cb8dbc">Kantonalbank</orgName> ein selbständiges besonderes Darlehensinstitut geschaffen werden könnte. </p>
+            <p>
+                <pb n="842"/>Regierungsrat <persName n="58cdd7c9-5edc-4549-8dd7-c95edcc54915">Rudolf Streuli</persName> erklärt sich namens des <orgName n="e0b84d7d-e345-44de-b84d-7de34524ded7">Regierungsrates</orgName> bereit, die Motion zur unpräjudizierlichen Prüfung entgegenzunehmen.</p>
+            <p>Dr. <persName n="38e20536-f095-4639-a205-36f095c639d2">Schmid</persName> - <placeName n="235d25a7-1866-4bb9-9d25-a71866dbb903">Zürich</placeName> behält sich für die <orgName n="7347f1c9-ee6a-48c8-87f1-c9ee6a08c81c">freisinnige Fraktion</orgName> die Stellungnahme vor.</p>
+            <p>Vorsitz: <persName n="84d9a965-f0f0-49eb-99a9-65f0f079eb31">Kägi</persName> - <placeName n="5d08eefd-7137-4ca8-88ee-fd71377ca837">Erlenbach</placeName>.</p>
+        </body>
+    </text>
+</tei:TEI>

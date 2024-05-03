@@ -1,0 +1,45 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Postulat Hans Rutschmann (SVP, Rafz) und Karl Weber (SVP, Stadel) vom 3. Juni 1985 betreffend Erleichterung der Vorschriften der Gebäudeversicherung über die Verwendung von Holz an Gebäuden (schriftlich begründet, Entgegennahme)</title>
+                <respStmt>
+                    <resp ref="#OCR/mls" key="transcript">Transkript: OCR/mls<date when="2011-11-10">10.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Postulat Hans Rutschmann (SVP, Rafz) und Karl Weber (SVP, Stadel) vom 3. Juni 1985 betreffend Erleichterung der Vorschriften der Gebäudeversicherung über die Verwendung von Holz an Gebäuden (schriftlich begründet, Entgegennahme)</title>
+                    <date when="1985-08-19">19.08.1985</date>
+                    <ident>StAZH MM 24.115 KRP 1985/122/0009</ident>
+                    <idno>6797–6798</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_115_KRP_1985_122_0009_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3730762"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="6797"/>Das Postulat hat folgenden Wortlaut: Der <orgName n="d56ade10-bfb1-479a-aade-10bfb1979a53">Regierungsrat</orgName> wird ersucht, die Verordnungen und Verfügungen der <orgName n="be133b8e-342c-4601-933b-8e342ce601a1">Gebäudeversicherung</orgName>, insbesondere § 14 der VO über den baulichen Brandschutz sowie die Verfügung Nr. 4200 über die Aussenwandverkleidungen vom 15.2.1984, so zu ändern, dass bei Neu- und Umbauten vermehrt Holz verwendet werden darf. Die schriftliche Begründung wurde wie folgt abgegeben: Holz wird sowohl bei Neubauten wie Sanierungen wieder vermehrt verwendet. Als natürlicher Baustoff erfreut es sich zunehmender Beliebtheit. Diese Entwicklung ist aus verschiedenen Aspekten zu begrüssen. Holz als Werkstoff ist völlig unproblematisch, im Gegensatz  <pb n="6798"/>beispielsweise zu Kunststoffprodukten, die in den letzten 20 Jahren vor allem im Innenausbau natürliche Baustoffe verdrängten. Begrüssenswert ist diese Entwicklung auch aus der Sicht der Waldwirtschaft, rechnet man doch allerorts mit zunehmenden Absatzschwierigkeiten des einheimischen Holzes. Holz ist aber auch ein wichtiges Gestaltungselement, insbesondere bei Um- und Ersatzbauten in ländlichen Ortschaften. Dem Wunsch nach einer vermehrten Verwendung von Holz an Fassaden und im Gebäudeinnern stehen jedoch oft die einschränkenden Vorschriften der <orgName n="eeea954f-e003-47f0-aa95-4fe003c7f01b">Kantonalen Gebäudeversicherung</orgName> entgegen. Diese Vorschriften wurden speziell bei Mehrfamilienhäusern in jüngster Zeit verschärft. Selbstverständlich dürfen die Aspekte der Brandsicherheit nicht vernachlässigt werden. Der <orgName n="ed9f1e8b-fe54-476f-9f1e-8bfe54476fdc">Regierungsrat</orgName> bestätigte uns jedoch auf eine diesbezügliche <orgName n="4d5d3cca-bc67-4ea2-9d3c-cabc673ea218" type="deriv">parlamentarische</orgName> Anfrage, dass nicht Brandfälle zu dieser Verschärfung geführt haben. Wir ersuchen deshalb die <orgName n="fff6ace4-dd17-41ae-b6ac-e4dd1781aea9">Regierung</orgName>, die Vorschriften der <orgName n="78bb75c8-9696-44f3-bb75-c89696c4f394">Gebäudeversicherung</orgName> so zu ändern, dass dem Wunsch vieler Bauwilliger auf Verwendung von Holz im Gebäudeinnern und an Fassaden keine unnötigen Hindernisse entgegengestellt werden.</p>
+            <p>Ratspräsidentin <persName n="1f6b8bd4-239a-464f-ab8b-d4239a364f55">G. Erismann</persName>: Der <orgName n="776ddc35-bd64-4ec6-addc-35bd64fec69d">Regierungsrat</orgName> ist bereit, das Postulat entgegenzunehmen.</p>
+            <p>Es wird kein anderer Antrag gestellt. Das Postulat ist überwiesen.</p>
+            <p>Das Geschäft ist erledigt.</p>
+        </body>
+    </text>
+</tei:TEI>

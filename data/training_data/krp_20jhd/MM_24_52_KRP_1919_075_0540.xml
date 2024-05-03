@@ -1,0 +1,50 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wahl der Kommission für Prüfung des Geschäftsberichtes des Obergerichtes und des Kassationsgerichtes (Traktandum 3). </title>
+                <respStmt>
+                    <resp ref="#OCR/ihr" key="transcript">Transkript: OCR/ihr<date when="2011-10-17">17.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Wahl der Kommission für Prüfung des Geschäftsberichtes des Obergerichtes und des Kassationsgerichtes (Traktandum 3). </title>
+                    <date when="1919-05-05">05.05.1919</date>
+                    <ident>StAZH MM 24.52 KRP 1919/075/0540</ident>
+                    <idno>1776</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_52_KRP_1919_075_0540_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3629344"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="1776"/>In offener Abstimmung werden gewählt:</p>
+            <p>1. <persName n="3ef06989-0edd-4c25-b069-890eddfc25aa">Höhn, E.</persName>, in <placeName n="25b5bae3-7836-43e4-b5ba-e3783663e4e0">Zürich 3</placeName>.</p>
+            <p>2. <persName n="90265d7f-c234-435f-a65d-7fc234735f2f">Wyß, A.</persName>, in <placeName n="00c1680d-bc50-493f-8168-0dbc50e93fec">Zürich</placeName>.</p>
+            <p>3. <persName n="eeb8cbe8-934a-4524-b8cb-e8934a052461">Zuber, J.</persName>, in <placeName n="591e5265-14c8-4fed-9e52-6514c85fedbe">Rudolfingen</placeName>.</p>
+            <p>4. <persName n="3386b3e8-5d3d-4165-86b3-e85d3da16595">Heß, Hs.</persName>, in <placeName n="72179a37-0fbe-4e80-979a-370fbe8e8076">Oberengstringen</placeName>.</p>
+            <p>5. <persName n="76def260-279b-4b98-9ef2-60279bfb98c6">Spieß, E.</persName>, Dr. jur., in <placeName n="37d8154f-d67d-4c65-9815-4fd67dec659c">Bülach</placeName>.</p>
+            <p>6. <persName n="f282a023-1e7e-43df-82a0-231e7e13df34">Häberling, A.</persName>, in <placeName n="9d6b6d77-5ee7-478d-ab6d-775ee7278d96">Robenhausen</placeName> - <placeName n="db065121-c35e-49ad-8651-21c35eb9adc3">Wetzikon</placeName>.</p>
+            <p>7. <persName n="9bba0a2d-5fcc-4e9c-ba0a-2d5fcc3e9c8f">Strebel[,] A.</persName>, Dr. jur., in <placeName n="91b5395b-8fcf-4399-b539-5b8fcf139933">Zürich 3</placeName>.</p>
+            <p>Zum Präsidenten der Kommission wird <persName n="948d4763-6468-4618-8d47-636468e61831">E. Höhn</persName> gewählt.</p>
+        </body>
+    </text>
+</tei:TEI>

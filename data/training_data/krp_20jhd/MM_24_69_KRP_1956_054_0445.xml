@@ -1,0 +1,281 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Mitteilungen (Traktandum 1).</title>
+                <respStmt>
+                    <resp ref="#OCR/jsr" key="transcript">Transkript: OCR/jsr<date when="2011-10-28">28.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Mitteilungen (Traktandum 1).</title>
+                    <date when="1956-11-26">26.11.1956</date>
+                    <ident>StAZH MM 24.69 KRP 1956/054/0445</ident>
+                    <idno>1229–1233</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_69_KRP_1956_054_0445_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3690507"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="1229"/>1. Dr. <persName n="4d1d9f11-d51c-4b36-9d9f-11d51cdb3648">E. Krafft</persName> - <placeName n="7f49da8e-8c18-4fba-89da-8e8c189fba40">Zürich</placeName> hat am 9. Oktober 1956 folgende Kleine Anfrage eingereicht:</p>
+            <p>«Die <orgName n="a7d2e59e-f6ec-45da-92e5-9ef6ec45da3d">kantonale Gebäudeversicherungsanstalt</orgName> ist als staatliches Versicherungsunternehmen dem Bundesgesetz betreffend Beaufsichtigung von Privatunternehmungen im Gebiet des <orgName n="daca47cf-e680-4c90-8a47-cfe6802c9063">Versicherungswesens</orgName> vom 25. Juni 1885 und dem Bundesgesetz über den Versicherungsvertrag vom 2. April 1908 nicht unterstellt. Sie ist demzufolge nicht gehalten, dem Versicherten eine Police auszuhändigen, welche die Rechte und Pflichten der Parteien feststellt. Der Umfang der Versicherung und die Obliegenheiten des Versicherten sind indessen im Gesetz über die <orgName n="adfd01b9-0433-4d8e-bd01-b904334d8e55">Gebäudeversicherung</orgName> vom 28. Januar 1934 und in der Verordnung über die <orgName n="0d9d2ddf-0914-4f1a-9d2d-df0914bf1aba">Gebäudeversicherung</orgName> vom 31. Januar 1935 niedergelegt.</p>
+            <p>Als im Sommer 1956 auch Gebiete des Kantons <placeName n="accde163-4abd-4b71-8de1-634abd4b711a">Zürich</placeName> von schweren Unwettern betroffen wurden, konnte festgestellt werden, daß allgemein die Haus- und Grundeigentümer über den Umfang der <orgName n="3a42cd89-fe2b-4b0b-82cd-89fe2b9b0bea">Gebäudeversicherung</orgName> im unklaren waren.</p>
+            <p>Ist der <orgName n="bdb90ca7-40e3-451a-b90c-a740e3051a15">Regierungsrat</orgName> in der Lage, die <orgName n="bbaa0b1f-a5af-4a21-aa0b-1fa5af0a2148">kantonale Gebäudeversicherungsanstalt</orgName> zu veranlassen, die wichtigsten gesetzlichen Bestimmungen der <orgName n="47d4722d-389a-49eb-9472-2d389a19eb77">Gebäudeversicherung</orgName> in geeigneter Weise den Versicherten bekanntzugeben?» </p>
+            <p>
+                <pb n="1230"/>Der <orgName n="8fcb8990-3afc-4aee-8b89-903afc5aee6f">Regierungsrat</orgName> antwortet wie folgt: «Die geltenden Bestimmungen über die Schadenersatzpflicht der <orgName n="23ecac14-5a68-4e50-acac-145a685e50be">Gebäudeversicherungsanstalt</orgName> sind in der offiziellen Gesetzessammlung veröffentlicht. Ferner erteilen sowohl die <orgName n="6e1bde4f-dc63-465c-9bde-4fdc63065ca8">Gebäudeversicherungsanstalt</orgName> als auch die Gemeinderatskanzleien, denen der Einzug der Versicherungsprämien obliegt, auf Anfrage jederzeit die gewünschten Auskünfte. Die <orgName n="e62e4cd7-86ee-4b44-ae4c-d786ee5b44b5">Gebäudeversicherungsanstalt</orgName> wird inskünftig die wichtigsten gesetzlichen Bestimmungen über ihre Schadenersatzpflicht auf dem jedem Gebäudeeigentümer alljährlich zugehenden Prämienrechnungsformular abdrucken lassen.»</p>
+            <p>2. Eine Kleine Anfrage von <persName n="ee63814f-de24-49a1-a381-4fde24b9a12f">U. Kägi</persName> - <placeName n="dee12566-0847-47f0-a125-66084767f025">Zürich</placeName> vom 22. Oktober 1956 hat folgenden Wortlaut:</p>
+            <p>«Ein großes Warenhaus in <placeName n="9af3b13b-9202-4063-b3b1-3b9202906319">Zürich</placeName> ist bestrebt, die Ausnahmebewilligung für eine Verlängerung der Ladenöffnungszeiten zu erhalten. Diese Absicht ist beim Personal des in Frage stehenden Warenhauses auf Beunruhigung und Ablehnung gestoßen.</p>
+            <p>Ist der <orgName n="c280c38f-7784-4eb1-80c3-8f77844eb1bd">Regierungsrat</orgName> bereit, die verbindliche Zusicherung abzugeben, keine Ausnahmebestimmungen zum Gesetz über die öffentlichen Ruhetage und über die Verkaufs- und Arbeitszeit im Detailhandel vom 3. April 1949 zu erlassen?»</p>
+            <p>Der <orgName n="24b72686-8c6b-40be-b726-868c6b80be75">Regierungsrat</orgName> antwortet wie folgt:</p>
+            <p>«Der <orgName n="8720a7fc-ff14-4d8e-a0a7-fcff14ad8e68">Regierungsrat</orgName> kann Ausnahmebestimmungen zum Gesetz über die öffentlichen Ruhetage und über die Verkaufs-und Arbeitszeit im Detailhandel vom 3. April 1949 nur erlassen, soweit ihn das Gesetz selbst dazu ausdrücklich ermächtigt.</p>
+            <p>Nach § 5 des Gesetzes regelt der <orgName n="c4abc385-b912-4498-abc3-85b912b4981c">Regierungsrat</orgName> durch Verordnung, inwieweit Ausnahmen vom Verbot der Beschäftigung von Arbeitnehmern an öffentlichen Ruhetagen zulässig sind. Dies ist mit den §§ 3 und 4 der Vollzugsverordnung vom 23. Juni 1949 geschehen. Darnach ist die Beschäftigung von Arbeitnehmern an öffentlichen Ruhetagen allgemein gestattet, soweit die Aufrechterhaltung, Beaufsichtigung oder Wartung des Betriebes seiner Natur nach oder aus anderen zwingenden Gründen, wie Naturereignissen, Witterung, Notfällen, erforderlich ist. Zudem kann die <orgName n="e7e0c63d-66dc-445e-a0c6-3d66dca45ee3">Direktion der Volkswirtschaft</orgName> in Einzelfällen auf Gesuch hin Ausnahmen vom Arbeitsverbot  <pb n="1231"/>an öffentlichen Ruhetagen bewilligen, sofern die Ausführung von Arbeiten und Transporten im Interesse der Erhaltung von Anlagen oder Waren oder aus anderen wichtigen Gründen unaufschiebbar ist.</p>
+            <p>Gemäß § 19 des Gesetzes über die öffentlichen Ruhetage und über die Verkaufs- und Arbeitszeit im Detailhandel ist der <orgName n="8bb269a5-73eb-4e20-b269-a573ebee2058">Regierungsrat</orgName> ferner befugt, nach Anhörung der beteiligten Arbeitgeber- und Arbeitnehmerverbände für alle oder einzelne Geschäftszweige des Detailhandels vorübergehende Ausnahmen von Vorschriften dieses Gesetzes zu gestatten, sofern besondere, vor allem wirtschaftliche Verhältnisse dies erfordern. Von dieser Ermächtigung hat der <orgName n="e0f87de7-fb10-4f8e-b87d-e7fb105f8e67">Regierungsrat</orgName> bis anhin nur mit Zurückhaltung und nur bei zwingenden Gründen Gebrauch gemacht.»</p>
+            <p>3. Das Büro hat die Kommission zur Beratung der Motion Nr. 701 betreffend die politische Tätigkeit von Rechtsanwälten, Beamten und Angestellten des <orgName n="33626e32-9448-4d8c-a26e-329448ad8c47">Staates</orgName> und der Gemeinden, welche der <orgName n="f907e259-ae63-4a55-87e2-59ae635a559b">Partei der Arbeit</orgName> angehören, wie folgt bestellt:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>1. </cell>
+                        <cell>
+                            <persName n="62a6e4e2-6501-4849-a6e4-e265017849e8">Boßhart, Eduard</persName>, Dr., <placeName n="8e51b12c-31df-4b11-91b1-2c31dfab11c3">Winterthur</placeName> (Präsident), </cell>
+                    </row>
+                    <row>
+                        <cell>2. </cell>
+                        <cell>
+                            <persName n="34b21e13-d7f4-4c94-b21e-13d7f4ec94b4">Bachmann, Arthur</persName>, Dr., <placeName n="840b67fb-06da-4aa4-8b67-fb06da9aa42c">Winterthur</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>3. </cell>
+                        <cell>
+                            <persName n="1d390f26-f41e-4ba3-b90f-26f41e3ba31a">Fürst, Hans</persName>, Dr., <placeName n="f71e64bd-0495-4c78-9e64-bd04951c78d5">Wädenswil</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>4. </cell>
+                        <cell>
+                            <persName n="12cc3e1c-30e9-49af-8c3e-1c30e929afaf">Hanhart, Ernst</persName>, <placeName n="a0fa7acd-dce6-4d7b-ba7a-cddce69d7bc1">Zürich 11/57</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>5. </cell>
+                        <cell>
+                            <persName n="f2a2ee98-bc68-45c4-a2ee-98bc6875c4ad">Krafft, Erich</persName>, Dr., <placeName n="755ecdea-8bae-4221-9ecd-ea8baef22107">Zürich 2/38</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>6. </cell>
+                        <cell>
+                            <persName n="b72ed29d-88e4-456b-aed2-9d88e4a56be4">Kunz, Ernst</persName>, <placeName n="fc4dec60-04a2-45d0-8dec-6004a2f5d07e">Hombrechtikon</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>7. </cell>
+                        <cell>
+                            <persName n="f1df527d-fe8c-4eeb-9f52-7dfe8c1eeb09">Mettler, Hans</persName>, Dr., <placeName n="9128086a-53f7-4ae1-a808-6a53f79ae1ec">Zürich 7/53</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>8. </cell>
+                        <cell>
+                            <persName n="9699de41-cb13-4981-99de-41cb130981a2">Schalcher, Heinrich</persName>, <placeName n="12767a58-f161-4511-b67a-58f161351105">Winterthur</placeName> - <placeName n="34290b43-dfa8-4db1-a90b-43dfa81db1de">Wülflingen</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>9. </cell>
+                        <cell>
+                            <persName n="1ce7a93f-6192-4b87-a7a9-3f6192db87d7">Sigrist, Albert</persName>, <placeName n="add083ef-0101-4eb4-9083-ef01014eb419">Rafz</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>10. </cell>
+                        <cell>
+                            <persName n="76db0074-09b0-45a2-9b00-7409b015a22c">Stark, Josef</persName>, <placeName n="883ecbdc-10af-40ee-becb-dc10afa0ee21">Zürich 9/48</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>11. </cell>
+                        <cell>
+                            <persName n="5e2222d0-6459-41ef-a222-d0645951eff5">Stemmle, Felix</persName>, <placeName n="25f12958-2a48-4b45-b129-582a488b45aa">Zürich 10/49</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>12. </cell>
+                        <cell>
+                            <persName n="07785f29-c035-4ef6-b85f-29c035def6f6">Vollenweider, Walter</persName>, <placeName n="847bcba4-210e-4fff-bbcb-a4210eafff0f">Zürich 3</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>13. </cell>
+                        <cell>
+                            <persName n="3ae3c145-32fa-4620-a3c1-4532fac6203a">Wiesendanger, Hermann</persName>, <placeName n="c6a0f115-d470-41b5-a0f1-15d47061b54b">Winterthur</placeName>; </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Sekretär: <persName n="7947f4ca-6836-4dee-87f4-ca68365deec3">Raißig, Walter</persName>, Dr., <placeName n="7735536b-1b4f-419a-b553-6b1b4f219a3a">Langnau/ZH</placeName>.</p>
+            <p>4. Die Kommission zur Beratung der Motionen Nrn. 762 und 801 betreffend Ausbau der Arbeitsmedizin ist vom Büro wie folgt bestellt worden:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>1. </cell>
+                        <cell>
+                            <persName n="e54b7321-f96d-4a4e-8b73-21f96d1a4e5f">Bottini, Josef</persName>, <placeName n="eedcba29-f89b-4808-9cba-29f89b380846">Zürich 6</placeName> (Präsident), </cell>
+                    </row>
+                    <row>
+                        <cell>2. </cell>
+                        <cell>
+                            <persName n="7f24cf68-c329-4fd8-a4cf-68c329dfd8d5">Buri, Ernst</persName>, <placeName n="0868a312-b14d-4927-a8a3-12b14d192779">Zürich 11/51</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>3. </cell>
+                        <cell>
+                            <persName n="ec88fd4a-c4ac-4a16-88fd-4ac4ac7a1612">Frick, Willy</persName>, <placeName n="bde7f1ac-e84d-4a94-a7f1-ace84dea948d">Zürich 4</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>4. </cell>
+                        <cell>
+                            <persName n="85b095dc-f383-489b-b095-dcf383689b95">Gilomen, Werner</persName>, <placeName n="e82d207e-5caf-4efc-ad20-7e5caf9efc37">Winterthur</placeName>,  <pb n="1232"/>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>5. </cell>
+                        <cell>
+                            <persName n="8e9c5478-1b2e-4f64-9c54-781b2e2f64b2">Gubser, Albert</persName>, Dr., <placeName n="a5cc5ac3-e4d5-49d4-8c5a-c3e4d5d9d419">Zürich 4</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>6. </cell>
+                        <cell>
+                            <persName n="137eab5e-002f-474a-beab-5e002f074a09">Hofmann, Paul</persName>, <placeName n="bf087514-4686-4ed2-8875-144686eed203">Kempten</placeName> - <placeName n="50717970-cc9b-441b-b179-70cc9b541b9b">Wetzikon</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>7. </cell>
+                        <cell>
+                            <persName n="e877d31a-2228-40ce-b7d3-1a2228f0ced7">Maeder, Ernst</persName>, <placeName n="75c4d9b4-6fec-4742-84d9-b46fec57427a">Zürich 1</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>8. </cell>
+                        <cell>
+                            <persName n="f7e112d0-de8f-48a5-a112-d0de8f98a5bc">Mörgeli, Benjamin</persName>, <placeName n="9fd6c7d6-3eff-452c-96c7-d63eff352c80">Rickenbach</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>9. </cell>
+                        <cell>
+                            <persName n="9878f0fb-793f-4f8f-b8f0-fb793f8f8f06">Nigg, Josef</persName>, <placeName n="ea2b538b-f248-4c70-ab53-8bf2484c7096">Zürich 3</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>10. </cell>
+                        <cell>
+                            <persName n="9143406f-1846-49bc-8340-6f184639bcdd">Rüegg, Hans</persName>, <placeName n="fd2a8457-06b7-44eb-aa84-5706b794eb54">Rüti/ZH</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>11. </cell>
+                        <cell>
+                            <persName n="be00804f-b0e5-40ca-8080-4fb0e580ca91">Schinz, H.</persName>, Prof. Dr., <placeName n="33742bdf-db78-4689-b42b-dfdb7806894e">Zürich 7/32</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>12. </cell>
+                        <cell>
+                            <persName n="1a82ede6-8a27-41c4-82ed-e68a2751c44d">Schlegel, Hans</persName>, <placeName n="ea51ff4c-0b7b-4fa6-91ff-4c0b7b8fa615">Zürich 4</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>13. </cell>
+                        <cell>
+                            <persName n="31115949-00ce-473b-9159-4900cec73b5b">Schwarzenbach, Ulrich</persName>, <placeName n="a9f2de27-4b65-4cbe-b2de-274b655cbe52">Aeugst</placeName>; </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Sekretär: <persName n="cc3b0630-b7a4-4c2e-bb06-30b7a46c2e65">Krafft, Erich</persName>, Dr., <placeName n="60a902af-d2b0-484c-a902-afd2b0984c7b">Zürich 2/38</placeName>.</p>
+            <p>5. Das Büro hat zu Mitgliedern der Kommission betreffend die Ergänzung der Gesetze über die Ausbildung der Lehrkräfte an der Volksschule gewählt:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>1. </cell>
+                        <cell>
+                            <persName n="3bc33ff5-275d-4c14-833f-f5275d3c14af">Leemann, Ernst</persName>, Prof. Dr., <placeName n="0e678cd1-4a91-4d32-a78c-d14a912d32d4">Zürich 10/49</placeName> (Präsident), </cell>
+                    </row>
+                    <row>
+                        <cell>2. </cell>
+                        <cell>
+                            <persName n="fffe5ed6-f115-4745-be5e-d6f1157745f3">Duttweiler, Hans</persName>, Dr., <placeName n="1d8aad22-7c98-402d-8aad-227c98802d77">Zürich 1</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>3. </cell>
+                        <cell>
+                            <persName n="5fcdc64d-8856-4dde-8dc6-4d88566dde1b">Friedli, Friedrich</persName>, <placeName n="f03f0cc7-0ca1-45a2-bf0c-c70ca185a2f5">Männedorf</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>4. </cell>
+                        <cell>
+                            <persName n="ced070fb-3a7d-45e3-9070-fb3a7d05e35f">Graf, Hermann</persName>, <placeName n="b06b6508-381a-4c2f-ab65-08381a5c2fbe">Winterthur</placeName> - <placeName n="910ce5b3-89e9-49dc-8ce5-b389e9d9dc3d">Töß</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>5. </cell>
+                        <cell>
+                            <persName n="07d5b1b7-1b23-45e2-95b1-b71b2345e209">Häberlin, Hermann</persName>, Dr., <placeName n="3c33e28e-4d0c-4093-b3e2-8e4d0c4093c6">Zürich 8</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>6. </cell>
+                        <cell>
+                            <persName n="11053cf6-9f28-44b0-853c-f69f2894b0cb">Peter, Theodor</persName>, <placeName n="eee19a10-49bd-41cc-a19a-1049bd41cc5c">Riet</placeName> - <placeName n="94dfcdbd-9876-407b-9fcd-bd9876407b6d">Aesch b. Neftenbach</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>7. </cell>
+                        <cell>
+                            <persName n="ad6af045-f33c-466d-aaf0-45f33c166d7c">Pfister, Hans</persName>, <placeName n="bf7b3546-a704-454f-bb35-46a704454f8d">Meilen</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>8. </cell>
+                        <cell>
+                            <persName n="df712c78-71e5-42ae-b12c-7871e582ae61">Schmid, Robert</persName>, <placeName n="e3dda920-fd83-47d0-9da9-20fd83c7d0c6">Zürich 11/50</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>9. </cell>
+                        <cell>
+                            <persName n="e85aedbd-aadb-4a34-9aed-bdaadb6a34bc">Schwarzenbach, Hans</persName>, <placeName n="6a545b69-d6a6-47af-945b-69d6a637af33">Uetikon a. S.</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>10. </cell>
+                        <cell>
+                            <persName n="51bacb1d-6613-4d3a-bacb-1d6613ed3a98">Stößer, Josef</persName>, <placeName n="d994fae5-8279-4697-94fa-e58279b697b8">Oberrieden</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>11. </cell>
+                        <cell>
+                            <persName n="38325148-83d8-4926-b251-4883d83926d1">Wiedenmeyer, Hermann</persName>, <placeName n="57861589-7300-4c69-8615-8973009c69da">Zürich 9/48</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>12. </cell>
+                        <cell>
+                            <persName n="833c6be0-59ab-4acf-bc6b-e059ab1acf99">Winiger, August</persName>, <placeName n="a719af41-2b2c-4852-99af-412b2c785210">Zürich 5</placeName>, </cell>
+                    </row>
+                    <row>
+                        <cell>13. </cell>
+                        <cell>
+                            <persName n="2028adb7-8b99-460b-a8ad-b78b99160b12">Zellweger, Fritz</persName>, Dr., <placeName n="19d832a6-0cd8-4e68-9832-a60cd82e6848">Zürich 6</placeName>; </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Sekretär: <persName n="8792364e-8e96-4030-9236-4e8e96503066">Bopp, Jacques</persName>, <placeName n="aa3df44f-cade-4f76-bdf4-4fcade6f7605">Kilchberg/ZH</placeName>.</p>
+            <p>6. Von <persName n="351eb11a-5932-445a-9eb1-1a5932345a5e">Ulrich Kägi</persName> - <placeName n="2b35059b-d42b-4dbf-b505-9bd42badbf81">Zürich</placeName> liegt die Mitteilung vor, daß er aus der <orgName n="323beff8-1857-4733-bbef-f81857b73326">Partei der Arbeit</orgName> austrete und gleichzeitig den Rücktritt als Mitglied des <orgName n="4267ca9c-fc1a-4591-a7ca-9cfc1aa5910f">Kantonsrates</orgName> erkläre.</p>
+            <p>Der Rat nimmt von der Demission Kenntnis und ersucht den <orgName n="c808258c-7c27-4494-8825-8c7c27f4948d">Regierungsrat</orgName> um Bezeichnung des Nachfolgers.</p>
+            <p>7. Der Bericht und Antrag des <orgName n="95714110-6ae6-4db9-b141-106ae64db944">Regierungsrates</orgName> über die Bewilligung von Nachtragskrediten für das Jahr 1956, II. Serie, wird der <orgName n="e2f18c3c-6332-446a-b18c-3c6332746a2e">Staatsrechnungsprüfungskommission</orgName> überwiesen.</p>
+            <p>8. Die Vorlage Nr. 605 über einen Beschluß des <orgName n="0e2ffabd-2de9-493d-affa-bd2de9e93d7f">Kantonsrates</orgName> betreffend die Erhöhung des Staatsbeitrages an das <orgName n="ff4a16df-7ad0-4a84-8a16-df7ad06a8442">Pestalozzianum Zürich</orgName> geht an die <orgName n="80d35cb4-5f3c-40db-935c-b45f3c00db98">Staatsrechnungsprüfungskommission</orgName>.  <pb n="1233"/>
+            </p>
+            <p>9. Die Vorlage 606, Gesetz über Teuerungszulagen an staatliche Rentenbezüger, wird der Kommission betreffend die Abänderung der Verordnung über die Amtsstellung und Besoldung der Beamten und Angestellten der <orgName n="c2ac044c-4d8c-4858-ac04-4c4d8cf858ea">Verwaltung</orgName> und der <orgName n="8799ca4e-21b5-489d-99ca-4e21b5b89db6">Rechtspflege</orgName> zur Vorberatung übertragen.</p>
+            <p>10. Eine Kleine Anfrage von <persName n="cffccfb9-548a-4265-bccf-b9548a1265da">E. Keßler</persName> - <placeName n="22e36fc9-155a-4b50-a36f-c9155adb5029">Schlieren</placeName> lautet wie folgt:</p>
+            <p>«Zurzeit wird die <placeName n="d19398f8-963d-40e5-9398-f8963dc0e579">Badenerstraße</placeName> vom <placeName n="89ab946b-6b69-43e8-ab94-6b6b69b3e85f">Farbhof</placeName> bis zur Gemeindegrenze <placeName n="23a97042-fc46-430e-a970-42fc46830eea">Schlieren</placeName> umgebaut, was eine Straßensperre in einer Fahrrichtung bis nach <placeName n="073a72c3-4d3e-4bf2-ba72-c34d3ebbf285">Schlieren</placeName> für die Dauer von etwa einem Jahr zur Folge hat. Da auch das Teilstück bis zum Zentrum <placeName n="9011c7ff-e917-40e5-91c7-ffe91740e5b7">Schlieren</placeName> dringend umgebaut werden soll, und das erforderliche Projekt bereits seit einiger Zeit zur Verfügung steht, ersuche ich den <orgName n="e6663a8b-1811-452d-a63a-8b1811152d97">Regierungsrat</orgName> um Auskunft, aus welchen Gründen dieser Ausbau nicht gleichzeitig vorgenommen wird. Ein späterer Ausbau würde eine nochmalige Sperre des gleichen Straßenstückes für längere Zeit erfordern, was sich für dieses Gebiet den heutigen Verkehrsverhältnissen entsprechend besonders nachteilig auswirken würde.»</p>
+            <p>11. Von <persName n="0a79bd82-cb8b-4ac1-b9bd-82cb8b2ac1b2">H. Wiedenmeyer</persName> - <placeName n="65e5ecfc-1e0d-41d4-a5ec-fc1e0d61d475">Zürich</placeName> liegt nachstehende Kleine Anfrage vor:</p>
+            <p>«Am 11. Januar 1954 reichte Herr <persName n="c39345a2-9b7e-4abd-9345-a29b7e5abdec">Hans Eicher</persName>, <placeName n="ccebdc01-54de-4c3e-abdc-0154decc3ed7">Birmensdorf</placeName>, eine Einzelinitiative betr. Abänderung des Gesetzes über die Einteilung des Kantons in Bezirke, Wahlkreise und politische Gemeinden vom 28. April 1878, im Hinblick auf die Bestellung eines 12. Bezirkes ,<placeName n="f2bfaff4-4cd6-4846-bfaf-f44cd6d846b7">Schlieren</placeName>‘ oder ‚<placeName n="53fb1e1a-afc7-43a0-bb1e-1aafc7d3a019">Limmattal</placeName>‘ ein.</p>
+            <p>In seiner Sitzung vom 8. Februar 1954 beschloß der <orgName n="d639409f-0a8c-4bd4-b940-9f0a8c0bd417">Kantonsrat</orgName>, diese Initiative dem <orgName n="2f80dda6-bc59-461b-80dd-a6bc59a61b74">Regierungsrate</orgName> zur Prüfung und Berichterstattung zu überweisen. Ist der <orgName n="6454e4e3-6099-4826-94e4-e3609988269e">Regierungsrat</orgName> bereit, Auskunft zu erteilen,</p>
+            <p>a) was in der Zwischenzeit in dieser Angelegenheit unternommen wurde und</p>
+            <p>b) bis wann der Bericht der <orgName n="2b9a9399-f596-4619-9a93-99f596061952">Regierung</orgName> zu erwarten ist?»</p>
+        </body>
+    </text>
+</tei:TEI>

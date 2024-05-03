@@ -1,0 +1,42 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kommission für das Arbeiterinnenschutzgesetz, Wahl Zürcher für Graf.</title>
+                <respStmt>
+                    <resp ref="#OCR/amr" key="transcript">Transkript: OCR/amr<date when="2011-11-16">16.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Kommission für das Arbeiterinnenschutzgesetz, Wahl Zürcher für Graf.</title>
+                    <date when="1909-01-18">18.01.1909</date>
+                    <ident>StAZH MM 24.48 KRP 1909/012/0106</ident>
+                    <idno>198</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_48_KRP_1909_012_0106_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3623672"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="198"/>Der Vorsitzende gibt Kenntnis davon, daß das Bureau in seiner Sitzung vom <date>15. Januar 1909</date> für den aus der <orgName n="70a53565-6233-4ce7-a535-6562331ce7ce">Kommission für das Arbeiterinnenschutzgesetz</orgName> zurücktretenden Herrn <persName n="a1476307-ee08-41b8-8763-07ee0831b882">A. Graf</persName> - <placeName n="d91d39c9-1638-4f78-9d39-c916380f78bc">Dürnten</placeName> gewählt habe Herrn Dr. <persName n="9a24f420-bfcb-47ec-a4f4-20bfcba7eca8">E. Zürcher</persName> - <placeName n="e30c866e-8978-49d5-8c86-6e897899d57f">Zürich</placeName> und als Präsidenten den Vizepräsidenten der Kommission, Herrn Dr. <persName n="d88840c6-6214-4340-8840-c66214f340a6">F. Studer</persName> - <placeName n="3efbc472-e453-42af-bbc4-72e453b2afb7">Winterthur</placeName> (vergleiche Kommissionsbestellung, Protokoll, Seite 161). </p>
+        </body>
+    </text>
+</tei:TEI>

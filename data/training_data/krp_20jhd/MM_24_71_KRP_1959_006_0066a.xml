@@ -1,0 +1,73 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Verhandlungsgegenstände</title>
+                <respStmt>
+                    <resp ref="#OCR/jsr" key="transcript">Transkript: OCR/jsr<date when="2011-10-27">27.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Verhandlungsgegenstände</title>
+                    <date when="1959-07-06">06.07.1959</date>
+                    <ident>StAZH MM 24.71 KRP 1959/006/0066a</ident>
+                    <idno>145–147</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_71_KRP_1959_006_0066a_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3702290"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="145"/>Das Einladungsschreiben vom 29. Juni 1959 enthält folgende Verhandlungsgegenstände</p>
+            <p>*1. Mitteilungen.</p>
+            <p>*2. Begnadigungsgesuche:</p>
+            <p>a) F. K. (RRB. Prot.-Nr. 972 vom 12. März 1959);</p>
+            <p>b) F. W. H. (RRB. Prot.-Nr. 1407 vom 9. April 1959);</p>
+            <p>c) P. G. R. (Prot.-Nr. 1408 vom 9. April 1959)</p>
+            <p>(gleichlautende Anträge der <orgName n="7994612e-1647-4fed-9461-2e16477fed6d">Petitionskommission</orgName> vom 24. Juni 1959).</p>
+            <p>*3. Bewilligung von Nachtragskrediten für das Jahr 1959, I. Serie (Bericht und Antrag des <orgName n="1ee55504-317e-432b-a555-04317ea32bc3">Regierungsrates</orgName> vom 28. Mai 1959 und Antrag der <orgName n="240fc144-04db-4efa-8fc1-4404db3efa56">Staatsrechnungsprüfungskommission</orgName> vom 1. Juli 1959) 791,</p>
+            <p>*4. Staatsrechnung des Kantons <placeName n="b03f6152-56cc-49e2-bf61-5256ccd9e2a1">Zürich</placeName> für das Jahr 1958 (Bericht und Antrag der <orgName n="ebeef537-5903-4bb7-aef5-3759038bb703">Staatsrechnungsprüfungskommission</orgName> vom 17. Juni 1959) (Fortsetzung der Beratungen) 795.</p>
+            <p>*5. Beschluß des <orgName n="370763ce-3825-41f2-8763-ce382591f21a">Kantonsrates</orgName> über die Gewährung eines Beitrages an die Stiftung <orgName n="e7cfe312-5399-461a-8fe3-125399861aff">Bernische Privat-Blindenanstalt</orgName> für den Neubau der Anstalt in <placeName n="4ea8583d-4de4-4add-a858-3d4de47add74">Zollikofen</placeName> (Antrag des <orgName n="9840cad8-c35b-4179-80ca-d8c35b317929">Regierungsrates</orgName> vom 26. März 1959 und gleichlautender Antrag der Kommission vom 23. Juni 1959) 779.</p>
+            <p>6. Beschluß des <orgName n="0fe0c0bb-f63c-4fb7-a0c0-bbf63c3fb7e3">Kantonsrates</orgName> über die Volksinitiative zur Erweiterung der Volksrechte bei der Erteilung von Wasserrechtskonzessionen (kantonale Wasserrechtsinitiative) (Antrag des <orgName n="6d19763a-d14e-42db-9976-3ad14e92dbcb">Regierungsrates</orgName> vom 19. März 1959 und gleichlautender Antrag der Kommission vom 15. Juni 1959) 776.</p>
+            <p>7. Bericht und Antrag des <orgName n="60a4d27c-0f27-407c-a4d2-7c0f27507c81">Regierungsrates</orgName> zur Motion <persName n="820abee5-1a32-40f8-8abe-e51a3250f815">H. Känzig</persName> - <placeName n="8741b4a5-4d93-4de7-81b4-a54d93ade720">Männedorf</placeName> betreffend Entleerung der Mine-  <pb n="146"/>ralölabscheider (Antrag des <orgName n="9496b98f-9a1a-451f-96b9-8f9a1ab51f48">Regierungsrates</orgName> vom 23. April 1959 und gleichlautender Antrag der Kommission vom 23. Juni 1959) 782.</p>
+            <p>8. Rechenschaftsbericht der <orgName n="a2dd4678-8433-4e29-9d46-788433ce295b">Oberrekurskommission</orgName> für das Jahr 1958 (Antrag der Kommission für Prüfung des Rechenschaftsberichtes des <orgName n="ccf3bcd8-6a7d-43f4-b3bc-d86a7de3f4f7">Obergerichtes</orgName>, des <orgName n="7dbac21f-37ea-4157-bac2-1f37ea7157ff">Kassationsgerichtes</orgName> und der <orgName n="6183725b-11a4-4988-8372-5b11a45988fc">Oberrekurskommission</orgName> vom 26. Juni 1959).</p>
+            <p>9. Interpellation <persName n="aefb7201-74bd-4f48-bb72-0174bdcf4821">Rudolf Großmann</persName> - <placeName n="77f183cf-4bd8-4fea-b183-cf4bd84fea02">Regensdorf</placeName> vom 19. Januar 1959 über die Revision der Verordnung zum Schutze der <placeName n="f13b8b41-8187-429b-bb8b-418187929b20">Katzenseen</placeName> vom 12. Juli 1956 (Beantwortung).</p>
+            <p>10. Motion Prof. Dr. <persName n="159f5025-dfa8-4b93-9f50-25dfa81b9306">Ernst Leemann</persName> - <placeName n="e709dcde-fde9-4c6b-89dc-defde9bc6b65">Zürich</placeName> vom 2. März 1959 über die Erwachsenenbildung.</p>
+            <p>11. Interpellation <persName n="0de0a4ee-9a43-477b-a0a4-ee9a43177b15">Rolf Widmer</persName> - <placeName n="4b7f2f13-8c34-4647-bf2f-138c34c64761">Uster</placeName> vom 16. März 1959 über weitere Maßnahmen zur Behebung des Lehrermangels (Beantwortung).</p>
+            <p>12. Interpellation <persName n="fc351f09-e5d2-4961-b51f-09e5d24961f9">Rudolf Ott</persName> - <placeName n="c6f4ace0-364a-45f5-b4ac-e0364ab5f5f8">Turbenthal</placeName> vom 11. Mai 1959 über Abstellplätze für die fahrenden Läden an Hauptverkehrsstraßen (Beantwortung).</p>
+            <p>13. a) Interpellation <persName n="c9dfd8d8-1430-4fec-9fd8-d814303fec44">Gottfried Spoerri</persName> - <placeName n="ebda844d-880f-41bf-9a84-4d880f11bf5c">Küsnacht</placeName> vom 17. November 1958 über den Ausbau der <placeName n="002c519a-ef37-461a-ac51-9aef37c61a8e">Forchstraße</placeName> (Diskussion).</p>
+            <p>b) Interpellation <persName n="22a3728d-a025-4f96-a372-8da025ff9655">Hans Frei</persName> - <placeName n="d75a295e-5a43-49fb-9a29-5e5a4389fbf7">Zürich</placeName> vom 1. Dezember 1958 über den Ausbau der <placeName n="0103db88-1816-4edc-83db-881816aedc28">Forchstraße</placeName> und die Verlegung der <orgName n="cfbeb699-3eb4-4fa0-beb6-993eb42fa0ec">Forchbahn</orgName> (Beantwortung).</p>
+            <p>14. Motion <persName n="9e21bd7e-35e7-4242-a1bd-7e35e762428d">Hans Nüßli</persName> - <placeName n="190b9ec5-8503-4cfe-8b9e-c585038cfee3">Zürich</placeName> vom 16. März 1959 über die Verlegung des <orgName n="7f4e6ac3-6675-40b4-8e6a-c36675e0b4d9">Straßenverkehrsamtes</orgName> vom <placeName n="ba61d1fb-ab95-406d-a1d1-fbab95406d48">Strickhofareal</placeName>.</p>
+            <p>15. Motion <persName n="b7775e69-b82c-4492-b75e-69b82c8492a4">E. Burlet</persName> - <placeName n="213fdfd3-18eb-469a-bfdf-d318ebd69ac1">Zürich</placeName> vom 2. März 1959 über die Abänderung des Steuergesetzes vom 8. Juli 1951 (steuerfreies Minimum und Sozialabzüge).</p>
+            <p>16. Motion Dr. <persName n="ebfde4cf-a619-4c7c-bde4-cfa6196c7c6c">Alfred Billeter</persName> - <placeName n="04c93a84-fb1e-445d-893a-84fb1e345d76">Zürich</placeName> vom 15. Juni 1959 über die Abgabe einer Merkschrift an die Brautleute über die Rechte und Pflichten in der Ehe durch die die Eheverkündung vornehmenden Zivilstandsämter.</p>
+            <p>17. Motion <persName n="9b722cef-5b71-418a-b22c-ef5b71a18a40">Theodor Kloter</persName> - <placeName n="6781c13a-3883-40b3-81c1-3a3883f0b331">Meilen</placeName> vom 15. Juni 1959 über die Erledigung verwaltungsrechtlicher Rekurse.  <pb n="147"/>
+            </p>
+            <p>18. Interpellation Dr. <persName n="a29b30c3-4b3b-4472-9b30-c34b3bc472a0">Manfred Kuhn</persName> - <placeName n="89119974-0edb-44ec-9199-740edbc4ec3d">Zürich</placeName> vom 15. Juni 1959 über das Verbot des Films «Wege zum Ruhm».</p>
+            <p>19. Motion <persName n="022c1941-56ef-442c-ac19-4156ef542cd4">Willy Wagner</persName> - <placeName n="848c407a-baa3-4149-8c40-7abaa39149c2">Zürich</placeName> vom 15. Juni 1959 über die Organisation der <placeName n="acf2d24e-f7b0-44cf-b2d2-4ef7b044cfa5" type="deriv">zürcherischen</placeName> landwirtschaftlichen Schulen.</p>
+            <p>20. Interpellation <persName n="b87218bd-a9fa-480b-b218-bda9fa480b7c">Sigisbert Theus</persName> - <placeName n="a98acf1a-2189-4814-8acf-1a21892814fb">Zürich</placeName> vom 15. Juni 1959 über die Tarifpolitik der <orgName n="32a9c7ba-5966-4fbf-a9c7-ba59662fbf6d">Nordostschweizerischen Kraftwerke</orgName>.</p>
+            <p>21. Motion <persName n="02bb0590-28df-4f3f-bb05-9028dfff3f40">Ernst Gugerli</persName> - <placeName n="0aace49e-de6e-4cd3-ace4-9ede6e1cd3ea">Aesch</placeName> bei <placeName n="8bbe7122-2b6c-4692-be71-222b6cd692c9">Birmensdorf</placeName> vom 29. Juni 1959 über den Ausbau der landwirtschaftlichen Berufsbildung.</p>
+            <p>22. Interpellation <persName n="386cee6a-0b53-4034-acee-6a0b53803475">Erwin A. Lang</persName> - <placeName n="aa598c93-c4a9-4b9d-998c-93c4a9fb9d9f">Wetzikon</placeName> vom 29. Juni 1959 über die Schaffung eines <orgName n="b9f463ca-9ef6-47f7-b463-ca9ef697f73b">Kriminologischen Institutes</orgName>.</p>
+            <p>23. Interpellation Dr. <persName n="087191e4-e22d-4c0d-b191-e4e22dbc0ddb">Bruno Flueler</persName> - <placeName n="05604240-a378-40e4-a042-40a378a0e457">Küsnacht</placeName> vom 29. Juni 1959 über die Errichtung einer zweiten Zuckerfabrik im Kanton <placeName n="21226301-a03c-4e1b-a263-01a03cee1bda">Zürich</placeName>.</p>
+            <p>24. Interpellation <persName n="adb2ddde-1e6a-41ea-b2dd-de1e6a81ea6b">Sigisbert Theus</persName> - <placeName n="521690d2-2125-4522-9690-d2212555226a">Zürich</placeName> vom 29. Juni 1959 über die Neuordnung des <orgName n="c92e5250-7346-4a55-ae52-507346fa5567">Konservatoriums</orgName> und der <orgName n="9007cec0-e016-4155-87ce-c0e0165155da">Musikhochschule Zürich</orgName>.</p>
+            <p>25. Interpellation <persName n="07e206c7-175f-4738-a206-c7175fa7383f">Ewald Zimmermann</persName> - <placeName n="a5a27f4b-83b7-42e0-a27f-4b83b722e04d">Winterthur</placeName> vom 30. Juni 1958 über den Konflikt zwischen der <orgName n="c55ec03a-e287-4c45-9ec0-3ae2870c451b">Genossenschaft Zoologischer Garten</orgName> und der Zoodirektion (Diskussion).</p>
+        </body>
+    </text>
+</tei:TEI>

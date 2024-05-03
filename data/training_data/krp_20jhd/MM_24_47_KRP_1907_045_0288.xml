@@ -1,0 +1,47 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Verhandlungsgegenstände.</title>
+                <respStmt>
+                    <resp ref="#OCR/rke" key="transcript">Transkript: OCR/rke<date when="2011-10-05">05.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Verhandlungsgegenstände.</title>
+                    <date when="1907-01-21">21.01.1907</date>
+                    <ident>StAZH MM 24.47 KRP 1907/045/0288</ident>
+                    <idno>786</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_47_KRP_1907_045_0288_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3623252"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="786"/>Das Einladungsschreiben vom <date>15. Januar 1907</date> weist folgende Verhandlungsgegenstände auf: </p>
+            <p>1. Rechenschaftsbericht des <orgName n="49c0c94c-d6ab-466e-80c9-4cd6aba66ed0">Regierungsrates</orgName> über seine Geschäftsführung im Jahre 1905, Fortsetzung der Beratung.</p>
+            <p>2. Rechenschaftsbericht des <orgName n="6f73d029-b59c-4aad-b3d0-29b59caaadfa">Kirchenrates</orgName> pro 1905.</p>
+            <p>3. Gesetz betreffend die Wahlen und Abstimmungen, Vorlage der <orgName n="55714f68-ed0f-4ce8-b14f-68ed0f2ce80f">Redaktionskommission</orgName> vom <date>5. Januar 1907</date> und Anträge der bestellten Kommission vom <date>7. Dezember 1906</date>.</p>
+            <p>4. Registrierung ausgepfändeter Schuldner, Antrag der Kommission vom <date>13. November 1906</date>.</p>
+            <p>5. Gesetz betreffend das <orgName n="b5438671-b2e0-45e6-8386-71b2e0c5e650">Notariatswesen</orgName>, Antrag der Kommission vom <date>13. Dezember 1906</date>. </p>
+        </body>
+    </text>
+</tei:TEI>

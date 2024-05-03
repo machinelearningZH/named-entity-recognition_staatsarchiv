@@ -1,0 +1,55 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Landrechtsertheilung an 1.) Jos. Ries aus Biberach Königrch: Baiern und 2.) Ernst And: Stöpel aus Heldrungen, K. Preußen.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#chs">Transkript: chs<date when="2011-12-08">08.12.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Landrechtsertheilung an 1.) Jos. Ries aus Biberach Königrch: Baiern und 2.) Ernst And: Stöpel aus Heldrungen, K. Preußen.</title>
+                    <date when="1842-09-20">20.09.1842</date>
+                    <ident>StAZH MM 2.73 RRB 1842/1537</ident>
+                    <idno>56–57</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_051_MM_2_100/MM_2_073/MM_2_73_RRB_1842_1537_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1434879"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>4</p>
+            <p>
+                <pb n="56"/>Der <orgName n="3431f7ec-364a-4bc6-b1f7-ec364a0bc62b">Regierungsrath</orgName> hat auf den Antrag des Rathes des Innern vom 9. hjs [mit Mehrheit] beschloßen, dem Ansuchen </p>
+            <p>1.) des <persName n="b064a4c6-40cb-43bf-a4a4-c640cb43bf24">Joseph Ries</persName> aus <placeName n="eca59ac1-a4b6-441b-a59a-c1a4b6541b50">Biberach</placeName>, Kngrch. <placeName n="251cea7d-c5a5-4c69-9cea-7dc5a5dc69f8">Baiern</placeName> Schuster</p>
+            <p>2.) <persName n="6b49a341-1114-4931-89a3-411114793117">Ernst Andreas Stöpel</persName> aus <placeName n="2c2f3655-0b36-4e91-af36-550b36be9107">Heldrungen</placeName>, Kngrch. <placeName n="18fe7f88-418c-41de-be7f-88418c81dea2" type="deriv">Preußischen</placeName> Regierungsbezirkes <placeName n="508ac22e-10ee-40a2-8ac2-2e10ee70a22b">Merseburg</placeName>, Schreiner und Glasermeister</p>
+            <p>nachdem sich dieselben über die gesetzlichen Requisite gehörig ausgewiesen, zu entsprechen ihnen das Land-<pb n="57"/>recht zu ertheilen und ihre Aufnahme in das Bürgerrecht</p>
+            <p>der politischen Gemeinde</p>
+            <p>ad 1.) <placeName n="b8fd6937-30dc-4323-bd69-3730dca3236e">Raat</placeName> und <placeName n="a728712f-123b-461a-a871-2f123b261aa9">Schüpfheim</placeName>
+            </p>
+            <p>ad 2.) <placeName n="7e5c0777-5cdc-4482-9c07-775cdc0482d2">Brütten</placeName>
+            </p>
+            <p>zu bestätigen. Dafür haben die Petenten an die Staats-Kaßa das gesetzliche Schirmgeld von 400. Schweizerfranken und an die politischen Gemeinden die Einzugsgebühren in der Meinung zu entrichten, daß sie sich über Beides binnen 4. Wochen à dato vermittelst gehöriger Empfangscheine bei der <orgName n="95108b61-47a1-42df-908b-6147a1f2df55">Staatskanzlei</orgName> ausweisen und die Landrechtskurkunde in Empfang nehmen. </p>
+            <p>Hiervon wird dem <orgName n="464e1b69-cff7-484c-8e1b-69cff7c84c87">Rathe des Innern</orgName>, dem <orgName n="e305822a-e5d2-4c4a-8582-2ae5d2fc4a94">Finanzrathe</orgName> und den Statthalterämtern <placeName n="b639a00f-e7fa-4069-b9a0-0fe7fa7069ca">Regensberg</placeName> und <placeName n="9c89e8b0-6cb9-4c78-89e8-b06cb94c78a5">Winterthur</placeName> zu Handen der betreffenden Gemeindräthe und Petenten unter Rückstellung der eingelegten Akten für Letztere Kenntniß gegeben, so wie denselben Landrechtsurkunden besonders ausgestellt werden. </p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

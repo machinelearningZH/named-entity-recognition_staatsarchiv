@@ -1,0 +1,51 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschluß, betreff. Erhebung der Ortschaft Gräßlikon zu einer eigenen Civilgemeinde.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#utn">Transkript: utn<date when="2011-04-28">28.04.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Beschluß, betreff. Erhebung der Ortschaft Gräßlikon zu einer eigenen Civilgemeinde.</title>
+                    <date when="1844-07-16">16.07.1844</date>
+                    <ident>StAZH MM 2.85 RRB 1844/1158</ident>
+                    <idno>203–204</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_051_MM_2_100/MM_2_085/MM_2_85_RRB_1844_1158_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1450456"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="203"/>Der <orgName n="40e05a86-d96b-4484-a05a-86d96b048440">Regierungsrath</orgName> hat auf den Antrag des <orgName n="cced7bb0-d9f4-4379-ad7b-b0d9f47379fc">Rathes des Innern</orgName> [vom 5ten d. M] betreffend das Gesuch der Bürgerschaft des Weilers <placeName n="ac641440-2f38-45e6-a414-402f3835e646">Gräßlikon</placeName> um Bewilligung der Constituirung zu einer eigenen Civilgemeinde, Abtrennung von der politischen Gemeinde <placeName n="88f238d1-fe29-4eb7-b238-d1fe299eb73f">Buch</placeName> und Vereinigung mit der politischen Gemeinde <placeName n="b630468d-20a0-4cc4-b046-8d20a06cc484">Berg</placeName>.<pb n="204"/>nach Einsicht des Berichtes des <orgName n="29b05911-cc92-4de7-b059-11cc922de7b9">Bezirksrathes Andelfingen</orgName> vom 20ten März d. J. und der übrigen Akten:</p>
+            <p>In Anwendung des §. 2. des Gesetzes vom <date>18<hi>ten</hi> Christmonat 1835</date>. betreffend die Organisation um Verwaltung der Civilgemeinden:</p>
+            <p/>
+            <p>beschlossen:</p>
+            <p>I. Die Ortschaft <placeName n="547f05ad-4d79-4685-bf05-ad4d7976856d">Gräßlikon</placeName> wird zu einer eigenen Civilgemeinde erhoben und hat sich demgemäß als solche nach Anleitung des citirten Gesetzes zu constituiren:</p>
+            <p>II. Wird der <orgName n="21258973-2fa6-4e23-a589-732fa6ae23d5">Bezirksrath Andelfingen</orgName> beauftragt, nach geschehener Ausscheidung des Civilgemeindgutes über die Verhältnisse von <placeName n="4fe3e4e1-2205-426f-a3e4-e12205426f27">Gräßlikon</placeName> wieder Bericht zu erstatten, damit hinsichtlich der politischen Abtrennung von <placeName n="751f1a59-f848-4ce9-9f1a-59f8485ce95b">Buch</placeName> das Weitere verfügt werden kann:</p>
+            <p>III. Hievon wird dem <orgName n="cb0fece4-f3d6-4dea-8fec-e4f3d64dea11">Bezirksrathe Andelfingen</orgName> für sich und zu Handen der Gemeinde <placeName n="6be07d8d-c0a3-40b4-a07d-8dc0a350b423">Buch</placeName> und <placeName n="295e95b9-5db9-4808-9e95-b95db9880850">Gräßlikon</placeName> Kenntniß gegeben.  </p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

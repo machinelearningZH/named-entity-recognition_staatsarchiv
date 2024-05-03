@@ -1,0 +1,6 @@
+__pycache__
+models
+ner.log
+configs
+corpus
+packages

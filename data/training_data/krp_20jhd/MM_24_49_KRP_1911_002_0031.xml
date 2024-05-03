@@ -1,0 +1,52 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bestellung der ständigen Kommissionen für den Rechenschaftsbericht des Regierungsrates.</title>
+                <respStmt>
+                    <resp ref="#OCR/kvr" key="transcript">Transkript: OCR/kvr<date when="2011-11-16">16.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Bestellung der ständigen Kommissionen für den Rechenschaftsbericht des Regierungsrates.</title>
+                    <date when="1911-06-12">12.06.1911</date>
+                    <ident>StAZH MM 24.49 KRP 1911/002/0031</ident>
+                    <idno>17</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_49_KRP_1911_002_0031_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3626183"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="17"/>In die <orgName n="bb1c476e-710f-4a6b-9c47-6e710faa6b78">Kommission für Prüfung des Rechenschaftsberichtes des Regierungsrates</orgName> werden in offener Abstimmung gewählt:</p>
+            <p>1. <persName n="0be90b8b-6540-4958-a90b-8b6540a95848">J. Keller</persName>, Ingenieur in <placeName n="b9b5fd3e-4391-45b4-b5fd-3e439155b4ef">Zürich V</placeName>, Präsident.</p>
+            <p>2. Dr. <persName n="c7aab1b9-ddbe-4981-aab1-b9ddbee9810f">Bircher</persName>, Rechtsanwalt in <placeName n="50b6c559-4bec-4c39-b6c5-594bec8c39d0">Zürich IV</placeName>.</p>
+            <p>3. <persName n="4db678db-634d-4855-b678-db634dc85563">H. Maag</persName> in <placeName n="0e81c4b2-aaca-44a7-81c4-b2aacab4a7f2">Bachenbülach</placeName>.</p>
+            <p>4. Dr. <persName n="977968a5-53d8-491d-b968-a553d8591d4f">Balsiger</persName> in <placeName n="9afaf38a-4309-4243-baf3-8a4309524377">Zürich V</placeName>.</p>
+            <p>5. <persName n="1cd535a5-bc5e-432c-9535-a5bc5e432ccd">H. Bertschinger</persName> in <placeName n="d120f777-11f5-4790-a0f7-7711f50790e5">Walisellen</placeName> (mit 83 Stimmen gegenüber 60, welche auf <persName n="cdc95bfd-f448-4ca2-895b-fdf448bca28d">R. Streuli</persName> fielen).</p>
+            <p>6. <persName n="10462e24-f0f7-44c8-862e-24f0f7b4c8d2">R. Streuli</persName> in <placeName n="ae05cb6c-6aa1-418f-85cb-6c6aa1618f44">Horgen</placeName> (mit Mehrheit gegenüber <persName n="0d46fe27-3da6-42e4-86fe-273da6e2e4c5">Meyer-Rusca</persName>).</p>
+            <p>7. <persName n="3b041e03-e9c8-4b3c-841e-03e9c87b3cd0">J. Meyer-Rusca</persName> in <placeName n="fd200266-4341-4c0b-a002-664341dc0ba5">Winkel</placeName> (mit 90 Stimmen gegenüber Reichen, auf den 56 Stimmen fielen).</p>
+            <p>8. <persName n="248878fd-4edb-437e-8878-fd4edb537ea4">A. Reichen</persName> in <placeName n="02172079-f8ce-4c05-9720-79f8ce4c052b">Winterthur</placeName>.</p>
+            <p>9. <persName n="45f7cf93-bfd0-4bb1-b7cf-93bfd01bb1c1">R. Walder</persName> in <placeName n="1cd97b2a-239e-4532-997b-2a239e75325b">Wetzikon</placeName>.</p>
+            <p>Das Bureau des <orgName n="ae21c5c7-ab08-4620-a1c5-c7ab0816200a">Kantonsrates</orgName> hat in seiner Sitzung vom <date>19. Juni 1911</date> als Sekretär bezeichnet: <persName n="379044e4-47e6-457c-9044-e447e6757c33">Ed. Heußer</persName>, <placeName n="65c2dd28-36f0-4a88-82dd-2836f0da8823">Zürich II</placeName>.</p>
+        </body>
+    </text>
+</tei:TEI>

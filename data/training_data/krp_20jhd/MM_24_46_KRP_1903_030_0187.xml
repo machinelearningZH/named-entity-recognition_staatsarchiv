@@ -1,0 +1,44 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bericht des Regierungsrates vom 8. April 1903 betreffend die Regelung der Sicherstellung von Verlassenschaften nebst einer Verordnung betreffend Sicherstellung von Verlassenschaften vom 8. April 1903.</title>
+                <respStmt>
+                    <resp ref="#OCR/lsz" key="transcript">Transkript: OCR/lsz<date when="2011-11-16">16.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Bericht des Regierungsrates vom 8. April 1903 betreffend die Regelung der Sicherstellung von Verlassenschaften nebst einer Verordnung betreffend Sicherstellung von Verlassenschaften vom 8. April 1903.</title>
+                    <date when="1903-04-21">21.04.1903</date>
+                    <ident>StAZH MM 24.46 KRP 1903/030/0187</ident>
+                    <idno>471–472</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_46_KRP_1903_030_0187_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3621753"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="471"/>Unterm <date>8. April 1903</date> hat der <orgName n="a1ceb1b0-38a6-406c-8eb1-b038a6106c43">Regierungsrat</orgName> einen Bericht eingereicht betreffend die Regelung der Sicherstellung von Verlassenschaften (Amtsblatt, Textteil, Seite 416–423), sowie eine bezügliche Verordnung (Amtsblatt, Textteil, Seite  <pb n="472"/>413–415). Der Referent der unterm <date>27. November 1902</date> bestellten Kommission (vergl. Protokoll 1902–1905, Seite 83), Herr Oberrichter Müller-Zürich, erklärt namens derselben das Einverständnis mit der <orgName n="65f8a5a9-a681-40ae-b8a5-a9a68140ae83" type="deriv">regierungsrätlichen</orgName> Vorlage und verweist im übrigen bezüglich der Details auf die Berichterstattung des <orgName n="902cb28c-6d9d-4a9d-acb2-8c6d9d3a9d6a">Regierungsrates</orgName>.</p>
+            <p>Herr Dr. Ryf-Zürich, der seinerzeit durch eine Motion die Aufhebung der <orgName n="d3701524-ecc8-4dd0-b015-24ecc8bdd0c3" type="deriv">regierungsrätlichen</orgName> Verordnung betreffend das beim Ableben von Nichtkantonsbürgern zu beobachtende Verfahren vom <date>19. Januar 1861</date> sowie des Kreisschreibens der <orgName n="0e0cc13f-04d2-4812-8cc1-3f04d248127c">Finanzdirektion</orgName> an die Gemeinderäte und Zivilstandsämter betreffend die Wahrung gefährdeter Steueransprüche vom <date>19. Februar 1902</date> angeregt hatte, bemerkt zu den <orgName n="3d238b3e-1a8d-4cc2-a38b-3e1a8d1cc24c" type="deriv">regierungsrätlichen</orgName> Vorlagen im wesentlichen folgendes: Der <orgName n="61f7357d-84c6-4664-b735-7d84c6d66435">Regierungsrat</orgName> hat die beiden angefochtenen Erlasse zurückgezogen und es ist damit dem Gedanken der Motion Rechnung getragen. Die neue Verordnung vom <date>8. April 1903</date> ist ein Erlaß des <orgName n="926493fa-70d1-4157-a493-fa70d1515795">Regierungsrates</orgName>, der in seine ausschließliche Kompetenz fällt und den der <orgName n="98d4ee37-0f8c-4596-94ee-370f8c659661">Kantonsrat</orgName> nicht zu genehmigen hat. Auf Grund des allgemeinen Aufsichtsrechtes des <orgName n="479f106c-23a9-439a-9f10-6c23a9139abb">Kantonsrates</orgName> über die Verwaltung könnte die Behörde allerdings die Verordnung in Behandlung ziehen. Wenn sie das heute nicht tut, so soll hiemit nicht eine stillschweigende Genehmigung derselben ausgesprochen sein. Die Kommission ist der Meinung, daß nun die Angelegenheit aus Abschied und Traktanden falle.</p>
+            <p>Der Vorsitzende konstatiert, daß der Rat mit der Abschreibung der Motion <persName n="d5432c35-893c-45f2-832c-35893c65f20b">Ryf</persName> einverstanden sei und daß vom Eingang der Verordnung betreffend die Sicherstellung von Verlassenschaften Notiz am Protokoll genommen werde.</p>
+        </body>
+    </text>
+</tei:TEI>

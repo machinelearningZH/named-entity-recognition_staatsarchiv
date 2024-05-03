@@ -1,0 +1,50 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Emancipation des Herrn Heinrich Hochstraßer aus Egg.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#lmr">Transkript: lmr<date when="2011-05-05">05.05.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Emancipation des Herrn Heinrich Hochstraßer aus Egg.</title>
+                    <date when="1840-09-03">03.09.1840</date>
+                    <ident>StAZH MM 2.59 RRB 1840/1496</ident>
+                    <idno>72–73</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_051_MM_2_100/MM_2_059/MM_2_59_RRB_1840_1496_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1401091"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="72"/>Es hat der <orgName n="3c55bb61-737b-480c-95bb-61737ba80cd7">Regierungsrath</orgName>, auf den Bericht und Antrag des <orgName n="ff7e4967-3e4d-4841-be49-673e4de8419f">Rathes des Innern</orgName> vom 26sten v. M. betreffend Emancipation des Herrn <persName n="482f53e2-67d7-420f-af53-e267d7f20f24">Heinrich Hochstraßer</persName> aus <placeName n="49d4bc1f-f9bf-4135-94bc-1ff9bf213547">Egg</placeName>. Da sich ergeben.</p>
+            <p>Von dem Curator des Herrn <persName n="8ca6ffec-5107-4307-a6ff-ec51073307dc">Hochstraßer</persName> aus <placeName n="f952e128-1eb6-489d-92e1-281eb6e89d59">Egg</placeName>, Herr <persName n="fafe82f8-afdc-4e72-be82-f8afdc9e7246">J. J. Boller</persName>, sey ein Emancipationsgesuch gestellt worden, laut <orgName n="b9115abd-0509-4b52-915a-bd05096b5222" type="deriv">pfarramtlichem</orgName> Taufschein sey Herr <persName n="5a889b83-a49d-4591-889b-83a49dc5913f">Hochstraßer</persName> den 17ten December 1821. geboren worden, seit einiger Zeit sey er im Handlungshause von <persName n="f84c54c1-f9c9-4918-8c54-c1f9c9b9189d">C. Schultheßen</persName> Erben angestellt, verschiedene Verhältniße machen die Emancipation sehr wünschbar, und das Gesuch um dieselbe werde sowohl von den nächsten Anverwandten<pb n="73"/>als auch von dem <orgName n="dee7396e-5596-4a70-a739-6e5596ca70d3">Gemeindrathe Egg</orgName> und dem <orgName n="4d46aded-12ad-4e67-86ad-ed12ad5e67d5">Bezirksrathe Uster</orgName> zur Entsprechung empfohlen, sowie auch sehr günstige Leumundszeugniße für den Petenten vorliegen;</p>
+            <p/>
+            <p>beschlossen:</p>
+            <p>1.) Es wird dem Herrn <persName n="f87b6935-a5eb-446b-bb69-35a5eb846b8b">Heinrich Hochstraßer</persName> die venia celatis ertheilt.</p>
+            <p>2.) Hiervon wird dem <orgName n="41664c4f-d2b6-4190-a64c-4fd2b6019026">Statthalteramte Uster</orgName> zu Handen des <orgName n="298db563-a0e7-4fd4-8db5-63a0e74fd4b6">Bezirksrathes</orgName> sowie des <orgName n="9c7daf61-80b3-404e-bdaf-6180b3d04e99">Gemeindrathes Egg</orgName> und des Petenten, unter Rückstellung des eingelegten Taufscheines, Kenntniß gegeben und diesem Letztern eine Urkunde ausgefertigt.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

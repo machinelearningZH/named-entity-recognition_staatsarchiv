@@ -1,0 +1,92 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Voranschlag des Kantons Zürich für das Jahr 1954 (Anträge des Regierungsrates vom 8. Oktober 1953 und der Staatsrechnungsprüfungskommission vom 4. Dezember 1953) (414) (Traktandum 3). </title>
+                <respStmt>
+                    <resp ref="#OCR/dmr" key="transcript">Transkript: OCR/dmr<date when="2011-10-26">26.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Voranschlag des Kantons Zürich für das Jahr 1954 (Anträge des Regierungsrates vom 8. Oktober 1953 und der Staatsrechnungsprüfungskommission vom 4. Dezember 1953) (414) (Traktandum 3). </title>
+                    <date when="1953-12-14">14.12.1953</date>
+                    <ident>StAZH MM 24.66 KRP 1953/106/0761</ident>
+                    <idno>2182–2185</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_66_KRP_1953_106_0761_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3661063"/>
+                    <listRelation>
+                        <relation name="Fortsetzung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3661063" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3661060"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="2182"/>Fortsetzung der Beratungen.</p>
+            <p><orgName n="9fd36fad-046b-4008-936f-ad046b10086b">Direktion der Fürsorge</orgName>.</p>
+            <p>Der Rat stimmt dem Abschnitt diskussionslos zu.</p>
+            <p><orgName n="39358ba7-a4ab-4855-b58b-a7a4abf8552a">Direktion des Erziehungswesens</orgName>.</p>
+            <p>
+                <persName n="1dfa81d1-4b14-4074-ba81-d14b146074be">Gerteis</persName> - <placeName n="304ac0bd-7762-47eb-8ac0-bd7762b7eb3d">Winterthur</placeName> kommt als Referent der <orgName n="14296237-ccf8-461e-a962-37ccf8761eef">Staatsrechnungsprüfungskommission</orgName> speziell auf Konto 2913/820, Miete für Schulräume, zu sprechen, wo der <orgName n="9e4c1e95-cfbb-4ad2-8c1e-95cfbbaad272">Regierungsrat</orgName> nachträglich eine Erhöhung vorschlägt, die durch eine Baukostenüberschreitung von 18% bei der <orgName n="cc4b0c5b-c24e-4225-8b0c-5bc24eb225d8">Frauenfachschule</orgName> bedingt wird. Es ist im Vertrag die Klausel enthalten, daß sich der Mietzins um den gleichen Prozentsatz erhöht. Die <orgName n="4c2c861f-edc0-4333-ac86-1fedc0333355">Staatsrechnungsprüfungskommission</orgName> vertritt die Auffassung, es soll zuerst das Ergebnis der Überprüfung der Baurechnung abgewartet werden.</p>
+            <p>Prof. <persName n="a84a096e-359b-4376-8a09-6e359bf37656">Wyß</persName> - <placeName n="1b9f430b-3563-4b95-9f43-0b35630b95ef">Zürich</placeName> beanstandet die Regelung der Entschädigungen für die Aktuariate der Bezirksschulpflegen und exemplifiziert mit dem Beispiel der <orgName n="437abe7b-50d1-4a35-babe-7b50d17a35dd">Bezirksschulpflege Zürich</orgName>. Er stellt folgendes Postulat:</p>
+            <p>«Der <orgName n="d672fc29-a132-42cf-b2fc-29a13232cf8b">Regierungsrat</orgName> wird eingeladen, unverzüglich den § 52 der Besoldungsverordnung (Verordnung über die Anstellung und Besoldung der Beamten und Angestellten der <orgName n="a21f2aad-525c-4e45-9f2a-ad525c3e458f">Verwaltung</orgName> und der <orgName n="51bafa93-6dfa-41c8-bafa-936dfa21c81f">Rechtspflege</orgName> vom 15. März 1948) zu revidieren und die Entschädigungen  <pb n="2183"/>an die Präsidenten und diejenige an die Aktuare der Bezirksschulpflegen den heutigen Verhältnissen anzupassen.»</p>
+            <p>Erziehungsdirektor Dr. <persName n="63508c35-2682-459c-908c-352682b59c7b">Vaterlaus</persName> stellt fest, daß der <orgName n="fa056237-18a0-425f-8562-3718a0625f46">Regierungsrat</orgName> grundsätzlich der Auffassung ist, daß an der Besoldungsverordnung vorläufig nichts geändert werden soll. Er ist aber bereit, das Postulat zur Prüfung entgegenzunehmen.</p>
+            <p>Der Rat opponiert der Überweisung des Postulates nicht.</p>
+            <p><orgName n="bddc6c79-e443-41b1-9c6c-79e443d1b1eb">Direktion der öffentlichen Bauten</orgName>.</p>
+            <p>
+                <persName n="ea17c946-f7af-41f7-97c9-46f7af01f70a">Moßdorf</persName> - <placeName n="e4933107-141e-440f-9331-07141e040fde">Bülach</placeName> stellt zu Pos. 3000/940, Staatsbeiträge an Heimatschutz, Verkehrs- und Wasserwirtschaftsverbände, den Antrag, eine Kürzung von Fr. 21 000.– auf Fr. 18 000.– vorzunehmen und so die Leistung an den <orgName n="f0fddcd8-f049-417c-bddc-d8f049917c96">Nordostschweizerischen Verband für die Hochrheinschiffahrt</orgName> um Fr. 3000.– zu reduzieren und lediglich den normalen Beitrag von Fr. 100.– für Kollektivmitglieder zu zahlen. Nachdem Baudirektor Dr. <persName n="a24b82e0-1582-412c-8b82-e01582512cd5">Meierhans</persName> erklärt hat, die Hochrheinschiffahrt sei heute nicht mehr aktuell, ist nur konsequent, die erhöhte Unterstützung fallen zu lassen.</p>
+            <p>Dr. <persName n="821c7f2e-aefc-46aa-9c7f-2eaefc16aa87">Fürst</persName> - <placeName n="d2667486-6adb-479a-a674-866adb879adf">Wädenswil</placeName> kann diesen Nachwehen der Rheinaudebatten kein Verständnis entgegenbringen. Es müßte kleinlich berühren, wenn sich der Kanton <placeName n="338e0229-bdee-489e-8e02-29bdeea89e28">Zürich</placeName> bei der weiteren Abklärung dieses Problems, das von gesamtschweizerischer Bedeutung ist, zurückziehen würde. Diese Fragen bedürfen noch einer weiteren Abklärung. Es kann uns nicht gleichgültig sein, wo der letzte Rheinhafen ist.</p>
+            <p>Baudirektor Dr. <persName n="45126876-e13a-477b-9268-76e13a177b6d">Meierhans</persName> erkennt im Antrag <persName n="16ce6da5-650e-4203-8e6d-a5650ec20342">Moßdorf</persName> eine Demonstration im Zusammenhang mit der Rheinaufrage. Das Ziel der Hochrheinschiffahrt ist immer noch aktuell, nur die Durchführung läßt sich heute noch nicht realisieren. Die Schiffbarmachung des <placeName n="8d0fc1c0-9a93-44f6-8fc1-c09a93a4f654">Rheins</placeName> bis zum <placeName n="8c340ae6-3486-4157-b40a-e63486115715">Bodensee</placeName> ist ein internationales Problem. Wenn man dem Verband mit der Kürzung des Beitrages die Lebensader abschneiden könnte, ließe sich überlegen, was zu tun sei. Dies ist aber nicht der Fall. Der Baudirektor legt Aufgabe und Tätigkeit des Verbandes dar und stellt fest, daß der Kanton <placeName n="e52e3e29-a91f-4aa9-ae3e-29a91f7aa98c">Zürich</placeName> an einer Reihe von Fragen, die dort behandelt werden, sehr interessiert ist. Der <orgName n="58bae034-ce27-4eaa-bae0-34ce27beaa04">Regierungsrat</orgName> hat sich in einer Vernehmlassung an  <pb n="2184"/>den <orgName n="a7b3cee0-5740-4a25-b3ce-e057408a255a">Bundesrat</orgName> über die Schiffbarmachung des <placeName n="af48c18e-9158-4580-88c1-8e9158e580e2">Rheins</placeName> bis zum <placeName n="e225eb64-4a82-4591-a5eb-644a825591de">Bodensee</placeName> sehr zurückhaltend geäußert. Eine verbindliche Erklärung über dieses Problem kann die <orgName n="0ef16d0b-d8b2-48b3-b16d-0bd8b218b3f9">Regierung</orgName> heute noch nicht abgeben. Die Hochrheinschiffahrt stellt jedoch kein wesentliches Moment für die Wirtschaft des Kantons <placeName n="8d46e0f5-4edc-4fa5-86e0-f54edc5fa561">Zürich</placeName> dar.</p>
+            <p>R. <persName n="dfd52e8a-a928-473d-952e-8aa928973d29">Schmid</persName> - <placeName n="66d8f583-0b66-427b-98f5-830b66c27b50">Zürich</placeName> betrachtet die Tätigkeit des <orgName n="493556c4-504f-4c38-b556-c4504f9c3812">Nordostschweizerischen Verbandes für die Hochrheinschiffahrt</orgName> nicht als so sachlich und objektiv, wie sie vom Baudirektor dargelegt wurde. Die Propaganda ist sehr einseitig. Der Sprechende unterstützt den Antrag <persName n="73f07166-36e6-4499-b071-6636e6449939">Moßdorf</persName>.</p>
+            <p>
+                <persName n="e69fbf12-f8c0-4b64-9fbf-12f8c0db6425">Hürsch</persName> - <placeName n="34b0bfc2-fc3c-45b8-b0bf-c2fc3c05b89e">Winterthur</placeName> macht darauf aufmerksam, daß der Baudirektor Vizepräsident des <orgName n="42c02191-723a-48eb-8021-91723a18eb85">Schiffahrtsverbandes</orgName> ist. Die zürcherischen Industrie- und Handelskreise stehen den Schiffahrtsbestrebungen auf dem <placeName n="bc7c75cc-41b5-4c0a-bc75-cc41b51c0a35">Hochrhein</placeName> ablehnend gegenüber. Der Sprechende unterstützt den Antrag <persName n="eb788d7f-9a7b-46dc-b88d-7f9a7b46dcd6">Moßdorf</persName>.</p>
+            <p>
+                <persName n="f994c1ff-590e-4deb-94c1-ff590e2deb30">Schärer</persName> - <placeName n="46440ac4-ff24-48f2-840a-c4ff2448f2eb">Erlenbach</placeName> möchte keine Diskussion über die Hochrheinschiffahrt aufkommen lassen und empfiehlt sofortige Abstimmung und Ablehnung des Antrages <persName n="41d7f5b6-d541-4ab8-97f5-b6d5419ab8a9">Moßdorf</persName>.</p>
+            <p>Der Rat lehnt den Antrag <persName n="ee0fda99-2e6b-4ada-8fda-992e6b9ada4a">Moßdorf</persName> mit 100 gegen 28 Stimmen ab.</p>
+            <p>Bezirksverwaltungen und <orgName n="89bec9e0-2650-4196-bec9-e026509196cb">Kirchenwesen</orgName>.</p>
+            <p>Der Rat stimmt diskussionslos zu.</p>
+            <p>C. Rechtspflege.</p>
+            <p>
+                <persName n="dcfc3715-d8c6-40a8-bc37-15d8c620a8d0">Bräm</persName> - <placeName n="dc6c4136-5488-446f-ac41-365488546f8a">Zürich</placeName> erinnert an das Postulat über Vereinfachungen und Einsparungen im Staatshaushalt, worüber der Bericht des <orgName n="100a81e5-dd27-49c4-8a81-e5dd2709c4c1">Obergerichtes</orgName> noch aussteht. Der Sprechende fragt, wann dieser Bericht eingehen wird.</p>
+            <p>Justizdirektor <persName n="062a5063-0d0a-4234-aa50-630d0aa234c4">Egger</persName> erklärt sich hinsichtlich des <orgName n="117bd777-71ff-4a1f-bbd7-7771ff5a1f7b">Obergerichtes</orgName> als unzuständig. Er ersucht <persName n="273dd898-3007-445a-bdd8-983007145ab1">Bräm</persName>, an den in seiner Fraktion sitzenden Vertreter des <orgName n="8d972375-5822-4625-9723-755822c62539">Obergerichtes</orgName> zu gelangen.</p>
+            <p>
+                <persName n="97105509-237a-4cf4-9055-09237a1cf488">Wagner</persName> - <placeName n="7543621d-3ed0-4a4c-8362-1d3ed0ca4c36">Zürich</placeName> opponiert einem solchen Vorgehen, entweder gelangt der Regierungs- oder der <orgName n="164320a4-3962-4533-8320-a439620533cd">Kantonsrat</orgName> direkt an das <orgName n="0041126a-6447-490c-8112-6a6447590cda">Obergericht</orgName>.</p>
+            <p>
+                <persName n="a3b173e9-9d17-488b-b173-e99d17888bda">Schönenberger</persName> - <placeName n="8ef0e53c-df32-4547-b0e5-3cdf32f5473a">Zürich</placeName> orientiert über die Situation, wie sie sich bei den Beratungen der Kommission betreffend dem <orgName n="9c5bd07e-22ad-44e4-9bd0-7e22adb4e497" type="deriv">regierungsrätlichen</orgName> Bericht zum Sparpostulat <persName n="5d099472-662f-4ce7-8994-72662f4ce71c">Bräm</persName>  <pb n="2185"/>ergeben hat. Das <orgName n="a5b44ea1-62d3-4666-b44e-a162d32666c1">Obergericht</orgName> hat von diesem Postulat nicht rechtzeitig Kenntnis erhalten. Der Bericht ist nun aber in Aussicht gestellt.</p>
+            <p>2. Außerordentliche Betriebsrechnung.</p>
+            <p>
+                <persName n="f9844df1-70b6-4f86-844d-f170b62f86b3">Günthart</persName> - <placeName n="d242aea1-b800-4712-82ae-a1b800771285">Buchs</placeName> erkundigt sich, ob im Voranschlag für den <orgName n="30d03149-e775-45d0-9031-49e775a5d094">Flughafen</orgName> ein entsprechender Betrag für die Straße von <placeName n="d7b075dd-7a05-45f6-b075-dd7a0545f6ee">Rümlang</placeName> nach <placeName n="b715dc2f-cfb9-4c34-95dc-2fcfb98c3466">Kloten</placeName> eingesetzt sei.</p>
+            <p>Baudirektor Dr. <persName n="a2649b17-2b5a-4f5d-a49b-172b5a8f5d84">Meierhans</persName> erklärt, es seien 300 000 Franken in den Voranschlag aufgenommen.</p>
+            <p>
+                <persName n="d7571d12-7d22-428c-971d-127d22928c81">M. Winiger</persName> - <placeName n="77e68a2b-5a6e-45be-a68a-2b5a6e05be39">Zürich</placeName> stellt fest, daß dieser Betrag nicht ausreichend sein werde, um das seinerzeitige <orgName n="68f6ab1d-0191-4793-b6ab-1d0191c79300" type="deriv">regierungsrätliche</orgName> Versprechen auf Erstellung einer neuen Straße einzulösen.</p>
+            <p>3. Spezialrechnungen.</p>
+            <p>Der Rat stimmt diskussionslos zu.</p>
+            <p>4. Unselbständige staatliche Unternehmungen.</p>
+            <p>Es erfolgt diskussionslos Genehmigung.</p>
+            <p>Prof. <persName n="d3e4571b-2151-469e-a457-1b2151f69e9a">Schinz</persName> - <placeName n="c6942c33-934a-4a8b-942c-33934a0a8bf9">Zürich</placeName> stellt den Antrag, auf die <orgName n="1e2936ea-f1be-4cec-a936-eaf1befcecff">Gesundheitsdirektion</orgName> zurückzukommen und zu folgendem Postulat Stellung zu nehmen:</p>
+            <p>«Der <orgName n="cb2e41b8-ebd6-4531-ae41-b8ebd615310c">Regierungsrat</orgName> wird eingeladen, die Revision der Verordnung betreffend Staatsbeiträge an nicht <orgName n="391f4043-6704-46dc-9f40-436704a6dc3d" type="deriv">kantonale</orgName> Krankenanstalten vom 3. Dezember 1934 an die Hand zu nehmen.»</p>
+            <p>Der Rückkommensantrag erreicht mit 12 Stimmen das notwendige Quorum von 20 Stimmen nicht und ist damit hinfällig, wie auch das Postulat.</p>
+            <p>Schlußabstimmung.</p>
+            <p>Der Rat beschließt mit 135 gegen 0 Stimmen:</p>
+            <p>I. Der Voranschlag der Einnahmen und Ausgaben des Kantons <placeName n="f737b396-88fe-4049-b7b3-9688fe2049d5">Zürich</placeName> für das Jahr 1954 wird nach der Vorlage des <orgName n="abb487e9-eed5-443a-b487-e9eed5f43a2a">Regierungsrates</orgName> mit den durch den <orgName n="565417aa-9c28-4f1d-9417-aa9c28df1d9d">Kantonsrat</orgName> beschlossenen Änderungen genehmigt.</p>
+            <p>II. Mitteilung an den <orgName n="a7e24daf-a748-4e35-a24d-afa7481e358b">Regierungsrat</orgName>. </p>
+        </body>
+    </text>
+</tei:TEI>

@@ -1,0 +1,42 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rückzug der Motion Oggenfuß - Uitikon betreffend die Frage der Sistierung der Steuergesetzberatungen. Rückzug der angekündigten Interpellation Dr. Wettstein - Zürich betreffend das Etzelwerkprojekt.</title>
+                <respStmt>
+                    <resp ref="#OCR/lsz" key="transcript">Transkript: OCR/lsz<date when="2011-11-16">16.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Rückzug der Motion Oggenfuß - Uitikon betreffend die Frage der Sistierung der Steuergesetzberatungen. Rückzug der angekündigten Interpellation Dr. Wettstein - Zürich betreffend das Etzelwerkprojekt.</title>
+                    <date when="1903-10-05">05.10.1903</date>
+                    <ident>StAZH MM 24.46 KRP 1903/044/0265</ident>
+                    <idno>707–708</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_46_KRP_1903_044_0265_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3621845"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="707"/>Der Vorsitzende macht die Mitteilung, daß Herr <persName n="281b4877-7e53-4915-9b48-777e53b915bb">Oggenfuß</persName> - <placeName n="a4fea4cd-d5a1-4e50-bea4-cdd5a12e50ce">Uitikon</placeName> seine am <date>7. September 1903</date> eingebrachte  <pb n="708"/>Motion (Seite 676) betreffend die Frage der Sistierung der Steuergesetzberatungen zurückgezogen habe; dasselbe sei zu konstatieren bezüglich einer von Herrn Dr. <persName n="a26c2f8c-62a0-4a63-ac2f-8c62a0ea635f">Wettstein</persName> - <placeName n="0da002c6-91ad-46f9-a002-c691add6f916">Zürich</placeName> angekündigten Interpellation betreffend das Etzelwerkprojekt.</p>
+        </body>
+    </text>
+</tei:TEI>

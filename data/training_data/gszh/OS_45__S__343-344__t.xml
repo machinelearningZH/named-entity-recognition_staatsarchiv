@@ -1,0 +1,75 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Änderung der Verordnung über die Förderung des Wohnungsbaus</title>
+                <respStmt>
+                    <resp ref="#jsn" key="transcript">Transkript: jsn<date when="2015-05-12">12.05.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Änderung der Verordnung über die Förderung des Wohnungsbaus</title>
+                    <date when="1975-02-05">05.02.1975</date>
+                    <ident>StAZH OS 45 (S. 343-344)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_45__S__343-344__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3460491"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="343"/>
+            </p>
+            <p>Der <orgName n="884866dc-5bbc-43c9-8866-dc5bbc53c9a6">Regierungsrat</orgName> beschliesst:</p>
+            <p>I. Die Verordnung über die Förderung des Wohnungsbaus vom 20. Juni 1968 wird wie folgt geändert:  <pb n="344"/>
+            </p>
+            <p>§ 27. Die <orgName n="e10ba9f4-fc1d-4710-8ba9-f4fc1d771085">Volkswirtschaftsdirektion</orgName> kann bei gewichtiger Veränderung der Kapitalmarkt- oder anderer wirtschaftlicher Verhältnisse, frühestens jedoch 10 Jahre nach Bezugsbereitschaft der Wohnungen, auf Grund einer allgemeinen Ermächtigung des <orgName n="0449250e-98de-42c4-8925-0e98de72c49b">Regierungsrates</orgName> und unter Einhaltung einer sechsmonatigen Kündigungsfrist den Darlehenszins erhöhen, die Darlehen vorzeitig zurückfordern oder ihre Laufzeit durch Erhöhung der Amortisationsraten verkürzen.</p>
+            <p>Abs. 2 und 3 unverändert.</p>
+            <p>§ 60 Abs. 1 unverändert.</p>
+            <p>Neben der Rückerstattung kann für die Dauer der vorausgegangenen Zweckentfremdung oder Rechtsverletzung die Verzinsung des Darlehens verlangt werden. Der Zinsfuss entspricht mindestens demjenigen der <orgName n="2b0641bd-0dd0-4922-8641-bd0dd04922c9">Zürcher Kantonalbank</orgName> für bestehende erste Hypotheken auf Wohnliegenschaften.</p>
+            <p>Abs. 3 unverändert.</p>
+            <p>In besonders leichten Fällen, namentlich auch bei vorübergehenden Zweckentfremdungen, kann sich das <orgName n="888a18c2-acc6-4b56-8a18-c2acc62b5687">Gemeinwesen</orgName> mit der Verzinsung des Darlehens in der in Absatz 2 genannten Höhe begnügen oder ausnahmsweise auf eine Sanktion verzichten.</p>
+            <p>Abs. 5 unverändert.</p>
+            <p>II. Diese Änderungen treten am Tag nach der Veröffentlichung im Amtsblatt in Kraft.</p>
+            <p>III. Veröffentlichung im Amtsblatt und in der Gesetzessammlung.</p>
+            <p>
+                <placeName n="75effdb6-44e5-43f8-affd-b644e5a3f8ce">Zürich</placeName>, den 5. Februar 1975</p>
+            <p>Im Namen des <orgName n="8fe2c10a-9f61-424e-a2c1-0a9f61524e90">Regierungsrates</orgName>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Der Präsident: </cell>
+                        <cell>Der Staatsschreiber: </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <persName n="b70e80f1-2315-4bc2-8e80-f12315ebc28e">
+                                <persName n="7f979be8-a5f3-48a7-979b-e8a5f3f8a727">Stucki</persName> </persName>
+                        </cell>
+                        <cell>
+                            <persName n="6710d312-8a98-404c-90d3-128a98d04cc0">Roggwiller</persName> </cell>
+                    </row>
+                </table>
+            </p>
+        </body>
+    </text>
+</TEI>

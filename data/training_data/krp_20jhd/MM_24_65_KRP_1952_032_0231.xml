@@ -1,0 +1,49 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Interpellation Paul Höhn - Richterswil vom 12. November 1951 über den Ausbau der linksufrigen Seestraße (Traktandum 5).</title>
+                <respStmt>
+                    <resp ref="#OCR/ihr/unf" key="transcript">Transkript: OCR/ihr/unf<date when="2011-10-26">26.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Interpellation Paul Höhn - Richterswil vom 12. November 1951 über den Ausbau der linksufrigen Seestraße (Traktandum 5).</title>
+                    <date when="1952-01-07">07.01.1952</date>
+                    <ident>StAZH MM 24.65 KRP 1952/032/0231</ident>
+                    <idno>589</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_65_KRP_1952_032_0231_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3657699"/>
+                    <listRelation>
+                        <relation name="Fortsetzung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3657699" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3657723"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="589"/>Die Interpellation lautet wie folgt:</p>
+            <p>«Der Ausbau der <placeName n="19050673-125f-41eb-8506-73125f01eba8">linksufrigen Seestraße</placeName>, speziell in den oberen Zürichseegemeinden <placeName n="db0eaba1-f421-45b9-8eab-a1f42165b908">Horgen</placeName>, <placeName n="08e4093e-ab3c-45c2-a409-3eab3c25c28f">Wädenswil</placeName> und <placeName n="91dd79f5-08be-4452-9d79-f508be045200">Richterswil</placeName>, ist seit längerer Zeit zum Stillstand gekommen. Die Projekte sind seit Jahren ausgearbeitet, deren Ausführung jedoch im Hinblick auf eine eventuell eintretende Arbeitslosigkeit als Arbeitsbeschaffungsreserve zurückgestellt. Das Verkehrsvolumen hat jedoch heute ein solches Ausmaß angenommen, daß eine Aufschiebung dieser dringenden Arbeiten nicht länger zu verantworten ist. Ist der <orgName n="8010f7b4-4a34-4300-90f7-b44a343300c2">Regierungsrat</orgName> nicht auch der Auffassung, daß im Interesse der Verkehrssicherheit und der baulichen Entwicklung der betreffenden Gemeinden die Arbeiten raschmöglichst in Angriff zu nehmen sind. Ist der <orgName n="1b8148b9-4e96-498f-8148-b94e96c98fda">Regierungsrat</orgName> bereit, ein diesbezügliches Programm vorzulegen?»</p>
+            <p>
+                <persName n="151ae08c-42c2-4899-9ae0-8c42c218998c">Höhn</persName> - <placeName n="46de781f-2895-4f8e-9e78-1f28954f8e15">Richterswil</placeName> führt aus, seine Interpellation sei durch die Motion Dr. <persName n="376e5d45-1411-4424-ae5d-4514113424b5">Bühler</persName> ausgelöst worden, welche die Hauptverkehrsstraße Zürich–Winterthur gegenüber den andern Straßen in den Vordergrund stellte. Der Zustand der <placeName n="8058e7a8-d6b8-4238-98e7-a8d6b8523859">linksufrigen Seestraße</placeName> rechtfertigt keine lange Zurückstellung des Ausbaues. Die Straße weist verschiedene Engpässe auf, die unbedingt beseitigt werden müssen. Ein Signal zur unverzüglichen Inangriffnahme der Korrektion bildet auch die große Zahl von Verkehrsunfällen. In den Ortschaften <placeName n="ffd18463-b43d-46b5-9184-63b43da6b510">Richterswil</placeName>, <placeName n="262b4a4c-b7f3-476d-ab4a-4cb7f3a76d11">Wädenswil</placeName> und <placeName n="2a647a8c-79b9-4992-a47a-8c79b9f992d0">Horgen</placeName> weist die Fahrbahn zum Teil nur eine Breite von 5 m auf. Trottoire sind vielfach nicht vorhanden. Die Projekte für den Ausbau liegen vor und die Kredite sind teilweise genehmigt. Ursprünglich erfolgte eine Zurückstellung als Arbeitsbeschaffungsprojekt. Da die Straße dem heutigen gesteigerten Durchgangsverkehr wie auch dem Lokalverkehr in keiner Weise mehr zu genügen vermag, sollte die Inangriffnahme baldmöglichst erfolgen.</p>
+            <p>Baudirektor Dr. <persName n="3ff89245-f769-45d8-b892-45f769a5d873">Meierhans</persName> stellt die Beantwortung im Zusammenhang mit dem Bericht und Antrag auf die Motionen <persName n="271ff07d-5a57-4b4e-9ff0-7d5a578b4ecd">Rosenbusch</persName> und Dr. <persName n="00a0e49e-8e03-4fa0-a0e4-9e8e039fa0c5">Bühler</persName> in Aussicht. </p>
+        </body>
+    </text>
+</tei:TEI>

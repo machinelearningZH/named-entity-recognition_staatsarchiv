@@ -1,0 +1,54 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wahl der Kommission für Prüfung des Geschäftsberichtes des Regierungsrates (Traktandum 6).</title>
+                <respStmt>
+                    <resp ref="#OCR/ihr" key="transcript">Transkript: OCR/ihr<date when="2011-10-19">19.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Wahl der Kommission für Prüfung des Geschäftsberichtes des Regierungsrates (Traktandum 6).</title>
+                    <date when="1932-05-09">09.05.1932</date>
+                    <ident>StAZH MM 24.58 KRP 1932/001/0010</ident>
+                    <idno>13–14</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_58_KRP_1932_001_0010_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3654265"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="13"/>Die Kommission wird in offener Wahl aus folgenden Mitgliedern bestellt:</p>
+            <p>1. <persName n="94683720-71d8-4e52-a837-2071d88e5225">Henggeler J.</persName>, <placeName n="a5c244fd-9dee-4e1c-8244-fd9dee3e1c82">Zürich 2</placeName>;</p>
+            <p>2. <persName n="05759de0-82cd-4b1c-b59d-e082cdeb1cdf">Baltensberger J.</persName>, <placeName n="6591ccd1-6403-4b06-91cc-d164034b062f">Brütten</placeName>;</p>
+            <p>3. <persName n="3d44681d-43ae-4727-8468-1d43aed7273c">Hefti J</persName>, Dr., <placeName n="176104d7-d80f-4d80-a104-d7d80f9d808f">Zürich</placeName>;</p>
+            <p>4. <persName n="b6aea921-c915-4d1c-aea9-21c9154d1c94">Horand F.</persName>, <placeName n="fd7983c5-f291-420f-b983-c5f291b20f00">Zürich</placeName>;</p>
+            <p>5. <persName n="4fbf549a-f0a0-49fe-bf54-9af0a069fed0">Caspari E.</persName>, <placeName n="121b086a-a447-4b5a-9b08-6aa4470b5a9e">Zürich</placeName>;  <pb n="14"/>
+            </p>
+            <p>6. <persName n="d7dd685b-ce7c-4192-9d68-5bce7c3192ab">Briner H.</persName>, <placeName n="46b152d0-e642-4058-b152-d0e6420058f2">Fehraltorf</placeName>:</p>
+            <p>7. <persName n="118391bf-8dff-42da-8391-bf8dff82da9f">Heß H.</persName>, <placeName n="8b6d8ec5-e307-4d41-ad8e-c5e307bd41f8">Höngg</placeName>;</p>
+            <p>8. <persName n="9ea96c64-da3b-4c82-a96c-64da3b8c822e">Frei E.</persName>, <placeName n="26b252f2-a08f-4156-b252-f2a08f215657">Winterthur</placeName>;</p>
+            <p>9. <persName n="250f5350-e4be-438d-8f53-50e4be738d75">Hackhofer A.</persName>, <placeName n="45a0b98f-e267-434f-a0b9-8fe267834f64">Zürich</placeName>.</p>
+            <p>Präsident: <persName n="236fd04f-69a3-4348-afd0-4f69a35348a1">Henggeler</persName> - <placeName n="3e54bb1d-5ddd-4b8c-94bb-1d5ddd0b8c0b">Zürich 2</placeName>.</p>
+            <p>Bei den Ziffern 2–9 schlägt die <orgName n="01862ed5-8b42-4e55-862e-d58b42be553e">kommunistische Fraktion</orgName> <persName n="f907e305-f4dc-4d09-87e3-05f4dcad09d5">Trostel W.</persName> vor, der jeweilen 5 Stimmen erhält.</p>
+        </body>
+    </text>
+</tei:TEI>

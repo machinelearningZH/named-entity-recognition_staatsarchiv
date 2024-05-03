@@ -1,0 +1,42 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anerkennung einer Ersatzwahl im Wahlkreis Stadel.</title>
+                <respStmt>
+                    <resp ref="#OCR/lsz" key="transcript">Transkript: OCR/lsz<date when="2011-11-16">16.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Anerkennung einer Ersatzwahl im Wahlkreis Stadel.</title>
+                    <date when="1903-01-26">26.01.1903</date>
+                    <ident>StAZH MM 24.46 KRP 1903/016/0134</ident>
+                    <idno>256</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_46_KRP_1903_016_0134_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3621686"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="256"/>Im Wahlkreis <placeName n="03dcf48f-9f9d-4848-9cf4-8f9f9d084874">Stadel</placeName> ist Sonntag den <date>18. Januar 1903</date> an Stelle des zurückgetretenen Herrn <persName n="af251df9-bdbe-42c3-a51d-f9bdbea2c367">Grießer</persName> im zweiten Wahlgange Herr Präsident <persName n="1d6973df-9007-40c9-a973-df9007a0c976">Jakob Nauer</persName> in <placeName n="cc6906ee-8b13-40fe-a906-ee8b13a0fef8">Weiach</placeName> gewählt worden. Namens der <orgName n="073102ac-e9b3-4bf8-b102-ace9b37bf8bb">Wahlaktenprüfungskommission</orgName> referiert deren Präsident, Herr Büeler-Erlenbach, die Anerkennung der Wahl beantragend. Das wird stillschweigend beschlossen. Der Gewählte leistet das Amtsgelübde.</p>
+        </body>
+    </text>
+</tei:TEI>

@@ -1,0 +1,65 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abschreibung d. Postulates betr. Fristerstreckung der Bezahlung d. Staatssteuer.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#dhn">Transkript: dhn<date when="2015-05-05">05.05.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2015</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Abschreibung d. Postulates betr. Fristerstreckung der Bezahlung d. Staatssteuer.</title>
+                    <date when="1881-12-03">03.12.1881</date>
+                    <ident>StAZH MM 2.234 RRB 1881/2231</ident>
+                    <idno>731–733</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_201_MM_2_256/MM_2_234/MM_2_234_RRB_1881_2231_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3522527"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="731"/>
+            </p>
+            <p>Der <orgName n="e116f339-9474-4dad-96f3-3994747dadda">Regierungsrath</orgName> hat,</p>
+            <p>betreffend das Postulat des <orgName n="93873cc5-89c5-4344-873c-c589c5234419">Kantonsrathes</orgName> bezüglich der Erstreckung der Frist zur Bezahlung der Staatssteuer,</p>
+            <p>nachdem sich ergeben:</p>
+            <p/>
+            <p>A. In seiner Sitzung vom 21. Novbr. a. c. beschloß der <orgName n="a6696c5c-2fa7-4c8f-a96c-5c2fa75c8fba">Kantonsrath</orgName>:</p>
+            <p>„Der <orgName n="93653ca3-f5d4-4eac-a53c-a3f5d48eaca4">Regierungsrath</orgName> wird eingeladen, auf dem Wege<pb n="732"/>der Gesetzesrevision, eventuell – soweit möglich – auf dem Verordnungswege, dafür zu sorgen, daß die Frist zur Bezahlung der Staatssteuer auf mindestens 6 Wochen erstreckt werde.“</p>
+            <p/>
+            <p>B. Die <orgName n="d1e2634d-d307-4d28-a263-4dd3076d282a">Finanzdirektion</orgName> betont in erster Linie die Wünschbarkeit, daß dem Postulat schon beim Bezuge der Vermögens-[<hi rend="italic">,</hi>] Einkommens-[<hi rend="italic">,</hi>] &amp; Aktivbürgersteuer pro 1881 nachgelebt werden sollte. Es sei selbstverständlich, daß die Regelung auf dem Wege der Gesetzgebung bis dahin nicht mehr möglich sei, wol aber glaube die <orgName n="b20e367e-f081-4ebd-8e36-7ef0811ebd19">Finanzdirektion</orgName> auf dem Wege der Verordnung die Tendenz des Postulates verwirklichen zu können und lege zu diesem Zwecke dem <orgName n="154a522f-0dfc-4782-8a52-2f0dfc5782bf">Regierungsrathe</orgName> ein Kreisschreiben für die Gemeindräthe vor, durch welches das bereits früher erlassene Kreisschreiben vom 20. November modifizirt werde. Statt weiterer Erörterungen werde auf das Kreisschreiben selbst verwiesen; –</p>
+            <p/>
+            <p>In Erwägung:</p>
+            <p>Daß die Durchführung des <orgName n="c6f251d9-7f4f-4d1c-b251-d97f4f8d1c93" type="deriv">kantonsräthlichen</orgName> Postulates schon beim Bezuge der nächstfälligen Staatssteuer wünschbar erscheint, wobei der Weg der Gesetzesrevision ausgeschlossen ist &amp; daß das von der <orgName n="c82ffcaa-5a88-43bf-affc-aa5a8843bf3b">Finanzdirektion</orgName> vorgelegte Kreisschreiben vom 3. Dezbr. 1881 auf dem Verordnungswege die Tendenz verwirklicht,</p>
+            <p/>
+            <p>auf den Antrag der <orgName n="4b78fc6b-8176-434c-b8fc-6b8176334c17">Finanzdirektion</orgName>,<pb n="733"/>
+            </p>
+            <p>beschlossen:</p>
+            <p/>
+            <p>I. Es sei das Postulat des <orgName n="220821bf-c80e-4554-8821-bfc80e555446">Kantonsrathes</orgName> betr. Erstreckung der Frist zur Bezahlung der Staatssteuer vom 21. Novbr. 1881 für einmal als erledigt abzuschreiben.</p>
+            <p/>
+            <p>II. Mittheilung an die <orgName n="bccdf77d-893c-40b1-8df7-7d893c70b11c">Finanzdirektion</orgName>.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

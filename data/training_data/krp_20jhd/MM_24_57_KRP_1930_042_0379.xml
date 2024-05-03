@@ -1,0 +1,49 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verhandlungsgegenstände.</title>
+                <respStmt>
+                    <resp ref="#OCR/mls" key="transcript">Transkript: OCR/mls<date when="2011-11-17">17.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Verhandlungsgegenstände.</title>
+                    <date when="1930-12-08">08.12.1930</date>
+                    <ident>StAZH MM 24.57 KRP 1930/042/0379</ident>
+                    <idno>588</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_57_KRP_1930_042_0379_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3650289"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="588"/>Das Einladungsschreiben vom <date>1. Dezember 1930</date> enthält die folgenden Verhandlungsgegenstände:</p>
+            <p>*1. Mitteilungen.</p>
+            <p>*2. Geschäftsbericht des <orgName n="2ce14c70-c00b-4c41-a14c-70c00bdc41d2">Regierungsrates</orgName> für das Jahr 1929 (Antrag der Kommission vom <date>29. September 1930</date>).</p>
+            <p>3. Gesetz über die <orgName n="d01ebc03-b709-44e5-9ebc-03b709c4e509">hauswirtschaftliche Fortbildungsschule</orgName> (Antrag des <orgName n="11defc42-0c69-474c-9efc-420c69974cde">Regierungsrates</orgName> vom <date>26. Juli 1930</date> und abgeänderter Antrag der Kommission vom <date>29. Oktober 1930</date>).</p>
+            <p>4. Motion <persName n="aec4789a-50d0-4720-8478-9a50d0c720a7">Züsli</persName> - <placeName n="6c7e49de-ec52-455c-be49-deec52055c43">Zürich</placeName> betreffend die Betriebsumstellung.</p>
+            <p>5. Motion <persName n="d428b48a-7c80-43b0-a8b4-8a7c8073b0db">Bickel</persName> - <placeName n="81fadb34-ad25-4fac-badb-34ad255facb4">Höngg</placeName> betreffend die teilweise Revision des Steuergesetzes im Sinne der völligen Steuerbefreiung des Einkommens unter dem Existenzminimum.</p>
+            <p>6. Motion <persName n="b13c8b69-44fd-43ef-bc8b-6944fd93ef3a">Walter</persName> - <placeName n="24346783-d16d-458b-b467-83d16d558bb0">Zürich</placeName> betreffend die teilweise Revision des Steuergesetzes im Sinne der Entlastung des Einkommens unter Fr. 4000.– und des Vermögens unter Fr. 10,000.–.</p>
+            <p>7. Gesetz über den Finanzausgleich und über die Zuteilung von Vorortsgemeinden an die Stadt <placeName n="82c3bf05-fa32-4039-83bf-05fa327039f0">Zürich</placeName> (Vorlage des <orgName n="9fdec4fb-8272-4348-9ec4-fb8272e3489b">Regierungsrates</orgName> vom <date>14. Juni 1930</date> und abgeänderte Vorlage der Kommission vom <date>14. November 1930</date>).</p>
+        </body>
+    </text>
+</tei:TEI>

@@ -1,0 +1,179 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vereinbarung der Kantone Zürich, Glarus, Schaffhausen, Appenzell A.Rh., Appenzell I.Rh., St. Gallen, Graubünden und Thurgau über den Vollzug freiheitsentziehender Strafen und Massnahmen gemäss Schweizerischem Strafgesetzbuch und Versorgungen gemäss eidgenössischem und kantonalem Recht</title>
+                <respStmt>
+                    <resp ref="#sef" key="transcript">Transkript: sef<date when="2015-05-07">07.05.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Vereinbarung der Kantone Zürich, Glarus, Schaffhausen, Appenzell A.Rh., Appenzell I.Rh., St. Gallen, Graubünden und Thurgau über den Vollzug freiheitsentziehender Strafen und Massnahmen gemäss Schweizerischem Strafgesetzbuch und Versorgungen gemäss eidgenössischem und kantonalem Recht</title>
+                    <date when="1976-03-31">31.03.1976</date>
+                    <ident>StAZH OS 46 (S. 103-109)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_46__S__103-109__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3460087"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="103"/>
+            </p>
+            <p>Im Bestreben, im Bereiche der <placeName n="788bd0ba-e30f-4257-8bd0-bae30f725790">Ostschweiz</placeName> den Vollzug der Strafen und Massnahmen gemäss den Grundsätzen des <placeName n="b95a0dbe-5a43-41c9-9a0d-be5a4351c997" type="deriv">Schweizerischen</placeName> Strafgesetzbuches durchzuführen, wird von den Kantonen <placeName n="62075459-3448-41ad-8754-59344891ad19">Zürich</placeName>, <placeName n="01c59b0d-8143-4713-859b-0d8143471396">Glarus</placeName>, <placeName n="24883e78-3129-4f72-883e-7831298f72ab">Schaffhausen</placeName>, <placeName n="9a89c419-6a53-40bb-89c4-196a5320bbd5">Appenzell A.Rh.</placeName>, <placeName n="a39bce62-0bd2-449f-9bce-620bd2449f40">Appenzell I.Rh.</placeName>, <placeName n="efada49e-394d-4c99-ada4-9e394ddc99f0">St. Gallen</placeName>, <placeName n="31c633fa-6c8a-4806-8633-fa6c8aa80622">Graubünden</placeName> und <placeName n="0de98801-5c41-4b34-a988-015c410b342f">Thurgau</placeName> in Anwendung von Art. 7 BV und Art. 383 Abs. 2 StGB</p>
+            <p>folgendes vereinbart:</p>
+            <p>
+                <title>I. Organisation</title>
+            </p>
+            <p>Art. 1</p>
+            <p>Oberstes Organ der Vereinbarung ist die <orgName n="b591d8aa-15e3-4a09-91d8-aa15e32a09c4">ostschweizerische Strafvollzugskommission</orgName>, bestehend aus je einem Vertreter der Regierungen der beteiligten Kantone.<add place="margin right">
+                    <orgName n="9252eee1-39a9-47a9-92ee-e139a997a91c">Strafvollzugskommission</orgName> </add>
+            </p>
+            <p>Der <orgName n="47442228-b6c6-42db-8422-28b6c682db97">Strafvollzugskommission</orgName> obliegt die Aufsicht über die Handhabung der Vereinbarung. Sie erlässt die Ausführungsbestimmungen, bestellt die notwendigen Organe, fasst die aus der Anwendung der Vereinbarung sich ergebenden Beschlüsse und entscheidet in Streitfällen. Sie ist überdies befugt, die notwendigen Richtlinien zu erlassen. Diese können mit Zustimmung aller Beteiligten als verbindlich erklärt werden. Die Kommission tritt mindestens einmal im Kalenderjahr zusammen. Sie wählt den Vorsitzenden und dessen Stellvertreter. Im übrigen ordnet die Kommission ihr Verfahren selbst.</p>
+            <p>Art. 2</p>
+            <p>Die <orgName n="28eb1ca7-11af-42f3-ab1c-a711af42f3b7">Strafvollzugskommission</orgName> wählt als vollziehendes Organ die Zentralstelle, bestehend aus dem Leiter, der auch die  <pb n="104"/>Sekretariatsgeschäfte der Kommission besorgt, einem Vollzugsbeamten und einem Leiter einer Vollzugsanstalt.<add place="margin right">Sekretariat und Zentralstelle </add>
+            </p>
+            <p>Die Aufgaben der Zentralstelle werden von der <orgName n="9f639f4d-d19e-412f-a39f-4dd19ea12fa6">Strafvollzugskommission</orgName> in den Ausführungsbestimmungen festgelegt.</p>
+            <p>Die Kosten des Sekretariates und der Zentralstelle tragen die beteiligten Kantone im Verhältnis der Einwohnerzahl gemäss der jeweils letzten <orgName n="e84a4e21-a206-4082-8a4e-21a20620821b" type="deriv">eidgenössischen</orgName> Volkszählung. Es kann auch ein Grundbeitrag festgelegt werden.</p>
+            <p>
+                <title>II. Aufteilung der Vollzugsaufgaben</title>
+            </p>
+            <p>Art. 3</p>
+            <p>Die beteiligten Kantone verpflichten sich, die von ihnen zu vollziehenden Freiheitsstrafen und freiheitsentziehenden Massnahmen nach StGB gemäss Art. 4 und 5 zu vollziehen. Massnahmen nach Vormundschafts- und kantonalem Recht sollen, soweit die kantonalen Vorschriften es zulassen, nach Möglichkeit gemäss Art. 4 und 5 vollzogen werden.<add place="margin right">Grundsatz </add>
+            </p>
+            <p>Vorbehalten bleibt die Abtretung des Vollzuges gemäss Art. 3 der VO I zum StGB vom 13. November 1973 und Art. 4 Abs. 2 des Konkordates über die Kosten des Strafvollzuges vom 23. Juni 1944 an einen der Vereinbarung nicht angehörenden Kanton.</p>
+            <p>Art. 4</p>
+            <p>Der Vollzug gegenüber Männern erfolgt:<add place="margin right">Strafen und Massnahmen a) gegenüber Männern </add>
+            </p>
+            <p>1.	bei Haftstrafen und Gefängnisstrafen bis zu drei Monaten (Art. 37<hi rend="sup">bis</hi> und 39 StGB):</p>
+            <p>a)	in den Gefängnissen der Kantone,</p>
+            <p>b)	in Sonderfällen aus therapeutischen Gründen in der <orgName n="ff02ca47-4dbb-4e99-82ca-474dbb9e99e9">Anstalt Realta</orgName>,</p>
+            <p>2.	bei Gefängnisstrafen von mehr als drei Monaten und Zuchthausstrafen:</p>
+            <p>a)	in der <orgName n="800c7b0f-5eb0-4070-8c7b-0f5eb07070bf">Strafanstalt Saxerriet</orgName> und der <orgName n="3491b231-2513-4870-91b2-312513c87011">Strafanstalt Gmünden</orgName>, wenn es sich um Erstmalige im Sinne von Art. 37 Ziff. 2 Abs. 2 StGB oder um Rückfällige im Sinne von Art. 37 Ziff. 2 Abs. 2 StGB handelt,  <pb n="105"/>
+            </p>
+            <p>b)	in der <orgName n="5205ee6a-d539-467a-85ee-6ad539967a3e">Strafanstalt Regensdorf</orgName>, wenn es sich um Rückfällige handelt oder um Erstmalige, die wegen besonderen Umständen (Art. 37 Ziff. 2 Abs. 2 StGB zweiter Satz) in einer geschlossenen Anstalt unterzubringen sind,</p>
+            <p>c)	in den kantonalen Gefängnissen, wenn es sich um den Vollzug von Gefängnisstrafen handelt und die Gefängnisse über die Einrichtungen und Arbeitsmöglichkeiten für einen drei Monate übersteigenden Aufenthalt verfügen,</p>
+            <p>d)	in Sonderfällen aus therapeutischen Gründen in der <orgName n="98fccf8c-945a-457a-bccf-8c945a457a67">Anstalt Realta</orgName>,</p>
+            <p>3.	bei Verwahrungen gemäss Art. 42 StGB:</p>
+            <p>a)	in der <orgName n="b25d9b45-9273-4b9d-9d9b-4592736b9d50">Strafanstalt Regensdorf</orgName>, wenn die Verwahrung in der geschlossenen Anstalt notwendig ist,</p>
+            <p>b)	in der <orgName n="371f9df5-e44b-4526-9f9d-f5e44b7526f5">Anstalt Realta</orgName>, wenn die Verwahrung in der offenen Anstalt zu verantworten ist,</p>
+            <p>4.	bei Massnahmen gemäss Art. 43 Ziff. 1 Abs. 1 StGB (Einweisung in eine Heil- und Pflegeanstalt):</p>
+            <p>a)	in einer psychiatrischen Klinik, wenn dauernde ärztliche Behandlung notwendig ist,</p>
+            <p>b)	in der <orgName n="4a732632-2be7-47b6-b326-322be767b6f9">Anstalt Realta</orgName>, wenn keine dauernde ärztliche Behandlung notwendig und die Unterbringung in der offenen Anstalt zu verantworten ist,</p>
+            <p>5.	bei Massnahmen gemäss Art. 43 Ziff. 1 Abs. 2 StGB (Verwahrung):</p>
+            <p>	bis eine geschlossene psychotherapeutische Anstalt oder Anstaltsabteilung zur Verfügung steht, in einer geeigneten Anstalt,</p>
+            <p>6.	bei Massnahmen gemäss Art. 44 StGB:</p>
+            <p>a)	in einer Trinkerheil- oder ändern geeigneten Anstalt, wenn es sich um einen Trunksüchtigen handelt,</p>
+            <p>b)	in einer psychiatrischen Klinik, wenn der Trunksüchtige der ärztlichen Behandlung bedarf,</p>
+            <p>c)	in einer psychiatrischen Klinik oder einer ändern geeigneten Anstalt, wenn es sich um einen Rauschgiftsüchtigen handelt,  <pb n="106"/>
+            </p>
+            <p>7.	bei Arbeitserziehung gemäss Art. 100<hi rend="sup">bis</hi> StGB:</p>
+            <p>a)	in der <orgName n="84128b95-09f7-4935-928b-9509f76935a9">Arbeitserziehungsanstalt Uitikon-Waldegg</orgName>, in erster Linie bei Einzuweisenden, die zur Absolvierung einer Berufslehre oder einer Anlehre fähig sind, ferner solche, die nur in einer geschlossenen Anstalt betreut werden können,</p>
+            <p>b)	in der <orgName n="fbc2436d-0083-4402-8243-6d00835402d1">Arbeitserziehungsanstalt Kalchrain</orgName>, in der Regel Einzuweisende, die keine ordentliche Berufslehre absolvieren und in einer offenen Anstalt betreut werden können,</p>
+            <p>8.	bei Versorgungen auf Grund des <orgName n="bc8e0edd-3606-4e62-8e0e-dd36063e621d" type="deriv">eidgenössischen</orgName> oder kantonalen Rechtes:</p>
+            <p>a)	in der <orgName n="9e3dfbff-2a27-4545-bdfb-ff2a27954584">Arbeitsanstalt Bitzi-Mosnang</orgName>,</p>
+            <p>b)	in Sonderfällen aus therapeutischen Gründen in der <orgName n="c25947d9-803c-448d-9947-d9803cd48d66">Anstalt Realta</orgName>,</p>
+            <p>c)	in der <orgName n="3837d0dd-c95a-41f0-b7d0-ddc95a31f026">Arbeitserziehungsanstalt Uitikon</orgName> oder <placeName n="bc445880-a69c-45a3-8458-80a69ca5a393">Kalchrain</placeName>, wenn es sich um erziehungsfähige junge Erwachsene handelt,</p>
+            <p>d)	in besonderen Fällen in einer anderen geeigneten Anstalt.</p>
+            <p>Art. 5</p>
+            <p>Der Vollzug gegenüber Frauen erfolgt, unter Vorbehalt abweichender Anordnungen im Einzelfall,<add place="margin right">b) gegenüber Frauen </add>
+            </p>
+            <p>a)	für Strafen bis zu drei Monaten in den Gefängnissen der Kantone,</p>
+            <p>b)	für längere Strafen- und Massnahmen in einer von der <orgName n="f5cee780-561f-4b9b-8ee7-80561f8b9bc1">Strafvollzugskommission</orgName> zu bestimmenden Anstalt.</p>
+            <p>Art. 6</p>
+            <p>Unter dem Vorbehalt der Bewilligung der erforderlichen Kredite durch die nach kantonalem Recht zuständigen Instanzen und der Gewährung der gesetzlich möglichen Bundesbeiträge verpflichten sich die nachstehend genannten Kantone, folgende Anstalten für den Straf- und Massnahmenvollzug im Rahmen der Vereinbarung bereitzustellen, auszubauen und zu führen:  <pb n="107"/>
+                <add place="margin right">Vollzugsanstalten </add>
+            </p>
+            <p>1.	alle beteiligten Kantone im Rahmen ihres kantonalen Rechtes ihre Gefängnisse zum Vollzug von Haft- und kurzen Gefängnisstrafen gemäss Art. 4 Ziff. 1 und 2 lit. c,</p>
+            <p>2.	der Kanton <placeName n="dabda53b-9b40-4af6-bda5-3b9b403af6c1">Zürich</placeName>
+            </p>
+            <p>a)	die <orgName n="e5bdd24b-6d82-4db6-bdd2-4b6d826db64c">Strafanstalt Regensdorf</orgName> zum Vollzug von Freiheitsstrafen gemäss Art. 4 Ziff. 2 lit. b und Verwahrungen gemäss Art. 4 Ziff. 3 lit. a,</p>
+            <p>b)	die <orgName n="850385c6-fff3-49c9-8385-c6fff379c95d">Arbeitserziehungsanstalt Uitikon-Waldegg</orgName> zum Vollzug der Arbeitserziehung gemäss Art. 4 Ziff. 7 lit. a und Ziff. 8 lit. c,</p>
+            <p>3.	der Kanton <placeName n="972d44f3-9455-488e-ad44-f39455d88eb1">Appenzell A. Rh</placeName>.</p>
+            <p>	die <orgName n="550e68b4-6f82-4f3f-8e68-b46f828f3f59">Strafanstalt Gmünden</orgName> zum Vollzug von Freiheitsstrafen gegenüber Erstmaligen gemäss Art. 4 Ziff. 2 lit. a,</p>
+            <p>4.	der Kanton <placeName n="7297664d-d970-4836-9766-4dd970b83655">St. Gallen</placeName>
+            </p>
+            <p>a)	die <orgName n="01c6f5f1-3fb2-4294-86f5-f13fb23294ed">Strafanstalt Saxerriet</orgName> zum Vollzug von Freiheitsstrafen gegenüber Erstmaligen gemäss Art. 4 Ziff. 2 lit. a,</p>
+            <p>b)	die <orgName n="d4ee7c30-4d9f-4ae8-ae7c-304d9faae8c6">Arbeitsanstalt Bitzi</orgName> zum Vollzug von Versorgungen gemäss Art. 4 Ziff. 8 lit a,</p>
+            <p>5.	der Kanton <placeName n="8c5b9d32-d63a-4d84-9b9d-32d63abd84a6">Graubünden</placeName>
+            </p>
+            <p>	die Anstalt von <placeName n="bc5d8688-81dc-45c4-9d86-8881dce5c469">Realta</placeName> zum Vollzug von</p>
+            <p>a)	Verwahrungen im Sinne von Art. 42 StGB gemäss Art. 4 Ziff. 3 lit. b,</p>
+            <p>b)	Einweisungen geistig Abnormer gemäss Art. 4 Ziff. 4 lit. b,</p>
+            <p>c)	Versorgungen gemäss Art. 4 Ziff. 8 lit. b,</p>
+            <p>6.	der Kanton <placeName n="c0f77b5f-9d02-4ad6-b77b-5f9d023ad603">Thurgau</placeName>
+            </p>
+            <p>	die <orgName n="6ee2b58f-dac5-4c36-a2b5-8fdac5fc3678">Arbeitserziehungsanstalt Kalchrain</orgName> zum Vollzug der Arbeitserziehung gemäss Art. 4 Ziff. 7 lit. b und Ziff. 8 lit. c,</p>
+            <p>Art. 7</p>
+            <p>Die Bestimmungen von Art. 4 bis 6 gelten auch für Freiheitsstrafen und Massnahmen gemäss Urteilen der Strafbehörden des <orgName n="8920d877-924a-4968-a0d8-77924a0968d5">Bundes</orgName>, deren Vollstreckung einem der beteiligten Kantone übertragen wird.  <pb n="108"/>
+                <add place="margin right">Urteile der <orgName n="2d0ef1bf-be29-4f84-8ef1-bfbe299f849b">Bundesstrafbehörden </orgName>
+                </add>
+            </p>
+            <p>
+                <title>III. Durchführung der Vereinbarung</title>
+            </p>
+            <p>Art. 8</p>
+            <p>Der einweisende Kanton bestimmt im Einzelfall die nach Art. 4 und 5 der Vereinbarung für den Vollzug in Frage kommende Anstalt.<add place="margin right">Bestimmung der Vollzugsanstalt </add>
+            </p>
+            <p>Art. 9</p>
+            <p>Die Entscheide gemäss den Artikeln 38, 40, 42 bis 45, 100<hi rend="sup">bis</hi>, 100<hi rend="sup">ter </hi>394 StGB sowie des kantonalen Versorgungsrechtes stehen dem einweisenden Kanton zu, soweit nicht eine Behörde des <orgName n="2cdcd433-25fe-4052-9cd4-3325fe80525e">Bundes</orgName> zuständig ist.<add place="margin right">Entscheidungsbefugnisse </add>
+            </p>
+            <p>Vorbehalten bleibt die Übertragung von Entscheidungskompetenzen im Einzelfall.</p>
+            <p>Art. 10</p>
+            <p>Der mit dem Vollzug beauftragte Kanton ist verpflichtet, die ihm Zugewiesenen im Rahmen der Aufnahmefähigkeit seiner Anstalten zu übernehmen und sie nach den Anordnungen des einweisenden Kantons zu entlassen.<add place="margin right">Vollzugspflicht </add>
+            </p>
+            <p>Ergeben sich aus der Übernahme des Vollzuges oder während desselben besondere Schwierigkeiten, so ist mit dem einweisenden Kanton auf dem Verhandlungswege eine Lösung zu suchen.</p>
+            <p>Art. 11</p>
+            <p>Der Vollzug richtet sich nach den Vorschriften für die einzelnen Anstalten. Sie werden von dem Kanton erlassen, der die Anstalt führt.<add place="margin right">Vollzugsvorschriften </add>
+            </p>
+            <p>Die Vorschriften haben den Bestrebungen des Strafgesetzbuches Rechnung zu tragen.</p>
+            <p>Die Anstaltsvorschriften sind der <orgName n="60f7c350-2b09-4b77-b7c3-502b090b7733">Strafvollzugskommission</orgName> zur Genehmigung vorzulegen.</p>
+            <p>Art. 12</p>
+            <p>Der einweisende Kanton hat dem vollziehenden Kanton die Vollzugskosten sowie die Auslagen für Einlieferung und Entlassung zu vergüten. Der Rückgriff auf andere Zahlungspflichtige bleibt dem einweisenden Kanton Vorbehalten.<add place="margin right">Vollzugskosten </add>
+            </p>
+            <p>Die Höhe des Kostgeldes, die Nebenkosten und der Zahlungsmodus werden durch die <orgName n="aae1e999-26f8-4574-a1e9-9926f855749c">Strafvollzugskommission</orgName> geregelt.  <pb n="109"/>
+            </p>
+            <p>
+                <title>IV. Schlussbestimmungen</title>
+            </p>
+            <p>Art. 13<add place="margin right">Abmachungen mit andern Konkordaten und Kantonen </add>
+            </p>
+            <p>Die <orgName n="76209e09-0f3a-4630-a09e-090f3ac6300f">Strafvollzugskommission</orgName> trifft die auf Grund dieser Vereinbarung notwendigen Abmachungen mit ändern Konkordaten, insbesondere auch in bezug auf die Unterbringung Eingewiesener, die während des Vollzuges der Spitalpflege bedürfen.</p>
+            <p>Generelle Vereinbarungen einzelner Konkordatsmitglieder mit anderen Kantonen oder Konkordaten bedürfen der Genehmigung der <orgName n="8b4350c0-c3e7-4d16-8350-c0c3e7bd1619">Strafvollzugskommission</orgName>.</p>
+            <p>Art. 14</p>
+            <p>Über die Änderung der Zweckbestimmung einer Anstalt oder deren Aufhebung entscheidet die <orgName n="a2657b13-cd32-4d2d-a57b-13cd326d2d19">Strafvollzugskommission</orgName> auf Antrag des die Anstalt führenden Kantons.<add place="margin right">Änderung der Vereinbarung </add>
+            </p>
+            <p>Art. 15</p>
+            <p>Jeder Kanton kann unter Beachtung einer fünfjährigen Frist auf Ende eines Kalenderjahres durch schriftliche Erklärung beim Vorsitzenden der <orgName n="c3e208cc-3f85-4dbd-a208-cc3f85cdbd00">Strafvollzugskommission</orgName>, erstmals auf 31. Dezember 1990, von der Vereinbarung zurücktreten.<add place="margin right">Kündigung </add>
+            </p>
+            <p>Mit dem Austritt der Kantone <placeName n="bca11ead-1f05-4afb-a11e-ad1f055afb4f">Zürich</placeName>, <placeName n="6ecbcc84-d99c-4a44-8bcc-84d99c5a44f4">Graubünden</placeName>, <placeName n="7817d767-cee9-4553-97d7-67cee9e553fb">St. Gallen</placeName> und <placeName n="65b7b0e5-8d64-42f0-b7b0-e58d64e2f0d5">Thurgau</placeName> fällt die Vereinbarung als Ganzes dahin.</p>
+            <p>Art. 16</p>
+            <p>Die Vereinbarung tritt mit der Genehmigung durch den <orgName n="8aacb4db-343a-4e87-acb4-db343aee8772">Bundesrat</orgName> in Kraft.<add place="margin right">Inkrafttreten </add>
+            </p>
+            <p>Über den Zeitpunkt der Invollzugsetzung entscheidet die <orgName n="8c4d7440-d2a1-4c06-8d74-40d2a10c068d">Strafvollzugskommission</orgName>.</p>
+            <p>Art. 17</p>
+            <p>Mit der Invollzugsetzung dieser Vereinbarung wird jene vom 27. Januar 1956 aufgehoben.<add place="margin right">Aufhebung der bisherigen Vereinbarung </add>
+            </p>
+            <p>Der <orgName n="d843078f-86ad-4207-8307-8f86adf2078c">Regierungsrat des Kantons Zürich</orgName> hat der Vereinbarung am 26. November 1975 zugestimmt.</p>
+            <p>Die vom <orgName n="7134f151-412d-482c-b4f1-51412df82c62">Bundesrat</orgName> am 31. März 1976 genehmigte Vereinbarung wurde von der <orgName n="d76870fd-aae5-46d5-a870-fdaae5e6d5c0">Ostschweizerischen Strafvollzugskommission</orgName> auf den 1. Juli 1976 in Vollzug gesetzt.</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Mitteilungen</title>
+                <respStmt>
+                    <resp ref="#OCR/kvr" key="transcript">Transkript: OCR/kvr<date when="2011-11-09">09.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Mitteilungen</title>
+                    <date when="1984-04-23">23.04.1984</date>
+                    <ident>StAZH MM 24.112 KRP 1984/048/0001a</ident>
+                    <idno>2711–2712</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_112_KRP_1984_048_0001a_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3734271"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="2711"/>Rücktritt aus der <orgName n="82a82837-60e3-4ec3-a828-3760e3fec3b9">Begnadigungskommission</orgName></p>
+            <p>
+                <persName n="4d1027d2-08ec-4aad-9027-d208ec0aadb6">L. Appert-Sprecher</persName> (<orgName n="5364a352-308c-4517-a4a3-52308cb51768">LdU</orgName>, <placeName n="df7e2ebf-cfc5-4e1d-be2e-bfcfc5de1dbb">Zürich</placeName>) teilt mit Schreiben vom 23. April 1983 mit: Ich bitte Sie, von meinem Rücktritt aus der <orgName n="d9226467-a216-46a1-a264-67a21626a1f4">Begnadigungskommission</orgName> Kenntnis zu nehmen.</p>
+            <p>Zuweisung an eine Spezialkommission</p>
+            <p>Die Vorlage 2612, Gesetz über den Beitritt des Kantons <placeName n="25b9cd62-1321-41b9-b9cd-62132191b95d">Zürich</placeName> zum Konkordat über die Schiedsgerichtbarkeit vom 27. März 1969 und Änderung der Zivilprozessordnung, wird einer Spezialkommission von 15 Mitgliedern zugewiesen.  <pb n="2712"/><orgName n="05b6c438-163f-47c3-b6c4-38163f57c368" type="deriv">Parlamentarische</orgName> Vorstösse</p>
+            <p>Postulat von <persName n="b06560f3-1dcc-4a6d-a560-f31dcc1a6d37">Erich Kriesi</persName> (<orgName n="d07c18a8-2512-470a-bc18-a82512970a38">EVP</orgName>, <placeName n="dbb0e1f9-a479-461f-b0e1-f9a479061ff1">Erlenbach</placeName>) und Mitunterzeichner betreffend umfassende Massnahmen für Natur- und Heimatschutz und Erhaltung der natürlichen Lebensgrundlagen.</p>
+            <p>Postulat von Daniel Vi scher (<orgName n="da8d78d7-730c-49bf-8d78-d7730ca9bf4e">POCH</orgName>, <placeName n="628cb9dc-d2d5-4fbb-8cb9-dcd2d5dfbb1a">Zürich</placeName>) betreffend den ausschliesslichen Gebrauch von phosphatfreien Waschmitteln in den vom <orgName n="a353b86a-a92b-404b-93b8-6aa92b204b5c">Kanton</orgName> betriebenen Wäschereien.</p>
+            <p>Postulat von Daniel Vi scher (<orgName n="bece2c7d-1b77-4368-8e2c-7d1b77c36801">POCH</orgName>, <placeName n="2e65ad8f-d4a6-4bf3-a5ad-8fd4a6abf363">Zürich</placeName>) betreffend die Einsetzung eines Datenschutzbeauftragten.</p>
+            <p>Interpellation von Franz Sign er (<orgName n="03264506-7f43-4928-a645-067f43e9284c">SP</orgName>, <placeName n="fb60fcec-7eed-45a8-a0fc-ec7eed65a88a">Zürich</placeName>) betreffend gleiche Besteuerung von Ehe- und Konkubinatspaaren.</p>
+            <p>Interpellation von <persName n="cf21aa58-23a7-4f4c-a1aa-5823a7df4ce9">Marianne Pestalozzi</persName> (<orgName n="e71b8290-0438-4db7-9b82-9004385db76c">EVP</orgName>, <placeName n="3bde7228-14ca-41e9-9e72-2814ca31e998">Zürich</placeName>) und <persName n="4f9aec6c-6d5f-4d8e-9aec-6c6d5fdd8e54">Walter Zurbuchen</persName> (<orgName n="e9cc74cf-bfd3-4918-8c74-cfbfd3b918f2">EVP</orgName>, <placeName n="f072a681-f78d-4e93-b2a6-81f78d9e9344">Schönenberg</placeName>) betreffend Änderung der Besoldungsstruktur des Personals von Spitälern und Heimen.</p>
+            <p>Anfrage von Dr. <persName n="b22d9de2-8129-418f-ad9d-e28129018f90">Heinrich Grob</persName> (<orgName n="1fb1004b-894b-4a42-b100-4b894b2a425c">SVP</orgName>, <placeName n="180ba900-b34c-4d39-8ba9-00b34c4d3988">Uster</placeName>) betreffend Besteuerung bei Veräusserung von Minderheitsbeteiligungen an Immobiliengesellschaften.</p>
+            <p>Anfrage von Dr. Martin Wehr Ii (<orgName n="781087cb-ec8d-4c20-9087-cbec8d0c2087">FDP</orgName>, <placeName n="dacacb94-796b-4e25-8acb-94796b2e2544">Uitikon</placeName>) betreffend Verkehrsregelung am 1. Züri-Marathon.</p>
+        </body>
+    </text>
+</tei:TEI>

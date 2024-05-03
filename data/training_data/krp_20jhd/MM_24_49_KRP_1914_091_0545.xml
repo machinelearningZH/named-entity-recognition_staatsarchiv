@@ -1,0 +1,48 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beratung betreffend Tagesordnung.</title>
+                <respStmt>
+                    <resp ref="#OCR/kvr" key="transcript">Transkript: OCR/kvr<date when="2011-11-16">16.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Beratung betreffend Tagesordnung.</title>
+                    <date when="1914-03-09">09.03.1914</date>
+                    <ident>StAZH MM 24.49 KRP 1914/091/0545</ident>
+                    <idno>1342–1343</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_49_KRP_1914_091_0545_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3626797"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="1342"/>Der Vorsitzende beantragt, das Traktandum „Gesetz über das <orgName n="92ce9c85-40c0-4176-8e9c-8540c0f176cb">kantonale Einigungsamt</orgName> von der Liste zu streichen, in der Meinung, daß dessen Behandlung erst in der  <pb n="1343"/>neuen Amtsperiode in Angriff genommen werde; hingegen sollte das Einführungsgesetz zum <orgName n="52c03418-4a2d-4805-8034-184a2d080539" type="deriv">eidgenössischen</orgName> Gesetz über die <orgName n="b427f84b-abdd-4256-a7f8-4babddb25656">Kranken- und Unfallversicherung</orgName> noch vor Schluß dieser Amtsperiode durchberaten werden.</p>
+            <p>
+                <persName n="ffc74f29-20a3-4caa-874f-2920a35caa00">Bopp</persName> - <placeName n="8e8e49b8-3e51-4fff-8e49-b83e510fff64">Bülach</placeName> beantragt, Traktandum 4 nicht mehr zu behandeln, sondern mit den übrigen Geschäften aufzuräumen, namentlich das bereits angeschnittene Einigungsamtsgesetz noch zum Abschluß zu bringen. Es fehlte den meisten Ratsmitgliedern an der nötigen Zeit, eine Vorlage von so bedeutender Tragweite wie das erst kürzlich erschienene Einführungsgesetz zur <orgName n="890f5f9c-87dc-4250-8f5f-9c87dc42508c">Kranken- und Unfallversicherung</orgName> genügend zu studieren.</p>
+            <p>Der Vorsitzende betont die Dringlichkeit des Einführungsgesetzes. Da das <orgName n="94119890-6ace-4987-9198-906ace2987fa" type="deriv">eidgenössische</orgName> Gesetz mit dem <date>1. Januar 1915</date> in Kraft tritt, sollte die <orgName n="dceeebb6-52a9-49e0-aeeb-b652a9d9e031" type="deriv">kantonale</orgName> Vorlage im nächsten Referendum zur Abstimmung kommen.</p>
+            <p>Oberrichter <persName n="26407902-3398-4705-8079-023398970571">G. Müller</persName> will beide Vorlagen auf der Tagesordnung belassen.</p>
+            <p>Dr. <persName n="37a0b0e4-976e-4f3a-a0b0-e4976e8f3a7c">Sträuli</persName> - <placeName n="f4043bb3-1d3b-4dbc-843b-b31d3b3dbceb">Winterthur</placeName> unterstützt den Präsidenten. Bis Ende Mai dieses Jahres sollten der Bundesbehörde die Beschlüsse der Kantone über Einführung des Obligatoriums der Versicherung eingereicht werden.</p>
+            <p>Der Rat entscheidet sich mit 96 gegen 13 Stimmen dafür, das Gesetz über das <orgName n="a2d56f91-2d47-4d9e-956f-912d47fd9e2f">kantonale Einigungsamt</orgName> für die laufende Amtsperiode von der Traktandenliste abzusetzen.</p>
+        </body>
+    </text>
+</tei:TEI>

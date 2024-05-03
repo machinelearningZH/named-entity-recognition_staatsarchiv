@@ -1,0 +1,61 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Bericht und Antrag des Büros des Kantonsrates vom 7. August 1980 zum Tätigkeitsbericht des Ombudsmanns über die Jahre 1978/1979, 2383</title>
+                <respStmt>
+                    <resp ref="#OCR/dmr" key="transcript">Transkript: OCR/dmr<date when="2011-10-06">06.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Bericht und Antrag des Büros des Kantonsrates vom 7. August 1980 zum Tätigkeitsbericht des Ombudsmanns über die Jahre 1978/1979, 2383</title>
+                    <date when="1980-08-25">25.08.1980</date>
+                    <ident>StAZH MM 24.103 KRP 1980/069/0002</ident>
+                    <idno>4057–4059</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_103_KRP_1980_069_0002_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3730007"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="4057"/>Ratspräsident <persName n="bd89a5b4-f349-47be-89a5-b4f34957be6c">E. Spillmann</persName> begrüsst den Ombudsmann, Dr. <persName n="d12834ce-3834-41da-a834-ce383441da5b">A. Wirth</persName>, der im Einverständnis mit dem Rat den Verhandlungen folgt und bereit ist, allfällige Fragen zu beantworten.</p>
+            <p>
+                <persName n="c24f6372-49a4-4764-8f63-7249a407647a">B. Schürch</persName> (<orgName n="026f62cc-7f4e-441c-af62-cc7f4e341c28">FDP</orgName>, <placeName n="3cd3888d-b32b-48a9-9388-8db32b38a95d">Winterthur</placeName>), 2. Vizepräsident, referiert im Namen des Büros des <orgName n="a3484888-6251-499a-8848-886251599aa4">Kantonsrates</orgName>: Der <orgName n="96cc6e77-6783-4e0e-8c6e-7767833e0e2a" type="deriv">kantonale</orgName> Ombudsmann, Dr. <persName n="d1dce43f-cecc-494f-9ce4-3fcecc694f02">Adolf Wirth</persName>, erstattet dem <orgName n="b1aa20ca-fc7b-454f-aa20-cafc7b354f70">Kantonsrat</orgName>, der gesetzlichen Verpflichtung nachkommend, seinen ersten Tätigkeitsbericht seit Schaffung dieser Institution. Der Bericht umfasst somit den Zeitraum vom 1. September 1978 bis 31. Dezember 1979. Er gliedert sich in einen «Allgemeinen Teil» und einen «Speziellen Teil». Dem «Allgemeinen Teil» entnehmen wir zunächst, dass der personelle Bestand der Institution den vom Rat getroffenen Wahlen und dem von ihm genehmigten Stellenplan entspricht. Dem Ombudsmann und seinem nebenamtlichen Ersatzmann, Dr. <persName n="eb1234db-8c44-4ecb-9234-db8c443ecbc7">Ullin Streiff</persName>, stehen zwei Kanzleisekretärinnen zur Verfügung, davon eine als Halbtagsmitarbeiterin. Der Berichterstatter zeichnet alsdann kurz den Werdegang dieser Institution, welcher der <orgName n="8280432c-01d8-490d-8043-2c01d8d90db1">Kantonsrat</orgName> im Juni 1977 mit 108:39 Stimmen und das Volk im September des gleichen Jahres mit dem genau gleichen Stimmenverhältnis von 234 000:85 000 zugestimmt haben. Im folgenden Abschnitt schildert der Ombudsmann seine ersten Eindrücke und Erfahrungen in seiner Tätigkeit, wobei er gleichermassen die vertrauensvolle Zuwendung der Beschwerdeführer und Hilfesuchenden wie auch den zufriedenstellenden Verkehr mit Behörden und Verwaltung würdigt und auch allen dankt, die sich in der Vorbereitungsphase und Anlaufzeit hilfsbereit zeigten. Diesen Dank erstattet er an anderer Stelle des Berichtes auch dem Ombudsmann der Stadt <placeName n="43729183-f9c8-4bc1-b291-83f9c84bc176">Zürich</placeName>, Dr. <persName n="efda6a46-f307-4e77-9a6a-46f3071e7793">J. Vontobel</persName>, der mit seiner reichen Erfahrung zur Verfügung stand und zweifellos – wie ich meine – durch sein anerkanntes Wirken den Start der <orgName n="2907a5d6-eeb3-47b5-87a5-d6eeb3c7b5ad" type="deriv">kantonalen</orgName> Institution erleichtert hat.</p>
+            <p>Im weiteren bringt der Ombudsmann in seinem Bericht seinen Aufgabenbereich zur Darstellung, insbesondere seine Überprüfungsbefugnis  <pb n="4058"/>und seine Zuständigkeit, wobei im letzteren Bereich noch einzelne Friktionen zu bestehen scheinen. Gerade in diesem Abschnitt der Berichterstattung wird aber auch deutlich, dass nicht nur bei der Behandlung vieler Einzelfälle, sondern bereits bei der Frage der Zuständigkeit juristische Kenntnisse erforderlich sind, die sich der Agronom bereits in respektablem Mass angeeignet zu haben scheint. Mit Interesse nehmen wir alsdann Kenntnis von der Geschäftsübersicht, welche der Ombudsmann auf den Seiten 12 bis 17 nach verschiedenen Kriterien tabellarisch geordnet zur Darstellung bringt. Dieser Teil des Berichtes gewinnt einige Bedeutung im Hinblick auf die künftige personelle Dotierung dieser Institution, die demnächst zur Diskussion stehen wird.</p>
+            <p>Der Tabelle 1 entnehmen wir, dass der Ombudsmann seit Amtsantritt 564 oder im Kalenderjahr 1979 458 Geschäfte erledigt hat. Das sind pro Arbeitstag etwas mehr als zwei Geschäfte. Im Jahr 1979 wurden 471 Geschäfte neu angelegt und derer 458 abgeschlossen, so dass sich sagen lässt, dass die 89 unerledigten Geschäfte Ende 1979 grösstenteils auf die Startphase zurückgehen, während in der Folge der Arbeitsaufwand knapp bewältigt werden konnte. Immerhin ist festzuhalten, dass die 89 Pendenzen einem Arbeitsaufwand von zweieinhalb Monaten entsprechen. Dass sich ein Ombudsmann, der um eine rasche Geschäftserledigung bemüht ist, bereits über Restanzen in diesem Umfang Sorgen macht, ist verständlich. Bei einer rückwirkenden Rechtsprechung sind Verzögerungen in diesem Ausmass unbedeutend. Bei Beratungen oder beim Ergreifen oder Verhüten von Rekursen sind diese Verzögerungen aber bereits von entscheidender Bedeutung.</p>
+            <p>Dazu kommt, was im Bericht nicht zu lesen ist, dass der Ombudsmann ein weiteres Anwachsen der Pendenzen offenbar nur unter Einsatz aller Kräfte und mit Opfern beträchtlicher Freizeit verhindern konnte. Andererseits dürfte die Registrierung von Vergleichsmaterial die Erledigung ähnlicher Fälle künftig erleichtern.</p>
+            <p>Wenn von einem Arbeitsaufwand von etwa einem halben Tag pro Fall die Rede war, so darf man sich nicht vorstellen, dass zahlreiche Fälle durch ein Telefongespräch zu erledigen sind. Aus den Tabellen 1 bis 3 ist ersichtlich, dass 80 Prozent der Beschwerdeführer zum persönlichen Gespräch empfangen werden, dass in 80 Prozent der Fälle auch die Gegenseite (Auskunftspersonen der Verwaltung) angehört wird, dass in 40 Prozent der Fälle Vernehmlassungen eingeholt oder Akten eingesehen werden müssen und in 12 Prozent der Fälle Augenscheine und Besprechungen beim Beschwerdeführer erfolgen. Die Tabellen 4 und 5 schliesslich geben Auskunft über den Wohnort und die Stellung der Beschwerdeführer. 40 Prozent der Beschwerdeführer  <pb n="4059"/>stammen aus der Stadt <placeName n="d73cb1f4-03ea-4b2f-bcb1-f403ea3b2f50">Zürich</placeName>, 55 Prozent aus anderen Gemeinden des <placeName n="21666819-9b6d-45c3-a668-199b6de5c381">Kantons</placeName> und 5 Prozent aus anderen Kantonen. 3 Beschwerdeführer waren Ausländer. Bezüglich der Herkunft der Beschwerden lässt sich feststellen, dass 90 Prozent extern sind und nur 10 Prozent von Personen stammen, die in der <orgName n="87ce4784-f4c1-4bef-8e47-84f4c11befc6">kantonalen Verwaltung</orgName> tätig sind. 95 Prozent der Beschwerden stammen von Privatpersonen, 4 Prozent von juristischen Personen und in vier Fällen traten im Jahr 1979 Gemeinden als Beschwerdeführer auf.</p>
+            <p>Besonderes Interesse scheint der «Spezielle Teil» des Tätigkeitsberichtes gefunden zu haben, wo der Ombudsmann 24 Fallbeispiele darstellt, ohne damit Schwerpunkte seiner Tätigkeit aufzeigen zu wollen. Vielmehr lässt sich aus diesen Beispielen die ganze Breite seines Tätigkeitsfeldes erkennen. Es lässt sich aber insbesondere aus der Darstellung und der Art der Behandlung dieser Fälle, wie auch aus dem Tätigkeitsbericht in seiner Ganzheit, erkennen, mit wieviel menschlichem Verständnis <persName n="e792ad84-2aec-487a-92ad-842aecb87a05">Adolf Wirth</persName> seiner Aufgabe als Ombudsmann obliegt. Er verdient unseren Dank für seinen Einsatz.</p>
+            <p>Das <orgName n="f2c2d31d-9629-4a67-82d3-1d9629aa672b">Ratsbüro</orgName> beantragt Ihnen, den Tätigkeitsbericht des Ombudsmannes zu genehmigen.</p>
+            <p>Eintreten</p>
+            <p>ist beschlossen, nachdem kein Nichteintretensantrag gestellt wird.</p>
+            <p>Detailberatung</p>
+            <p>Das Wort wird nicht verlangt.</p>
+            <p>Der Antrag des Büros lautet wie folgt:</p>
+            <p>I. Das Büro hat den Tätigkeitsbericht des Ombudsmanns über die Jahre 1978/1979 einlässlich geprüft.</p>
+            <p>II. Das Büro spricht dem Ombudsmann den besten Dank für die geleistete Arbeit aus und beantragt dem <orgName n="e6be6884-7152-4621-be68-847152362113">Kantonsrat</orgName>, den Tätigkeitsbericht des Ombudsmanns über die Jahre 1978/1979 zu genehmigen.</p>
+            <p>III. Mitteilung an den Ombudsmann des Kantons <placeName n="179f2dec-27ea-45ca-9f2d-ec27eaa5ca3d">Zürich</placeName>.</p>
+            <p>Schlussabstimmung</p>
+            <p>Mit 123:0 Stimmen beschliesst der Rat, den Tätigkeitsbericht des Ombudsmannes über die Jahre 1978/1979 zu genehmigen.</p>
+            <p>Ratspräsident <persName n="3c74c8bc-9014-4a6a-b4c8-bc90140a6a1c">E. Spillmann</persName> dankt dem Ombudsmann, Dr. <persName n="d8e2a296-9c3d-4f82-a2a2-969c3d4f82b3">A. Wirth</persName>, für seine Arbeit und für die Teilnahme an der Sitzung. Das Geschäft ist erledigt. </p>
+        </body>
+    </text>
+</tei:TEI>

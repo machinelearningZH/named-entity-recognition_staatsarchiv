@@ -1,0 +1,50 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Motion E. Moser betreffend Winterhülfsaktion 1930/31.</title>
+                <respStmt>
+                    <resp ref="#OCR/mls" key="transcript">Transkript: OCR/mls<date when="2011-11-17">17.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Motion E. Moser betreffend Winterhülfsaktion 1930/31.</title>
+                    <date when="1931-03-09">09.03.1931</date>
+                    <ident>StAZH MM 24.57 KRP 1931/055/0467</ident>
+                    <idno>780</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_57_KRP_1931_055_0467_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3650388"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="780"/>
+                <persName n="65446072-605b-4ad8-8460-72605baad888">Moser</persName> - <placeName n="3d157745-ecf8-44a2-9577-45ecf864a2fb">Thalwil</placeName> und Mitunterzeichner reichen folgende Motion ein:</p>
+            <p>Der <orgName n="6e1cd9ab-c102-40d6-9cd9-abc10200d681">Regierungsrat</orgName> wird eingeladen, die Winterhülfsaktion 1930/31 gemäß Kantonsratsbeschluß vom <date>12. Januar 1931</date> in Anbetracht des schweren und langen Winterwetters in der Weise auszudehnen, daß bezugsberechtigt sind alle Ganz- und Teilarbeitslosen, die bis Ende März (statt nur Ende Februar) 240 Stunden arbeitslos sind.</p>
+            <p>Schluß der Sitzung 12 Uhr 20.</p>
+            <p>Die nächste Sitzung findet Montag, den <date>16. März 1931</date>, vormittags 8 <hi rend="sup">1</hi>/<hi rend="sub">4</hi> Uhr, statt.</p>
+            <p>
+                <placeName n="50585e9c-3796-423c-985e-9c3796523ca0">Zürich</placeName>, den <date>9. März 1931</date>.</p>
+            <p>Der Protokollführer: <persName n="26ceca19-3d56-4d4f-8eca-193d561d4f9a">A. Stamm</persName>.</p>
+            <p>Vom <orgName n="13f70424-2a1d-4c28-b704-242a1dbc281a">Kantonsratsbureau</orgName> in seiner Sitzung vom <date>19. März 1931</date> genehmigt. </p>
+        </body>
+    </text>
+</tei:TEI>

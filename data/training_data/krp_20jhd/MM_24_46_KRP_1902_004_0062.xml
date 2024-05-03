@@ -1,0 +1,62 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verwendung des der Staatskasse zufallenden Anteils an dem Gewinnrückstellungsfond und an dem jährlichen Reingewinne der Kantonalbank, sowie betreffend die Verzinsung des Gründungskapitals im Jahre 1902, Antrag des Regierungsrates vom 19. Juli 1902.</title>
+                <respStmt>
+                    <resp ref="#OCR/lsz" key="transcript">Transkript: OCR/lsz<date when="2011-11-16">16.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Verwendung des der Staatskasse zufallenden Anteils an dem Gewinnrückstellungsfond und an dem jährlichen Reingewinne der Kantonalbank, sowie betreffend die Verzinsung des Gründungskapitals im Jahre 1902, Antrag des Regierungsrates vom 19. Juli 1902.</title>
+                    <date when="1902-09-22">22.09.1902</date>
+                    <ident>StAZH MM 24.46 KRP 1902/004/0062</ident>
+                    <idno>62–65</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_46_KRP_1902_004_0062_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3621601"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="62"/>Über die Frage der Verwendung des der Staatskasse zufallenden Anteils an dem Gewinnrückstellungsfond und an dem jährlichen Reingewinne der <orgName n="89c40101-bfd3-4aaf-8401-01bfd39aafb8">Kantonalbank</orgName>, sowie betreffend die Verzinsung des Gründungskapitals im Jahre 1902 referirt namens der <orgName n="cdd949a7-4919-4421-9949-a74919642130">Bankrechnungsprüfungskommission</orgName> Herr <persName n="0afa0343-4f42-4614-ba03-434f423614f8">Hörni</persName> an Hand des ihr durch Kantonsratsbeschluss vom <date>18. August 1902</date> zum Bericht und Antrag überwiesenen Materials (s. Protokoll No. 45, Seite 30). Er beantragt mit Bezug auf Dispositiv I und II Zustimmung zum Antrag des <orgName n="96313132-3945-4c47-b131-3239455c4727">Regierungsrates</orgName>; betreffend die Verzinsung des Gründungskapitals stellt die Kommission einen vom <orgName n="69d08524-ac64-42d6-9085-24ac6422d614" type="deriv">regierungsrätlichen</orgName> abweichenden Antrag im wesentlichen in Anlehnung an die Begründung der an den <orgName n="2213eb5a-963e-49bb-93eb-5a963e59bbe1">Kantonsrat</orgName> gerichteten Eingabe des <orgName n="0a3f438b-7a7f-4378-bf43-8b7a7fe378ff">Bankrates</orgName> vom <date>13. August 1902</date>.</p>
+            <p>Das revidirte Gesetz betreffend die <orgName n="4676754a-8c7d-45f1-b675-4a8c7dc5f1d0">Zürcher Kantonalbank</orgName> sei am <date>16. März 1902</date> vom Volke angenommen worden und  <pb n="63"/>mit diesem Tage in Kraft getreten. Über die Verzinsung des Gründungskapitals sei in § 5 des Gesetzes gesagt:</p>
+            <p>„Der Zinsfuss für das vom Staate der Bank zur Verfügung gestellte Kapital wird vom <orgName n="224eb72f-4165-4cef-8eb7-2f4165ecef27">Kantonsrate</orgName> bestimmt. Er soll nicht höher sein, als zur Bestreitung der Selbstkosten des <orgName n="6ef8ef28-9a7e-4d06-b8ef-289a7e3d06d4">Staates</orgName> nötig ist.“</p>
+            <p>Von den 20 Millionen Gründungskapital der <orgName n="3ae7b13b-58fd-4d57-a7b1-3b58fd7d579b">Kantonalbank</orgName> habe der <orgName n="6712067d-41fa-46be-9206-7d41fae6be9e">Staat</orgName> 6 Millionen aus eigenen Mitteln einbezahlt und 14 Millionen durch Anleihen beschafft. Von diesen Anleihen müssen vom <orgName n="cdcb0a5a-d4c2-45c8-8b0a-5ad4c2b5c810">Kanton</orgName> 8 Millionen à 3 <hi rend="sup">1</hi>/<hi rend="sub">2</hi>% (Fälligkeitstermin <date>30. September 1907</date>) und 6 Millionen à 3 <hi rend="sup">3</hi>/<hi rend="sub">4</hi>% (Fälligkeitstermin <date>1. Oktober 1908</date>) verzinst werden, was eine durchschnittliche Verzinsung von 3,607% ergibt. Die Kosten für Beschaffung dieser Anleihen werden von der <orgName n="8082bf63-c0f3-4e4d-82bf-63c0f33e4da3">Kantonalbank</orgName> bezahlt. Nehme man für die vom <orgName n="8276f9f9-3f3b-49c1-b6f9-f93f3b19c1e9">Staate</orgName> einbezahlten 6 Millionen Franken eine 4%ige Verzinsung an, so steige der Durchschnittszinsfuss für das Gründungskapital der Bank auf 3,725%. Nach der Staatsrechnung vom Jahre 1901 habe der <orgName n="e67e6fc6-46b7-4a0c-be6f-c646b7ba0cdd">Kanton</orgName> Anleihen aufgenommen im Gesamtbetrage von 36 Millionen Franken, die eine durchschnittliche Verzinsung von 3,785% erfordern.</p>
+            <p>Der <orgName n="05a92049-ced5-4dba-a920-49ced5fdbad4">Regierungsrat</orgName> beantrage nun dem <orgName n="15cd0f6b-9de3-41e0-8d0f-6b9de371e04e">Kantonsrate</orgName>, den Zins vom Gründungskapital der <orgName n="6093b381-7d90-4c47-93b3-817d908c47fc">Kantonalbank</orgName> für das Jahr 1902 gemäss dem Voranschlage dieses Jahres zu berechnen, womit eine 4 ¼%ige Verzinsung des Gründungskapitals auch für die Zeit vom <date>16. März 1902</date> bis zum Schlüsse des Jahres festgesetzt würde. Der <orgName n="a0bb8a96-3161-4dae-bb8a-9631619dae67">Regierungsrat</orgName> begründe seinen Antrag, indem er darauf hinweise, dass der Zinsfuss für das Jahr 1902 vom <orgName n="a2bdefe3-5a18-4a5d-bdef-e35a18da5dc7">Kantonsrate</orgName> bei Beratung des Voranschlages bereits festgesetzt worden sei; es könne nicht im Sinne des Gesetzes betreffend die <orgName n="9a60988a-b8f6-4c31-a098-8ab8f65c313c">Kantonalbank</orgName> liegen, mitten im Jahre eine Änderung des Zinsfusses eintreten zu lassen.</p>
+            <p>Diese Begründung sei nun angesichts des klaren Wortlautes des Gesetzes nicht stichhaltig; der massgebende § 5 des Gesetzes müsse daher wie alle übrigen Bestimmungen mit der Annahme des Gesetzes durch das Volk in Kraft treten.</p>
+            <p>Der Bank weitere Verpflichtungen, die mit dem Gesetze nicht vereinbar seien, aufzuerlegen, gehe auch aus dem weitern Grunde nicht an, weil die Begehren um Herabsetzung des Zinsfusses auf 4% auch für städtische Darlehen immer dringender  <pb n="64"/>werden und von der Bankverwaltung mit Rücksicht auf den gegenwärtigen Stand des Geldmarktes nicht unberücksichtigt bleiben können.</p>
+            <p>Die Herabsetzung des Zinsfusses auf 4% auf dem gesamten Schuldbriefbestand der Kantonalbank werde aber ohne Schaden für die Bank nur dann möglich sein, wenn es gelinge, die Zinslast zu ermässigen.</p>
+            <p>Die Kommission beantrage daher, den Zinsfuss für das Gründungskapital der <orgName n="c8a9d976-c008-4257-a9d9-76c00832572b">Kantonalbank</orgName> vom <date>16. März 1902</date> an nicht höher als auf 3<hi rend="sup"> 3</hi>/<hi rend="sub">4</hi>% per Jahr festzusetzen.</p>
+            <p>Herr Regierungsrat <persName n="4d2d3613-091e-4cc1-ad36-13091eacc14a">Ernst</persName> erklärt namens des <orgName n="5b69a3e4-e343-45ac-a9a3-e4e343a5ac3a">Regierungsrates</orgName> sein Einverständnis zu der von der Kommission vorgeschlagenen Abänderung von Dispositiv III des Beschlussesentwurfes, trotzdem dieselbe für den <orgName n="7702dfcc-5461-48c2-82df-cc5461f8c23c">Staat</orgName> für das Jahr 1902 gegenüber dem Ansatz des Voranschlages einen Ausfall von 80,000 Fr. bedeute.</p>
+            <p>Herr Graf-Zürich erklärt sich namens des <orgName n="1c5a91d2-c0ce-488e-9a91-d2c0ce788e63">Bankrates</orgName> ebenfalls mit der Formulirung von Dispositiv III einverstanden.</p>
+            <p>Der Rat nimmt hierauf stillschweigend den Kommissionsantrag an. Der Beschluss lautet:</p>
+            <p>Der <orgName n="2867442a-28c3-4c9e-a744-2a28c39c9ef4">Kantonsrat</orgName>,</p>
+            <p>nach Einsicht eines Berichtes und Antrages des <orgName n="87129d39-38ec-4396-929d-3938ece3965e">Regierungsrates</orgName>,</p>
+            <p>beschliesst:</p>
+            <p>I. Der Anteil der <orgName n="06d2e8c7-0b81-4f78-92e8-c70b81cf781b">Staatskasse</orgName> am Gewinnrückstellungsfond der <orgName n="80734db1-fd22-4762-b34d-b1fd22676242">Kantonalbank</orgName> im Betrage von 500,000 Fr. wird unter den Einnahmen: Titel B. IV. F. in die Staatsrechnung des Jahres 1902 eingestellt.</p>
+            <p>Von diesem Betrage werden 100,000 Fr. dem Flusskorrektionskonto (Ausgaben: Titel B. IV. C. b.) zugeschieden.</p>
+            <p>II. Der Anteil der <orgName n="9e58d94d-12b5-4d16-98d9-4d12b5bd1667">Staatskasse</orgName> am jährlichen Reingewinn der <orgName n="dcdcced8-897e-4b91-9cce-d8897e5b9159">Kantonalbank</orgName> fällt zur Hälfte dem Flusskorrektionskonto, zur Hälfte dem Tilgungsfond für Neubauten zu; er wird im Voranschlage unter den Einnahmen, Titel B. IV. F., eingestellt.  <pb n="65"/>
+            </p>
+            <p>III. Der Zins vom Gründungskapital der <orgName n="e9b06dfa-282a-465a-b06d-fa282af65ad3">Kantonalbank</orgName> für das Jahr 1902 wird bis zum 16. März d.h. bis zum Zeitpunkt des Inkrafttretens des Gesetzes betreffend die <orgName n="f636c670-ac84-469f-b6c6-70ac84569fb6">Zürcher Kantonalbank</orgName> gemäss dem im Voranschlage dieses Jahres festgestellten Ansätze zu 4 <hi rend="sup">1</hi>/<hi rend="sub">4</hi>%, für den Rest des Jahres zu 3 <hi rend="sup">3</hi>/<hi rend="sub">4</hi>% berechnet.</p>
+            <p>Hievon wird dem <orgName n="e10289c5-eca1-4c0d-8289-c5eca16c0d4e">Regierungsrate</orgName> und dem <orgName n="03481397-8887-4e32-8813-978887ce3237">Bankrat der Kantonalbank</orgName> Kenntnis gegeben.</p>
+        </body>
+    </text>
+</tei:TEI>

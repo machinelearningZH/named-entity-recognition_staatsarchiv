@@ -1,0 +1,48 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anzeige der Reg. v. Solothurn u. Schreiben an dies. betr. d. dortigen Wahlen.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#szn">Transkript: szn<date when="2012-04-02">02.04.2012</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2012</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Anzeige der Reg. v. Solothurn u. Schreiben an dies. betr. d. dortigen Wahlen.</title>
+                    <date when="1856-07-05">05.07.1856</date>
+                    <ident>StAZH MM 2.133 RRB 1856/0923</ident>
+                    <idno>4</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_101_MM_2_150/MM_2_133/MM_2_133_RRB_1856_0923_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1889113"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="4"/>Die neugewählte <orgName n="e8af7ba0-3b78-4c9d-af7b-a03b78bc9d0c">Regierung</orgName> von <placeName n="d84dad91-774d-4626-8dad-91774d36262e">Solothurn</placeName> zeigt mit Kreisschreiben vom 27 v. Mts an, der dortige Kantonsrath habe zu seinem Präsidenten Herrn <persName n="de515296-f487-48a8-9152-96f48728a825">Urs Vigier</persName>, zu seinem Vicepräsidenten Herrn <persName n="4631a717-104a-42e4-b1a7-17104a72e487">Franz Bünzli</persName> gewählt u. den Regierungsrath aus den Herrn <persName n="960c95d7-7cf9-4c0f-8c95-d77cf9ec0fd5">A. L. Affolter</persName>, Landammann, <persName n="ab954d92-463e-496a-954d-92463ec96a7a">W. Vigier</persName>, Vicelandammann, <persName n="d2b2f1d4-547c-4003-b2f1-d4547ca00303">V. Gisiger</persName>, <persName n="1d414f51-749f-44b0-814f-51749f24b0cd">A. Wyser</persName> u. <persName n="5f0146af-02fb-4b6b-8146-af02fb1b6b15">F. Schenker</persName> bestellt, und theilt zugleich die Vertheilung der Departements, sowie die Unterschriften des Kantonsrathspräsidenten, Landammanns u. Vicelandammanns mit.</p>
+            <p/>
+            <p>Es wird beschlossen:</p>
+            <p>Sei dieses Kreisschreiben der <orgName n="89496353-4069-42ff-8963-534069b2ffd1">Regierung von Solothurn</orgName> in angemessener Weise zu verdanken [<hi rend="italic">(</hi>] l. M. h. T.) //</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

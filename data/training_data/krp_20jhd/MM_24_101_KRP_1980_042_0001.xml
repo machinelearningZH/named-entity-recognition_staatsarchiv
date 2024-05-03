@@ -1,0 +1,52 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Verhandlungsgegenstände; Geschäftsordnung</title>
+                <respStmt>
+                    <resp ref="#OCR/dmr" key="transcript">Transkript: OCR/dmr<date when="2011-11-07">07.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Verhandlungsgegenstände; Geschäftsordnung</title>
+                    <date when="1980-02-04">04.02.1980</date>
+                    <ident>StAZH MM 24.101 KRP 1980/042/0001</ident>
+                    <idno>2437</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_101_KRP_1980_042_0001_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3727989"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="2437"/>
+            </p>
+            <p>1. Mitteilungen</p>
+            <p>2. Wahl eines Mitglieds des Verwaltungsrates der <orgName n="03f3f98b-4436-4bf1-b3f9-8b44366bf18b">Elektrizitätswerke des Kantons Zürich</orgName> für den zurückgetretenen <persName n="6f961baf-ae9e-486d-961b-afae9ed86d95">Jakob Bachofner</persName>, <placeName n="60c61dac-f417-449a-861d-acf417e49ac2">Fehraltorf</placeName>
+            </p>
+            <p>3. Jahresbericht 1978 der <orgName n="6b39842c-fccc-4150-b984-2cfccca15058" type="deriv">kantonalen</orgName> <orgName n="777b33a1-ef5b-48e9-bb33-a1ef5b28e903">Strafanstalt Regensdorf</orgName> und der <orgName n="2e642d5e-c6e3-4c7d-a42d-5ec6e37c7de3">Arbeitserziehungsanstalt Uitikon</orgName> (Antrag der <orgName n="da20a93a-ac54-44a2-a0a9-3aac5484a2d9">Geschäftsprüfungskommission</orgName> vom 11. Januar 1980)</p>
+            <p>4. Erhöhung des Grundkapitals der <orgName n="b9914667-9c6c-4642-9146-679c6cf642fb">Zürcher Kantonalbank</orgName> (Antrag des Bankrates vom 25. Oktober 1979 und gleichlautender Antrag der Kommission zur Prüfung der Rechnung und des Geschäftsberichts der Kantonalbank vom 19. Dezember 1979) 2354</p>
+            <p>5. Änderung der Kirchengesetzgebung a) Gesetz über die <orgName n="aa6c9472-0aa9-4a30-ac94-720aa96a3076">evangelisch-reformierte Landeskirche</orgName> b) Gesetz über das <orgName n="e2d5e9f3-0f73-4513-95e9-f30f73b5130a">katholische Kirchenwesen</orgName> (Antrag des <orgName n="38b89e28-541b-412a-b89e-28541b712a95">Regierungsrates</orgName> vom 22. August 1979 und abgeänderter Antrag der Kommission vom 15. Januar 1980) 2330a</p>
+            <p>6. Beschluss des <orgName n="33f6c56a-f56a-4d9a-b6c5-6af56a3d9a6a">Kantonsrates</orgName> über die Erhöhung des Staatsbeitrages an die Abteilung Gestalterische Lehrberufe der <orgName n="e3245342-c36e-412f-a453-42c36e412fc9">Kunstgewerbeschule der Stadt Zürich</orgName> (Antrag des <orgName n="c623488b-3331-4367-a348-8b3331f367e5">Regierungsrates</orgName> vom 10. Oktober 1979 und abgeänderter Antrag der Kommission vom 10. Januar 1980) 2334a</p>
+            <p>Geschäftsordnung</p>
+            <p>Das Wort zur Traktandenliste wird nicht verlangt; sie ist genehmigt.</p>
+        </body>
+    </text>
+</tei:TEI>

@@ -1,0 +1,51 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Eingänge.</title>
+                <respStmt>
+                    <resp ref="#OCR/skn" key="transcript">Transkript: OCR/skn<date when="2011-10-27">27.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Eingänge.</title>
+                    <date when="1956-01-16">16.01.1956</date>
+                    <ident>StAZH MM 24.68 KRP 1956/024/0204</ident>
+                    <idno>571–573</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_68_KRP_1956_024_0204_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3658573"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="571"/>1. Von <persName n="e3ea31c0-bf70-4317-aa31-c0bf705317b2">H. Jucker</persName> - <placeName n="82b27ce3-c37a-41ec-b27c-e3c37a41ecde">Dillhaus</placeName>/<placeName n="28447988-1e5c-4596-8479-881e5ca596b4">Saland</placeName> liegt folgende Motion vor: «Die Verkehrsunfälle, welche durch über die Fahrbahn wechselndes Wild verursacht werden, haben in letzter  <pb n="572"/>Zeit stark zugenommen. So ist zum Beispiel in der Gegend von <placeName n="0b3660dd-5799-4664-b660-dd579986643f">Pfäffikon</placeName> kürzlich ein junger Motorradfahrer bei der Kollision mit einem Reh tödlich verunglückt, und eine große Zahl leichterer Unfälle mit Velos und Motorfahrzeugen wurden bei den <orgName n="0d4cb2be-c9b2-4c04-8cb2-bec9b28c04ee" type="deriv">kantonalen</orgName> Polizeistellen gemeldet. Gemäß Antwort des <orgName n="af7d4bd9-2ac9-443e-bd4b-d92ac9743ea1">Regierungsrates</orgName> auf die Kleine Anfrage <persName n="39ff4dc2-13af-40c7-bf4d-c213afa0c780">Schätti</persName> vom Dezember 1954 können aber weder der <orgName n="d9fd92e6-beb8-48da-bd92-e6beb8b8da8b">Kanton</orgName> als Inhaber des Jagdregals noch die Gemeinden oder die Revierpächter für solche Schäden haftbar gemacht werden. Die Bevölkerung ist über diesen Zustand beunruhigt und erwartet, daß diese zurzeit im Art. 45 des Jagdgesetzes bestehende Lücke ausgemerzt wird. Der <orgName n="2948afee-0b71-42f6-88af-ee0b71e2f62c">Regierungsrat</orgName> wird daher eingeladen, folgende Fragen zu prüfen und dem <orgName n="44b32e5a-b568-4a7d-b32e-5ab568ea7d32">Kantonsrat</orgName> Bericht zu erstatten und Antrag zu stellen: 1. Ist eine Versicherung solcher Schäden durch den Abschluß eines Vertrages mit einer privaten Versicherungsgesellschaft möglich, und, wenn ja, wie hoch wäre die zu leistende jährliche Prämie? 2. Ist der <orgName n="3889624b-3f9b-4cdb-8962-4b3f9b8cdb6c">Regierungsrat</orgName> bereit, durch Abzweigung eines Teils der Jagdeinnahmen einen Fonds zu schaffen, aus welchem solche Schäden, soweit sie nicht bereits durch eine anderweitige Versicherung gedeckt sind, bezahlt werden können?»</p>
+            <p>2. <persName n="e8725cdb-1a07-4498-b25c-db1a0724985f">E. A. Lang</persName> - <placeName n="cf214435-07c4-42e1-a144-3507c402e17d">Wetzikon</placeName> stellt nachstehende Motion: «Der Umfang des Abschlusses von Vorzahlungsverträgen für Möbel, Teppiche, Wäscheaussteuern usw. hat im Kanton <placeName n="dbdfae37-d763-4ab6-9fae-37d763eab6f7">Zürich</placeName> ein Ausmaß angenommen, das zu den schwersten Bedenken Anlaß gibt. Die zu diesem Zwecke vorgesparten Gelder werden in der Regel von den Lieferanten vereinnahmt und für ihre Zwecke verbraucht, wie das auch im Falle der <orgName n="de895b8f-a0f7-4a76-895b-8fa0f7ba76c3">Möbel AG.</orgName>, <placeName n="1a790ff8-7479-477f-b90f-f87479177f05">Tagelswangen</placeName>, über welche der Konkurs eröffnet wurde, der Fall war. Da es sich bei den auf diese Weise geschädigten Personen ausschließlich um kleine Sparer handelt, wird der <orgName n="5d9484ba-fe9e-4c6b-9484-bafe9e5c6b11">Regierungsrat</orgName> eingeladen, dem <orgName n="4bb4aff1-00f2-4ae6-b4af-f100f24ae6b6">Kantonsrat</orgName> beförderlichst ein Gesetz vorzulegen, welches 1. die Vorzahlungsgeschäfte gleich den Darlehens- und Kreditvermittlern unter Bewilligungspflicht stellt, und  <pb n="573"/> 2. die Firmen, welche solche Verträge abschließen, verpflichtet, die entgegengenommenen Spargelder mündelsicher anzulegen.»</p>
+            <p>3. Eine Motion von <persName n="b1bd4217-df91-4cd0-bd42-17df91ecd042">J. Bottini</persName> - <placeName n="305ece23-89bd-4d7a-9ece-2389bd1d7a30">Zürich</placeName> lautet: «In Ergänzung der vom <orgName n="e84cdda2-8e6f-4e13-8cdd-a28e6f8e1301">Kantonsrat</orgName> am 19. Dezember 1955 erheblich erklärten Punkte 2–4 der Motion <persName n="a81fc0cf-2947-4f26-9fc0-cf2947cf260c">P. Deuring</persName>, <placeName n="0dc95c32-cc28-429a-895c-32cc28d29ab5">Winterthur</placeName>, betr. Eröffnung des Versicherungsabzuges (§ 25, lit. b) und der steuerfreien Grenze des Einkommens der Ehefrau (§ 8) sowie Festsetzung des Staatssteuerfußes in 2jährigem Turnus, ersuche ich den <orgName n="3be7b65b-1e0e-4207-a7b6-5b1e0e12078a">Regierungsrat</orgName> in seiner dem <orgName n="c71fe73b-1464-4eb7-9fe7-3b1464aeb791">Kantonsrat</orgName> zu unterbreitenden Vorlage auch die angemessene Erhöhung folgender Sozialabzüge vorzusehen: § 25, lit. f: Abzüge für besondere durch schwere Invalidität oder dauernde Pflegebedürftigkeit bedingte Aufwendungen für den Steuerpflichtigen, dessen Ehefrau oder Kinder;</p>
+            <p>§ 31, lit. a, Alinea 2: Für Steuerpflichtige, die über 65 Jahre alt sind.»</p>
+            <p>Schluß der Sitzung: 12.10 Uhr.</p>
+            <p>Am nächsten Montag findet eine Doppelsitzung statt.</p>
+            <p>
+                <placeName n="40e3434c-9d47-463a-a343-4c9d47c63a32">Zürich</placeName>, den 16. Januar 1956.</p>
+            <p>Der Protokollführer: <persName n="6ce526ee-0f97-489b-a526-ee0f97b89b68">E. Gugerli</persName>.</p>
+            <p>Vom <orgName n="43b3e2f7-7bb6-4d72-b3e2-f77bb6dd723a">Kantonsratsbüro</orgName> in seiner Sitzung vom 9. März 1956 genehmigt. </p>
+        </body>
+    </text>
+</tei:TEI>

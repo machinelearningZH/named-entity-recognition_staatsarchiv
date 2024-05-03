@@ -1,0 +1,45 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Subventionierung für die Straßenbahn Uster–Stäfa, Antrag des Regierungsrates vom 29. Dezember 1904.</title>
+                <respStmt>
+                    <resp ref="#OCR/lsz" key="transcript">Transkript: OCR/lsz<date when="2011-11-16">16.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Subventionierung für die Straßenbahn Uster–Stäfa, Antrag des Regierungsrates vom 29. Dezember 1904.</title>
+                    <date when="1905-01-09">09.01.1905</date>
+                    <ident>StAZH MM 24.46 KRP 1905/086/0499</ident>
+                    <idno>1406–1407</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_46_KRP_1905_086_0499_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3622121"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="1406"/>Den Antrag des <orgName n="72a4b805-8656-4bdb-a4b8-0586564bdb9c">Regierungsrates</orgName> vom <date>29. Dezember 1904</date> betreffend Subventionierung der <orgName n="2880121b-147f-49c4-8012-1b147f59c470">Straßenbahn  <pb n="1407"/>Uster–Stäfa</orgName> (Amtsblatt 1905, Textteil, Seite 51–59) beantragt der Vorsitzende an eine Kommission von sieben Mitgliedern zu weisen. Herr Wachter-Ürikon möchte die Vorlage an den <orgName n="e258c970-5e4f-4a38-98c9-705e4f1a3869">Regierungsrat</orgName> Zurückweisen mit dem Auftrage, „den Gemeinderäten <placeName n="cf2c45f9-3d14-431f-ac45-f93d14731fb8">Stäfa</placeName> und <placeName n="84557fc8-6d56-427a-957f-c86d56f27a5d">Egg</placeName> eine angemessene Frist anzuberaumen betreffend gesetzlich richtige Eingabe um gleichzeitige Behandlung der Subventionsfrage auch für die Teilstücke Eßlingen–Egg und Langholz–Stäfa“.</p>
+            <p>Herr Vizepräsident Stadler-Uster empfiehlt die Ablehnung des Antrages <persName n="412b7817-47c1-4e8d-ab78-1747c10e8de3">Wachter</persName>; wenn die Gemeinden <placeName n="62495e1d-22c7-4a31-895e-1d22c70a3186">Stäfa</placeName> und <placeName n="6f7d8363-d2dd-48d5-bd83-63d2dd48d53d">Egg</placeName>, die in Frage kommen, noch Ergänzungen anzubringen oder besondere Wünsche zu formulieren haben, so mögen sie das gegenüber der zu bestellenden <orgName n="63188c00-0678-444a-988c-000678244a04" type="deriv">kantonsrätlichen</orgName> Kommission tun. Herr Regierungspräsident <persName n="0568bfb9-ae9f-43bc-a8bf-b9ae9fc3bc83">Lutz</persName> unterstützt den Vorredner; die Gemeinde <placeName n="0a00edaf-1731-43c4-80ed-af173133c466">Egg</placeName> kann sich der Kommission gegenüber über ihre definitive Beitragsleistung vernehmen lassen und <placeName n="13b1f3d3-0ea1-4f37-b1f3-d30ea1af3717">Stäfa</placeName> über das Trace des Verbindungsstückes. Der Antrag <persName n="779c84ad-412e-49f4-9c84-ad412e19f48c">Wachter</persName> erscheint daher überflüssig.</p>
+            <p>In der Abstimmung erklären sich für den Antrag des Vorsitzenden auf Überweisung des Geschäftes an eine siebengliedrige Kommission 87, für den Antrag <persName n="88baacc5-50d3-4bde-baac-c550d31bde97">Wachter</persName> auf Rückweisung der Vorlage an den <orgName n="8e6ffee4-8d1c-4b47-affe-e48d1ceb478b">Regierungsrat</orgName> 40 Stimmen.</p>
+            <p>Die Kommission ist in der Sitzung des <orgName n="c7a59fa1-c207-4545-a59f-a1c207d545ff">Bureau des Kantonsrates</orgName> vom <date>20. Januar 1905</date> aus folgenden Mitgliedern bestellt worden: Hörni-Unter-Stammheim (Präsident), Würgler-Zürich, Zuppinger-Spitzer-Zürich, Nauer-Hinwil, Hauser-Stadel, Jäggli-Seen, Kunz-Ütikon, als Sekretär: Wolfensberger-Zürich.</p>
+        </body>
+    </text>
+</tei:TEI>

@@ -1,0 +1,48 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abänderung der Verordnung über die Errichtung und den Betrieb von Kinematographentheatern und Filmverleihgeschäften vom 16. 0ktober 1916.</title>
+                <respStmt>
+                    <resp ref="#OCR/skn" key="transcript">Transkript: OCR/skn<date when="2011-10-18">18.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Abänderung der Verordnung über die Errichtung und den Betrieb von Kinematographentheatern und Filmverleihgeschäften vom 16. 0ktober 1916.</title>
+                    <date when="1922-01-23">23.01.1922</date>
+                    <ident>StAZH MM 24.54 KRP 1922/065/0563</ident>
+                    <idno>1075–1076</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_54_KRP_1922_065_0563_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3639696"/>
+                    <listRelation>
+                        <relation name="Fortsetzung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3639696" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3639698"/>
+                        <relation name="Fortsetzung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3639696" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3639686"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="1075"/>Fortsetzung der Eintretensdebatte.</p>
+            <p>Staub-Thalwil empfiehlt Eintreten auf die Einzelberatung. Das Kino steht heute auf einem sehr tiefen Standpunkt. So  <pb n="1076"/>wie die Filmdarsteller auftreten, tragen sie nichts zur Bildung der Zuschauer, namentlich der Jugend bei. Es entstehen ganz falsche Vorstellungen bei den jungen Leuten, weil alles auf der Filmbühne stark übertrieben dargestellt wird. Oft werden auch anfechtbare Stoffe dargestellt, die geeignet sind, niedere Triebe zu erregen. Auf dem Gebiete der Erotik wird Unglaubliches geleistet. Dieser schlimmen Beeinflussung der Jugend müssen wir mit der Verordnung entgegentreten. Jede Freiheit hat ihre Schranken, hauptsächlich dann, wenn das Wohl der Menschen in Gefahr ist. Der Tiefstand des Kinos ist dem Umstande zuzuschreiben, daß bei seinem Betrieb alle andern Interessen vor dem Gelderwerb des Besitzers zurücktreten müssen. Das Kino muß auf einen ganz anderen Boden gestellt werden. Der <orgName n="ad9d6179-be1f-489f-9d61-79be1f589f1c">Staat</orgName> und gemeinnützige Institutionen müssen sich dieser Sache annehmen.</p>
+            <p>Hier wird die Beratung unterbrochen.</p>
+        </body>
+    </text>
+</tei:TEI>

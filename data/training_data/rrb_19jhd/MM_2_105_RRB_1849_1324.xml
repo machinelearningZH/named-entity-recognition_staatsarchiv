@@ -1,0 +1,46 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abschlägiges Schreiben des Hrn. Divisionär Gmür betr. das Gesuch die Flüchtlingsdepot durch eidg. Truppen bewachen zu lassen. </title>
+                <respStmt>
+                    <resp key="transcript" ref="#utn">Transkript: utn<date when="2012-02-27">27.02.2012</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2012</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Abschlägiges Schreiben des Hrn. Divisionär Gmür betr. das Gesuch die Flüchtlingsdepot durch eidg. Truppen bewachen zu lassen. </title>
+                    <date when="1849-07-15">15.07.1849</date>
+                    <ident>StAZH MM 2.105 RRB 1849/1324</ident>
+                    <idno>144–145</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_101_MM_2_150/MM_2_105/MM_2_105_RRB_1849_1324_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1487444"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="144"/>Mit Zuschrift vom 14ten dieß erwiedert Herr Divisionscommandant <persName n="75cb722d-0f7e-4833-8b72-2d0f7ef83374">Gmür</persName> auf das dießseitige Schreiben vom 12ten dieß. Da schon die geringe Zahl der im <orgName n="4d6756f7-57b3-4e3d-a756-f757b3de3dc3" type="deriv">Eidgenössischen</orgName> Dienst befindlichen Truppen auf der sehr ausgedehnten Linie von <placeName n="9a657851-8688-48d8-a578-51868858d88e">Kreuzlingen</placeName> bis <placeName n="3f117fdc-eac4-48d7-917f-dceac448d7c9">Basel</placeName> zur Grenzbewachung beinahe unzureichend erscheinen, so sei es nicht möglich, Detaschemente zur Bewachung der Flüchtlinge ins Innere der <placeName n="f998036d-e734-4000-9803-6de734f00099">Schweiz</placeName> zu schicken; Zudem sei der Eidgen. Commissär der Ansicht daß<pb n="145"/>die <orgName n="a9b688f6-3bf6-4b5d-b688-f63bf66b5dba" type="deriv">Eidgenössischen</orgName> Truppen weder über den Rayon der Internirung von 8 Stunden hinaus zu Transporten verwendet, noch weniger für die Bewachung der Flüchtlinge im Innern gebraucht werden sollen, indem dieses nach seiner Ansicht und Interpretation seiner Instruction Sache der <orgName n="474011d0-acb5-4f6b-8011-d0acb52f6bc0" type="deriv">Kantonal</orgName> und Ortspolizei sei.</p>
+            <p>Hievon wird dem <orgName n="d28105e5-3683-4154-8105-e53683c15480">Kriegsrathe</orgName> Kenntniß gegeben. </p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

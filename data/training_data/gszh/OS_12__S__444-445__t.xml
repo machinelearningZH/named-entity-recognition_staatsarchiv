@@ -1,0 +1,69 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz betreffend Abänderung einiger Bestimmungen des Gesetzes über die Stempelabgabe und die Stempelverwaltung vom 2. Heumonat 1857.</title>
+                <respStmt>
+                    <resp ref="#sef" key="transcript">Transkript: sef<date when="2016-01-21">21.01.2016</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Gesetz betreffend Abänderung einiger Bestimmungen des Gesetzes über die Stempelabgabe und die Stempelverwaltung vom 2. Heumonat 1857.</title>
+                    <date when="1861-02-14">14.02.1861</date>
+                    <ident>StAZH OS 12 (S. 444-445)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_12__S__444-445__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3474152"/>
+                    <listRelation>
+                        <relation name="Änderung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3474152" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3474288"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="444"/>
+            </p>
+            <p>§ 1. Die Bestimmung des § 1 Ziff. I litt. d des Gesetzes über die Stempelabgabe und die Stempelverwaltung vom 2. Heumonat 1857 wird folgendermaßen abgeändert:</p>
+            <p>Litt. d. Sämmtliche innerhalb des Kantons <placeName n="d7ea8396-68e2-4761-aa83-9668e2976121">Zürich</placeName> hinsichtlich privatrechtlicher Verhältnisse auszustellende Privaturkunden, z. B. Schuldscheine, Testamente, Vollmachten, Verträge, Reverse, Wechsel u. dgl.</p>
+            <p>§ 2. Die Bestimmungen § 1 Ziff. II und § 4 des benannten Gesetzes sind aufgehoben.</p>
+            <p>§ 3. Die Worte im Eingänge der litt. b des § 7 «den graduirten (§ 1, II)» sind zu streichen.</p>
+            <p>§ 4. Dieses Gesetz tritt mit dem 1. März d. J. in Kraft. Der <orgName n="4f6df91c-c32e-4805-adf9-1cc32e980506">Regierungsrath</orgName> ist mit Vollziehung desselben beauftragt.</p>
+            <p>
+                <placeName n="473aef99-6764-4b19-baef-996764bb190c">Zürich</placeName>, den 14. Hornung 1861.</p>
+            <p>Im Namen des <orgName n="a8bbec15-fb36-40ae-bbec-15fb3660ae7f">Großen Rathes</orgName>:</p>
+            <p>Der Präsident,</p>
+            <p>Dr. <persName n="3ee2ba9c-7c8f-41a1-a2ba-9c7c8fd1a14c">A. Escher</persName>.</p>
+            <p>Der erste Sekretär,</p>
+            <p>
+                <persName n="00d49daa-020a-498d-949d-aa020a098dbd">Huber</persName>.</p>
+            <p>Wir Präsident und <orgName n="6c4bec5b-6b5a-461e-8bec-5b6b5a961ee2">Regierungsrath des Kantons Zürich</orgName> haben behufs der Vollziehung des vorstehenden Gesetzes verordnet:  <pb n="445"/>
+            </p>
+            <p>Dieses Gesetz soll in die Gesetzsammlung aufgenommen werden.</p>
+            <p>Also beschlossen Samstags den 16. Hornung 1861.</p>
+            <p>Der erste Präsident,</p>
+            <p>Dr. <persName n="7d10b6d2-ae15-42ec-90b6-d2ae1512ec98">Jb. Dubs.</persName>
+            </p>
+            <p>Der erste Staatsschreiber,</p>
+            <p>
+                <persName n="68ff7b2c-a2a9-4fbe-bf7b-2ca2a90fbef7">Huber</persName>.</p>
+        </body>
+    </text>
+</TEI>

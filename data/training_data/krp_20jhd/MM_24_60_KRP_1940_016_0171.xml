@@ -1,0 +1,57 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Interpellation. </title>
+                <respStmt>
+                    <resp ref="#OCR/der" key="transcript">Transkript: OCR/der<date when="2011-10-19">19.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Interpellation. </title>
+                    <date when="1940-02-12">12.02.1940</date>
+                    <ident>StAZH MM 24.60 KRP 1940/016/0171</ident>
+                    <idno>310–311</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_60_KRP_1940_016_0171_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3683907"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="310"/>Der Rat nimmt Kenntnis vom Eingang einer Interpellation, die von <persName n="5f9a6343-4142-4d01-9a63-4341422d01bd">Achermann</persName> - <placeName n="254c1fe1-7386-4a96-8c1f-e173866a96b5">Zürich</placeName> und weiteren 28 Ratsmitgliedern unterzeichnet ist und folgenden Wortlaut hat:  <pb n="311"/>
+            </p>
+            <p>1. Ist der <orgName n="8fae067a-db59-43c7-ae06-7adb59e3c7b3">Regierungsrat</orgName> bereit, Auskunft zu geben, welche Vorbereitungen er zu treffen gedenkt, damit Explosionen, wie sie sich am <date>26. Januar 1940</date> bei der <orgName n="b7b7e386-7a86-42c6-b7e3-867a86a2c6d1">Werkzeugmaschinenfabrik Oerlikon</orgName> ereigneten, verhütet werden können?</p>
+            <p>2. Welche Maßnahmen gedenkt er zum Schutz der großen Zahl von Arbeitern in den verschiedenen Betrieben zu treffen und wie will er die Grundeigentümer in der Umgebung für den Schaden, der durch die zu erwartende Mieterflucht entsteht, bewahren?</p>
+            <p>Die Interpellation wird auf die Traktandenliste der nächsten Sitzung gesetzt.</p>
+            <p>
+                <persName n="ab3e767f-8152-4699-be76-7f8152c69960">B. Kaufmann</persName> - <placeName n="c05e8695-2826-4611-9e86-9528261611bb">Zürich</placeName> stellt den Antrag, es möchte noch die Ersatzwahl ins <orgName n="8d74b05a-0b60-4a79-b4b0-5a0b603a79da">Kassationsgericht</orgName> vorgenommen werden.</p>
+            <p>Dr. <persName n="afd94b74-c60b-46d5-994b-74c60bd6d5a1">Guhl</persName> - <placeName n="03521bd5-f873-4880-921b-d5f8739880a0">Zürich</placeName> bekämpft den Antrag und verlangt Verschiebung der Wahl auf die nächste Ratssitzung, damit die Fraktionen noch Zeit haben, sich über den vorgeschlagenen Kandidaten auszusprechen.</p>
+            <p>Mit 55 gegen 52 Stimmen wird die Wahl auf die nächste Sitzung verschoben.</p>
+            <p>Nächste Sitzung: Unbestimmt.</p>
+            <p>Schluß der Sitzung: 13 Uhr.</p>
+            <p>
+                <placeName n="c8eae114-ea95-417a-aae1-14ea95b17ac2">Zürich</placeName>, den <date>12. März 1940</date>.</p>
+            <p>  Der Protokollführer:</p>
+            <p>Dr. <persName n="ea0acb91-85bb-4093-8acb-9185bb6093fb">E. Lee</persName>.</p>
+            <p>Vom <orgName n="93bc3638-ec30-41ad-bc36-38ec30e1ad7e">Kantonsratsbureau</orgName> in seiner Sitzung vom <date>24. Mai 1940</date> genehmigt. </p>
+        </body>
+    </text>
+</tei:TEI>

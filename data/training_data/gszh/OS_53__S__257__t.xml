@@ -1,0 +1,68 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung über die Auswirkungen des herabgesetzten Mündigkeitsalters auf das Steuerrecht</title>
+                <respStmt>
+                    <resp ref="#jsn" key="transcript">Transkript: jsn<date when="2015-03-12">12.03.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Verordnung über die Auswirkungen des herabgesetzten Mündigkeitsalters auf das Steuerrecht</title>
+                    <date when="1995-10-04">04.10.1995</date>
+                    <ident>StAZH OS 53 (S. 257)</ident>
+                    <idno>631.13</idno>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_53__S__257__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3457271"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="257"/>
+            </p>
+            <p>Der <orgName n="fd1a6268-b132-4662-9a62-68b132266242">Regierungsrat</orgName> beschliesst:</p>
+            <p>§ 1. Steuerpflichtige, die bis zum Eintritt der Mündigkeit unter elterlicher Gewalt gestanden haben, werden erstmals selbständig steuerpflichtig auf den Beginn des Steuerjahres, in dem sie das 19. Altersjahr zurücklegen. Bis zu diesem Zeitpunkt werden ihr Einkommen und ihr Vermögen dem bisherigen Inhaber der elterlichen Gewalt zugerechnet. Vorbehalten bleibt § 2.</p>
+            <p>Im Zeitpunkt, in dem das 18. Altersjahr zurückgelegt wird, kann der bisherige Inhaber der elterlichen Gewalt keine Zwischeneinschätzung verlangen.</p>
+            <p>Bei Beginn des Steuerjahres, in dem der Steuerpflichtige das 19. Altersjahr zurücklegt, wird eine ordentliche Haupteinschätzung durchgeführt.</p>
+            <p>§ 2. Das Erwerbseinkommen und die Erwerbsersatzeinkünfte werden erst ab dem Steuerjahr besteuert, in welchem der Steuerpflichtige das 20. Altersjahr zurücklegt.</p>
+            <p>§ 3. Die Pflicht zur Entrichtung der Personalsteuer beginnt mit dem Jahr, in welchem der Steuerpflichtige das 20. Altersjahr zurücklegt.</p>
+            <p>§ 4. Der Kinderabzug kann, vorbehältlich der übrigen gesetzlichen Voraussetzungen, geltend gemacht werden für Kinder, die das 19. Altersjahr noch nicht zurückgelegt haben, eine Schule besuchen oder sich in einer Berufslehre befinden.</p>
+            <p>§ 5. Im Steuerjahr 1996 werden Steuerpflichtige erstmals selbständig steuerpflichtig, wenn sie in diesem Jahr entweder das 19. oder 20. Altersjahr zurücklegen (Jahrgänge 1976 und 1977).</p>
+            <p>§ 6. Die Verordnung tritt am 1. Januar 1996 in Kraft.</p>
+            <p>Im Namen des <orgName n="f5b09fa2-d6d0-4072-b09f-a2d6d0a072b5">Regierungsrates</orgName>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Der Präsident: </cell>
+                        <cell>Der Staatsschreiber: </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <persName n="12e97b1e-f850-4d4c-a97b-1ef8501d4c53">Homberger</persName> </cell>
+                        <cell>
+                            <persName n="4968820c-5f66-458e-a882-0c5f66b58eb0">Husi</persName> </cell>
+                    </row>
+                </table>
+            </p>
+        </body>
+    </text>
+</TEI>

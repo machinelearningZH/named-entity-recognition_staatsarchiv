@@ -1,0 +1,42 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anerkennung einer Ersatzwahl in den Kantonsrat.</title>
+                <respStmt>
+                    <resp ref="#OCR/rke" key="transcript">Transkript: OCR/rke<date when="2011-10-05">05.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Anerkennung einer Ersatzwahl in den Kantonsrat.</title>
+                    <date when="1906-01-15">15.01.1906</date>
+                    <ident>StAZH MM 24.47 KRP 1906/016/0113</ident>
+                    <idno>251</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_47_KRP_1906_016_0113_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3623046"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="251"/>Im Wahlkreis <placeName n="850419d0-3989-4a0d-8419-d03989ea0dc8">Stäfa</placeName> ist an Stelle des verstorbenen Herrn <persName n="42e722df-a91d-421b-a722-dfa91da21bff">J. H. Dändliker</persName> in <placeName n="71c88c95-d361-4a89-888c-95d3614a891e">Hombrechtikon</placeName> am <date>31. Dezember 1905</date> Herr Gemeindepräsident <persName n="5f41fd28-5f0c-46e5-81fd-285f0c96e54c">Hermann Walder</persName> in <placeName n="6f21607d-81bb-43b4-a160-7d81bb13b422">Hombrechtikon</placeName> als Mitglied des <orgName n="3d61d0db-13b7-4320-a1d0-db13b7832015">Kantonsrates</orgName> gewählt worden. Namens der <orgName n="3227d187-018e-40ba-a7d1-87018ec0baa2">Wahlaktenprüfungskommission</orgName> referiert Herr <persName n="5a0a0e21-6416-4b61-8a0e-2164160b610f">Ottiker</persName> - <placeName n="009202b1-2a43-419c-9202-b12a43619c80">Bauma</placeName>, die Anerkennung der Wahl beantragend. Die Wahl wird validiert; der Gewählte leistet das Amtsgelübde. </p>
+        </body>
+    </text>
+</tei:TEI>

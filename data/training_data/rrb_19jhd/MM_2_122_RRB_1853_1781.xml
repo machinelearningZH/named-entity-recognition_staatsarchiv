@@ -1,0 +1,58 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Landrechtserth. An [Gebhard] Milz v. Lindenberg, K. Baiern.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#rsn">Transkript: rsn<date when="2012-10-12">12.10.2012</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2012</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Landrechtserth. An [Gebhard] Milz v. Lindenberg, K. Baiern.</title>
+                    <date when="1853-12-13">13.12.1853</date>
+                    <ident>StAZH MM 2.122 RRB 1853/1781</ident>
+                    <idno>612–614</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_101_MM_2_150/MM_2_122/MM_2_122_RRB_1853_1781_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1866062"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="612"/>Mit Zuschrift vom 23 November stellt der in <placeName n="aeb6e359-608a-4148-b6e3-59608ab14868">Mettmenstetten</placeName> eventuell eingebürgerte Mauermeister <persName n="31d34ec1-58bb-4353-934e-c158bb33533c">Gebhard Milz</persName> von <placeName n="20cfab5c-962c-4a6e-8fab-5c962caa6e66">Lindenberg</placeName>, Königreich <placeName n="5f6c3b37-1c19-49d7-ac3b-371c19a9d7e7">Baiern</placeName>, das Gesuch um Ertheilung des Kantonsbürger-<pb n="613"/>rechtes und legt behufs deßen folgende Ausweisschriften bei:</p>
+            <p>1.) einen vom 5 Juli 1849 datirten Heimatschein,</p>
+            <p>2.) ein vom 26 Februar 1847 datirtes Taufzeugniß;</p>
+            <p>3.) ein vom 21 November 1853 ausgestelltes günstiges Leumundszeugniß des <orgName n="111b4eef-cca2-412f-9b4e-efcca2a12fa7">Gemeindrathes <placeName n="ebea32fe-48af-4d33-aa32-fe48afad338e">Küßnach[<hi rend="italic">t</hi>
+                    </placeName>]</orgName>, laut welchem Petent seit vielen Jahren andauernd in jener Gemeinde niedergelaßen war;</p>
+            <p>4.) eine Bescheinigung des <orgName n="001b8039-cf1c-4a90-9b80-39cf1cca90ba">Statthalteramtes Affoltern</orgName>, laut welcher Petent als Vermögensausweis bei demselben an baar Frk. 2333 R. 33 deponirt hat;</p>
+            <p>5.) eine vom 5 Dezember 1853 datirte eventuelle Bürgerrechtsurkunde der Gemeinde <placeName n="b08adc85-7472-4d26-8adc-8574720d2616">Mettmenstetten</placeName>;</p>
+            <p/>
+            <p>Der <orgName n="03ac8f2b-86b8-4f5c-ac8f-2b86b8ef5ca6">Regierungsrath</orgName> hat nun</p>
+            <p>nach Einsicht eines Antrages der <orgName n="8b08a8ed-5b70-4017-88a8-ed5b70c017fc">Direktion des Innern</orgName>,</p>
+            <p>beschloßen:</p>
+            <p>I. Sei dem Petenten das Kantonsbürgerrecht ertheilt und deßen Aufnahme in das Bürgerrecht der Gemeinde <placeName n="41a822e4-d28b-4e0e-a822-e4d28b0e0efb">Mettmenstetten</placeName> bestätigt, unter der Bedingung, daß sich Petent innerhalb vier Wochen über Entlaßung aus seinem<pb n="614"/>bisherigen Staatsverband, sowie über Entrichtung der Einkaufsgebühren in das Gemeinds- und Kantonsbürgerrecht, letztere im Betrag von Frk. 583 Rp. 33 ausweise.</p>
+            <p>II. Sei die <orgName n="35695f9b-b959-4050-a95f-9bb959d050c7">Staatskanzlei</orgName> beauftragt, insofern sich Petent bei ihr über Erfüllung der im Disp. I auferlegten Bedingungen ausgewiesen haben wird, demselben die Urkunde über Erwerbung des Kantonsbürgerrechtes gegen Entrichtung der gesetzlichen Taxe zuzustellen.</p>
+            <p>III. Sei von diesem Beschluße der <orgName n="cdd48859-648f-4378-9488-59648f7378ee">Direktion der Finanzen</orgName> im Auszuge, dem <orgName n="7e8180d1-0cfd-45d0-8180-d10cfda5d06b">Gemeindrathe Mettmenstetten</orgName> und dem Petenten, letztern beiden durch das Mittel des <orgName n="968adbfb-12a8-4693-8adb-fb12a8769334">Statthalteramtes Affoltern</orgName> und dem Petenten unter Rückstellung der von ihm eingelegten Akten, soweit deren Aushingabe möglich ist, Kenntniß zu geben.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

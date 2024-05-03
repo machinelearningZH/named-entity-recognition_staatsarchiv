@@ -1,0 +1,45 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Interpellation Dr. Hitz und Gerteis betreffend das Verhalten des Regierungsrates bei der Volksabstimmung über die Vermögensabgabe.</title>
+                <respStmt>
+                    <resp ref="#OCR/skn" key="transcript">Transkript: OCR/skn<date when="2011-10-18">18.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Interpellation Dr. Hitz und Gerteis betreffend das Verhalten des Regierungsrates bei der Volksabstimmung über die Vermögensabgabe.</title>
+                    <date when="1922-12-11">11.12.1922</date>
+                    <ident>StAZH MM 24.54 KRP 1922/098/0853</ident>
+                    <idno>1539</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_54_KRP_1922_098_0853_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3640020"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="1539"/>Dr. <persName n="05cba253-ef90-4029-8ba2-53ef90b02907">Hitz</persName> und <persName n="143aeb17-4122-4a05-baeb-1741229a05ed">Gerteis</persName> - <placeName n="cf7f7692-512d-43dd-bf76-92512da3dd64">Winterthur</placeName> reichen unter heutigem Datum folgende Interpellation ein:</p>
+            <p>„Hält sich der <orgName n="73d868d1-00f3-446a-9868-d100f3946a76">Regierungsrat</orgName> für berechtigt, als Gesamtbehörde zu <orgName n="c6e4e3dd-d5f4-4ac0-a4e3-ddd5f49ac0f0" type="deriv">eidgenössischen</orgName> Abstimmungen offiziell und öffentlich Stellung zu nehmen und Parolen auszugeben, wie er dies auf den 3. Dezember hin getan hat (Vermögensabgabe)?</p>
+            <p>Wenn ja, weshalb hat der <orgName n="03638773-4de5-4881-a387-734de5488183">Regierungsrat</orgName> es unterlassen, auf die <orgName n="16f373b6-ed8a-4530-b373-b6ed8ae53057" type="deriv">eidgenössische</orgName> Abstimmung vom <date>24. September 1922</date> hin (Lex Häberlin) die Verwerfungsparole auszugeben, da diese Vorlage wichtigen Grundrechten der <placeName n="2694cd1d-beb4-444c-94cd-1dbeb4744c28" type="deriv">zürcherischen</placeName> Verfassung und der <placeName n="6b14c71a-ea8d-4e06-94c7-1aea8d9e06ee" type="deriv">zürcherischen</placeName> politischen Tradition widersprach?“</p>
+            <p>Die Interpellation wird auf die Traktandenliste der nächsten Sitzung genommen.</p>
+        </body>
+    </text>
+</tei:TEI>

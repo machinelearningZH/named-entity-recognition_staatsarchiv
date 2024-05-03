@@ -1,0 +1,56 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Weisung an den Großen Rath, betreff. die Arbeiten der Gesetzesrevisionskommission u. künftige Auflösung derselben.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#dsa">Transkript: dsa<date when="2011-05-06">06.05.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Weisung an den Großen Rath, betreff. die Arbeiten der Gesetzesrevisionskommission u. künftige Auflösung derselben.</title>
+                    <date when="1846-06-11">11.06.1846</date>
+                    <ident>StAZH MM 2.92 RRB 1846/0971</ident>
+                    <idno>369–370</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_051_MM_2_100/MM_2_092/MM_2_92_RRB_1846_0971_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1463455"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>[<hi rend="italic">Fortsetzung von RRB 1846/0970</hi>]</p>
+            <p/>
+            <p>
+                <pb n="369"/>
+            </p>
+            <p>Weisung:</p>
+            <p>Zu denjenigen Commissionen des <orgName n="fb50016d-037d-4641-9001-6d037d66414c">Großen Rathes</orgName>, deren Erneuerung möglicher Weise vorgenommen werden könnte, gehört auch die <orgName n="29c78482-a4a5-46c2-8784-82a4a526c2ef">Gesetzesrevisionskommission</orgName>.</p>
+            <p>Einerseits ist dieselbe aber durch den Beschluß des <orgName n="e7441b62-2660-4799-841b-622660e79956">Großen Rathes</orgName> vom 30<hi rend="sup">t</hi>. Brachmonat 1831. betreffend die Art und Weise, wie die Revision des Staatshaushaltes und der Gesetzgebung vorgenommen werden soll, nur zu einer Reihe einzelner dort näher angegebener Arbeiten niedergesetzt worden, anderseits werden diese Arbeiten mit dem s. Z. den Mitgliedern des <orgName n="e59ceb2e-5d52-4792-9ceb-2e5d5217924c">Großen Rathes</orgName> mitgetheilten und gegenwärtig bei der Kommission in Arbeit liegenden Theile des Entwurfes eines Civilgesetzbuches im Wesentlichen vollendet sein, und es dürfte aus verschiedenen Gründen zwekmäßiger erscheinen, andere Arbeiten wie z. B. die Entwürfe der Civilprozeß- und der Criminalprozeßordnung auf den <orgName n="5de483f1-96f6-47cf-a483-f196f637cf7e">Gesetzgebungsrath</orgName> übergehen zu lassen.</p>
+            <p>Bei dieser Sachlage erlaubt sich daher der <orgName n="199caba6-4543-4f4f-9cab-a64543df4f1b">Regierungsrath</orgName> dem <orgName n="dfbd94ba-bc7f-4258-bd94-babc7f22584f">Großen Rathe</orgName> in Abänderung des Beschlusses vom 22t. Juni 1843. den Antrag zu stellen, daß<pb n="370"/>
+            </p>
+            <p>I. Die <orgName n="eb6add08-6b31-45d6-aadd-086b3135d63e">Gesetzesrevisionskommission</orgName> nicht erneuert, sondern in ihrem bisherigen Bestande belassen werde.</p>
+            <p>II. Daß hingegen die Arbeiten der <orgName n="c7712388-37ef-4660-b123-8837ef466092">Gesetzesrevisionskommission</orgName> nach Vollendung der Berathung des gegenwärtigen vorliegenden Theiles des Civilgesetzbuches als geschlossen erklärt und dieselbe aufgelöst werde.</p>
+            <p>Als Referent ist MHHerr Regierungsrath <persName n="2227d6a5-c4c9-484b-a7d6-a5c4c9b84b21">Rüttimann</persName> bezeichnet worden. </p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

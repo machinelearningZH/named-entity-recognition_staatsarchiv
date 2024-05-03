@@ -1,0 +1,50 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Postulat KR-Nr. 256/1987 betreffend Verbesserung der Markttransparenz der Börse (Bericht und Antrag des Regierungsrates vom 17. April 1991 und gleichlautender Antrag der Kommission vom 20. August 1991) 3154</title>
+                <respStmt>
+                    <resp ref="#OCR/kvr" key="transcript">Transkript: OCR/kvr<date when="2011-11-15">15.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Postulat KR-Nr. 256/1987 betreffend Verbesserung der Markttransparenz der Börse (Bericht und Antrag des Regierungsrates vom 17. April 1991 und gleichlautender Antrag der Kommission vom 20. August 1991) 3154</title>
+                    <date when="1991-09-23">23.09.1991</date>
+                    <ident>StAZH MM 24.131 KRP 1991/016/0003</ident>
+                    <idno>976–977</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_131_KRP_1991_016_0003_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3744067"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="976"/>
+                <persName n="00cf21fb-c1e2-40b4-8f21-fbc1e260b468">R. Winkler</persName> (<orgName n="0fa8dd53-9cb3-453d-a8dd-539cb3d53d57">SP</orgName>, <placeName n="27a2d017-2d0b-46b8-a2d0-172d0ba6b895">Zürich</placeName>), Präsident der vorberatenden Kommission: Die Kommission, die zugleich auch die Revision des Wertpapiergesetzes berät, hat an ihrer ersten Sitzung das erwähnte Postulat besprochen und kommt in Übereinstimmung mit dem Antrag des <orgName n="09723de9-456c-43c2-b23d-e9456c33c20f">Regierungsrates</orgName> zum Schluss, das Postulat abzuschreiben. Das Postulat verlangte vom <orgName n="c20386f8-466d-4f87-8386-f8466d5f87a9">Regierungsrat</orgName>, mit den übrigen Börsenkantonen eine börsenrechtliche Norm erarbeiten zu lassen, die verlangt, dass Aktienkäufe, auch wenn sie über verschiedene Kanäle laufen, bekanntzugeben sind, sobald sie in ihrer Gesamtheit eine bestimmte Erhöhung des Aktienbesitzes (10% des Aktienkapitals schienen angemessen) erreicht haben. </p>
+            <p>Der <orgName n="9646aad0-29d8-4142-86aa-d029d8e142ce">Regierungsrat</orgName> weist in seiner Antwort zwar darauf hin, dass die Erhöhung der Transparenz an der Börse unter anderem auch in der Folge der Globalisierung, der Internationalisierung der Wertpapiermärkte und der internationalen Harmonisierungsbestrebungen durchaus erwünscht sei. Im gleichen Sinne war auch die Grundstimmung in der Kommission, es war klar, dass die Transparenz an der Börse erhöht werden soll. Die Ziele des Postulats sind somit unbestritten, hingegen hat bereits der <orgName n="9e2e4ff9-b7bc-4320-ae4f-f9b7bc232081">Regierungsrat</orgName> in bezug auf den skizzierten Weg Vorbehalte angebracht beziehungsweise diesen Weg als untauglich beschrieben. Dies sind vor allem drei Gründe. Der erste ist, dass <orgName n="0de9940e-8628-446b-a994-0e8628d46b84" type="deriv">kantonales</orgName> Recht natürlich nur innerhalb der Kantone durchgesetzt werden kann, ausserhalb des Kantons geht das nicht. Es ist somit ein klarer Bedarf zu einer Gesetzgebung auf Bundesebene. Eine <orgName n="84c55543-4bbd-4e67-8555-434bbdce67af" type="deriv">kantonale</orgName> Gesetzgebung kann hier nur einen Teil des Problems erfassen, insbesondere, weil es auch noch Börsen in <placeName n="8d7b48b9-9537-4b02-bb48-b995372b022b">Basel</placeName> und in <placeName n="cef79911-6d58-4ba1-b799-116d581ba19b">Genf</placeName> gibt. </p>
+            <p>Der zweite Punkt besteht darin, dass die erwünschte Gesetzgebung im Postulat mit dem Bundesgesetz, dem Bankengesetz, bei über die Banken getätigtem Aktienhandel in Konflikt geraten könnte, und bekanntlich bricht Bundesrecht <orgName n="558433eb-e711-4846-8433-ebe711d846b4" type="deriv">kantonales</orgName> Recht. Die Erkenntnis daraus ist, dass die Meldepflicht, also die Erhöhung der Transparenz in diesem Gebiet, über Bundesrecht geregelt werden muss. </p>
+            <p>In seiner Antwort weist der <orgName n="b967d99e-c487-4b85-a7d9-9ec487db8588">Regierungsrat</orgName> überdies auf einige Punkte hin, die in Richtung dieser Anliegen der Postulanten gehen. Zum  <pb n="977"/>Beispiel: Seit dem 1. April 1990 werden die Umsätze in der Abschlussverarbeitung bereits erfasst, das sogenannte Reporting, und seit kurzem ist die <orgName n="759b3b37-a519-40d2-9b3b-37a51960d249">Vereinigung der Schweizer Börsen</orgName> alleinige Trägerin der Zulassungsstelle, in deren Richtlinien die Anliegen der Transparenz zusätzlich gestärkt wurden. Seit 1989 besteht ein Übernahmekodex, was immer dieser bringen mag, mindestens aber ist ein solcher in Kraft. Das Entscheidende, das dann auch in der Kommission den Ausschlag gab, das Postulat abzuschreiben, ist die Tatsache, dass im <orgName n="e625db2a-dc0c-4267-a5db-2adc0cb26793">Nationalrat</orgName> von der Kommission, die das Aktienrecht behandelt, ein Vorstoss eingereicht wurde, der verlangt, dass der <orgName n="c636d46e-a73f-4b4d-b6d4-6ea73fdb4d8d">Bundesrat</orgName> dem <orgName n="acefb6f5-be22-4f30-afb6-f5be224f308f">Parlament</orgName> eine Börsenbeziehungsweise eine Übernahmegesetzgebung vorlege, welche einen möglichst regulierten, liberalen Börsenhandel zulässt, unerwünschte Übernahmen verhindert und geordnete Übernahmen mit entsprechendem Minderheitsaktionärsschutz vorsieht. Diese Motion wurde in den <orgName n="bbc8095a-829c-4ec6-8809-5a829cfec652" type="deriv">eidgenössischen</orgName> Räten überwiesen, womit das Hauptanliegen am richtigen Ort deponiert ist, nämlich auf Bundesebene. </p>
+            <p>In unserer Kommission war zwar klar, dass mit der Überweisung dieses Vorstosses die berechtigten Anliegen der Postulanten noch nicht erfüllt sind. Es war aber ebenso klar, dass diese Anliegen auf Bundesebene gehören. Falls auf Bundesebene nichts passieren sollte, was für diejenigen, die die Geschichte der Aktienrechtsrevision kennen, nicht ganz überraschend käme, dann müsste halt wieder ein Postulat eingereicht werden. Auf Grund dieser Meinung beantragt die Kommission mit 11:0 Stimmen, das Postulat abzuschreiben. Das Wort wird weiter nicht verlangt.</p>
+            <p>Schlussabstimmung</p>
+            <p>Der Rat beschliesst mit 80:0 Stimmen, das Postulat abzuschreiben. </p>
+            <p>Das Geschäft ist erledigt.</p>
+        </body>
+    </text>
+</tei:TEI>

@@ -1,0 +1,50 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Begnadigungsgesuch der Klara Winkler, Seuzach (Traktandum 3).</title>
+                <respStmt>
+                    <resp ref="#OCR/skn" key="transcript">Transkript: OCR/skn<date when="2011-10-24">24.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Begnadigungsgesuch der Klara Winkler, Seuzach (Traktandum 3).</title>
+                    <date when="1929-01-21">21.01.1929</date>
+                    <ident>StAZH MM 24.56 KRP 1929/100/0797</ident>
+                    <idno>1397–1398</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_56_KRP_1929_100_0797_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3642048"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="1397"/>Die am <date>13. November 1906</date> geborene <persName n="0af649fc-5f78-4807-b649-fc5f7818070d">Klara Winkler</persName>, von <placeName n="bd0a7a8c-4805-43b6-8a7a-8c4805f3b667">Seuzach</placeName>, ist durch Urteil der III. Kammer des <orgName n="4607604c-f96a-4dcf-8760-4cf96abdcf55">Obergerichtes</orgName> vom <date>10. Mai 1928</date> wegen Kindsmord, begangen am <date>7. November 1927</date>, zu zwei Jahren Zuchthaus abzüglich 83 Tage erstandener Untersuchungs- und Sicherheitsverhaft verurteilt werden. Durch ein Gesuch vom <date>28. Mai 1928</date> ersucht sie um den Erlaß eines Jahres ihrer Freiheitsstrafe. Das <orgName n="c8b3dbc3-06fd-4ac5-b3db-c306fdaac58b">Obergericht</orgName> und der <orgName n="84032719-6d85-4a73-8327-196d856a73e0">Regierungsrat</orgName> empfehlen Zustimmung und Entlassung der Petentin am <date>16. Februar 1929</date>.  <pb n="1398"/>
+            </p>
+            <p>Heußer- <placeName n="b5926322-b66c-47db-9263-22b66ce7db03">Zürich</placeName> referiert im Namen der <orgName n="7f10f64b-138f-4cc3-90f6-4b138f5cc357">Petitionskommission</orgName> und empfiehlt Zustimmung zum Antrag des <orgName n="b4934fc5-01d2-4956-934f-c501d26956a6">Regierungsrates</orgName>.</p>
+            <p>Der Rat beschließt:</p>
+            <p>1. <persName n="cdbd9ff9-a909-47b9-bd9f-f9a909e7b9b5">Klara Winkler</persName>, von <placeName n="5c93ea21-8946-4a18-93ea-218946da1872">Seuzach</placeName>, geboren 1906, zurzeit in der <orgName n="3d6d9bfa-c3f0-49dd-ad9b-fac3f039dd0f">Strafanstalt <placeName n="6a513170-765f-4c71-9131-70765f4c71a7">Regensdorf</placeName>
+                </orgName>, wird unter der Voraussetzung ferneren Wohlverhaltens in der Strafanstalt auf den Ablauf des ersten Jahres der ihr durch Urteil der III. Kammer des <orgName n="583863b8-a9b2-472a-b863-b8a9b2772ae9">Obergerichtes</orgName> vom <date>10. Mai 1928</date> auferlegten Zuchthausstrafe, das heißt auf den <date>16. Februar 1929</date>, unter Ansetzung einer Bewährungsfrist von drei Jahren, vom Entlassungstage an gerechnet, im Sinne von § 492, Absatz 1, der Strafprozeßordnung bedingt entlassen und unter die Schutzaufsicht des <orgName n="0b181230-62a5-4f4a-9812-3062a5cf4a2f">Zürcher Vereins für Schutzaufsicht und Entlassenenfürsorge</orgName> gestellt.</p>
+            <p>2. Für die eventuelle Wiedereinberufung in die Strafanstalt zur Erstehung des Strafrestes im Falle schlechten Verhaltens oder neuer Delikte der bedingt Begnadigten während der Bewährungsfrist sind die Vorschriften der §§ 15 und 16 des Gesetzes über den Vollzug der Freiheitsstrafen in der Strafanstalt und des § 15 des Strafgesetzbuches maßgebend.</p>
+            <p>3. Bewährt sich die bedingt Begnadigte während der Bewährungsfrist, so gilt sie nach Ablauf der letztern als definitiv begnadigt.</p>
+            <p>4. Mitteilung an den <orgName n="5bb7fdab-a100-4f2b-b7fd-aba1001f2b08">Regierungsrat</orgName> zum Vollzug.</p>
+        </body>
+    </text>
+</tei:TEI>

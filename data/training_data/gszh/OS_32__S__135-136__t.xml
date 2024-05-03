@@ -1,0 +1,124 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abänderung der Verordnung über die Verlegung der Kosten der Korrektion und des Unterhaltes von Gewässern auf Staat, Gemeinden und übrige Beteiligte.</title>
+                <respStmt>
+                    <resp ref="#sef" key="transcript">Transkript: sef<date when="2015-10-07">07.10.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Abänderung der Verordnung über die Verlegung der Kosten der Korrektion und des Unterhaltes von Gewässern auf Staat, Gemeinden und übrige Beteiligte.</title>
+                    <date when="1921-07-18">18.07.1921</date>
+                    <ident>StAZH OS 32 (S. 135-136)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_32__S__135-136__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3470581"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="135"/>
+            </p>
+            <p>I. § 2 der Verordnung über die Verlegung der Kosten der Korrektion und des Unterhaltes von Gewässern auf <orgName n="79985199-fdfa-491a-9851-99fdfa891a24">Staat</orgName>, Gemeinden und übrige Beteiligte vom 15. Dezember 1902 wird abgeändert wie folgt:</p>
+            <p>«Hinsichtlich ihrer Bedeutung werden die Korrektionen nach den Gesamtkosten (also mit Einschluß der Vorarbeiten etc.) auf den Meter Fluß- oder Bachlänge in folgende neun Klassen eingereiht und die Beiträge der Gemeinden in der angegebenen Weise abgestuft:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Klasse </cell>
+                        <cell>Kosten per Meter Flußlänge </cell>
+                        <cell>Kostenanteil der Gemeinden </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Fr. </cell>
+                        <cell>% </cell>
+                    </row>
+                    <row>
+                        <cell>I. </cell>
+                        <cell>über 500 </cell>
+                        <cell>10 </cell>
+                    </row>
+                    <row>
+                        <cell>II. </cell>
+                        <cell>376–500 </cell>
+                        <cell>12 </cell>
+                    </row>
+                    <row>
+                        <cell>III. </cell>
+                        <cell>301–375 </cell>
+                        <cell>14 </cell>
+                    </row>
+                    <row>
+                        <cell>IV. </cell>
+                        <cell>251–300 </cell>
+                        <cell>16 </cell>
+                    </row>
+                    <row>
+                        <cell>V. </cell>
+                        <cell>201–250 </cell>
+                        <cell>18 </cell>
+                    </row>
+                    <row>
+                        <cell>VI. </cell>
+                        <cell>126–200 </cell>
+                        <cell>20 </cell>
+                    </row>
+                    <row>
+                        <cell>VII. </cell>
+                        <cell>61–125 </cell>
+                        <cell>22 </cell>
+                    </row>
+                    <row>
+                        <cell>VIII. </cell>
+                        <cell>26-60 </cell>
+                        <cell>23 ½ </cell>
+                    </row>
+                    <row>
+                        <cell>IX. </cell>
+                        <cell>bis 25 </cell>
+                        <cell>25 <pb n="136"/>
+                        </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Der <orgName n="60d4b5ca-6d65-4ebb-94b5-ca6d657ebb03">Regierungsrat</orgName> ist berechtigt, bei jedem Rückgang der Preise für Bauarbeiten (Materialpreise oder Arbeitslöhne) um einen Fünftel ihres gegenwärtigen Standes den für die Beitragsbemessung maßgebenden Kostenbetrag per Meter Flußlänge entsprechend zu reduzierend</p>
+            <p>II. Diese Abänderung tritt nach ihrer Genehmigung durch den <orgName n="32d3ba25-eec8-4c47-93ba-25eec89c47c4">Kantonsrat</orgName> in Kraft.</p>
+            <p>
+                <placeName n="c1d9b514-890c-4336-99b5-14890c933691">Zürich</placeName>, den 18. Juli 1921.</p>
+            <p>Im Namen des <orgName n="5f3b6957-3dc3-42df-bb69-573dc352df53">Regierungsrates</orgName>,</p>
+            <p>Der Präsident:</p>
+            <p>Dr. <persName n="152c6211-c5b0-4f28-ac62-11c5b0cf2806">H. Mousson</persName>.</p>
+            <p>Der Staatsschreiber:</p>
+            <p>
+                <persName n="df011764-21b8-4d96-8117-6421b85d96c2">Paul Keller</persName>.</p>
+            <p>Vorstehender Abänderung der Verordnung wird die Genehmigung erteilt.</p>
+            <p>
+                <placeName n="adab13fc-fad6-4f6e-ab13-fcfad6cf6e11">Zürich</placeName>, den 18. Juli 1921.</p>
+            <p>Im Namen des <orgName n="b53ed74e-5261-4490-bed7-4e5261d49010">Kantonsrates</orgName>,</p>
+            <p>Der Präsident:</p>
+            <p>
+                <persName n="66500a3e-31f0-4544-900a-3e31f0154497">Kern</persName>.</p>
+            <p>Der Sekretär:</p>
+            <p>Dr. <persName n="eaaa1757-9884-4f27-aa17-579884ef2720">Hirzel</persName>.</p>
+        </body>
+    </text>
+</TEI>

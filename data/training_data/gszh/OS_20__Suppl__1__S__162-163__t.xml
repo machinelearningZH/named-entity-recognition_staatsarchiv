@@ -1,0 +1,51 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verordnung betreffend das Verfahren bei Publikationen mit Androhung von privatrechtlichen Nachtheilen und bei Ausschreibung und Kraftloserklärung von Heimatscheinen. (Vom 22. Juli 1852. Amtsbl. 1852. 362.)</title>
+                <respStmt>
+                    <resp ref="#sef" key="transcript">Transkript: sef<date when="2015-12-10">10.12.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Verordnung betreffend das Verfahren bei Publikationen mit Androhung von privatrechtlichen Nachtheilen und bei Ausschreibung und Kraftloserklärung von Heimatscheinen. (Vom 22. Juli 1852. Amtsbl. 1852. 362.)</title>
+                    <date when="1852-07-22">22.07.1852</date>
+                    <ident>StAZH OS 20, Suppl. 1 (S. 162-163)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_20__Suppl__1__S__162-163__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3472693"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="162"/>
+            </p>
+            <p>§ 1. Sämmtliche untere Verwaltungsbehörden, insbesondere aber die Gemeindräthe, haben keinerlei Publikationen im Amtsblatte oder andern öffentlichen Blättern mit Androhung von privatrechtlichen Nachtheilen zu erlassen.</p>
+            <p>§ 2. Wofern eine Verwaltungsbehörde die Anordnung einer solchen Publikation für nöthig erachtet (z. B. betreffend Schuldenrüfe, Kirchenortsbereinigungen etc.), so hat sie das Bezirksgericht für Vornahme der erforderlichen Bekanntmachung anzugehen.</p>
+            <p>§ 3. In Fällen, wo die Ausschreibung eines Heimatscheines verlangt wird, hat der betreffende Gemeindrath die Genehmigung des Statthalteramtes zu dieser Ausschreibung nachzusuchen.  <pb n="163"/>
+            </p>
+            <p>§ 4. Das Statthalteramt wird diese Genehmigung nur dann ertheilen:</p>
+            <p>a.	wenn von dem Gemeindrathe des letzten Aufenthalts- oder Niederlassungsortes der Person, auf welche der vermißte Heimatschein ausgestellt ist, ein schriftliches Zeugniß vorliegt, daß der fragliche Heimatschein sich nicht in seinen Handen befinde, und überhaupt nicht an jenem Orte aus irgend einem Grunde zurückbehalten worden sei;</p>
+            <p>b.	wenn gleichzeitig von dem Gemeindrathe des Bürgerortes bezeugt wird, daß nach seinen Wahrnehmungen kein Grund vorliege, anzunehmen, daß die einen neuen Heimatschein nachsuchende Person den angeblich vermißten Heimatschein zurückbehalten oder mißbräuchlich verwendet habe.</p>
+            <p>§ 5. Hat nach Erfüllung vorstehender Bedingungen die Ausschreibung stattgefunden, so ist von dem Gemeindrathe das Ergebniß derselben dem Statthalteramte mitzutheilen, das, wofern die Ausschreibung erfolglos geblieben ist, den Gemeindrath ermächtigt, die Kraftloserklärung des vermißten Heimatscheines im Amtsblatte bekannt zu machen und auf Verlangen einen neuen Heimatschein auszufertigen.</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wahl der Prüfungskommission für den Rechenschaftsbericht des Regierungsrates (9).</title>
+                <respStmt>
+                    <resp ref="#OCR/amr" key="transcript">Transkript: OCR/amr<date when="2011-11-16">16.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Wahl der Prüfungskommission für den Rechenschaftsbericht des Regierungsrates (9).</title>
+                    <date when="1908-06-15">15.06.1908</date>
+                    <ident>StAZH MM 24.48 KRP 1908/002/0038</ident>
+                    <idno>22</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_48_KRP_1908_002_0038_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3623594"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="22"/>Die <orgName n="07fd7e09-68de-4b01-bd7e-0968de7b0173">Kommission für Prüfung des Rechenschaftsberichtes des Regierungsrates</orgName> wird in offener Wahl bestellt aus den Herren:</p>
+            <p>1. <persName n="fa5d1b13-7a4b-41b2-9d1b-137a4b91b253">Zuppinger-Spitzer, Joh. Friedrich</persName>, in <placeName n="d250c497-36bc-4d4a-90c4-9736bc0d4af2">Zürich V</placeName>, Präsident, gegenüber Herrn <persName n="c5149119-fc44-4244-9491-19fc4442449c">Wachter</persName> - <placeName n="2dfac58c-4304-4a54-bac5-8c43048a545c">Ürikon</placeName>.</p>
+            <p>2. <persName n="fa60fa72-7a0e-4c76-a0fa-727a0e1c76a4">Wachter, Ulrich</persName>, in <placeName n="5bb56da5-620c-49d2-b56d-a5620c89d232">Ürikon</placeName>.</p>
+            <p>3. <persName n="ce1d0e35-51eb-42be-9d0e-3551eb22be88">Manz-Schäppi, Karl</persName>, in <placeName n="3938285c-f21c-4d21-b828-5cf21c7d21fd">Zürich I</placeName>.</p>
+            <p>4. <persName n="43b16caf-09a0-4b37-b16c-af09a03b373c">Iselin, Adolf</persName>, in <placeName n="0f6ebb1f-7534-42ba-aebb-1f753412ba72">Richterswil</placeName>.</p>
+            <p>5. <persName n="cae4178a-5511-429f-a417-8a5511329f65">Meier, Joh.</persName>, in <placeName n="ddfe8adf-bb8d-4d81-be8a-dfbb8d8d8127">Neerach</placeName>.</p>
+            <p>6. <persName n="e74652f5-1ecf-4e51-8652-f51ecf0e5186">Zellweger, Emil</persName>, in <placeName n="44efb7d8-b084-4991-afb7-d8b08499917a">Zürich I</placeName>.</p>
+            <p>7. <persName n="6cea1842-a9eb-4eb3-aa18-42a9eb4eb37e">Schäubli, Eduard</persName>, in <placeName n="e45ccdf6-0700-45e0-9ccd-f6070015e03b">Bassersdorf</placeName>, mit 90 Stimmen gegenüber Herrn <persName n="f700ea65-0e94-4b19-80ea-650e945b1909">Gallmann</persName> (78 Stimmen).</p>
+            <p>8. <persName n="4b39b721-6751-4fa1-b9b7-216751cfa1b7">Gallmann, J. Ulrich</persName>, in <placeName n="96255c6f-2eaf-49a3-a55c-6f2eaf19a3b9">Kempttal</placeName>.</p>
+            <p>9. <persName n="7d709f47-3500-46ae-b09f-473500a6aeae">Bader, Jakob</persName>, in <placeName n="1d6404b3-22a6-4f58-a404-b322a62f58d6">Affoltern b. Z.</placeName>
+            </p>
+            <p>Das <orgName n="01ce324c-5e7e-4c85-8e32-4c5e7e2c85b2">Bureau des Kantonsrates</orgName> hat am <date>22. Juni 1908</date> als Sekretär der Kommission ernannt den Herrn Dr. <persName n="763c3e65-f994-4e1a-bc3e-65f9949e1aba">W. Vollenweider</persName> in <placeName n="d55d8708-c2e8-449a-9d87-08c2e8449a9e">Affoltern a. A.</placeName>
+            </p>
+        </body>
+    </text>
+</tei:TEI>

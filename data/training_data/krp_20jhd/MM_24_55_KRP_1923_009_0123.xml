@@ -1,0 +1,51 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Initiative auf Abschaffung der Vivisektion.</title>
+                <respStmt>
+                    <resp ref="#OCR/lro" key="transcript">Transkript: OCR/lro<date when="2011-10-06">06.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Initiative auf Abschaffung der Vivisektion.</title>
+                    <date when="1923-10-29">29.10.1923</date>
+                    <ident>StAZH MM 24.55 KRP 1923/009/0123</ident>
+                    <idno>154</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_55_KRP_1923_009_0123_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3640331"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="154"/>Die Kommission zur Vorberatung des Antrages des <orgName n="c5078dec-40ed-4881-878d-ec40ed9881ee">Regierungsrates</orgName> vom <date>11. Oktober 1923</date> wird aus folgenden Ratsmitgliedern bestellt:</p>
+            <p>1. Dr. <persName n="2503e263-16c8-4636-83e2-6316c86636bd">Fingerhuth</persName> - <placeName n="a2586aaf-79ab-4257-986a-af79ab025721">Zürich</placeName>, Präsident;</p>
+            <p>2. <persName n="0ffaae51-2538-4489-baae-512538748916">Berger</persName> - <placeName n="e4631479-5790-474a-a314-795790874acb">Neftenbach</placeName>;</p>
+            <p>3. Dr. <persName n="aa9f6fe3-fde7-4422-9f6f-e3fde74422b1">Flunser</persName> - <placeName n="e638c6a2-5a8f-4336-b8c6-a25a8fb33607">Fischenthal</placeName>;</p>
+            <p>4. <persName n="b609b050-0d95-49c1-89b0-500d9529c155">Kuhn</persName> - <placeName n="ca32cbbb-6800-4fca-b2cb-bb6800bfca27">Stäfa</placeName>;</p>
+            <p>5. <persName n="99cfdf8f-797e-4665-8fdf-8f797e866538">Lienhard</persName> - <placeName n="5706525c-fefe-4fb2-8652-5cfefe7fb286">Teufen</placeName>;</p>
+            <p>6. <persName n="de04d22e-2437-4fac-84d2-2e24378fac18">Näf</persName> - <placeName n="60f24d27-14fb-4ee1-b24d-2714fb1ee12a">Hausen</placeName>;</p>
+            <p>7. <persName n="5f31dab1-4913-4735-b1da-b14913e7358a">Odermatt</persName> - <placeName n="e2411360-a94d-4361-8113-60a94d736106">Zürich</placeName>;</p>
+            <p>8. <persName n="8f351976-813c-4021-b519-76813c10213b">Pflüger</persName> - <placeName n="ebe277be-2cbb-4ae3-a277-be2cbb2ae349">Zürich</placeName>;</p>
+            <p>9. <persName n="a1921d25-f33d-485b-921d-25f33d785b9a">Rutishauser</persName> - <placeName n="35e79473-56a5-42d9-a794-7356a5e2d904">Zürich</placeName>; Sekretär: <persName n="db0702e8-ea3a-49e7-8702-e8ea3a89e718">Heß</persName> - <placeName n="7922adb4-26da-46fa-a2ad-b426da26fadb">Höngg</placeName>.</p>
+        </body>
+    </text>
+</tei:TEI>

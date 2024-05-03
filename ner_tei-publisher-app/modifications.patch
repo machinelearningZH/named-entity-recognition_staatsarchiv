@@ -1,0 +1,751 @@
+diff --git a/Dockerfile b/Dockerfile
+index 9e8e633e..820cf108 100644
+--- a/Dockerfile
++++ b/Dockerfile
+@@ -32,36 +32,15 @@ RUN curl -L -o apache-ant-${ANT_VERSION}-bin.tar.gz http://www.apache.org/dist/a
+ 
+ ENV PATH ${PATH}:${ANT_HOME}/bin
+ 
+-# RUN curl -sL https://deb.nodesource.com/setup_18.x | bash - \
+-#     && apt-get install -y nodejs \
+-#     && curl -L https://www.npmjs.com/install.sh | sh
+-
+ FROM builder as tei
+ 
+-# TODO(DP): Demo App Versions need updating
+ ARG TEMPLATING_VERSION=1.1.0
+ ARG PUBLISHER_LIB_VERSION=4.0.0
+ ARG ROUTER_VERSION=1.8.1
+-ARG SHAKESPEARE_VERSION=2.0.2
+-ARG VANGOGH_VERSION=2.0.0
+ 
+ # add key
+ RUN  mkdir -p ~/.ssh && ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
+ 
+-# Build shakespeare
+-RUN  git clone https://github.com/eeditiones/shakespeare.git \
+-    && cd shakespeare \
+-    && git checkout ${SHAKESPEARE_VERSION} \
+-    && sed -i 's/$config:webcomponents :=.*;/$config:webcomponents := "local";/' modules/config.xqm \
+-    && ant xar-local
+-
+-# Build vangogh
+-RUN  git clone https://github.com/eeditiones/vangogh.git \
+-    && cd vangogh \
+-    && git checkout ${VANGOGH_VERSION} \
+-    && sed -i 's/$config:webcomponents :=.*;/$config:webcomponents := "local";/' modules/config.xqm \
+-    && ant xar-local
+-
+ # Build tei-publisher-lib
+ RUN if [ "${PUBLISHER_LIB_VERSION}" = "master" ]; then \
+         git clone https://github.com/eeditiones/tei-publisher-lib.git \
+@@ -84,8 +63,6 @@ RUN curl -L -o /tmp/templating-${TEMPLATING_VERSION}.xar http://exist-db.org/exi
+ FROM duncdrum/existdb:6.2.0-debug-j8
+ 
+ COPY --from=tei /tmp/tei-publisher-app/build/*.xar /exist/autodeploy/
+-COPY --from=tei /tmp/shakespeare/build/*.xar /exist/autodeploy/
+-COPY --from=tei /tmp/vangogh/build/*.xar /exist/autodeploy/
+ COPY --from=tei /tmp/*.xar /exist/autodeploy/
+ 
+ WORKDIR /exist
+@@ -95,7 +72,7 @@ WORKDIR /exist
+ ARG HTTP_PORT=8080
+ ARG HTTPS_PORT=8443
+ 
+-ARG NER_ENDPOINT=http://localhost:8001
++ARG NER_ENDPOINT=http://host.docker.internal:8001
+ ARG CONTEXT_PATH=auto
+ ARG PROXY_CACHING=false
+ 
+@@ -119,7 +96,7 @@ ENV JAVA_TOOL_OPTIONS \
+   -XX:MaxRAMPercentage=${JVM_MAX_RAM_PERCENTAGE:-75.0} \
+   -XX:+ExitOnOutOfMemoryError
+ 
+-# pre-populate the database by launching it once and change default pw
+-RUN [ "java", "org.exist.start.Main", "client", "--no-gui",  "-l", "-u", "admin", "-P", "" ]
++# pre-populate the database by launching it once
++RUN [ "java", "org.exist.start.Main", "client", "--no-gui",  "-l" ]
+ 
+-EXPOSE ${HTTP_PORT} ${HTTPS_PORT}
+\ No newline at end of file
++EXPOSE ${HTTP_PORT} ${HTTPS_PORT}
+diff --git a/README.md b/README.md
+index d2dedacc..e693e629 100644
+--- a/README.md
++++ b/README.md
+@@ -1,3 +1,22 @@
++# Für SpanMarker-NER modifizierter Fork des TEI Publishers
++
++Dieser Fork wurde wie folgt modifiziert:
++* Dockerfile: `NER_ENDPOINT` macOS-spezifisch auf http://host.docker.internal:8001 abgeändert.
++* data/collection.html: "Annotation Samples" umgenutzt als Collection "StaZH NER" (intern "annotate") zwecks Zwischenspeicherung von zu annotierenden Dokumenten
++* modules/annotation-config.xqm: persName, placeName, orgName erweitert um Attribut "n" (Wert ist UUID (v4) erzeugt via XQuery-Funktion util:uuid()), sowie derivierte Varianten (type="deriv") aller drei NE-Typen
++* modules/config.xqm: Collection "annotate" für die Abfrage via DTS-API registriert.
++* modules/lib/api/nlp.xql: Timeout der Funktion nlp:entities-remote auf 1000 Sekunden erhöht (erforderlich, da SpanMarker auch mit GPU-Beschleunigung deutlich langsamer als die ursprünglich verwendeten spaCy-Modelle ist)
++* modules/nlp-config.xqm: Um derivierte NE-Tags und Tag "DATE" erweitert.
++* odd/annotations.odd: Grounding in Authority (z.B. GND) entfernt, um ungelinkte Annotation von NEs im Annotationseditor zu ermöglichen
++* post-install.xql, templates/index.html: Standarduser stazh, Verweise darauf
++* templates/menu.html: Nicht benötigte Funktionalität entfernt
++* templates/pages/annotate.html: Zusätzliche Buttons (derivierte NEs) im Annotationseditor registriert.
++* Generell: Nicht benötigte Collections und Bezüge darauf gelöscht
++
++Sämtliche Änderungen gegenüber dem ursprünglichen Commit (https://github.com/eeditiones/tei-publisher-app/tree/0abd9426cecc335a86a30a8bc9c73d685f204458)
++
++
++# TEI Publisher README (übernommen von https://github.com/eeditiones/tei-publisher-app)
+ ![TEI Publisher Docker Snapshots](https://github.com/eeditiones/tei-publisher-app/workflows/TEI%20Publisher%20Docker%20Snapshots/badge.svg)
+ 
+ <img src="resources/images/tei-publisher-logo-color.svg" height="128">
+diff --git a/data/collection.html b/data/collection.html
+index f83b75fd..8aeab61e 100644
+--- a/data/collection.html
++++ b/data/collection.html
+@@ -1,45 +1,24 @@
+ <div class="collection">
+     <ul class="documents">
+         <li class="document">
+-            <a href="#" data-collection="test">
+-                <div class="thumbnail demo">
+-                </div>
+-            </a>
+-            <span class="attribution">
+-                Image by <a href="https://unsplash.com/@chrislawton?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Chris Lawton</a>
+-            </span>
+-            <div class="document-info">
+-                <h3><a href="#" data-collection="test">
+-                    <pb-i18n key="browse.test.title">TEI Publisher Demo Collection</pb-i18n>
+-                </a></h3>
+-                <p>
+-                    <pb-i18n key="browse.test.description">Documents demonstrating various features. The selection is in
+-                        no way comprehensive but represents a subset of what is possible. Please contribute your own use
+-                        cases to complement this.
+-                    </pb-i18n>
+-                </p>
+-            </div>
+-        </li>
+-        <li class="document">
+-            <a href="#" data-collection="playground">
+-                <div class="thumbnail play">
++            <a href="#" data-collection="annotate">
++                <div class="thumbnail annotate">
+                 </div>
+             </a>
+             <span class="attribution">
+-                Image by <a href="https://unsplash.com/@nickmonica?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Nick Monica</a>
++                    Image by <a target="_blank"
++                                href="https://www.freepik.com/free-photo/business-woman-working-office-desktop_4702630.htm#page=3&amp;query=correct%20text&amp;position=26&amp;from_view=search&amp;track=ais">Freepik</a>
+             </span>
+             <div class="document-info">
+-                <h3><a href="#" data-collection="playground">
+-                    <pb-i18n key="browse.playground.title">Playground</pb-i18n>
++                <h3><a href="#" data-collection="annotate">
++                    <pb-i18n key="browse.annotations.title">StaZH NER</pb-i18n>
+                 </a></h3>
+                 <p>
+-                    <pb-i18n key="browse.playground.description">A writable collection into which you can upload your
+-                        own documents for testing.
+-                    </pb-i18n>
++		Hier befinden sich die beim letzten Durchgang annotierten Dokumente. Für Schreibzugriff als <strong>stazh</strong> einloggen (kein PW erforderlich).
+                 </p>
+             </div>
+-        </li>
+-        <li class="document">
++	</li>
++      <li class="document">
+             <a href="documentation/">
+                 <div class="thumbnail docs">
+                 </div>
+@@ -57,60 +36,5 @@
+                 </p>
+             </div>
+         </li>
+-        <li class="document">
+-            <a href="#" data-collection="annotate">
+-                <div class="thumbnail annotate">
+-                </div>
+-            </a>
+-            <span class="attribution">
+-                    Image by <a target="_blank"
+-                                href="https://www.freepik.com/free-photo/business-woman-working-office-desktop_4702630.htm#page=3&amp;query=correct%20text&amp;position=26&amp;from_view=search&amp;track=ais">Freepik</a>
+-            </span>
+-            <div class="document-info">
+-                <h3><a href="#" data-collection="annotate">
+-                    <pb-i18n key="browse.annotations.title">Annotation Samples</pb-i18n>
+-                </a></h3>
+-                <p>
+-                    <pb-i18n key="browse.annotations.description">Another playground for annotating documents.</pb-i18n>
+-                </p>
+-            </div>
+-        </li>
+-        <li class="document">
+-            <a href="about.md">
+-                <div class="thumbnail markdown">
+-                </div>
+-            </a>
+-            <span class="attribution">
+-                    Image by<a target="_blank"
+-                               href="https://www.freepik.com/free-photo/closeup-computer-keyboard_3012157.htm#query=keyboard%20white&amp;position=3&amp;from_view=search&amp;track=ais">Freepik</a>
+-            </span>
+-            <div class="document-info">
+-                <h3><a href="about.md">
+-                    <pb-i18n key="browse.markdown.title">Markdown Sample</pb-i18n>
+-                </a></h3>
+-                <p>
+-                    <pb-i18n key="browse.markdown.description">Example of using markdown for static content.</pb-i18n>
+-                </p>
+-            </div>
+-        </li>
+-        <li class="document">
+-            <a href="#" data-collection="jats">
+-                <div class="thumbnail jats">
+-                </div>
+-            </a>
+-            <span class="attribution">
+-                Image by<a target="_blank"
+-                               href="https://www.freepik.com/free-photo/pile-colorful-magazines-table_6048620.htm#query=journal&amp;position=0&amp;from_view=search&amp;track=sph">Freepik</a>
+-            </span>
+-            <div class="document-info">
+-                <h3><a href="#" data-collection="jats">
+-                    <pb-i18n key="browse.jats.title">JATS Samples</pb-i18n>
+-                </a></h3>
+-                <p>
+-                    <pb-i18n key="browse.jats.description">Examples using JATS (the Journal Article Tag Suite).
+-                    </pb-i18n>
+-                </p>
+-            </div>
+-        </li>
+     </ul>
+-</div>
+\ No newline at end of file
++</div>
+diff --git a/modules/annotation-config.xqm b/modules/annotation-config.xqm
+index 126a20f3..a8f65724 100644
+--- a/modules/annotation-config.xqm
++++ b/modules/annotation-config.xqm
+@@ -15,13 +15,17 @@ declare variable $anno:local-authority-file := $config:data-root || "/register.x
+ declare function anno:annotations($type as xs:string, $properties as map(*)?, $content as function(*)) {
+     switch ($type)
+         case "person" return
+-            <persName xmlns="http://www.tei-c.org/ns/1.0" ref="{$properties?ref}">{$content()}</persName>
++            <persName xmlns="http://www.tei-c.org/ns/1.0" n="{util:uuid()}">{$content()}</persName>
++        case "perderiv" return
++            <persName xmlns="http://www.tei-c.org/ns/1.0" n="{util:uuid()}" type="deriv">{$content()}</persName>
+         case "place" return
+-            <placeName xmlns="http://www.tei-c.org/ns/1.0" ref="{$properties?ref}">{$content()}</placeName>
+-        case "term" return
+-            <term xmlns="http://www.tei-c.org/ns/1.0" ref="{$properties?ref}">{$content()}</term>
++            <placeName xmlns="http://www.tei-c.org/ns/1.0" n="{util:uuid()}">{$content()}</placeName>
++        case "placederiv" return
++            <placeName xmlns="http://www.tei-c.org/ns/1.0" n="{util:uuid()}" type="deriv">{$content()}</placeName>
+         case "organization" return
+-            <orgName xmlns="http://www.tei-c.org/ns/1.0" ref="{$properties?ref}">{$content()}</orgName>
++            <orgName xmlns="http://www.tei-c.org/ns/1.0" n="{util:uuid()}">{$content()}</orgName>
++        case "orgderiv" return
++            <orgName xmlns="http://www.tei-c.org/ns/1.0" n="{util:uuid()}" type="deriv">{$content()}</orgName>
+         case "hi" return
+             <hi xmlns="http://www.tei-c.org/ns/1.0">
+             { 
+@@ -40,7 +44,7 @@ declare function anno:annotations($type as xs:string, $properties as map(*)?, $c
+             <seg xmlns="http://www.tei-c.org/ns/1.0" type="annotated">{$content()}
+             <note xmlns="http://www.tei-c.org/ns/1.0" type="annotation">{$properties?note}</note></seg>
+         case "date" return
+-            <date xmlns="http://www.tei-c.org/ns/1.0">
++            <date xmlns="http://www.tei-c.org/ns/1.0" n="{util:uuid()}">
+             {
+                 for $prop in map:keys($properties)[. = ('when', 'from', 'to')]
+                 return
+@@ -221,4 +225,4 @@ declare function anno:local-search-strings($type as xs:string, $entry as element
+         case "organization" return $entry/tei:orgName/string()
+         case "term" return $entry/tei:catDesc/string()
+         default return $entry/tei:persName/string()
+-};
+\ No newline at end of file
++};
+diff --git a/modules/config.xqm b/modules/config.xqm
+index b28884c4..143dc1cb 100644
+--- a/modules/config.xqm
++++ b/modules/config.xqm
+@@ -447,6 +447,18 @@ declare variable $config:dts-collections := map {
+                     },
+                     "metadata": config:dts-metadata#1
+                 },
++                map {
++                    "id": "annotate",
++                    "title": "Annotate",
++                    "path": $config:data-default || "/annotate",
++                    "members": function() {
++                        nav:get-root("annotate", map {
++                            "leading-wildcard": "yes",
++                            "filter-rewrite": "yes"
++                        })
++                    },
++                    "metadata": config:dts-metadata#1
++                },
+                 map {
+                     "id": "https://teipublisher.com/dts/documentation",
+                     "title": "Documentation",
+diff --git a/modules/lib/api/nlp.xql b/modules/lib/api/nlp.xql
+index 6154f1fa..5851ec76 100644
+--- a/modules/lib/api/nlp.xql
++++ b/modules/lib/api/nlp.xql
+@@ -373,7 +373,7 @@ declare %private function nlp:to-pattern($forename as xs:string, $surname as xs:
+ 
+ declare function nlp:entities-remote($input as xs:string*, $model as xs:string) {
+     let $request := 
+-        <http:request method="POST" timeout="10">
++        <http:request method="POST" timeout="1000">
+             <http:body media-type="text/text"/>
+         </http:request>
+     let $response := http:send-request(
+@@ -430,4 +430,4 @@ declare function nlp:train-remote($name, $base, $lang, $vectors, $data) {
+             parse-json(util:binary-to-string($response[2]))
+         else
+             error($errors:BAD_REQUEST, parse-json(util:binary-to-string($response[2])))
+-};
+\ No newline at end of file
++};
+diff --git a/modules/nlp-config.xqm b/modules/nlp-config.xqm
+index 5c769ed4..799660c9 100644
+--- a/modules/nlp-config.xqm
++++ b/modules/nlp-config.xqm
+@@ -13,7 +13,7 @@ declare variable $nlp:api-endpoint :=
+ (:~
+  : List of named entity types to be used for training, see nlp:entity-type below
+  :)
+-declare variable $nlp:entities := ("PER", "LOC", "ORG");
++declare variable $nlp:entities := ("PER", "LOC", "ORG", "PERderiv", "LOCderiv", "ORGderiv", "DATE");
+ 
+ (:~
+  : Defines which TEI elements should be mapped to which named entity type.
+@@ -22,12 +22,17 @@ declare variable $nlp:entities := ("PER", "LOC", "ORG");
+  :)
+ declare function nlp:entity-type($node as element()) {
+     typeswitch($node)
+-        (: case element(tei:orgName) return
+-            "ORG" :)
++        case element(tei:orgName) return
++            if ($node/@type = "deriv") then "ORGderiv"
++                else "ORG"
+         case element(tei:persName) | element(tei:author) return
+-            "PER"
++            if ($node/@type = "deriv") then "PERderiv"
++                else "PER"
+         case element(tei:placeName) | element(tei:pubPlace) return
+-            "LOC"
++            if ($node/@type = "deriv") then "LOCderiv"
++                else "LOC"
++	case element(tei:date) return
++	    'DATE'
+         default return
+             ()
+ };
+@@ -41,4 +46,4 @@ declare function nlp:blocks($root as element(), $footnotes as xs:boolean?) {
+         $root//tei:note
+     else
+         $root/(descendant::tei:p|descendant::tei:head|descendant::tei:opener|descendant::tei:closer)
+-};
+\ No newline at end of file
++};
+diff --git a/odd/annotations.odd b/odd/annotations.odd
+index 17ab2702..c1f1c2e1 100644
+--- a/odd/annotations.odd
++++ b/odd/annotations.odd
+@@ -42,9 +42,8 @@
+     <text>
+         <body>
+             <schemaSpec start="TEI teiCorpus" ident="annotations" source="teipublisher.odd">
+-                <elementSpec ident="persName" mode="add">
+-                    <model predicate="parent::person" behaviour="inline"/>
+-                    <model behaviour="inline" cssClass="annotation annotation-person authority"/>
++                <elementSpec ident="persName" mode="change">
++                    <model behaviour="inline" cssClass="annotation annotation-person"/>
+                 </elementSpec>
+                 <elementSpec ident="pb" mode="change">
+                     <model behaviour="inline">
+@@ -53,19 +52,8 @@
+             </outputRendition>
+         </model>
+                 </elementSpec>
+-                <elementSpec ident="placeName" mode="add">
+-                    <model predicate="ancestor::place" behaviour="link">
+-            <param name="uri" value="ancestor::place/ptr/@target"/>
+-            <param name="target" value="'_blank'"/>
+-        </model>
+-                    <model behaviour="inline" cssClass="annotation annotation-place authority"/>
+-                </elementSpec>
+-                <elementSpec ident="term" mode="add">
+-                    <model behaviour="inline" cssClass="annotation annotation-term authority">
+-            <outputRendition xml:space="preserve">
+-            font-style: italic;
+-            </outputRendition>
+-        </model>
++                <elementSpec ident="placeName" mode="change">
++                    <model behaviour="inline" cssClass="annotation annotation-place"/>
+                 </elementSpec>
+                 <elementSpec ident="date" mode="change">
+                     <model behaviour="inline" cssClass="annotation annotation-date"/>
+@@ -77,8 +65,8 @@
+             <param name="label" value="@n"/>
+         </model>
+                 </elementSpec>
+-                <elementSpec ident="orgName" mode="add">
+-                    <model behaviour="inline" cssClass="annotation annotation-organization authority"/>
++                <elementSpec ident="orgName" mode="change">
++                    <model behaviour="inline" cssClass="annotation annotation-organization"/>
+                 </elementSpec>
+                 <elementSpec ident="place" mode="add">
+                     <modelSequence>
+@@ -150,4 +138,4 @@
+             </schemaSpec>
+         </body>
+     </text>
+-</TEI>
+\ No newline at end of file
++</TEI>
+diff --git a/post-install.xql b/post-install.xql
+index 11beec5e..170677da 100644
+--- a/post-install.xql
++++ b/post-install.xql
+@@ -12,26 +12,16 @@ declare variable $dir external;
+ (: the target collection into which the app is deployed :)
+ declare variable $target external;
+ 
+-if (not(sm:user-exists("tei-demo"))) then
+-    sm:create-account("tei-demo", "demo", "tei", ())
++if (not(sm:user-exists("stazh"))) then
++    sm:create-account("stazh", "", "tei", ())
+ else
+     (),
+ (: API needs dba rights for LaTeX :)
+ sm:chgrp(xs:anyURI($target || "/modules/lib/api-dba.xql"), "dba"),
+ sm:chmod(xs:anyURI($target || "/modules/lib/api-dba.xql"), "rwxr-Sr-x"),
+ 
+-xmldb:create-collection($target || "/data", "playground"),
+-sm:chmod(xs:anyURI($target || "/data/playground"), "rwxrwxr-x"),
+-sm:chown(xs:anyURI($target || "/data/playground"), "tei-demo"),
+-sm:chgrp(xs:anyURI($target || "/data/playground"), "tei"),
+-xmldb:create-collection($target || "/data", "dts"),
+-sm:chmod(xs:anyURI($target || "/data/dts"), "rwxrwxr-x"),
+-sm:chown(xs:anyURI($target || "/data/dts"), "tei-demo"),
+-sm:chgrp(xs:anyURI($target || "/data/dts"), "tei"),
+ sm:chmod(xs:anyURI($target || "/data/annotate"), "rwxrwxr-x"),
+-sm:chown(xs:anyURI($target || "/data/annotate"), "tei-demo"),
+-sm:chmod(xs:anyURI($target || "/data/jats"), "rwxrwxr-x"),
+-sm:chown(xs:anyURI($target || "/data/jats"), "tei-demo"),
++sm:chown(xs:anyURI($target || "/data/annotate"), "stazh"),
+ sm:chmod(xs:anyURI($target || "/data/register.xml"), "rw-rw-r--"),
+ xmldb:create-collection($target || "/data", "temp"),
+ sm:chmod(xs:anyURI($target || "/data/temp"), "rwxrwxr-x"),
+@@ -44,4 +34,4 @@ return
+     if (ends-with($resource, "-main.xql")) then
+         sm:chmod(xs:anyURI($target || "/transform/" || $resource), "rwxrwxr-x")
+     else
+-        sm:chmod(xs:anyURI($target || "/transform/" || $resource), "rw-rw-r--")
+\ No newline at end of file
++        sm:chmod(xs:anyURI($target || "/transform/" || $resource), "rw-rw-r--")
+diff --git a/resources/css/home.css b/resources/css/home.css
+index d2d547b3..351adcec 100644
+--- a/resources/css/home.css
++++ b/resources/css/home.css
+@@ -358,7 +358,7 @@ h5 {
+ }
+ 
+ .side {
+-    max-width: 20em;
++    max-width: 15em;
+     padding-left: 2em;
+     justify-self:end;
+     color:white;
+diff --git a/templates/index.html b/templates/index.html
+index e65ae7d4..1139ad1c 100644
+--- a/templates/index.html
++++ b/templates/index.html
+@@ -66,10 +66,10 @@
+                     </app-toolbar>
+                 <header class="welcome">
+                     <div>
+-                        <h1 class="tp-title">The Instant Publishing Toolbox</h1>
++                        <h1 class="tp-title">TEI-Publisher (NER pipeline)</h1>
+                     </div>
+                    <div class="side">
+-                        <p><pb-i18n key="browse.login-1">Log in as</pb-i18n> <strong>tei-demo</strong> <pb-i18n key="browse.login-2">with password</pb-i18n> <strong>demo</strong> <pb-i18n key="browse.login-3">to experiment with your own files and ODDs</pb-i18n></p>
++                        <p>Als <strong>stazh</strong> ohne Passwort einloggen.</p>
+ 
+                    </div>
+                 </header>
+@@ -157,4 +157,4 @@
+     <script src="resources/scripts/browse.js"></script>
+ </body>
+ 
+-</html>
+\ No newline at end of file
++</html>
+diff --git a/templates/menu.html b/templates/menu.html
+index 6a4e7f0b..999c192b 100644
+--- a/templates/menu.html
++++ b/templates/menu.html
+@@ -4,7 +4,6 @@
+         <a href="${app}/index.html" data-template="pages:parse-params">Start</a>
+         <paper-menu-button data-template="lib:include" data-template-path="templates/menu.documentation.html"/>
+         <a href="https://www.e-editiones.org/tags/release" target="_blank"><pb-i18n key="menu.news">News</pb-i18n></a>
+-        <a href="${app}/dts.html" data-template="pages:parse-params">DTS</a>
+ 
+         <paper-menu-button id="download-button">
+             <a slot="dropdown-trigger" data-i18n="[title]menu.download.title" title="i18n(download)">
+@@ -46,30 +45,8 @@
+                 </paper-item>
+             </paper-listbox>
+         </paper-menu-button>
+-        <pb-restricted login="login">
+-            <paper-menu-button>
+-                <a slot="dropdown-trigger"><pb-i18n key="menu.admin.title">Admin</pb-i18n></a>
+-                <paper-listbox slot="dropdown-content">
+-                    <paper-item class="menu-edit-odd">
+-                        <pb-download data-template="pages:edit-odd-link" src="document1" subscribe="transcription">
+-                            <pb-i18n key="menu.admin.edit-odd">Edit ODD</pb-i18n>
+-                        </pb-download>
+-                    </paper-item>
+-                    <paper-item>
+-                        <a href="${app}/manage.html" data-template="pages:parse-params">
+-                            <pb-i18n key="menu.admin.appGenerator"/>
+-                        </a>
+-                    </paper-item>
+-                    <paper-item>
+-                        <a href="${app}/train-ner.html" data-template="pages:parse-params">
+-                            <pb-i18n key="menu.admin.train">Train Named Entity Recognition</pb-i18n>
+-                        </a>
+-                    </paper-item>
+-                </paper-listbox>
+-            </paper-menu-button>
+-        </pb-restricted>
+ 
+-        <a href="https://github.com/eeditiones/tei-publisher-app" title="View code on GitHub" class="gitlab">
++	<a href="https://github.com/eeditiones/tei-publisher-app" title="View code on GitHub" class="gitlab">
+             <img src="resources/images/github.svg"/>
+         </a>
+     </pb-media-query>
+diff --git a/templates/pages/annotate.html b/templates/pages/annotate.html
+index 65a962ef..bb34d1c1 100644
+--- a/templates/pages/annotate.html
++++ b/templates/pages/annotate.html
+@@ -1,4 +1,3 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+ <html>
+     <head>
+         <meta charset="utf-8"/>
+@@ -15,8 +14,8 @@
+ 
+         <link rel="stylesheet" href="resources/css/theme.css"/>
+         <link rel="stylesheet" href="templates/pages/annotate.css"/>
+-        <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"></script>
+-        <script type="text/javascript" src="resources/scripts/annotations/annotations.js"></script>
++        <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
++        <script type="text/javascript" src="resources/scripts/annotations/annotations.js"/>
+     </head>
+ 
+     <body>
+@@ -34,91 +33,92 @@
+                         <aside class="annotation-editor">
+                             <div class="toolbar">
+                                 <!--paper-icon-button id="clear-all" icon="icons:refresh"></paper-icon-button-->
+-                                <paper-icon-button class="annotation-action authority" data-i18n="[title]annotations.person" title="Person" data-type="person" data-shortcut="⌘+⇧+p,ctrl+⇧+p" icon="social:person" disabled="disabled"></paper-icon-button>
+-                                <paper-icon-button class="annotation-action authority" data-i18n="[title]annotations.organisation" title="organization" data-type="organization" data-shortcut="⌘+⇧+o,ctrl+⇧+o" icon="social:people" disabled="disabled"></paper-icon-button>
+-                                <paper-icon-button class="annotation-action authority" data-i18n="[title]annotations.place" title="Place" data-type="place" icon="maps:place" data-shortcut="⌘+⇧+q,ctrl+⇧+q" disabled="disabled"></paper-icon-button>
+-                                <paper-icon-button class="annotation-action authority" data-i18n="[title]annotations.term" title="Term" data-type="term" icon="icons:bookmark" data-shortcut="⌘+⇧+t,ctrl+⇧+t" disabled="disabled"></paper-icon-button>
+-                                <paper-icon-button class="annotation-action" data-i18n="[title]annotations.date" title="Date" data-type="date" icon="icons:today" data-shortcut="⌘+⇧+d,ctrl+⇧+d" disabled="disabled"></paper-icon-button>
+-                                <paper-icon-button class="annotation-action" data-i18n="[title]annotations.ref" title="Reference" data-type="link" icon="icons:link" data-shortcut="⌘+⇧+l,ctrl+⇧+l" disabled="disabled"></paper-icon-button>
+-                                <paper-icon-button class="annotation-action" data-i18n="[title]annotations.abbreviation" title="Abbreviation" data-type="abbreviation" icon="icons:translate" data-shortcut="⌘+⇧+b,ctrl+⇧+b" disabled="disabled"></paper-icon-button>
+-                                <paper-icon-button class="annotation-action" title="Sic" data-type="sic" icon="editor:strikethrough-s" data-shortcut="⌘+⇧+e,ctrl+⇧+e" disabled="disabled"></paper-icon-button>
+-                                <paper-icon-button class="annotation-action" data-i18n="[title]annotations.reg" title="Regularization" data-type="reg" icon="editor:wrap-text" data-shortcut="⌘+⇧+g,ctrl+⇧+g" disabled="disabled"></paper-icon-button>
+-                                <paper-icon-button class="annotation-action" data-i18n="[title]annotations.app" title="Apparatus" data-type="app" icon="icons:visibility" data-shortcut="⌘+⇧+v,ctrl+⇧+v" disabled="disabled"></paper-icon-button>
+-                                <paper-icon-button class="annotation-action" data-i18n="[title]annotations.hi" title="Highlight" data-type="hi" icon="editor:format-bold" data-shortcut="⌘+⇧+h,ctrl+⇧+h" disabled="disabled"></paper-icon-button>
+-                                <paper-icon-button class="annotation-action" data-i18n="[title]annotations.modify" title="Edit" data-type="edit" icon="editor:mode-edit" data-shortcut="⌘+⇧+m,ctrl+⇧+m" disabled="disabled"></paper-icon-button>
+-                                <paper-icon-button id="ner-action" icon="social:group-add" data-i18n="[title]annotations.ner.title"></paper-icon-button>
++                                <paper-icon-button class="annotation-action toggle" data-i18n="[title]annotations.person" title="Person" data-type="person" data-shortcut="⌘+⇧+p,ctrl+⇧+p" icon="social:person" disabled="disabled"/>
++                                <paper-icon-button class="annotation-action toggle" data-i18n="[title]annotations.organization" title="Organization" data-type="organization" data-shortcut="⌘+⇧+o,ctrl+⇧+o" icon="social:people" disabled="disabled"/>
++                                <paper-icon-button class="annotation-action toggle" data-i18n="[title]annotations.place" title="Place" data-type="place" icon="maps:place" data-shortcut="⌘+⇧+l,ctrl+⇧+l" disabled="disabled"/>
++                                <paper-icon-button class="annotation-action toggle" data-i18n="[title]annotations.perderiv" title="Person (deriv)" data-type="perderiv" icon="social:person" disabled="disabled"/>
++                                <paper-icon-button class="annotation-action toggle" data-i18n="[title]annotations.orgderiv" title="Organization (deriv)" data-type="orgderiv" icon="social:people" disabled="disabled"/>
++                                <paper-icon-button class="annotation-action toggle" data-i18n="[title]annotations.placederiv" title="Place (deriv)" data-type="placederiv" icon="maps:place" disabled="disabled"/>
++                                <paper-icon-button class="annotation-action" data-i18n="[title]annotations.date" title="Date" data-type="date" icon="icons:today" data-shortcut="⌘+⇧+d,ctrl+⇧+d" disabled="disabled"/>
++                                <paper-icon-button class="annotation-action" data-i18n="[title]annotations.abbreviation" title="Abbreviation" data-type="abbreviation" icon="icons:translate" data-shortcut="⌘+⇧+b,ctrl+⇧+b" disabled="disabled"/>
++                                <paper-icon-button class="annotation-action" title="Sic" data-type="sic" icon="editor:strikethrough-s" data-shortcut="⌘+⇧+e,ctrl+⇧+e" disabled="disabled"/>
++                                <paper-icon-button class="annotation-action" data-i18n="[title]annotations.reg" title="Regularization" data-type="reg" icon="editor:wrap-text" data-shortcut="⌘+⇧+g,ctrl+⇧+g" disabled="disabled"/>
++                                <paper-icon-button class="annotation-action" data-i18n="[title]annotations.app" title="Apparatus" data-type="app" icon="icons:visibility" data-shortcut="⌘+⇧+v,ctrl+⇧+v" disabled="disabled"/>
++                                <paper-icon-button class="annotation-action" data-i18n="[title]annotations.hi" title="Highlight" data-type="hi" icon="editor:format-bold" data-shortcut="⌘+⇧+h,ctrl+⇧+h" disabled="disabled"/>
++                                <paper-icon-button class="annotation-action" data-i18n="[title]annotations.modify" title="Edit" data-type="edit" icon="editor:mode-edit" data-shortcut="⌘+⇧+m,ctrl+⇧+m" disabled="disabled"/>
++                                <paper-icon-button id="ner-action" icon="social:group-add" data-i18n="[title]annotations.ner.title"/>
+                             </div>
+                             <iron-form id="edit-form">
+                                 <form action="">
+-                                    <div class="annotation-form person organization place term">
+-                                        <paper-input class="form-ref" name="ref" data-i18n="[label]annotations.reference" label="Reference">
+-                                            <paper-icon-button slot="prefix" icon="search" data-i18n="[label]annotations.lookup"></paper-icon-button>
+-                                        </paper-input>
+-                                        <div class="authority-info"><pb-i18n key="dialogs.loading">Loading ...</pb-i18n></div>
+-                                    </div>
+                                     <div class="annotation-form date">
+-                                        <paper-input name="when" label="when" type="date"></paper-input>
+-                                        <paper-input name="from" label="from" type="date"></paper-input>
+-                                        <paper-input name="to" label="to" type="date"></paper-input>
++                                        <paper-input name="when" label="when" type="date"/>
++                                        <paper-input name="from" label="from" type="date"/>
++                                        <paper-input name="to" label="to" type="date"/>
+                                     </div>
+                                     <div class="annotation-form hi">
+-                                        <paper-input name="rend" label="rend"></paper-input>
+-                                        <paper-input name="rendition" label="rendition"></paper-input>
++                                        <paper-input name="rend" label="rend"/>
++                                        <paper-input name="rendition" label="rendition"/>
+                                     </div>
+                                     <div class="annotation-form link">
+-                                        <paper-input name="target" label="target"></paper-input>
++                                        <paper-input name="target" label="target"/>
+                                     </div>
+                                     <pb-repeat class="annotation-form app" initial="1">
+                                         <template>
+-                                            <paper-input name="wit" label="wit"></paper-input>
+-                                            <paper-input name="rdg" label="rdg"></paper-input>
++                                            <paper-input name="wit" label="wit"/>
++                                            <paper-input name="rdg" label="rdg"/>
+                                         </template>
+                                     </pb-repeat>
+-                                    <paper-input class="annotation-form sic" name="corr" data-i18n="[label]annotations.correction" label="Correction"></paper-input>
+-                                    <paper-input class="annotation-form abbreviation" name="expan" data-i18n="[label]annotations.expansion" label="Expansion"></paper-input>
+-                                    <paper-input class="annotation-form reg" name="reg" data-i18n="[label]annotations.reg" label="Regularization"></paper-input>
++                                    <paper-input class="annotation-form sic" name="corr" data-i18n="[label]annotations.correction" label="Correction"/>
++                                    <paper-input class="annotation-form abbreviation" name="expan" data-i18n="[label]annotations.expansion" label="Expansion"/>
++                                    <paper-input class="annotation-form reg" name="reg" data-i18n="[label]annotations.reg" label="Regularization"/>
+                                     <div class="annotation-form edit">
+-                                        <p><pb-i18n key="annotations.modify-info"></pb-i18n></p>
+-                                        <paper-input name="content" data-i18n="[label]annotations.correction" label="Correction"></paper-input>
++                                        <p>
++                                            <pb-i18n key="annotations.modify-info"/>
++                                        </p>
++                                        <paper-input name="content" data-i18n="[label]annotations.correction" label="Correction"/>
+                                     </div>
+-                                    <paper-icon-button id="form-save" icon="icons:save" data-i18n="[label]annotations.apply"></paper-icon-button>
++                                    <paper-icon-button id="form-save" icon="icons:save" data-i18n="[label]annotations.apply"/>
+                                 </form>
+                             </iron-form>
+                             <div id="occurrences">
+-                                <h4><div><pb-i18n key="annotations.occurrences">Occurrences in text</pb-i18n></div> <paper-icon-button id="mark-all" icon="icons:done-all" data-i18n="[label]annotations.apply-all" data-shortcut="⌘+option+a,ctrl+alt+a"></paper-icon-button></h4>
+-                                <ul></ul>
++                                <h4>
++                                    <div>
++                                        <pb-i18n key="annotations.occurrences">Occurrences in text</pb-i18n>
++                                    </div> <paper-icon-button id="mark-all" icon="icons:done-all" data-i18n="[label]annotations.apply-all" data-shortcut="⌘+option+a,ctrl+alt+a"/>
++                                </h4>
++                                <ul/>
+                             </div>
+                         </aside>
+                         <div class="text">
+                             <pb-view id="title-view1" src="document1" xpath="//teiHeader/fileDesc/titleStmt/title" view="single">
+                                 <pb-param name="header" value="short"/>
+                             </pb-view>
+-                            <pb-view-annotate id="view1" src="document1" odd="annotations"
+-                                append-footnotes="append-footnotes" suppress-highlight="suppress-highlight"
+-                                subscribe="transcription" emit="transcription">
++                            <pb-view-annotate id="view1" src="document1" odd="annotations" append-footnotes="append-footnotes" suppress-highlight="suppress-highlight" subscribe="transcription" emit="transcription">
+                                 <pb-param name="track-ids" value="yes"/>
+                             </pb-view-annotate>
+                         </div>
+                         <aside class="preview">
+                             <header>
+                                 <div class="toolbar">
+-                                    <paper-icon-button id="reload-all" icon="icons:restore" data-i18n="[title]annotations.reload"></paper-icon-button>
+-                                    <paper-icon-button id="document-save" icon="icons:save" data-i18n="[title]annotations.save" data-shortcut="⌘+⇧+s,ctrl+⇧+s"></paper-icon-button>
+-                                    <paper-icon-button id="document-download" icon="icons:cloud-download" data-i18n="[title]annotations.download" data-shortcut="⌘+⇧+d,ctrl+⇧+d"></paper-icon-button>
+-                                    <paper-icon-button id="undo-history" icon="icons:undo" data-i18n="[title]annotations.undo"></paper-icon-button>
+-                                    <paper-icon-button id="reload-preview" icon="icons:refresh" data-i18n="[title]annotations.preview"></paper-icon-button>
++                                    <paper-icon-button id="reload-all" icon="icons:restore" data-i18n="[title]annotations.reload"/>
++                                    <paper-icon-button id="document-save" icon="icons:save" data-i18n="[title]annotations.save" data-shortcut="⌘+⇧+s,ctrl+⇧+s"/>
++                                    <paper-icon-button id="document-download" icon="icons:cloud-download" data-i18n="[title]annotations.download" data-shortcut="⌘+⇧+d,ctrl+⇧+d"/>
++                                    <paper-icon-button id="undo-history" icon="icons:undo" data-i18n="[title]annotations.undo"/>
++                                    <paper-icon-button id="reload-preview" icon="icons:refresh" data-i18n="[title]annotations.preview"/>
+                                 </div>
+-                                <pb-select-odd emit="preview"></pb-select-odd>
++                                <pb-select-odd emit="preview"/>
+                             </header>
+                             <pb-tabs>
+                                 <paper-tab slot="tab">HTML</paper-tab>
+                                 <paper-tab slot="tab">TEI</paper-tab>
+                                 <paper-tab slot="tab">JSON</paper-tab>
+-                                <paper-tab slot="tab"><pb-i18n key="annotations.changes">Changes</pb-i18n></paper-tab>
+-                                <iframe slot="page" id="html" src="about:blank"></iframe>
+-                                <pb-code-highlight slot="page" id="output" language="xml" theme="default"></pb-code-highlight>
+-                                <pre slot="page" id="json"></pre>
+-                                <div slot="page" id="changes"></div>
++                                <paper-tab slot="tab">
++                                    <pb-i18n key="annotations.changes">Changes</pb-i18n>
++                                </paper-tab>
++                                <iframe slot="page" id="html" src="about:blank"/>
++                                <pb-code-highlight slot="page" id="output" language="xml" theme="default"/>
++                                <pre slot="page" id="json"/>
++                                <div slot="page" id="changes"/>
+                             </pb-tabs>
+                         </aside>
+                     </main>
+@@ -128,17 +128,17 @@
+                 <paper-dialog-scrollable>
+                     <pb-authority-lookup subscribe="transcription" emit="transcription">
+                         <pb-authority connector="Custom" name="organization">
+-                            <pb-authority connector="GND" prefix="gnd"></pb-authority>
++                            <pb-authority connector="GND" prefix="gnd"/>
+                         </pb-authority>
+                         <!--pb-authority connector="GeoNames" name="place" user="existdb" prefix="geo"></pb-authority-->
+                         <pb-authority connector="Custom" name="place">
+-                            <pb-authority connector="GeoNames" user="existdb" prefix="geo"></pb-authority>
++                            <pb-authority connector="GeoNames" user="existdb" prefix="geo"/>
+                         </pb-authority>
+                         <pb-authority connector="Custom" name="term">
+-                            <pb-authority connector="GND" prefix="gnd"></pb-authority>
++                            <pb-authority connector="GND" prefix="gnd"/>
+                         </pb-authority>
+                         <pb-authority connector="Custom" name="person">
+-                            <pb-authority connector="GND" prefix="gnd"></pb-authority>
++                            <pb-authority connector="GND" prefix="gnd"/>
+                         </pb-authority>
+                     </pb-authority-lookup>
+                 </paper-dialog-scrollable>
+@@ -150,10 +150,14 @@
+             </paper-dialog>
+             <paper-dialog id="ner-dialog">
+                 <paper-dialog-scrollable>
+-                    <h2><pb-i18n key="annotations.ner.title">Named Entity Extraction</pb-i18n></h2>
+-                    <p><pb-i18n key="annotations.ner.description">Try to automatically find named entities in the text and mark them as annotations.</pb-i18n></p>
++                    <h2>
++                        <pb-i18n key="annotations.ner.title">Named Entity Extraction</pb-i18n>
++                    </h2>
++                    <p>
++                        <pb-i18n key="annotations.ner.description">Try to automatically find named entities in the text and mark them as annotations.</pb-i18n>
++                    </p>
+                     <paper-dropdown-menu data-i18n="[label]annotations.ner.model" label="Select a model">
+-                        <paper-listbox slot="dropdown-content" selected="0"></paper-listbox>
++                        <paper-listbox slot="dropdown-content" selected="0"/>
+                     </paper-dropdown-menu>
+                     <!--p>OR</p>
+                     <paper-checkbox>Use rule-based matching</paper-checkbox>
+@@ -168,13 +172,13 @@
+                     </paper-button>
+                 </div>
+             </paper-dialog>
+-            <pb-message id="restore-dialog" data-i18n="[title]annotations.confirm-restore-title;[message]annotations.restore"></pb-message>
+-            <pb-message id="confirm-reload-dialog" data-i18n="[title]annotations.confirm-reload-title;[message]annotations.confirm-reload"></pb-message>
+-            <pb-message id="permission-denied-dialog" data-i18n="[title]dialogs.error;[message]annotations.permission"></pb-message>
+-            <pb-message id="ner-denied-dialog" data-i18n="[title]dialogs.error;[message]annotations.ner.denied"></pb-message>
+-            <pb-message id="error-dialog" data-i18n="[title]dialogs.error;[message]dialogs.serverError"></pb-message>
+-            <pb-message id="runtime-error-dialog" data-i18n="[title]dialogs.error;[message]dialogs.serverError"></pb-message>
++            <pb-message id="restore-dialog" data-i18n="[title]annotations.confirm-restore-title;[message]annotations.restore"/>
++            <pb-message id="confirm-reload-dialog" data-i18n="[title]annotations.confirm-reload-title;[message]annotations.confirm-reload"/>
++            <pb-message id="permission-denied-dialog" data-i18n="[title]dialogs.error;[message]annotations.permission"/>
++            <pb-message id="ner-denied-dialog" data-i18n="[title]dialogs.error;[message]annotations.ner.denied"/>
++            <pb-message id="error-dialog" data-i18n="[title]dialogs.error;[message]dialogs.serverError"/>
++            <pb-message id="runtime-error-dialog" data-i18n="[title]dialogs.error;[message]dialogs.serverError"/>
+         </pb-page>
+-        <div class="splash"></div>
++        <div class="splash"/>
+     </body>
+-</html>
++</html>
+\ No newline at end of file

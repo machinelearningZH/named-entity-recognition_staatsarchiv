@@ -1,0 +1,79 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz betreffend Aussetzung von Prämien zur Förderung der Landwirthschaft.</title>
+                <respStmt>
+                    <resp ref="#sef" key="transcript">Transkript: sef<date when="2016-01-21">21.01.2016</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Gesetz betreffend Aussetzung von Prämien zur Förderung der Landwirthschaft.</title>
+                    <date when="1861-02-14">14.02.1861</date>
+                    <ident>StAZH OS 12 (S. 441-443)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_12__S__441-443__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3474151"/>
+                    <listRelation>
+                        <relation name="Aufhebung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3474151" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3472872"/>
+                        <relation name="Aufhebung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3474151" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3474469"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="441"/>
+            </p>
+            <p>§ 1. Alljährlich wird eine Summe von 12000 Frk. ausgesetzt, um durch Aufmunterung auf Hebung der Viehzucht und der Landwirthschaft überhaupt hinzuwirken.</p>
+            <p>§ 2. Von dieser Summe werden 11000 Frkn. je zwei Jahre nacheinander zu bezirksweiser Prämienaustheilung für Besitzer ausgezeichneter Zuchtstiere, trächtiger Rinder und Zuchtschweine und je das dritte Jahr zu einer <orgName n="73e2691e-1da9-40c0-a269-1e1da970c000" type="deriv">kantonalen</orgName> Prämienaustheilung für Besitzer vorzüglicher Zuchtthiere, 1000 Frkn. alljährlich zu Belohnungen für ausgezeichnete landwirthschaftliche Leistungen verwendet.</p>
+            <p>§ 3. Von dem zu bezirksweiser Prämienaustheilung eröffneten Kredite von 11000 Frkn. sind 6000 Frkn. zu Prämien für Besitzer von Zuchtstieren, 2400 Frkn. zu Prämien für Besitzer von trächtigen Rindern und 2000 Frkn. zu Prämien für Besitzer von Zuchtschweinen bestimmt. Die übrigen 600 Frkn. dienen als Kredit für die Entschädigung der Preisrichter und andere derartige Verwaltungskosten.</p>
+            <p>§ 4. Den Maßstab der Bertheilung auf die einzelnen Bezirke bildet für die 6000 Frkn. und 2400 Frkn. die Anzahl von Zuchtstieren und für die 2000 Frkn. die Zahl der Zuchtschweine, welche in jedem Bezirke gehalten werden.  <pb n="442"/>
+            </p>
+            <p>§ 5. Ueber die Ertheilung her bezirksweise zu vergebenden Prämien entscheidet im ganzen Kanton eine Kommission, welche sich zu diesem Ende hin in die Bezirke verfügt.</p>
+            <p>Der betreffende Bezirksthierarzt wohnt ihr mit berathender Stimme bei.</p>
+            <p>§ 6. Die <orgName n="f3c27301-4919-4360-8273-01491973604e" type="deriv">kantonale</orgName> Prämienaustheilung wird abwechselnd in verschiedenen Gegenden des <orgName n="6b154bd1-e919-48fc-954b-d1e91988fc54">Kanton</orgName> abgehalten.</p>
+            <p>§ 7. Zuchtstiere und Zuchthengste, für welche Prämien ertheilt werden, müssen die erstern wenigstens ein, die letztern wenigstens zwei Jahre innerhalb des <orgName n="dee69f26-f54f-43de-a69f-26f54f63de87">Kantons</orgName> zur Züchtung gedient haben oder noch dienen.</p>
+            <p>Die nähern Bestimmungen hierüber, sowie über die Prämirung der Kühe und Rinder bleiben einem Reglement überlassen.</p>
+            <p>§ 8. Für Zuchtstiere können nur unter der Bedingung Prämien ertheilt werden, daß ein Zuchtstier für höchstens 90 Kühe zur Züchtung benutzt wird.</p>
+            <p>§ 9. Das <orgName n="bb459dc0-3349-45f0-859d-c0334985f03e">Prämieninstitut</orgName> steht unter der Leitung und Aufsicht der <orgName n="188c11b3-221c-43a3-8c11-b3221cb3a364">Kommission für Landwirthschaft</orgName>.</p>
+            <p>§ 10. Die nöthigen Reglements betreffend die Anzahl der Prämien, die Wahl der Preisrichter, die Grundsätze, von denen bei den Prämienaustheilungen auszugehen ist, die an die Prämirung zu knüpfenden Bedingungen, das Verfahren bei Vergebung von Prämien u. s. f. sollen auf den Antrag des Direktors des Innern und der ihm beigegebenen <orgName n="800120ad-d23a-4091-8120-add23a0091bf">Kommission für Landwirthschaft</orgName> vom <orgName n="37a3b77e-9153-4ac3-a3b7-7e9153eac356">Regierungsrathe</orgName> erlassen werden.</p>
+            <p>§ 11. Der Direktor des Innern und die ihm beigegebene <orgName n="c7e973cd-7061-4472-a973-cd7061847276">Kommission für Landwirthschaft</orgName> entscheidet  <pb n="443"/>über die Verwendung des zu Belohnungen für ausgezeichnete landwirthschaftliche Leistungen ausgesetzten Kredites.</p>
+            <p>§ 12. Dieses Gesetz, durch welches dasjenige vom 15. Hornung 1847 aufgehoben wird, tritt sofort in Kraft. Der <orgName n="f2ad2dd6-dde0-4128-ad2d-d6dde0e128d9">Regierungsrath</orgName> ist mit der Vollziehung desselben beauftragt.</p>
+            <p>
+                <placeName n="420531eb-ddae-4496-8531-ebddae449628">Zürich</placeName>, den 14. Hornung 1861.</p>
+            <p>Im Namen des <orgName n="60c74692-4477-459f-8746-924477c59f0a">Großen Rathes</orgName>:</p>
+            <p>Der Präsident,</p>
+            <p>Dr. <persName n="c2866021-5f48-4404-8660-215f48a40495">A. Escher</persName>.</p>
+            <p>Der zweite Sekretar,</p>
+            <p>
+                <persName n="b9e884a9-ef5a-4093-a884-a9ef5a509337">A. Vogel</persName>.</p>
+            <p>Wir Präsident und <orgName n="1d99ad3c-eca6-4a0c-99ad-3ceca60a0c3e">Regierungsrath des Kantons Zürich</orgName> haben behufs der Vollziehung des vorstehenden Gesetzes verordnet:</p>
+            <p>Dieses Gesetz soll in die Gesetzsammlung aufgenommen werden.</p>
+            <p>Also beschlossen Samstags den 16. Hornung 1861.</p>
+            <p>Der erste Präsident,</p>
+            <p>Dr. <persName n="1f7f8e4f-f9ed-4b23-bf8e-4ff9ed9b2379">Jb. Dubs.</persName>
+            </p>
+            <p>Der erste Staatsschreiber,</p>
+            <p>
+                <persName n="da9d398d-544f-42fc-9d39-8d544f02fcd9">Huber</persName>.</p>
+        </body>
+    </text>
+</TEI>

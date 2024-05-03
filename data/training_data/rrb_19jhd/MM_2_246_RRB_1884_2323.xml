@@ -1,0 +1,61 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johs. Heußer, Goßau, Arbeitszeitverlängerung.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#rke">Transkript: rke<date when="2016-09-19">19.09.2016</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Johs. Heußer, Goßau, Arbeitszeitverlängerung.</title>
+                    <date when="1884-12-20">20.12.1884</date>
+                    <ident>StAZH MM 2.246 RRB 1884/2323</ident>
+                    <idno>794–796</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_201_MM_2_256/MM_2_246/MM_2_246_RRB_1884_2323_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3713761"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="794"/>Herr <persName n="cbf453ed-6c97-46a8-b453-ed6c9726a865">Johs. Heußer</persName>, älter, in <placeName n="f8cb1434-edf0-4202-8b14-34edf0120287">Goßau</placeName> ersucht mit Zuschrift vom 4. Dezbr. um die Bewilligung, die regelmäßige Arbeitszeit in seiner Baumwollspinnerei bis Ende März nächsten Jahres täglich um eine Stunde verlängern zu dürfen, &amp; führt zur Begründung an: </p>
+            <p>
+                <pb n="795"/>Mehrere seiner regelmäßigen Abnehmer haben ihm auf mehrere Monate hinaus so viele [? Orelres] zugewiesen, daß er solche im gesetzlichen Normalarbeitstag nicht zu bewältigen im Stande sei, und doch müsse er darnach trachten, um sich die Kundschaft zu erhalten, die Aufträge in der vorgeschriebenen Zeit zu effektuiren.</p>
+            <p>Sowohl der <orgName n="456f6930-ad7b-468e-af69-30ad7b268ec3">Gemeindrath Goßau</orgName> als das <orgName n="897906cc-112c-48aa-b906-cc112c28aaad">Statthalteramt Hinweil</orgName> empfehlen das Gesuch zur Entsprechung.</p>
+            <p>Die <orgName n="0f6c6b3c-4d9a-4de1-ac6b-3c4d9afde172">Direktion des Innern</orgName> berichtet:</p>
+            <p>Petent hat im Jahr 1883 ein Mal um Arbeitszeitverlängerung nachgesucht &amp; es wurde ihm am 24. August eine solche von 3 Monaten täglich um 1 Stunde bewilligt.</p>
+            <p/>
+            <p>Der <orgName n="7f5557bc-c19a-4b1c-9557-bcc19a7b1c25">Regierungsrath</orgName>,</p>
+            <p>nach Einsicht eines Antrages der <orgName n="c026bdd1-af47-4260-a6bd-d1af47226007">Direktion des Innern</orgName>,</p>
+            <p>beschließt:</p>
+            <p/>
+            <p>1. Dem Petenten wird die Bewilligung ertheilt, die regelmäßige Arbeitszeit in seinem Etablissement während 3 Monaten, vom Tage der Mittheilung an gerechnet, täglich um 1 Stunde zu verlängern unter der Bedingung, daß nur freiwillig sich meldende erwachsene Arbeiter verwendet werden.</p>
+            <p/>
+            <p>2. Der <orgName n="9706c0be-ee25-495c-86c0-beee25995c19">Gemeindrath Goßau</orgName> wird eingeladen, die Bewilligung durch Anschlag zur öffentlichen Kenntniß zu bringen.<pb n="796"/>
+            </p>
+            <p/>
+            <p>3. Mittheilung an den Petenten, an Fabrikinspektor <persName n="87d305cf-1996-497d-9305-cf1996997dbb">Schuler</persName>, in <placeName n="81b9bf83-7bd2-41a6-b9bf-837bd241a615">Mollis</placeName>, an das <orgName n="7d57c8f8-3abe-4a30-97c8-f83abe1a30e8">Statthalteramt Hinweil</orgName> &amp; an den <orgName n="9201d165-b310-4275-81d1-65b31002752b">Gemeindrath Goßau</orgName>, an letztere mit der Anweisung, darüber zu wachen, daß die ertheilte Bewilligung nicht überschritten werde.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

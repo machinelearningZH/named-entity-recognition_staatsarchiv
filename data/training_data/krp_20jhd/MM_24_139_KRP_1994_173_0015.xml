@@ -1,0 +1,138 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Einzelinitiative Sandro Bassola, Zürich, vom 30. Mai 1994 betreffend fixe Tarife und Pauschalen im Gesundheitswesen, fixe Spitaltaxen – Bremsung der Kostenexplosion 
+KR-Nr. 191/1994</title>
+                <respStmt>
+                    <resp ref="#OCR/mls" key="transcript">Transkript: OCR/mls<date when="2011-11-15">15.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Einzelinitiative Sandro Bassola, Zürich, vom 30. Mai 1994 betreffend fixe Tarife und Pauschalen im Gesundheitswesen, fixe Spitaltaxen – Bremsung der Kostenexplosion 
+KR-Nr. 191/1994</title>
+                    <date when="1994-08-22">22.08.1994</date>
+                    <ident>StAZH MM 24.139 KRP 1994/173/0015</ident>
+                    <idno>11078–11081</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_139_KRP_1994_173_0015_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3741872"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="11078"/>Die Einzelinitiative lautet wie folgt: Mit der vorliegenden Einzelinitiative verlange ich den Erlass neuer Artikel und die Anpassung der bestehenden Artikel der Kantonsverfassung mit gleichzeitiger Anpassung betroffener Gesetze und Verordnungen, damit folgendes erreicht und realisiert werden kann.</p>
+            <p>1. Fixe Tarife und Pauschalen im <orgName n="9f888730-02cb-4912-8887-3002cba91255">Gesundheitswesen</orgName></p>
+            <p>Die zuständigen Behörden sind dafür besorgt, sämtliche Spitaltaxen zu normieren und mit einem fixen Betrag zu versehen. Die Pauschalen sollen im ganzen Kanton <placeName n="8e394da8-28ff-48b5-b94d-a828ff98b5e6">Zürich</placeName> Gültigkeit haben und für alle Spitäler und Ärzte verbindlich sein. Für alle Behandlungen, welche in Arztpraxen oder Spitälern vorgenommen werden, sind fixe Pauschalen zu berechnen. Diese Pauschalen sollen in der ganzen <placeName n="03d9c9bd-7294-4ebb-99c9-bd7294cebbe1">Schweiz</placeName> für jedes Krankenhaus und jede Arztpraxis verbindlich sein. Mit den Pauschalen wird mit den Krankenkassen abgerechnet. Die Pauschale soll alle durchschnittlichen gesamten Behandlungskosten berücksichtigen; so also Preise für operative Eingriffe, die durchschnittliche Liegezeit im Spital usw. Damit soll erreicht werden, dass die den Krankenkassen angegebenen Rechnungen in der <placeName n="1cb45ca2-cc47-457b-b45c-a2cc47357bd6">Schweiz</placeName> standardisiert werden. Zudem sind solche Pauschalen geschlechtsneutral. Mit den Pauschalen soll verhindert werden, dass zu viele und übermässig teure Rechnungen von Ärzten usw. bei den Krankenkassen eingegeben werden. Mit diesem Instrument wird folglich die Schadensumme bei den Krankenkassen kleiner, was in einem weiteren Schritt zur Senkung der Prämien führen soll. Die Pauschalen aller Eingriffe und Behandlungen sollen in einem Buch katalogisiert werden. Der Katalog soll vom einfachen Knochenbruch über Darmoperationen bis zum Bypass am Herzen reichen. Es sollen möglichst viele Eingriffe und Behandlungen standardisiert werden. Zwingend sollen aber alle Eingriffe bei den Organen sowie die häufigsten Krankheits- und Unfallbehandlungen erfasst werden. Der Katalog soll öffentlich zugänglich sein, so dass jeder interessierte Bürger Einsicht nehmen kann.</p>
+            <p>Bei der Liegezeit soll streng darauf geachtet werden, dass die absolut kürzeste Liegezeit berechnet wird. </p>
+            <p>
+                <pb n="11079"/>Der Katalog hätte dann etwa folgendes Aussehen:<hi rend="sup">1</hi>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Eingriffe, Behandlung </cell>
+                        <cell/>
+                        <cell>Pauschale FR. </cell>
+                        <cell>Liegezeit in Tagen </cell>
+                    </row>
+                    <row>
+                        <cell>1 Knochenbrüche: </cell>
+                        <cell>Arme </cell>
+                        <cell>1 900 </cell>
+                        <cell>1 </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Beine </cell>
+                        <cell>2 100 </cell>
+                        <cell>1 </cell>
+                    </row>
+                    <row>
+                        <cell>Operativ korrigierte Knochenbrüche; offene Brüche: </cell>
+                        <cell> Arme </cell>
+                        <cell> 5 500 </cell>
+                        <cell> 5 </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Beine </cell>
+                        <cell>6 200 </cell>
+                        <cell>5 </cell>
+                    </row>
+                    <row>
+                        <cell>2 Darmoperationen: </cell>
+                        <cell>Blinddarm </cell>
+                        <cell>9 500 </cell>
+                        <cell>7 </cell>
+                    </row>
+                    <row>
+                        <cell>3 Gelenkoperationen: </cell>
+                        <cell>Hüftgelenk </cell>
+                        <cell>18 000 </cell>
+                        <cell>13 </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Knie </cell>
+                        <cell>12 000 </cell>
+                        <cell>12 </cell>
+                    </row>
+                    <row>
+                        <cell>4 Herzoperationen: </cell>
+                        <cell>Bypass </cell>
+                        <cell>45 000 </cell>
+                        <cell>18 </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Transplantation </cell>
+                        <cell>70 000 </cell>
+                        <cell>30 </cell>
+                    </row>
+                    <row>
+                        <cell>Geburten </cell>
+                        <cell>Kaiserschnitt </cell>
+                        <cell>7 000 </cell>
+                        <cell>7 </cell>
+                    </row>
+                    <row>
+                        <cell>usw. </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <hi rend="sup">1</hi> Rein illustrativ, die Zahlen haben keine Aussagekraft.</p>
+            <p>Die Aufteilung, Gliederung, Aufsplitterung der Kategorien in verschiedene Behandlungen ist Arbeit der Spezialisten. Die Liste soll in Zusammenarbeit mit Ärzten und Spitälern auf etwa 300–350 Positionen ausgearbeitet werden (Mindestumfang).</p>
+            <p>2. Gesetzliche Verankerung</p>
+            <p>Die zuständigen Behörden sind dafür verantwortlich, dass die Pauschalen und Tarife verankert werden und so für alle Beteiligten verbindlich sind. Der Preisüberwacher überwacht die Tarife und Pauschalen. Der <orgName n="2ec56048-6104-4e21-8560-4861048e2110">Gesetzgeber</orgName> und die Behörden sind dafür verantwortlich, dass die Krankenkassen die erzielten Einsparungen, kleineren Aufwände usw. in Form von tieferen Prämien an die Versicherten weitergeben. Die Ärzte und Spitäler werden inspiziert und kontrolliert. Dies besonders hinsichtlich der Liegezeiten der Patienten. Es soll jedenfalls verhindert werden, dass die Ärzte die Liegezeiten künstlich aufblähen bzw. verlängern, damit höhere Rechnungen gestellt werden können.</p>
+            <p>3. Anpassung der Tariftabellen</p>
+            <p>Die gesamte Tariftabelle wird alle fünf Jahre angepasst. Andere Intervalle, die sich infolge neuer Operations- oder Behandlungstechniken ergeben, können sofort berücksichtigt werden. Eine Anpassung bei einzelnen Positionen ist jederzeit möglich. Sie wird durch die zuständigen Behörden vorgenommen.  <pb n="11080"/>Anpassungen infolge Inflation können von den zuständigen Behörden vorgenommen werden. Es darf höchstens die durchschnittliche Jahresteuerung verrechnet werden.</p>
+            <p>Zur Begründung</p>
+            <p>Die Kostenexplosion im <orgName n="55427d1a-6c08-448b-827d-1a6c08548bb5">Gesundheitswesen</orgName> muss gebremst werden. Diese Initiative richtet sich hauptsächlich auf die Entstehung der Kosten aus ärztlicher Behandlung und Spitalaufenthalt. Bis anhin war es so, dass für Ärzte lange und aufwendige Behandlungen und Spitalaufenthalte finanziell lukrative Geschäftsfälle darstellten. Man möge dies richtig interpretieren – es geht hier nicht darum, den Ärzten einen Vorwurf zu machen. Die heutige «Usanz» hat sich im Laufe der «fetten Jahre» eingebürgert. Es wurden oft (zu) hohe Rechnungen, basierend auf zu langen und aufwendigen Behandlungen, an die Krankenkassen versandt. Indirekt geht dieses Verhalten zu Lasten aller Versicherten, denn die Krankenkassen verbuchen so mehr Aufwand, was sie letztendlich zwingt, die Prämien zu erhöhen. Bei diesem Mechanismus setzt nun diese Initiative an. Für die Struktur der Kosten im <orgName n="e2805a08-5e42-4a4e-805a-085e426a4e6b">Gesundheitswesen</orgName> müssen heute schon Instrumente bereitgestellt werden, damit in nächster Zeit die Kostenexplosion gedämpft werden kann. Wer die Kostenexplosion im <orgName n="a327108f-d1b2-4b42-a710-8fd1b2db4252">Gesundheitswesen</orgName> ernsthaft bekämpfen will, kommt nach Meinung des Initianten nicht darum herum, die Behandlungskosten zu standardisieren bzw. Pauschalen festzulegen. Es ist nach Meinung des Initianten sinnvoll, möglichst viele Eingriffe und Behandlungsarten zu standardisieren. Bei der Standardisierung der Tarife und Pauschalen ist darauf zu achten, dass möglichst tiefe Beträge resultieren. Mit diesem Instrument wird nachhaltig verhindert, dass überrissene Rechnungen erstellt werden können. Damit sinkt zwangsläufig die Aufwandposition bei den Versicherungen und Krankenkassen. Ist die Minderung bei den Aufwänden erreicht, entsteht Spielraum für Prämiensenkungen, was in der Zeit unserer nicht akzeptierbar hohen Krankenkassenprämien ein absolutes Muss darstellt. Dieser Ansatz soll helfen, die Kostenexplosion im <orgName n="4f6bffd1-46a9-4361-abff-d146a9d36163">Gesundheitswesen</orgName> zu dämpfen. Im übrigen ist die Standardisierung bei den Pauschalen geschlechtsneutral, was als «Nebeneffekt» mit sich bringt, dass diese Regelung auch hinsichtlich Gleichstellung von Mann und Frau voll trägt. Folge dieses Katalogs dürfte sein, dass seitens der Ärzte kein Bedürfnis mehr besteht, die Patienten länger als normal im Spital bzw. in der  <pb n="11081"/>Behandlung zu behalten, da die Ärzte nicht mehr alles, sondern nur noch die Pauschale abrechnen können. Die Pauschale setzt klare Grenzen. Dem Kaugummi-Prinzip (möglichst lange mit allen möglichen Zusätzen behandeln bringt Geld) wird ein Riegel vorgeschoben, was letztendlich zu mehr Effizienz führt. Das Verlängern und Auseinanderziehen von Behandlungen ist nicht mehr lukrativ – im Gegenteil: Es bringt den Ärzten unbezahlten Mehraufwand! Die Ärzte werden aus Eigeninteresse dafür sorgen, dass eine Behandlung so ist, wie sie sein muss. So gesehen bringt dieses Instrument ganz klar einen Dämpfungseffekt bei den Aufwänden. Die medizinische Qualität wird nicht abnehmen, soviel ist klar. Es wird lediglich am zeitlichen Luxus bei den Liegezeiten gespart. Da die Patienten nicht zu lange in den Spitälern liegen, ergibt sich zudem noch ein positiver Nebeneffekt. Da die Betten schneller frei werden, können mehr Patienten pro Zeiteinheit behandelt werden. Es dürfte nicht verwundern, wenn plötzlich zu viele Betten in den Spitälern vorhanden wären. Die «Spitalökonomie» verbessert sich somit ebenfalls. Die Ärzte sind so gezwungen, «die zweckmässigste Behandlung» in der üblichen Zeit vorzunehmen. Der Goldesel Krankenkasse ist somit gestorben: Das Gratisgeld ohne viel Arbeit aufgrund von unzweckmässig langen und umfangreichen Behandlungen gibt es nicht mehr. Geringere Aufwandpositionen bei den Krankenkassen führen so zu Spielraum bei der Prämiengestaltung, da die zuständigen Behörden verpflichtet sind, dafür zu schauen, dass die Einsparungen der Versicherungen und Krankenkassen den Versicherten in Form von tieferen Prämien weitergegeben werden.</p>
+            <p>Abstimmung</p>
+            <p>Die Einzelinitiative wird von keinem Ratsmitglied vorläufig unterstützt; sie ist abgelehnt.</p>
+            <p>Das Geschäft ist erledigt. </p>
+        </body>
+    </text>
+</tei:TEI>

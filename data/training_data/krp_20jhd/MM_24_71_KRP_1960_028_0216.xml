@@ -1,0 +1,63 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Mitteilungen</title>
+                <respStmt>
+                    <resp ref="#OCR/jsr" key="transcript">Transkript: OCR/jsr<date when="2011-10-27">27.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Mitteilungen</title>
+                    <date when="1960-02-01">01.02.1960</date>
+                    <ident>StAZH MM 24.71 KRP 1960/028/0216</ident>
+                    <idno>648–651</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_71_KRP_1960_028_0216_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3702484"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="648"/>1.R. Welter - <placeName n="0a978595-0778-48fd-9785-95077868fd03">Zürich</placeName> gibt mit Schreiben vom 25. Januar 1960 seinen Rücktritt aus dem <orgName n="66abaa42-d692-45ff-abaa-42d69215ff74">Kantonsrat</orgName> bekannt.</p>
+            <p>Der <orgName n="c06dd990-0dc6-4774-add9-900dc65774b2">Regierungsrat</orgName> wird eingeladen, den Nachfolger zu bezeichnen.</p>
+            <p>2. Vorlage 852, Beschluß des <orgName n="0d8c3621-9d1e-4c01-8c36-219d1e5c017b">Kantonsrates</orgName> über die Erweiterung des Schulgebäudes und die Erstellung neuer Gebäude des Gutsbetriebes der <orgName n="5e6ca29a-3d5f-4b29-aca2-9a3d5fdb29d9">landwirtschaftlichen Schule Oberland</orgName> in <placeName n="e56919e2-2385-42e3-a919-e2238532e306">Wetzikon</placeName>, wird zur Vorberatung an eine Kommission von 13 Mitgliedern überwiesen.</p>
+            <p>3. <persName n="d3ecdf31-1157-48f7-acdf-31115728f70a">G. Günthart</persName> - <placeName n="bdc0e215-d9b6-437c-80e2-15d9b6c37c83">Buchs</placeName> richtet folgende Kleine Anfrage an den <orgName n="e3f77478-fb8c-4c90-b774-78fb8c2c90f9">Regierungsrat</orgName>:</p>
+            <p>Aufenthaltsbewilligungen zum Stellenantritt werden von der <orgName n="b0bb58a7-d341-4895-bb58-a7d341089527">Fremdenpolizei des Kantons Zürich</orgName> auf Antrag des <orgName n="9dae3b1d-b8f0-425a-ae3b-1db8f0b25a00">Kantonalen Arbeitsamtes</orgName> erteilt. Dies gilt vor allem bei Fremdarbeitern in gewerblichen Betrieben.</p>
+            <p>Zum Teil wurde dieses Antragsrecht/Pflicht an das <orgName n="02761151-add3-4ad7-b611-51add35ad7be">Arbeitsamt der Stadt Zürich</orgName> delegiert. Beide Arbeitsämter entscheiden nach Rücksprachen mit den entsprechenden Berufsverbänden.</p>
+            <p>Aus dieser Situation ergeben sich leider Ungleichheiten in der Erledigung von Gesuchen der Arbeitgeber.</p>
+            <p>Es ist auch nicht klar, nach welchen Grundsätzen Jahresbewilligungen oder nur Saisonbewilligungen erteilt werden.</p>
+            <p>Der <orgName n="a887f5f7-3ebd-4b69-87f5-f73ebd1b6964">Regierungsrat</orgName> wird um Auskunft gebeten:</p>
+            <p>1. was er vorkehrt, um Unterschiede in der Beurteilung  <pb n="649"/>der Gesuche durch das <orgName n="e8dbdc93-fba3-4246-9bdc-93fba3724688">Städtische Arbeitsamt</orgName> einerseits und das <orgName n="ce49472b-cd96-4bcc-8947-2bcd962bcc40">Kantonale Arbeitsamt</orgName> anderseits zu verhindern;</p>
+            <p>2. nach welchen Grundsätzen in den einzelnen Berufszweigen Jahresbewilligungen oder nur Saisonbewilligungen erteilt werden.</p>
+            <p>4. <persName n="29d2855d-10b9-4d25-9285-5d10b9fd25ee">W. Frick</persName> - <placeName n="68c40525-1182-4c94-8405-251182ec94ba">Zürich</placeName> hat am 30. November 1959 folgende Kleine Anfrage eingereicht:</p>
+            <p>Im Jahresbericht der <orgName n="8a5ba4e8-b56c-413b-9ba4-e8b56c413b9e">Schweizerischen Winterhilfe und Familienhilfe des Kantons Zürich</orgName> pro 1958/59 wird neuerdings nachgewiesen, daß die einzig aus öffentlichen Sammlungen und privaten Spenden zufließenden Mittel nicht mehr ausreichen, unverschuldet in Not geratenen Familien mit Kindern wirksame Hilfe zu leisten. Da nahezu das ganze Jahr hindurch öffentliche Sammlungen, sei es auf Straßen und Plätzen oder über die <orgName n="771d4e51-33ba-4e76-9d4e-5133ba5e763c">Post</orgName>, durchgeführt werden, ist das Ergebnis der Sammlungen für diese Institution außerordentlichen Schwankungen unterworfen. Als wir im Jahre 1955 in einer Interpellation, gestützt auf eine eindringliche Dokumentation der <orgName n="e23fdb17-9d84-4c37-bfdb-179d84bc37d1">Winterhilfe</orgName>, auf die große Not vieler Familien aufmerksam machten, wurde unsere Darstellung als irreführend und übertrieben bezeichnet. Trotz der darauf erfolgten einmaligen finanziellen Hilfe von Kanton und Stadt <placeName n="61e3301a-8396-4791-a330-1a8396a7916a">Zürich</placeName> hat sich die soziale Not sehr vieler Familien und Einzelpersonen nicht wesentlich geändert. Aus dem Geschäftsbericht 1959 zitieren wir folgenden eindrücklichen Abschnitt:</p>
+            <p>«Werden wir einmal berichten können, daß jeder Bewohner unseres Kantons ein eigenes Bett hat? Wir müssen immer wieder sehen, daß es Kinder gibt, welche ihr eigenes Bett mit den Eltern oder mit Geschwistern teilen müssen.»</p>
+            <p>Im reichen Kanton <placeName n="a066e750-cfad-427e-a6e7-50cfad727e61">Zürich</placeName> verleben immer noch fast ein Viertel aller Kinder ihre Jugendzeit in drückender Armut!</p>
+            <p>In einer Zeit des Wohlstandes und des Überflusses der einen Seite reicht das Einkommen vieler Familien kaum für die allernotwendigsten Lebensbedürfnisse. Nach der Diskussion auf die Interpellation von 1955 hat eine neu-  <pb n="650"/>trale Untersuchungskommission die in der Umfrage dargestellten Verhältnisse im vollen Umfange bestätigt und als vordringliche Maßnahmen vorgeschlagen:</p>
+            <p>«Eine jährliche, namhafte finanzielle Beitragsgewährung der öffentlichen Hand an die <orgName n="86f34767-fc2a-42a0-b347-67fc2a92a074">Winter- und Familienhilfe</orgName>, damit diese in die Lage versetzt wird, die wirtschaftliche Lage dieser Familien zu verbessern.»</p>
+            <p>Wir fragen den <orgName n="17786abe-aeb8-478c-b86a-beaeb8878c3b">Regierungsrat</orgName>, ob nicht der <orgName n="703ebefd-24b4-4282-bebe-fd24b41282b4">Winter- und Familienhilfe des Kantons Zürich</orgName> eine dauernde finanzielle Hilfe gewährt werden kann?</p>
+            <p>Der <orgName n="d93b98d4-7fe1-41ac-bb98-d47fe141aca8">Regierungsrat</orgName> antwortet wie folgt:</p>
+            <p>Der <orgName n="e0be2d36-83b2-4a7a-be2d-3683b23a7a56">Verein schweizerische Winterhilfe und Familienhilfe</orgName> im Kanton <placeName n="97b718fc-4830-42b4-b718-fc483062b495">Zürich</placeName> bildet eine Zusammenfassung von 13 weitgehend selbständigen Winterhilfe-Organisationen der beiden Städte <placeName n="52ab97a4-f00f-4d44-ab97-a4f00f9d4457">Zürich</placeName> und <placeName n="c442f259-502a-4a99-82f2-59502aba99fa">Winterthur</placeName> sowie der elf Bezirke. Statutengemäß sind diese Organisationen in der Anordnung, Durchführung und Intensität der Sammlungen sowie in der Verwendung der erhaltenen Mittel, mit Ausnahme von prozentualen Ablieferungen für Ausgleichsfonds sowie für gemeinsame Sammel- und Verwaltungskosten, frei. Am Ende des Geschäftsjahres 1958/59 verfügten vier «Bezirke» über mehr Mittel als im gleichen Zeitpunkt des Vorjahres, und: fünf weitere blieben praktisch unverändert. Nur vier Organisationen wiesen weniger Betriebsmittel auf, darunter vor allem die <orgName n="8a1a73d8-46a1-4299-9a73-d846a1f299c6">Winterhilfe der Stadt Zürich</orgName>. Aus diesem Grunde gewährt die Stadt <placeName n="25f5fc9b-f840-4fdf-b5fc-9bf8409fdfab">Zürich</placeName> ihrer <orgName n="15916492-b529-4ec7-9164-92b529fec779">Winterhilfe</orgName> einen jährlich auf 70 000 Franken erhöhten Betriebsbeitrag.</p>
+            <p>Es trifft nicht zu, daß im Kanton <placeName n="5d8ae83c-567f-4096-8ae8-3c567f609630">Zürich</placeName> fast ein Viertel aller Kinder ihre Jugendzeit in drückender Armut verlebt Auch die vom <orgName n="04ea11bd-2ea3-4a77-aa11-bd2ea37a77a1">Verein Winterhilfe</orgName> seinerzeit aus den Mitgliedern seines Vorstandes bestellte Kommission ist nicht zu solchen Schlüssen gelangt. In diesem Zusammenhang ist festzustellen, daß die den gleichen Aufgaben dienende öffentliche Fürsorge der Gemeinden an Bedürftige jährlich über 20 Millionen Franken Hilfen ausrichtet. Den Arbeitnehmern mit Kindern fließen allgemein und ohne Bedürftigkeitsgrenzen durch das Kinderzulagengesetz seit 1. Juli 1959 jährlich zusammen über 25 Millionen Franken zu.</p>
+            <p>Die allgemeine individuelle Einzelfürsorge ist nach Verfas-  <pb n="651"/>sung und Gesetz Sache der Gemeinden und keine Staatsaufgabe. Es fehlt somit, abgesehen von der Bedürfnisfrage, an der Zuständigkeit und rechtlichen Grundlage, der gleiche Aufgaben wie die öffentliche Fürsorge erfüllenden und nach Städten sowie Bezirken gegliederten <orgName n="d97803b2-b807-43f3-b803-b2b80713f3f4">Winterhilfe</orgName> regelmäßige Beiträge durch den <orgName n="6648ba2a-ffbb-421b-88ba-2affbb621bba">Kanton</orgName> zu gewähren. Der <orgName n="0b3e016c-e7d0-4c26-be01-6ce7d07c261e">Regierungsrat</orgName> hat ein entsprechendes Gesuch der <orgName n="288ede48-9aee-4ab9-8ede-489aee4ab9b7">Winterhilfe</orgName> mit eingehender Begründung bereits im März 1956 abgewiesen.</p>
+        </body>
+    </text>
+</tei:TEI>

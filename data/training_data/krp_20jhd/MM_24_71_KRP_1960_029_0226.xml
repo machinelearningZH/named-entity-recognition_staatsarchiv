@@ -1,0 +1,149 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Mitteilungen</title>
+                <respStmt>
+                    <resp ref="#OCR/jsr" key="transcript">Transkript: OCR/jsr<date when="2011-10-27">27.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Mitteilungen</title>
+                    <date when="1960-02-08">08.02.1960</date>
+                    <ident>StAZH MM 24.71 KRP 1960/029/0226</ident>
+                    <idno>673–677</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_71_KRP_1960_029_0226_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3702496"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="673"/>1. <persName n="4c00dba5-e425-45af-80db-a5e42515afce">W. Demuth</persName> - <placeName n="3bcc5b94-58d5-4993-8c5b-9458d54993d6">Stäfa</placeName> hat am 23. November 1959 folgende Kleine Anfrage eingereicht:</p>
+            <p>Nach ihrem Ausbau wurde die <placeName n="2c80986c-27c5-4be9-8098-6c27c50be967">rechtsufrige Seestraße</placeName> hauptsächlich im oberen Teilstück zur Rennbahn, was zu verschiedenen leichten und schweren Unfällen im <placeName n="7943d5e2-cceb-46db-83d5-e2ccebc6dba4">Kehlhof</placeName> - <placeName n="de131da5-a62f-4ee0-931d-a5a62feee02e">Stäfa</placeName> und in <placeName n="a8ef70ef-a99e-4669-af70-efa99e766938">Feldbach</placeName> führte. Im <placeName n="488a6b01-34c6-43e8-8a6b-0134c653e8c7">Kehlhof</placeName> wurde eine korrekt fahrende Radfahrerin von einem Auto überrannt und getötet. Nach Einführung der Geschwindigkeitsbeschränkung trat eine merkliche Besserung ein.</p>
+            <p>Seit anfangs November ist die Geschwindigkeitsbeschränkung auf diesen Teilstücken wieder aufgehoben, was in der Bevölkerung starke Beunruhigung ausgelöst hat. Im dicht besiedelten <placeName n="bce0d3fd-8c9e-48f7-a0d3-fd8c9ef8f7e4">Kehlhof</placeName> befinden sich an der nicht sehr übersichtlichen <placeName n="5d747f6b-aa94-499f-b47f-6baa94899f39">Seestraße</placeName> außer einem Altersheim eine Bushaltestelle der <orgName n="c54ce0db-cc56-490a-8ce0-dbcc56590af3">VZO</orgName>, ein Campingplatz, eine Großgarage sowie der Übergang zu einer Bootshabe mit öffentlicher Seeanlage und ein Parkplatz.</p>
+            <p>Angesichts dieser Verhältnisse frage ich den <orgName n="c87d7029-3573-4e75-bd70-293573ce7504">Regierungsrat</orgName> an, ob er – um weiteren Unfällen vorzubeugen – bereit sei, die erwähnten Straßenstücke wieder mit Geschwindigkeitsbeschränkungen zu belegen.</p>
+            <p>Der <orgName n="2507bb6c-67ae-4b88-87bb-6c67ae0b8898">Regierungsrat</orgName> antwortet wie folgt:</p>
+            <p>Die Polizeidirektion hat die Anordnung einer Geschwindigkeitsbeschränkung auf der <placeName n="8246ddc1-b691-43ea-86dd-c1b69143eab3">rechtsufrigen Seestraße</placeName> im <placeName n="2bd7ad9b-10bf-485f-97ad-9b10bf785fb7">Kehlhof</placeName> - <placeName n="826ca63c-6ba2-4804-aca6-3c6ba2780405">Stäfa</placeName> auf Grund eines schweren Verkehrsunfalles, der sich allerdings außerhalb der Ortschaft ereignete, erneut geprüft. Da vertretbare Gründe sowohl für als auch gegen eine solche Maßnahme sprachen, hat sie die für derartige Grenzfälle bundesrechtlich vorgesehene verkehrstechnische Untersuchung  <pb n="674"/>durch einen Fachmann der <orgName n="69d3d841-4c80-41eb-93d8-414c8021eb00">Schweizerischen Beratungsstelle für Unfallverhütung</orgName> veranlaßt. Der Begutachter kommt zum Schluß, es sei mit Rücksicht auf die dichte Bebauung an der <placeName n="1279eb31-2414-462b-b9eb-312414f62be7">Seestraße</placeName> bergseits, das Altersheim, den Campingplatz, den Parkplatz und mehrere private Ausfahrten seeseits sowie die wenig übersichtliche Einmündung der Straße II. Kl. (Stopstraße) gegenüber der Bootshabe eine Geschwindigkeitsbeschränkung am Platze. Die <orgName n="16de7dc8-795c-43c1-9e7d-c8795c13c173">Polizeidirektion</orgName> hat daher am 15. Januar 1960 gestützt auf dieses Gutachten eine Geschwindigkeitsbeschränkung von 60 km/Std. angeordnet.</p>
+            <p>2. <persName n="f44af9d5-a4fd-4e72-8af9-d5a4fdfe729c">Th. Kloter</persName> - <placeName n="2b4fec54-5404-46e6-8fec-545404a6e67d">Meilen</placeName> hat am 13. Juli 1953 folgende Kleine Anfrage eingereicht:</p>
+            <p>Seit dem 1. August 1958 ist die <placeName n="b231780c-00aa-47ee-b178-0c00aa67ee26">rechtsufrige Seestraße</placeName> auf dem Gebiete des Kantons <placeName n="1ab6a15a-8590-4f35-b6a1-5a85901f35ed">Zürich</placeName> durch die <orgName n="08b04040-5d0f-45d8-b040-405d0fd5d8dd">kantonale Polizeidirektion</orgName> mit einer Geschwindigkeitsbeschränkung für Motorfahrzeuge belegt worden. Ab 1. Juni 1959 wurde diese Anordnung durch einen Bundesratsbeschluß, der für die ganze <placeName n="7de69c3f-9f13-4a18-a69c-3f9f132a185f">Schweiz</placeName> die Geschwindigkeit für Motorfahrzeuge innerorts auf maximum 60 km beschränkt, abgelöst. Nachdem in wenigen Wochen ein Jahr seit der ersten Beschränkung verflossen ist, ersuche ich den <orgName n="1423a7e0-4840-4bbf-a3a7-e048401bbfe3">Regierungsrat</orgName>, in einer Antwort Auskunft zu geben über die gemachten Erfahrungen.</p>
+            <p>Dabei interessiert vor allem, wie sich die Geschwindigkeitsbeschränkung ausgewirkt hat auf:</p>
+            <p>a) die Unfallhäufigkeit,</p>
+            <p>b) die Unfallursachen,</p>
+            <p>c) die Unfallschwere.</p>
+            <p>Zudem wäre interessant, zu vernehmen, welche weitern Vor- oder Nachteile durch die Geschwindigkeitsbeschränkung eingetreten sind.</p>
+            <p>Der <orgName n="21c368a6-9f13-44ce-8368-a69f1344ceff">Regierungsrat</orgName> antwortet wie folgt:</p>
+            <p>Auf der <placeName n="d4ee37a0-5b45-49bf-ae37-a05b4529bfa3">rechtsufrigen Seestraße</placeName> haben in den ersten zehn Monaten seit der Anordnung der Höchstgeschwindigkeit (1. August 1958 bis 31. Mai 1959) die Verkehrsunfälle in den davon berührten Ortschaften um etwa 15% gegenüber der Vergleichsperiode des Vorjahres abgenommen; die schweren Unfälle mit Verletzten und Toten gingen erfreulicherweise in  <pb n="675"/>noch stärkerem Umfange zurück. Dieses Ergebnis gewinnt an Bedeutung, wenn man berücksichtigt, daß der Motorfahrzeugbestand in der gleichen Zeit um etwa 10% zugenommen hat. Bei den Unfallursachen ist, soweit sie überhaupt statistisch erfaßbar sind, vor allem das Fahren mit übersetztem Tempo zurückgegangen. Im übrigen Kantonsgebiet wiesen die Unfallzahlen im gleichen Zeitraum steigende Tendenz auf.</p>
+            <p>Die genauen statistischen Zahlen sind am 17. November 1959 vom der <orgName n="50812371-786e-48d2-8123-71786e78d2c7">Polizeidirektion</orgName> im Rahmen einer Presseorientierung über die Direktsignalisierung der generell geltenden Höchstgeschwindigkeit in den Ortschaften bekanntgegeben worden. Mit der Geschwindigkeitsbeschränkung ist der Verkehrsfluß in den Ortschaften ruhiger geworden. Die gefährlichen Überholungsmanöver in den Wohngebieten sind weitgehend verschwunden, ohne daß es zu den anfänglich befürchteten Verkehrsstockungen gekommen ist. Der Nachteil der verhältnismäßig geringen Fahrzeitverlängerung darf jedem Fahrzeuglenker im Interesse der allgemeinen Verkehrssicherheit zugemutet werden.</p>
+            <p>3. <persName n="3533de9f-fe9a-4059-b3de-9ffe9a405983">W. von Büren</persName> - <placeName n="cbd9b35a-5b19-4854-99b3-5a5b19e85477">Zürich</placeName> hat am 7. Dezember 1959 folgende Kleine Anfrage eingereicht:</p>
+            <p>Anläßlich eines Augenscheines im <orgName n="6ac2d472-b136-4c4e-82d4-72b1361c4e9b">Kantonsspital Winterthur</orgName> erklärte der kantonale Gesundheitsdirektor, Regierungspräsident Dr. <persName n="02206325-b5c4-4281-a063-25b5c46281d3">Jakob Heusser</persName>, das Kobaltgerät zur Bestrahlung böser Geschwülste habe sich sehr gut bewährt und unterscheide sich vom Betatron im <orgName n="24d244fe-67dd-4ac5-9244-fe67dd6ac55b">Kantonsspital Zürich</orgName> dadurch, daß bei der Bestrahlung mit dem Kobaltgerät keine Verbrennungen auftreten. Ist der <orgName n="a352269e-a760-4dae-9226-9ea7607daeea">Regierungsrat</orgName> bereit, das Betatron im <orgName n="5285c5ac-50dd-4162-85c5-ac50dd516263">Kantonsspital Zürich</orgName> durch ein Kobaltgerät zu ersetzen?</p>
+            <p>Der <orgName n="26e71bed-a1e7-418f-a71b-eda1e7f18f0e">Regierungsrat</orgName> antwortet wie folgt:</p>
+            <p>Die Ansicht der Wissenschaft über die Vor- und Nachteile von Betatron und Kobaltgerät sind geteilt. Unbestritten ist, daß mit beiden Geräten in bestimmten Krankheitsfällen gute Erfolge erzielt werden. Der Gefahr von Verbrennungen läßt sich bei beiden Apparaturen durch entsprechende Dosierung und andere Maßnahmen steuern.</p>
+            <p>Der <orgName n="a0c9728c-dc0f-4298-8972-8cdc0fd29825">Kanton</orgName> hat im <orgName n="6d222d0f-02eb-427c-a22d-0f02ebd27c65">Kantonsspital Zürich</orgName> im Jahre 1951 ein Betatron und im <orgName n="11493deb-5ead-4051-893d-eb5ead8051c5">Kantonsspital Winterthur</orgName> im Jahre 1958 ein  <pb n="676"/>Kobaltgerät einrichten lassen. Damit ist die Grundlage geschaffen, um mit beiden Geräten eigene Erfahrungen zu sammeln. Es wird erst nach einiger Zeit zu entscheiden sein, ob überhaupt ein Gerät dem andern vorzuziehen ist oder ob im einen Krankheitsfall das Betatron, im andern des Kobaltgerät und im dritten das konventionelle Therapiegerät die besten Erfolge verspricht.</p>
+            <p>4. Das Büro des <orgName n="57f43e2f-5b41-473b-b43e-2f5b41873bf9">Kantonsrates</orgName> hat zu Mitgliedern der Kommission betreffend Erweiterung des Schulgebäudes und die Erstellung neuer Gebäude des Gutsbetriebes der <orgName n="2a17dd77-893f-4ba5-97dd-77893f2ba50b">landwirtschaftlichen Schule Oberland</orgName> in <placeName n="2a09ae65-013a-4830-89ae-65013ab830cf">Wetzikon</placeName> (Vorlage 852) gewählt:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>1. </cell>
+                        <cell>
+                            <persName n="51d557a4-9a95-4860-9557-a49a95e86050">Stutz Ernst</persName>, <placeName n="bd0706cb-5756-461a-8706-cb5756361ade">Bäretswil</placeName> (Präsident) </cell>
+                    </row>
+                    <row>
+                        <cell>2. </cell>
+                        <cell>
+                            <persName n="67edd51b-31b7-4814-add5-1b31b75814ac">Bögli Ernst</persName>, <placeName n="ba36b73a-f2f7-47d7-b6b7-3af2f747d7c0">Kappel a. A.</placeName> </cell>
+                    </row>
+                    <row>
+                        <cell>3. </cell>
+                        <cell>
+                            <persName n="0153d98f-a945-449c-93d9-8fa945749cf4">Egli Ernst</persName>, <placeName n="ae3c5120-4b25-4fa4-bc51-204b256fa44d">Pfäffikon</placeName> </cell>
+                    </row>
+                    <row>
+                        <cell>4. </cell>
+                        <cell>
+                            <persName n="71b3d95b-9b8b-48de-b3d9-5b9b8bb8def9">Egli Jules</persName>, <placeName n="f235d6ca-41c0-4abc-b5d6-ca41c07abc35">Kempten</placeName> </cell>
+                    </row>
+                    <row>
+                        <cell>5. </cell>
+                        <cell>
+                            <persName n="4d010e2d-a248-4538-810e-2da248a53881">Frei Hans</persName>, <placeName n="63c4ddd7-84f7-4865-84dd-d784f7f865da">Hinwil</placeName> </cell>
+                    </row>
+                    <row>
+                        <cell>6. </cell>
+                        <cell>
+                            <persName n="8cc23a82-8219-4db4-823a-828219adb455">Gyr Ernst</persName>, <placeName n="2d87baf8-ac42-476f-87ba-f8ac42176f71">Tann - Rüti</placeName> </cell>
+                    </row>
+                    <row>
+                        <cell>7. </cell>
+                        <cell>
+                            <persName n="0ffe4f3e-a35c-4e75-be4f-3ea35cbe7506">Hauser Walter</persName>, <placeName n="ad99d0ad-d6ec-401f-99d0-add6eca01f7c">Zürich</placeName> 9 </cell>
+                    </row>
+                    <row>
+                        <cell>8. </cell>
+                        <cell>
+                            <persName n="475a8f03-2c47-45b7-9a8f-032c4725b700">Lang Erwin</persName>, <placeName n="757aa5a2-5021-4092-baa5-a25021e09285">Unterwetzikon</placeName> </cell>
+                    </row>
+                    <row>
+                        <cell>9. </cell>
+                        <cell>
+                            <persName n="5039c395-aa05-48a8-b9c3-95aa0538a8a7">Schmid Werner</persName>, <placeName n="53c3dd2a-71ea-4c27-83dd-2a71eaac2779">Zürich</placeName> 8 </cell>
+                    </row>
+                    <row>
+                        <cell>10. </cell>
+                        <cell>
+                            <persName n="52ba14b7-c2c9-44a1-ba14-b7c2c954a1fb">Schoch Max</persName>, Prof. Dr., <placeName n="90cf22e6-6689-4ae8-8f22-e666898ae8d6">Zürich</placeName> 6 </cell>
+                    </row>
+                    <row>
+                        <cell>11. </cell>
+                        <cell>
+                            <persName n="0855d2df-2485-4525-95d2-df2485a525a9">Schweizer Heinrich</persName>, <placeName n="208468a2-6f99-4672-8468-a26f99f672ee">Zumikon</placeName> </cell>
+                    </row>
+                    <row>
+                        <cell>12. </cell>
+                        <cell>
+                            <persName n="c89a4c6d-9d0b-4302-9a4c-6d9d0b33021d">Unterfinger Max</persName>, <placeName n="638ce6b3-5897-4cbb-8ce6-b358978cbbdc">Dübendorf</placeName> </cell>
+                    </row>
+                    <row>
+                        <cell>13. </cell>
+                        <cell>
+                            <persName n="acb2e47d-0f61-4f90-b2e4-7d0f614f907d">Wiedenmeyer Hermann</persName>, <placeName n="ce4e0e6c-f950-4558-8e0e-6cf950f55871">Zürich</placeName> 9 </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Sekretär: <persName n="4a4accd9-7b6f-4eba-8acc-d97b6feeba30">Bopp Jacques</persName>, <placeName n="0a0c7066-6c4a-48e9-8c70-666c4ad8e9be">Kilchberg</placeName>. </cell>
+                    </row>
+                </table>
+            </p>
+            <p>5. Der Vorsitzende beantragt, die Vorlagen 855 und 856, Leistung von Staatsbeiträgen an den Ausbau des <orgName n="2aaf6bba-6906-44d3-af6b-ba690624d374">Kreisspitals Bülach</orgName> und des <orgName n="944aa208-a784-4d02-8aa2-08a7848d02d3">Krankenhauses Uster</orgName>, einer Spezialkommission von 15 Mitgliedern zu überweisen.</p>
+            <p>Dr. <persName n="43540433-eaab-4a48-9404-33eaabda48b1">A. Gilgen</persName> - <placeName n="ba52cf44-84b3-4b5b-92cf-4484b34b5b14">Zürich</placeName> opponiert und stellt den Antrag, für jede Vorlage je eine Spezialkommission zu wählen. Die Einsetzung von zwei Kommissionen gibt mehr Ratsmitgliedern die Möglichkeit, bei der Vorberatung mitzuwirken.</p>
+            <p>Der Rat stimmt mit 76:38 Stimmen dem Antrag des Vorsitzenden zu.</p>
+            <p>6. Vorlage 857, Antrag des <orgName n="82fa3c95-4b95-4590-ba3c-954b95459093">Regierungsrates</orgName> zum Initiativbegehren betreffend die Abänderung des Gesetzes über die Fe-  <pb n="677"/>rien der Arbeitnehmer vom 5. Oktober 1952 (drei Wochen bezahlte Ferien für alle Arbeitnehmer), wird) der Kommission überwiesen, welche dieses Initiativbegehren bereits behandelt.</p>
+            <p>7. Vorlage 858, Bericht des <orgName n="e8d658bc-00ca-4572-9658-bc00caf572c4">Regierungsrates</orgName> zur Motion <persName n="1f6b1b2a-00b1-4d6c-ab1b-2a00b12d6c87">W. Vollenweider</persName> - <placeName n="b188c028-0710-4505-88c0-280710450509">Zürich</placeName> vom 14. Juli 1958 betreffend die Verselbständigung des <orgName n="70cb2ad5-1a0d-4b2d-8b2a-d51a0d0b2dfd">medizinisch-chemischen Zentrallaboratoriums</orgName> des <orgName n="b953b819-199e-4e7e-93b8-19199eee7efd">Kantonsspitals Zürich</orgName>, wird zur Vorberatung an eine Kommission von 13 Mitgliedern überwiesen.</p>
+            <p>8. Vorlage 859, Abänderung der Verordnung über die Leistung von Staatsbeiträgen zur Förderung der gewerblichen und kaufmännischen Berufslehre, wird der Kommission überwiesen, die schon Vorlage 770 behandelt.</p>
+            <p>9. <persName n="81138b76-1182-4d4b-938b-7611826d4b56">A. Sorg</persName> - <placeName n="c1a08d5b-b5b0-4978-a08d-5bb5b0f978a8">Wädenswil</placeName> erklärt schriftlich seinen Rücktritt aus dem <orgName n="03dd21e2-1818-4153-9d21-e21818d153a7">Kantonsrat</orgName>, welchem er seit 1951 angehört.</p>
+            <p>10. Dr. <persName n="0fc8afb7-a4e3-46c7-88af-b7a4e3e6c760">M. Kuhn</persName> - <placeName n="05e13e32-b829-4605-a13e-32b829e6059b">Zürich</placeName> reicht folgende Motion ein:</p>
+            <p>Die <orgName n="0367a0eb-614f-41e6-a7a0-eb614fa1e6a9">Regierung</orgName> wird beauftragt, gesetzliche Grundlagen im Sinne folgender Richtlinien vorzubereiten:</p>
+            <p>1. Nebenämter der Regierungsmitglieder sind auf ein Minimum zu beschränken.</p>
+            <p>2. Alle Einnahmen aus Nebenämtern von Regierungsmitgliedern sind der Staatskasse zu überweisen; die Besoldung der Regierungsräte ist zu erhöhen.</p>
+            <p>3. Es ist jährlich im Geschäftsbericht der <orgName n="209b6cc4-ee08-49fa-9b6c-c4ee08d9fae8">Regierung</orgName> ein Verzeichnis sämtlicher Nebenämter der <orgName n="cdbc384f-7785-4a46-bc38-4f77858a4672">Regierung</orgName> vorzulegen.</p>
+            <p>11. Einer allen Mitgliedern des <orgName n="f4c1d049-3c32-4a40-81d0-493c32ea40d4">Kantonsrates</orgName> zugestellten Statistik der <orgName n="ec83b92c-ca29-46fe-83b9-2cca29c6fe98">Polizeidirektion</orgName> vom 17. November 1959 ist zu entnehmen, daß nach Einführung der Geschwindigkeitsbegrenzung die Verkehrsunfälle gegenüber der Vergleichsperiode des Vorjahres zurückgegangen sind.</p>
+        </body>
+    </text>
+</tei:TEI>

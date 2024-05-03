@@ -1,0 +1,2 @@
+pkill -f uvicorn
+podman container stop tei-publisher-ner

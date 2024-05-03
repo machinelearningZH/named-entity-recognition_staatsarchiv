@@ -1,0 +1,269 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Mitteilungen</title>
+                <respStmt>
+                    <resp ref="#OCR/smh" key="transcript">Transkript: OCR/smh<date when="2011-11-10">10.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Mitteilungen</title>
+                    <date when="1988-04-25">25.04.1988</date>
+                    <ident>StAZH MM 24.122 KRP 1988/053/0001a</ident>
+                    <idno>3363–3372</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_122_KRP_1988_053_0001a_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3738344"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="3363"/>Antworten auf Anfragen</p>
+            <p>Dr. <persName n="6164cd2d-08d2-40bf-a4cd-2d08d240bf8f">Yvonne Maurer</persName> (<orgName n="d9f8216a-b1b5-4fa4-b821-6ab1b5dfa43f">FDP</orgName>, <placeName n="1e8d56ce-b10b-4e77-8d56-ceb10bfe773a">Adliswil</placeName>) hat am 18. Januar 1988 folgende Anfrage eingereicht:</p>
+            <p>Bekanntlich hängt die Lebensqualität und die Lebenserwartung entscheidend ab von dem Ausmass und der Art geistiger und emotioneller Anregung. Diese nehmen üblicherweise bei den Senioren ab, häufig durch die soziale Umstrukturierung beim Eintritt in ein Altersheim. Auch bei Personen, die längerfristig in einer psychiatrischen oder einer sonstigen Klinik hospitalisiert werden müssen, kommt es häufig zu einer Verminderung der Anregungen. Heute wird zwar erfreulicherweise mancherorts bereits viel angeboten an sozialen Aktivitäten, oft aber vergessen, dass sich die Bewilligung von Haustieren oder das Halten eines oder mehrerer Abteilungs- oder Heimhaustiere äusserst günstig auswirken könnte: Vögel, vor allem aber Katzen, können einerseits sehr anregend wirken, indem sie unter den Insassen Kontakt schaffen, anderseits durch die Möglichkeit des Gestreicheltwerdens und ihre bedingungslose Treue innere Beruhigung erfahren lassen. Daher wird das Halten von Haustieren heute auch in der Herzinfarktprophylaxe diskutiert. Grössere Hunde wären wohl auf Abteilungen weniger geeignet, da diese einen eigenen Meister brauchen.</p>
+            <p>Nun heisst es in § 9 der Verfügung der <orgName n="73a0bc29-6161-4568-a0bc-296161056865">Gesundheitsdirektion</orgName> vom 8. April 1980 in der allgemeinen Hausordnung für die Krankenhäuser, dass Tiere nur mit Bewilligung der Verwaltung von Insassen mitgebracht oder gehalten werden dürfen. Auch in der Verordnung über die kantonalen Krankenhäuser steht in § 21, dass Hausordnungen von den Verwaltern erlassen werden. Bisher war es nun so, dass Tiere auch auf Abteilungen, wo sich mehrheitlich gerontologische Patienten befinden, verboten waren. Auch in den meisten Altersheimen wurde die Erlaubnis, Haustiere zu halten, sehr restriktiv gehandhabt. Gelegentlich wurden Vögel zugelassen.</p>
+            <p>Ich frage den <orgName n="b3b5a9fa-3cab-4ec7-b5a9-fa3cab8ec7fc">Regierungsrat</orgName> daher an:</p>
+            <p>1. Ist er nicht auch der Meinung, dass Haustiere (vor allem Katzen, Vögel, evtl. kleine Hunde) vermehrt in das Rehabilitationsprogramm von Institutionen einbezogen werden sollten, die sich um Senioren kümmern?  <pb n="3364"/>
+            </p>
+            <p>2. Glaubt er nicht auch, dass der psychosoziale Nutzen eines Abteilungshaustieres übertriebene Sorge um Hygiene aufwiegen könnte?</p>
+            <p>3. Ist er nicht auch der Meinung, dass die Angst betreffend Arbeitsüberlastung des Personals umsonst ist, wenn pro Heim oder grössere Spitalabteilung bloss ein Tier gegenwärtig wäre, für dessen Fütterung und Reinhaltung auch Insassen herbeigezogen werden können, die sich freiwillig dafür melden?</p>
+            <p>4. Ist der <orgName n="2ed44ee2-dc45-4948-944e-e2dc459948b1">Regierungsrat</orgName> bereit, bei den Verwaltern der kantonalen Krankenhäuser dafür einzutreten, dass auf Abteilungen mit Rehabilitations- oder gerontologischen Patienten der Versuch gemacht wird, ein Haustier zu halten?</p>
+            <p>5. Ist er bereit, die Gemeinden aufzumuntern, bei den Verwaltern der Altersheime im selben Sinn vorstellig zu werden?</p>
+            <p>Der <orgName n="beb75fe4-6569-4aab-b75f-e465691aabb7">Regierungsrat</orgName> antwortet wie folgt:</p>
+            <p>Der Umgang mit Tieren wirkt sich für viele in Kranken- und Altersheimen sowie psychiatrischen Kliniken hospitalisierte Patienten günstig aus. Haustiere sollten daher zugelassen werden, soweit es die konkreten Umstände jeweils gestatten. Grenzen der Zulassung ergeben sich aus dem Zustand der Patienten. So können schwer pflegebedürftige oder abgebaute Patienten häufig keinen Kontakt mit Tieren pflegen. Sie können sie beispielsweise weder füttern noch betreuen. Tiere sind zudem auch in Krankenhäusern artgerecht zu halten. Sie müssen sich wohl fühlen. So ergeben sich Probleme bei Tieren, die einen grösseren Auslauf benötigen.</p>
+            <p>Die <orgName n="9f160642-fe5e-439a-9606-42fe5ee39a6d">Gesundheitsdirektion</orgName> hat zur Beantwortung der Anfrage eine stichprobenweise Umfrage durchgeführt. Sie ergab, dass in der Regel Kleintiere wie Vögel, Hamster, Fische in Aquarien usw. auf den Abteilungen zugelassen werden. Die Zulassung von Katzen wird unterschiedlich gehandhabt. Grössere Haustiere wie Ziegen, Schafe, Hunde und Esel werden ausserhalb der Abteilungen auf dem Heim- oder Klinikgelände gehalten. Ungeachtet der Unterschiede in der Zulassung und der Zahl der gehaltenen Tiere ist der therapeutische Nutzen der Zulassung von Tieren allgemein anerkannt. Eine restriktivere Zulassung ist häufig durch die bauliche oder personelle Situation begründet. Unter diesen Umständen kann auf eine zusätzliche staatliche Aufmunterung, Haustiere zuzulassen, verzichtet werden.</p>
+            <p>
+                <persName n="5e811f2c-890f-46ee-811f-2c890f16ee56">Willy Volkart</persName> (<orgName n="8f306c5b-2b1f-4b51-b06c-5b2b1f5b5183">SP</orgName>, <placeName n="5253f806-8255-4514-93f8-068255f51485">Zürich</placeName>) und <persName n="bad1e998-f826-4085-91e9-98f82620855e">Paul Stopper</persName> (<orgName n="4c4c7c8a-669f-4636-8c7c-8a669f06367a">LdU</orgName>, <placeName n="6e6831b6-035f-4a8f-a831-b6035f3a8fcd">Uster</placeName>) haben am 25. Januar 1988 folgende Anfrage eingereicht: </p>
+            <p>
+                <pb n="3365"/>Trotz grösster Bedenken des Fahrpersonals planen die <orgName n="56fcac71-0c8b-49b3-bcac-710c8b09b308">SBB</orgName>, ab Frühjahr 1988 auf der Strecke Zürich–Meilen–Rapperswil bei den RAB De 8/16 geführten Zügen versuchsweise die Abfahrbefehlmethode G einzuführen. Das heisst, der Lokführer fährt bei der Abfahrzeit und auf Fahrt stehendem Signal von sich aus ab. Dies, obwohl an der Strecke Zürich–Meilen–Rapperswil einige Perrons in Gleisradien liegen, die daher vom Lokführer nicht überblickbar sind. Diese Abfahrweise bringt nicht nur für die zugsungewohnten Benützer eine grössere Unfallgefahr, sondern ist eine weitere Verschlechterung des Angebots auf der Zürcher <placeName n="b0adda7b-a9e6-40b3-adda-7ba9e6f0b3cf">Goldküstenlinie</placeName>.</p>
+            <p>Die Absicht der <orgName n="450ce98e-63bc-4d06-8ce9-8e63bcad06cd">SBB</orgName> zieht mit dem Versuch dieser Abfahrmethode klar in Richtung unbegleiteter Reisezüge im S-Bahn-Verkehr. Obwohl für die Besetzung der Züge heute noch die <orgName n="c2e6f04c-48a6-4e90-a6f0-4c48a6ce9045">SBB</orgName> zuständig sind, widerspricht dieser Versuch der Meinung von Art. 21 im neuen Verkehrsgesetz über den Tarifverbund, ja wirkt sich sogar für dessen Annahme durch das Volk am 6. März 1988 negativ aus.</p>
+            <p>Ich frage den <orgName n="32d16297-bfb2-47ad-9162-97bfb217add4">Regierungsrat</orgName> an:</p>
+            <p>1. Weiss der <orgName n="0f5c364e-01db-4157-9c36-4e01db81579f">Regierungsrat</orgName> etwas über den geplanten Versuch?</p>
+            <p>2. Wenn ja, warum duldet die <orgName n="8eb62e87-ad3d-4c4d-b62e-87ad3d2c4dad">Regierung</orgName> diese unfallgefährliche Verschlechterung des Angebots auf der Linie Zürich–Meilen–Rapperswil?</p>
+            <p>3. Wenn nein, wird sich die <orgName n="f3458a44-cb17-485a-858a-44cb17185a72">Regierung</orgName> bei den <orgName n="93f7d2c9-0a15-4198-b7d2-c90a15a19816">SBB</orgName> dafür einsetzen, dass dieser Versuch nicht stattfindet?</p>
+            <p>Der <orgName n="ebb34e97-82b7-43f4-b34e-9782b7e3f43c">Regierungsrat</orgName> antwortet wie folgt:</p>
+            <p>Mit der Genehmigung des Fahrplankonzeptes 1990 für die Zürcher S-Bahn hat der <orgName n="7c3c90db-1457-466b-bc90-db1457766b2d">Regierungsrat</orgName> einem Angebot zugestimmt, mit dem die S-Bahn-Züge nicht nur häufiger – Halbstundentakt – sondern auch rascher verkehren sollen. Voraussetzung hiefür sind neben dem Ausbau von Strecken und Bahnhofanlagen auch die Inbetriebnahme von neuen, doppelstöckigen Pendelzugeinheiten, welche dank rascherem Beschleunigungsvermögen die dem S-Bahn-Fahrplan zugrunde gelegten Fahrzeiten gewährleisten. Dabei ist wichtig, dass auch die Haltezeit auf den Stationen möglichst kurz gehalten wird. In diesem Zusammenhang planen die <orgName n="fd1fea20-0286-4d2d-9fea-200286dd2d05">SBB</orgName> die Einführung einer neuen Zugsabfertigungsmethode, die dem Lokomotivführer die Abfahrt ohne Befehl des Zugpersonals erlaubt, sobald die Abfahrtszeit herangerückt ist, das Ausfahrsignal auf Fahrt steht und die Türen geschlossen sind. Mit dieser neuen Methode wird eine raschere Abfertigung der S-Bahn-Züge bezweckt. Um diesbezüglich Erfahrungen zu sammeln, ist ein Versuchsbetrieb mit den vio-  <pb n="3366"/>lett-gelben Vorortstriebzügen RAB De 8/16 vorgesehen. Dieser Versuch soll aufzeigen, welche technischen und betrieblichen Voraussetzungen für die Einführung dieser neuen Abfertigungsmethode im S-Bahn-Bereich erfüllt sein müssen.</p>
+            <p>Wie die <orgName n="d8e3c7f5-ed6c-469f-a3c7-f5ed6c669ff5">SBB</orgName> mitteilen, gelten für den Versuch der neuen Abfertigungsmethode folgende provisorische Vorschriften:</p>
+            <p>– die Türen der Versuchsfahrzeuge, RAB De 8/16, schliessen 4-8 Sekunden nach dem letzten Trittbrettkontakt oder Lichtschrankenunterbruch automatisch;</p>
+            <p>– sobald der Lokomotivführer die technische Rückmeldung hat, dass alle Türen geschlossen sind, ist der Zug grundsätzlich abfahrtsbereit;</p>
+            <p>– auf der Versuchsstrecke (<placeName n="d1703b9b-033f-4d76-b03b-9b033f3d7699">Glattal</placeName> oder <placeName n="270826d7-b1eb-4af9-8826-d7b1ebfaf9fb">rechtes Zürichseeufer</placeName>) gilt der neue Dienstfahrplan. Es gibt sogenannte Zeitvergleichsstationen, wo die Abfahrtszeit für die Abfertigung beachtet werden muss. Für die dazwischenliegenden Stationen ist die Fahrzeit so berechnet, dass ein Zug, auch nach einem minimalen Aufenthalt, nie vorzeitig abfahren kann;</p>
+            <p>– für die Zwischenstationen ist eine Maximalhaltezeit von 45 Sekunden vorgesehen;</p>
+            <p>– der Lokführer ist für die Beachtung des Ausfahrtssignals analog der übrigen Signale allein verantwortlich.</p>
+            <p>Bei normalem Ablauf ergibt sich der erwartete Zeitgewinn dadurch, dass sich jede Einstiegtüre 4-8 Sekunden nach dem Durchgang des letzten Fahrgastes automatisch schliesst. Für den Fall, dass sich der normale Ablauf innert der Maximalzeit nicht einstellt, verfügt der Lokführer über eine Zwangstürschliessung. Bei Auslösen derselben ertönt ein akustisches Warnsignal, und eine Warnleuchte blinkt. Diese kündigt den Fahrgästen die Türschliessung innert 5 Sekunden an, wobei die Sicherheit durch den Klemmschutz gewährleistet ist. Befindet sich ein Gegenstand zwischen den Türflügeln, so reversieren die Türen automatisch. Der Zug kann dank der Fahrstromverriegelung erst in Bewegung gesetzt werden, wenn alle Türen endgültig verriegelt sind. Nach dem Abfahren ist die Sicherheit beim neuen Rollmaterial höher als bei den bisherigen Regionalzugskompositionen, da ein Aufspringen wegen der fehlenden Aussentrittbretter und Haltegriffe nicht mehr möglich ist. Die kundendienstlichen Aspekte werden im Versuchsbetrieb durch technische Einrichtungen und organisatorische Massnahmen sichergestellt. An der Begleitung der Züge wird für diesen Versuch nichts geändert. Breit angelegte Versuche haben ergeben, dass der Fahrgastwechsel mit dem im Versuch eingesetzten Rollmaterial nur in ausserordentlichen Fällen (Schulen, Reisegruppen, Invalide) nicht  <pb n="3367"/>innerhalb von 45 Sekunden abgewickelt werden kann. In diesen Ausnahmefällen kann der Zugbegleiter mit einem bei der Gepäckraumtüre montierten Blockierschalter dem Lokführer anzeigen, dass das Auslösen der Zwangsschliessung zu unterbleiben hat.</p>
+            <p>Die Sicherheit der Reisenden ist beim geplanten Versuchsbetrieb mit den getroffenen Anordnungen gewährleistet. Der <orgName n="ff0ce7ee-7749-4481-8ce7-ee7749c481d5">Regierungsrat</orgName> wird sich bei den <orgName n="88b0eea0-92c1-462d-b0ee-a092c1b62d02">SBB</orgName> dafür einsetzen, das sich bei den kundendienstlichen Aspekten (Ein- und Aussteigen von Behinderten und von Reisegruppen), auch bei einer definitiven Einführung dieser Abfertigungsmethode, keine Verschlechterung ergibt. Der Versuch soll ja aufzeigen, inwiefern es notwendig sein wird, ob und in welchem Umfang der Lokführer auch die kundendienstlichen Aufgaben des Abfertigungspersonals übernehmen muss. Für diesen Fall müssten die Einrichtung weiterer Hilfsmittel, wie etwa die Überwachung der Perronkanten mittels Fernsehmonitoren, geprüft werden.</p>
+            <p>Ob der Versuch am <placeName n="2292e9cf-bfe0-42c8-92e9-cfbfe0d2c84b">rechten Seeufer</placeName> oder allenfalls im <placeName n="6c12903d-b67f-445a-9290-3db67f845a2d">Glattal</placeName> durchgeführt wird, ist noch nicht endgültig entschieden. Entsprechende Abklärungen, welche insbesondere den Fahrplan, die Einsatzpläne von Personal und Fahrzeugen, die Personalinstruktion und die Vereinbarung mit gleichzeitig laufenden andern Versuchen betreffen, sind noch im Gang. Ein Verzicht auf den Versuch wäre aber abzulehnen.</p>
+            <p>Dr. <persName n="be015629-4391-4291-8156-29439152911b">Ursula Leemann</persName> (<orgName n="1881be17-6560-4056-81be-176560005633">SP</orgName>, <placeName n="2b47e60e-d559-4654-87e6-0ed5593654e0">Egg</placeName>) hat am 25. Januar 1988 folgende Anfrage eingereicht:</p>
+            <p>Die <orgName n="afc0e98f-a676-4c89-80e9-8fa6763c896d">Volkshochschule des Kantons Zürich</orgName> bezweckt, Kurse «… auf politisch und religiös neutraler Grundlage» durchzuführen. Ohne Zweifel entspricht die grosse Mehrzahl der Kurse diesen Anforderungen. Bei Verstössen gegen diesen Grundsatz ist es – ebenso ohne Zweifel – Pflicht der Aufsichtsorgane und des <orgName n="0c748d0f-b907-4d1e-b48d-0fb907ad1e33">Kantons</orgName> als Subventionsgeber, dagegen einzuschreiten.</p>
+            <p>Die Zweigstelle <placeName n="8b75f1a1-4b90-4fa9-b5f1-a14b906fa989">Wallisellen</placeName> der <orgName n="007f9d3b-aeb1-4da3-bf9d-3baeb1cda332">Volkshochschule</orgName> bietet nun gemäss Programm für diesen Winter nur einen Kurs an: 3 Abende (12., 19. und 26. Januar 1988) über <placeName n="77476afc-52b9-4191-876a-fc52b9a19176">Südafrika</placeName>, mit dem Titel «Friedlicher Wandel oder Revolution?». Einziger Referent bzw. Kursleiter ist Dr. <persName n="56f6a04a-3b9b-4fe4-b6a0-4a3b9bbfe42e">Ulrich Schlüer</persName>, bekannt als Redaktor der Rechtsaussen-Zeitung «<orgName n="2ccd6ad4-6c24-416a-8d6a-d46c24b16a96">Schweizerzeit</orgName>».</p>
+            <p>Ein heute politisch so brisantes, kontroverses Thema derart einseitig zu behandeln, widerspricht nun meines Erachtens klar den Grundsätzen der <orgName n="7c7b3735-3f7b-44c6-bb37-353f7bd4c6ad">Volkshochschule</orgName> und des <orgName n="2b4ee327-19cd-4787-8ee3-2719cdb78754">Kantons</orgName>; Grundsätze, die der <orgName n="31c8e3ec-b6bf-4ed0-88e3-ecb6bf4ed0cc">Regierungsrat</orgName> auch in seiner Antwort auf die Anfrage <persName n="3a017f09-b9b8-4cd9-817f-09b9b8dcd9c6">Winkler</persName> (KR-Nr. 206/1987) eindeutig dargelegt hat. </p>
+            <p>
+                <pb n="3368"/>Ich erlaube mir deshalb, dem <orgName n="a438dfea-78f5-4889-b8df-ea78f56889d2">Regierungsrat</orgName> die folgenden Fragen zu stellen:</p>
+            <p>1. Teilt der <orgName n="e144cbda-5c57-4c23-84cb-da5c573c2317">Regierungsrat</orgName> die Auffassung, dass mit der ausschliesslich von Dr. <persName n="109c6614-bbe8-4357-9c66-14bbe8c3579d">Ulrich Schlüer</persName> bestrittenen Südafrikaveranstaltung der <orgName n="1814732c-c19e-4a03-9473-2cc19e5a0374">Volkshochschule</orgName> in <placeName n="d1bf494b-8d54-40b8-bf49-4b8d5440b88e">Wallisellen</placeName> der Grundsatz, keine «extremen und parteipolitisch einseitigen Ziele» zu verfolgen, eindeutig verletzt wurde?</p>
+            <p>2. Ist die <orgName n="6a37e425-aaa7-4303-b7e4-25aaa713039d">Regierung</orgName> willens, vom Vorstand der <orgName n="43779ae8-0cc7-40c2-b79a-e80cc740c2bb">Volkshochschule des Kantons Zürich</orgName> zu verlangen, dass dieser seine Aufsichtspflicht entsprechend wahrnimmt und derartige Entgleisungen verhindert?</p>
+            <p>3. Hält es der <orgName n="c5efee6f-9243-400e-afee-6f9243700e2e">Regierungsrat</orgName> in einem solchen Fall nicht für angezeigt, eine Gegendarstellung, d. h. einen Kurs mit Referenten oder mindestens Podiumsteilnehmern aus einem andern politischen Lager, zu verlangen?</p>
+            <p>Der <orgName n="2b56c2bc-3295-416a-96c2-bc3295216a94">Regierungsrat</orgName> antwortet wie folgt:</p>
+            <p>Unter der Bezeichnung <orgName n="28e26b4e-2728-4e4a-a26b-4e2728de4ad5">Volkshochschule des Kantons Zürich</orgName> werden in fast 70 Gemeinden, sogenannten Zweigstellen, jährlich zwischen 500 und 600 Kurse für Erwachsene angeboten. Die Kurstätigkeit und die Administration der gesamten <orgName n="96230e67-a0cf-42b4-a30e-67a0cfd2b4f0">Volkshochschule</orgName> werden von einem Direktor geleitet, jede Zweigstelle besitzt einen Zweigstellenleiter. Je nach Grösse der Zweigstelle – die kleinsten bieten jährlich einen Kurs an, die grösste über 250 – ist dem Zweigstellenleiter eine Kommission beigeordnet. Die lokalen Zweigstellen sind in der Gestaltung des Programms selbständig, sie unterbreiten ihre Vorschläge jedoch der Direktion. Die Durchführung der Kurse in den lokalen Zweigstellen wird von den Mitgliedern der lokalen Kommissionen überwacht.</p>
+            <p>Von Erwachsenenbildungsinstitutionen, die Staatsbeiträge beziehen, wird grundsätzlich verlangt, dass sie keine extremen oder parteipolitisch einseitigen Ziele verfolgen. Dies gilt auch für die <orgName n="4bdde9af-ccf8-49d9-9de9-afccf859d939">Volkshochschule des Kantons Zürich</orgName>, die die Durchführung von Kursen auf politisch und religiös neutraler Grundlage bezweckt. Nun müssen sich Bildungsinstitutionen heute vermehrt mit aktuellen und umstrittenen Themen befassen. So bietet die <orgName n="21de51c7-56ba-42a8-9e51-c756baa2a8f2">Volkshochschule</orgName> seit einiger Zeit auch Kurse mit politisch brisanten oder kontroversen Themen an, allerdings in so geringer Zahl, dass von einer Einseitigkeit in der Zielsetzung nicht gesprochen werden kann. Für die Behandlung solcher Themen können mehrere Referenten beigezogen oder auch Kursformen gewählt werden, die ein Austragen kontroverser Meinungen ermöglichen. Dies ist bereits in der Ausschreibung zu berücksichtigen und offenzulegen. Hiefür sind der Zweigstellenleiter bzw. der Direktor der <orgName n="e9616cd0-b581-4107-a16c-d0b58171079a">Volkshochschule</orgName> zustän-  <pb n="3369"/>dig. Es ist deshalb nicht angezeigt, von seiten der Behörden zusätzlich zu den bestehenden Organen der <orgName n="b11a9e31-8596-4729-9a9e-318596c729e4">Volkshochschule</orgName> eine weitergehende Kontrolle über Inhalt und Form der Kurse auszuüben.</p>
+            <p>Für die Beurteilung des Kurses, den die Zweigstelle <placeName n="3cb00070-78d2-45a6-b000-7078d2a5a6fb">Wallisellen</placeName> im Winter 1988 angeboten hat, ist folgendes zu berücksichtigen:</p>
+            <p>Der Referent hat zum Thema <placeName n="de926022-6d7e-41e8-9260-226d7e21e81f">Südafrika</placeName> von 1980 bis 1987 in insgesamt acht Zweigstellen der <orgName n="fca53358-5dd9-4f91-a533-585dd91f91b4">Volkshochschule</orgName> Kurse von sechs bis zehn Lektionen durchgeführt. Dies wurde – wie seine Funktion als Leiter der Zweigstelle <placeName n="d3d94fce-16ff-49af-994f-ce16ffa9af51">Flaach</placeName> 1977-1979 – jeweils in den Jahresberichten der <orgName n="b0eb5a47-2123-4bf6-ab5a-4721231bf6cb">Volkshochschule</orgName> aufgeführt. Weder von den Teilnehmern noch von den Zweigstellenleitern ist bei der Direktion oder beim Vorstand der <orgName n="22a67d6c-984b-4436-a67d-6c984b2436b7">Volkshochschule</orgName> eine Beanstandung wegen Einseitigkeit des Referenten eingereicht worden. Der gegenwärtige Leiter der Zweigstelle <placeName n="0f78261c-c516-4ce5-b826-1cc516bce522">Wallisellen</placeName> hat vorgängig einen Kurs des Referenten zum Thema <placeName n="ecbb697f-e213-41c9-bb69-7fe213a1c924">Südafrika</placeName> besucht und auch den Kurs in <placeName n="b76e201a-ac1d-4772-ae20-1aac1da77248">Wallisellen</placeName> visitiert. Dabei stellte er fest, dass der Referent sich bemühte, die Konfliktstoffe aufzuzeigen, und dass er sich jeder einseitigen politischen Äusserung enthielt. Die Teilnehmer hatten zudem die vom Referenten gebotene Gelegenheit zu Fragen und Diskussionen ausgiebig genutzt.</p>
+            <p>Im vorliegenden Fall wurde weder der Grundsatz, keine extremen und parteipolitisch einseitigen Ziele zu verfolgen, verletzt, noch kann der Direktion bzw. dem Zweigstellenleiter mangelnde Aufsicht vorgeworfen werden.</p>
+            <p>Dr. <persName n="c61d85b6-68e9-459b-9d85-b668e9259bc4">Ueli Mägli</persName> (<orgName n="4cfe48cc-8991-41ae-be48-cc899191ae51">SP</orgName>, <placeName n="571c684c-12d1-4afe-9c68-4c12d17afeb2">Zürich</placeName>) hat am 25. Januar 1988 folgende Anfrage eingereicht:</p>
+            <p>Seit dem 1. Januar 1980 ist das eidgenössische Berufsbildungsgesetz in Kraft, das in Art. 30 vorsieht, dass alle Lehrlinge/Lehrtöchter mit genügenden Leistungen in Betrieb und Schule Freifächer bis zu einem halben Tag/Woche während der Arbeitszeit besuchen können.</p>
+            <p>Ich ersuche deshalb den <orgName n="e6092c23-cc93-4ac3-892c-23cc938ac385">Regierungsrat</orgName> um die Beantwortung folgender Fragen, die sich auf das Freifächerangebot der gewerblich-industriellen Berufsschulen während der Arbeitszeit im Wintersemester 1987/88 beziehen:</p>
+            <p>1. Wie viele Freifachkurse wurden insgesamt angeboten?</p>
+            <p>2. Wie gross war die Anzahl der Teilnehmer/innen an Freifachkursen?</p>
+            <p>3. Welches ist die Anzahl der erteilten Stunden in Freifachkursen? Welchen prozentualen Anteil machen diese Stunden am Total der erteilten Stunden des Pflichtunterrichts aus?  <pb n="3370"/>
+            </p>
+            <p>4. Wie verteilen sich die Freifachkurse auf die folgenden Themenbereiche:</p>
+            <p>a) Berufskunde</p>
+            <p>b) Informatik</p>
+            <p>c) Allgemeinbildung</p>
+            <p>d) Fremdsprachen?</p>
+            <p>5. Wie ist das Freifächerangebot differenziert nach einzelnen Berufsschulen?</p>
+            <p>6. Wie verteilen sich die Anzahl der Teilnehmer/innen an Freifachkursen auf die folgenden Wirtschaftsbranchen:</p>
+            <p>a) Maschinen- und Metallbranche</p>
+            <p>b) Baugewerbe und Planung</p>
+            <p>c) Gastgewerbe und Ernährung</p>
+            <p>d) Übriges Gewerbe</p>
+            <p>e) Verkaufsberufe?</p>
+            <p>Der <orgName n="6478046f-2c83-4c9c-b804-6f2c83dc9c3f">Regierungsrat</orgName> antwortet wie folgt:</p>
+            <p>Eine Umfrage des <orgName n="ee66dc93-80e0-4b91-a6dc-9380e02b91d7">Amtes für Berufsbildung</orgName> bei den gewerblich-industriellen Berufsschulen und Lehrwerkstätten hat folgendes Resultat ergeben:</p>
+            <p>Im Wintersemester 1987/88 wurden an den gewerblich-industriellen Berufsschulen und Lehrwerkstätten im Kanton <placeName n="a38908e6-98f3-4dd5-8908-e698f3bdd53a">Zürich</placeName> 473 Freifachkurse während der Arbeitszeit (vor 18.00 Uhr) angeboten, und davon wurden 358 Kurse durchgeführt. Sie verteilen sich auf folgende Themenbereiche:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell/>
+                        <cell>Anzahl Kurse </cell>
+                    </row>
+                    <row>
+                        <cell>Berufskunde </cell>
+                        <cell>113 </cell>
+                    </row>
+                    <row>
+                        <cell>Informatik </cell>
+                        <cell>45 </cell>
+                    </row>
+                    <row>
+                        <cell>Allgemeinbildung </cell>
+                        <cell>32 </cell>
+                    </row>
+                    <row>
+                        <cell>Fremdsprachen </cell>
+                        <cell>131 </cell>
+                    </row>
+                    <row>
+                        <cell>Andere Themenbereiche </cell>
+                        <cell>37 </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Gesamthaft wurden 659 Lektionen Freifächer pro Woche erteilt, was einem Anteil von 4,3% der Lektionen des Pflichtunterrichts (total 15 377 Lektionen) entspricht.</p>
+            <p>Die Freifachkurse wurden von 4335 Teilnehmern besucht. Bei einem Total von 24 387 Lehrlingen im Pflichtunterricht entspricht dies einem Anteil von 17,8% der gesamten Schülerzahl. Allerdings ist dabei zu beachten, dass teilweise Lehrlinge, die mehrere Kurse besuchen, auch mehrfach gezählt worden sind. </p>
+            <p>
+                <pb n="3371"/>Die Anzahl der Teilnehmer an Freifachkursen verteilen sich auf folgende Wirtschaftsbranchen:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell/>
+                        <cell>Lehrlinge </cell>
+                        <cell/>
+                        <cell>In % der Teilnehmer an allen Freifachkursen </cell>
+                    </row>
+                    <row>
+                        <cell>Maschinen- und Metallbranche </cell>
+                        <cell>1493 </cell>
+                        <cell/>
+                        <cell>34,4 </cell>
+                    </row>
+                    <row>
+                        <cell>Baugewerbe und Planung </cell>
+                        <cell>585 </cell>
+                        <cell/>
+                        <cell>13,5 </cell>
+                    </row>
+                    <row>
+                        <cell>Gastgewerbe und Ernährung </cell>
+                        <cell>28 </cell>
+                        <cell/>
+                        <cell>0,6 </cell>
+                    </row>
+                    <row>
+                        <cell>Übriges Gewerbe </cell>
+                        <cell>783 </cell>
+                        <cell/>
+                        <cell>18,1 </cell>
+                    </row>
+                    <row>
+                        <cell>Verkaufsberufe </cell>
+                        <cell>521 </cell>
+                        <cell/>
+                        <cell>12,0 </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Bei den übrigen Teilnehmern an Freifachkursen ist eine Zuordnung nach Branchen nicht möglich.</p>
+            <p>Die durchgeführten Kurse verteilen sich wie folgt auf die einzelnen Berufsschulen:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>
+                            <orgName n="74c0fdd3-a3a4-4437-80fd-d3a3a4d43767">Allgemeine Berufsschule Zürich</orgName> (Berufsschule I) </cell>
+                        <cell>57 </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <orgName n="e45e1948-aa7c-4884-9e19-48aa7c88843e">Baugewerbliche Berufsschule Zürich</orgName> (Berufsschule II) </cell>
+                        <cell>24 </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <orgName n="6199685e-07c4-4a6c-9968-5e07c46a6c36">Mechanisch-Technische Berufsschule Zürich</orgName> (Berufsschule III) </cell>
+                        <cell>21 </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <orgName n="68d654ed-258d-40d0-9654-ed258dd0d0e3">Berufsschule für Weiterbildung Zürich</orgName> (Berufsschule IV) </cell>
+                        <cell>58 </cell>
+                    </row>
+                    <row>
+                        <cell>Übrige Berufsschulen in der Stadt <placeName n="e8a8bea7-a89f-421c-a8be-a7a89f921c29">Zürich</placeName> </cell>
+                        <cell>26 </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <orgName n="1ccab997-d190-4601-8ab9-97d190c601c1">Berufsschule Bülach</orgName> </cell>
+                        <cell>12 </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <orgName n="941ff714-bd20-492b-9ff7-14bd20e92bce">Berufsschule Dietikon</orgName> </cell>
+                        <cell>13 </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <orgName n="7ef86d2b-7ba0-4ce7-b86d-2b7ba0cce7e4">Berufsschule Horgen</orgName> </cell>
+                        <cell>15 </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <orgName n="810cfb3e-1f63-48f2-8cfb-3e1f63d8f251">Berufsschule Rüti</orgName> </cell>
+                        <cell>22 </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <orgName n="9f4269fe-14f9-4adf-8269-fe14f94adf1f">Berufsschule Uster</orgName> </cell>
+                        <cell>30 </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <orgName n="5530fd53-ca5d-4cf6-b0fd-53ca5d7cf622">Berufsschule Wetzikon</orgName> </cell>
+                        <cell>15 </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <orgName n="4be98690-41cc-4145-a986-9041cc4145ea">Berufsschule Winterthur</orgName> </cell>
+                        <cell>25 </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <orgName n="e33af6a3-703e-4310-baf6-a3703e831082">Berufs- und Frauenfachschule Winterthur</orgName> </cell>
+                        <cell>6 </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <orgName n="c465ef5e-0d10-4280-a5ef-5e0d10f280a6">Berufsschule Sulzer</orgName> </cell>
+                        <cell>29 </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <orgName n="a5475dca-7312-4bc5-875d-ca73125bc527">Metallarbeiterschule Winterthur</orgName> </cell>
+                        <cell>5 </cell>
+                    </row>
+                </table>
+            </p>
+            <p><orgName n="88ba20e8-059d-45d4-ba20-e8059db5d46b" type="deriv">Parlamentarische</orgName> Vorstösse</p>
+            <p>Postulat von <persName n="018f8b5f-77c4-4c7d-8f8b-5f77c4ec7d5e">Vreni Püntener</persName> (<orgName n="e79007f7-3851-4ac5-9007-f738515ac567">GP</orgName>, <placeName n="43a1f1a7-b826-411c-a1f1-a7b826e11c2d">Wallisellen</placeName>) und Dr. <persName n="003548b8-5f64-491f-b548-b85f64f91f20">Alfred Weidmann</persName> (<orgName n="97b15f2a-cd14-45a4-b15f-2acd1455a45e">GP</orgName>, <placeName n="f3e90954-88ed-465d-a909-5488ed165d6f">Uhwiesen</placeName>) betreffend sachgerechte Entsorgung ausgedienter kältetechnischer Einrichtungen.</p>
+            <p>Postulat von Dr. <persName n="6e3f0955-9319-497a-bf09-559319b97ae6">Alfred Weidmann</persName> (<orgName n="e8bbede8-8bdf-46bd-bbed-e88bdfe6bd99">GP</orgName>, <placeName n="59c9fd4a-3370-420f-89fd-4a3370820f4a">Uhwiesen</placeName>), Dr. <persName n="15d87e60-5d9e-48cc-987e-605d9ee8cc06">Josef Gunsch</persName> (<orgName n="93c89b40-111b-4c14-889b-40111b6c14cc">GP</orgName>, <placeName n="cbca8a86-0b72-416c-8a8a-860b72716c0a">Russikon</placeName>), <persName n="d423e550-51b2-48b7-a3e5-5051b228b7f5">Hans-Rudolf Winkelmann</persName> (<orgName n="fc3468bf-9052-41cf-b468-bf905231cf46">LdU</orgName>, <placeName n="a6769ab5-f52c-4369-b69a-b5f52ca36964">Zürich</placeName>), <persName n="d41c3f2b-e994-425e-9c3f-2be994d25e3e">Marianne Pestalozzi</persName> (<orgName n="92b843c2-23c8-480e-b843-c223c8d80e53">EVP</orgName>, <placeName n="23109e5d-d052-4926-909e-5dd052492645">Zürich</placeName>) und <persName n="bb7f0f41-1870-4369-bf0f-411870436981">Karl Weber</persName> (<orgName n="6b7cac0d-af94-41ad-bcac-0daf9491ad5a">SVP</orgName>, <placeName n="f1560832-d1af-4d61-9608-32d1af5d618e">Stadel</placeName>) betreffend Aus- und Weiterbildung im Bereich der Pflege und Betreuung von Betagten. </p>
+            <p>
+                <pb n="3372"/>Anfrage von <persName n="8d2a0b32-e8c0-4f76-aa0b-32e8c0af76f3">Max Moser</persName> (<orgName n="2681fdd3-b546-47f7-81fd-d3b54617f78d">FDP</orgName>, <placeName n="7c50bd06-7565-4a6e-90bd-067565ba6ea6">Meilen</placeName>) betreffend den Umbau mit Fassadenveränderungen und Tiefgarage bei der Wohnsiedlung des <orgName n="804ba731-eed4-4931-8ba7-31eed4693114">Staates</orgName> (<orgName n="fd0b1e0c-4a7f-434b-8b1e-0c4a7ff34bac">BVK</orgName>) «<placeName n="e01a552e-197f-4b73-9a55-2e197f0b73f1">Im Tobel</placeName>», <placeName n="d674f56d-1e40-4864-b4f5-6d1e4058643c">Feldmeilen</placeName>.</p>
+        </body>
+    </text>
+</tei:TEI>

@@ -1,0 +1,51 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Verhandlungsgegenstände.</title>
+                <respStmt>
+                    <resp ref="#OCR/kvr" key="transcript">Transkript: OCR/kvr<date when="2011-11-16">16.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Verhandlungsgegenstände.</title>
+                    <date when="1912-06-10">10.06.1912</date>
+                    <ident>StAZH MM 24.49 KRP 1912/042/0232</ident>
+                    <idno>504–505</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_49_KRP_1912_042_0232_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3626427"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="504"/>Das Einladungsschreiben vom <date>4. Juni 1912</date> weist folgende Verhandlungsgegenstände auf:</p>
+            <p>1. Eingabe der <orgName n="8ed285c0-9b86-4f92-9285-c09b860f9244">Gewerblichen Verbände von <placeName n="b41892e9-f1db-4193-9892-e9f1dbb193aa">Zürich</placeName>
+                </orgName> betreffend Maßnahmen zum Schutze von Arbeitswilligen vom <date>13. Mai 1912</date>.</p>
+            <p>2. Bericht des <orgName n="23df96c6-0263-463e-9f96-c60263c63ebd">Regierungsrates</orgName> vom <date>4. Januar 1912</date> betreffend Überschreitung der Kostenvoranschläge und der für die Neubauten der <orgName n="a36f7db3-d33c-42d3-af7d-b3d33c42d387">Kantonsschule</orgName> und des <orgName n="ba3cf982-06b6-4bc5-bcf9-8206b63bc5bf">Technikums</orgName> in <placeName n="5284da7c-dff7-4fa1-84da-7cdff70fa17e">Winterthur</placeName> bewilligten Kredite.</p>
+            <p>3. Gesetz betreffend das <orgName n="e43b489f-d8ba-44ed-bb48-9fd8ba14ed6e">Medizinalwesen</orgName>, Vorlage der <orgName n="9a8d1af3-7dd4-4117-8d1a-f37dd4711797">Redaktionskommission</orgName> vom <date>1. Juni 1912</date>. <pb n="505"/>
+            </p>
+            <p>4. Bericht der <orgName n="15c98d01-dc7b-4fbb-898d-01dc7befbbcc">kantonsrätlichen Redaktionskommission</orgName> über die Frage der Aufnahme von Ausführungsbestimmungen zum Schuldbetreibungs- und Konkursgesetz in die neue Zivilprozeßordnung vom <date>28. Mai 1912</date>.</p>
+            <p>Es ist neu hinzugekommen:</p>
+            <p>5. Initiative des <orgName n="98c37a9a-a400-4307-837a-9aa400f30736">Großen Stadtrates von <placeName n="3c95de1a-2797-4019-95de-1a2797301997">Zürich</placeName>
+                </orgName> auf Abänderung des Zuteilungsgesetzes.</p>
+        </body>
+    </text>
+</tei:TEI>

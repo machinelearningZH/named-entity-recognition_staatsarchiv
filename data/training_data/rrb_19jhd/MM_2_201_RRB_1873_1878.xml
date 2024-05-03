@@ -1,0 +1,59 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gasbeleuchtungsgesellschaft in Wädensweil. Genehmig. ihrer Statuten.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#der">Transkript: der<date when="2014-05-19">19.05.2014</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2014</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Gasbeleuchtungsgesellschaft in Wädensweil. Genehmig. ihrer Statuten.</title>
+                    <date when="1873-08-06">06.08.1873</date>
+                    <ident>StAZH MM 2.201 RRB 1873/1878</ident>
+                    <idno>349–350</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_201_MM_2_256/MM_2_201/MM_2_201_RRB_1873_1878_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3327147"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="349"/>Mit Zuschrift vom 2. August sucht der Verwaltungsrath der <orgName n="e425a765-62a3-465d-a5a7-6562a3c65d4b">Gasbeleuchtungsgesellschaft für Wädensweil</orgName> um Genehmigung der von der Generalversammlung der Aktionäre vom 29. Juli 1873 aufgestellten Statuten nach.<pb n="350"/>
+            </p>
+            <p/>
+            <p>Der <orgName n="d846fa95-6f73-4d75-86fa-956f733d7504">Regierungsrath</orgName>,</p>
+            <p>nach Einsicht eines Antrages der <orgName n="80b67eac-e609-4cda-b67e-ace6099cdad9">Direktion des Innern</orgName>,</p>
+            <p/>
+            <p>beschließt:</p>
+            <p/>
+            <p>1. Den vorliegenden Statuten der <orgName n="4870d36d-2099-46c0-b0d3-6d2099b6c0b7">Gasbeleuchtungsgesellschaft für Wädensweil</orgName> wird im Sinne des § 22 des privatrechtl. Gesetzbuches die Genehmigung ertheilt.</p>
+            <p/>
+            <p>2. Von den Statuten sollen zwei Exemplare auf Stempelpapier ausgefertigt &amp; mit den Original-Unterschriften versehen werden; das eine Exemplar ist im Archiv der <orgName n="9a4398c4-e5e5-48c0-8398-c4e5e588c04d">Direktion des Innern</orgName> aufzubewahren, das andere dem Verwaltungsrath der <orgName n="f408c820-7897-409d-88c8-207897109d9f">Gasbeleuchtungsgesellschaft</orgName> zuzustellen.</p>
+            <p/>
+            <p>3. Gegenwärtiger Beschluß soll sämmtlichen Abschriften oder Abdrücken der Statuten beigesetzt &amp; nebst einem Auszuge der letztern in das <orgName n="53aeed34-156e-4a09-aeed-34156e4a09c6">Amtsblatt</orgName> aufgenommen werden.</p>
+            <p/>
+            <p>4. Mittheilung an den Verwaltungsrath der <orgName n="82a4ef28-e06d-4808-a4ef-28e06d2808b6">Gasbeleuchtungsgesellschaft Wädensweil</orgName>.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

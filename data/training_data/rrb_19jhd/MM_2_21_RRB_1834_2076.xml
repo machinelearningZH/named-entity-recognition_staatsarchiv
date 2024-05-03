@@ -1,0 +1,47 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Der hiesige Stand spricht seine Zustimmung zu Aufstellung eines Bayerischen Consulates in Winterthur aus.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#lmr">Transkript: lmr<date when="2010-02-16">16.02.2010</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2010</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Der hiesige Stand spricht seine Zustimmung zu Aufstellung eines Bayerischen Consulates in Winterthur aus.</title>
+                    <date when="1834-12-23">23.12.1834</date>
+                    <ident>StAZH MM 2.21 RRB 1834/2076</ident>
+                    <idno>83–84</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_001_MM_2_050/MM_2_021/MM_2_21_RRB_1834_2076_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=588352"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="83"/>In Folge einer erneuerten Einfrage der K. Bayerischen Gesandtschaft richtet die vorörtliche Behörde mit Schreiben<pb n="84"/>d. d. 22. d. M. die wiederholte Einladung an die hiesige Standesregierung, sich zu erklären, ob sie ihre Zustimmung zur Errichtung eines Bayerischen Consulates in Winterthur zu geben geneigt seye?</p>
+            <p>Es hat daher der Regierungsrath diesem Gegenstande seine Berathung gewidmet, und beschloßen, der vorörtlichen Behörde die Erklärung zuzustellen, daß der Stand Zürich kein Bedenken trage, seine Zustimmung zu Aufstellung eines Bayerischen Consulates in Winterthur auszusprechen.</p>
+            <p>Hierüber wird dem vorörtlichen Staatsrathe ein Protokollsauszug zugestellt.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

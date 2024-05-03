@@ -1,0 +1,54 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Postulat Rudolf Bautz (POCH, Zürich) vom 30. November 1981 betreffend ein Programm zur Reduktion des motorisierten Privatverkehrs im Kanton Zürich</title>
+                <respStmt>
+                    <resp ref="#OCR/esk" key="transcript">Transkript: OCR/esk<date when="2011-11-18">18.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Postulat Rudolf Bautz (POCH, Zürich) vom 30. November 1981 betreffend ein Programm zur Reduktion des motorisierten Privatverkehrs im Kanton Zürich</title>
+                    <date when="1982-01-18">18.01.1982</date>
+                    <ident>StAZH MM 24.106 KRP 1982/150/0018</ident>
+                    <idno>8506–8508</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_106_KRP_1982_150_0018_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3732222"/>
+                    <listRelation>
+                        <relation name="Fortsetzung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3732222" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3732290"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="8506"/>
+                <persName n="07354ecc-6bb6-40b9-b54e-cc6bb610b9a3">R. Bautz</persName> (<orgName n="609c4967-f70b-49b6-9c49-67f70b29b64c">POCH</orgName>, <placeName n="6ff9f18b-1225-4f2d-b9f1-8b12254f2d63">Zürich</placeName>) begründet den Vorstoss wie folgt: Im Vorfeld der Abstimmung über die S-Bahn ist meiner Meinung nach ein Diskussionspunkt zu wenig zur Geltung gekommen, ein Diskussionspunkt, den ich hier nun vortragen möchte.</p>
+            <p>Es geht darum, dass mit dem Bau einer S-Bahn, wie sie nun vom <orgName n="696cdeba-7e98-4145-acde-ba7e98614558" type="deriv">kantonalen</orgName> Souverän beschlossen worden ist, eine ungeheure Kapazitätserweiterung für den Verkehr eingeplant ist. Das heisst nichts anderes, als dass für die Bewohner des Kantons <placeName n="f1a54fe3-20ea-4d91-a54f-e320ea8d91b3">Zürich</placeName> in ungeheurem Masse mehr Verkehr und mehr Verkehrsmittel bereitgestellt werden als das bis anhin üblich war. Diese Kapazitätserhöhung bedeutet also auch eine Verkehrsvermehrung für die Zukunft, eine Verkehrsvermehrung, die sicher in zehn Jahren sehr stark ansteigen wird. Eine Verkehrsvermehrung bedeutet aber auch immer, dass immer mehr Personen im Kanton <placeName n="2c920c96-c355-491b-920c-96c355591bc5">Zürich</placeName> unterwegs sind, ob sie nun zum Einkaufen fahren, ob das mit dem öffentlichen Verkehrsmittel oder mit dem privaten sei. Ob sie zum Einkaufen fahren, ob sie zur Arbeit fahren, ob sie zu Besuch fahren, immer mehr Leute sind in Bewegung, auf der Reise. Man könnte sagen,  <pb n="8507"/>wir werden wieder zu einem «fahrenden Volk». Verkehrsvermehrung bedeutet aber auch – das ist auch in diesen Debatten hier zum Ausdruck gekommen – Verstärkung der wirtschaftlichen Konzentrationsbewegung im Kanton <placeName n="b06e1312-e70c-46ac-ae13-12e70c46ac94">Zürich</placeName>, weil durch die Mobilität der Bewohner, der Arbeitskräfte diese wirtschaftliche und selbstverständlich auch kulturelle Konzentrationsbewegung gefördert wird. Dies ist gegen unsere Absichten, die wir hier in diesem Rat schon geäussert haben.</p>
+            <p>Verkehrsvermehrung bedeutet aber auch – und das ist ja alles inbegriffen in diesem Konzept – Trennung der Lebensfunktionen des einzelnen Bürgers. Er ist getrennt in seinen Funktionen, örtlich getrennt im Wohnen, Arbeiten, Verbringen der Freizeit, und diese Trennung hat – ich kann das nicht ausführen – soziale Konsequenzen, sie hat aber auch wirtschaftliche Konsequenzen. Es führt dazu, dass durch diesen ganzen Prozess der Konzentration und der Verkehrsvermehrung für den einzelnen Bürger ein Zwangsverkehr geschaffen wird. Er ist von der Struktur her gezwungen, dann auch die Verkehrsmittel zu benützen.</p>
+            <p>Mein Postulat, das nun verlangt, dass ein Programm zur Reduktion des motorisierten Privatverkehrs erstellt wird, stützt sich auf die Überlegung, dass diese Verkehrsvermehrung, die mit dem öffentlichen Verkehrsmittel, mit der S-Bahn, erreicht wird, anderseits im privaten Verkehr wieder rückgängig gemacht wird. Damit kommen erst die im Vorfeld der Abstimmung so propagierten Vorteile einer S-Bahn zum Tragen. Es sind die Vorteile, die nicht bestritten werden können, dass das Umsteigen vom privaten auf den öffentlichen Verkehr dadurch gefördert wird, dass das private Verkehrsvolumen planerisch eingedämmt wird, gleichzeitig wird selbstverständlich das Umsteigen auf den öffentlichen Verkehr stark gefördert. Dies bedeutet auch, dass das Argument des Energiesparens erst zum Tragen kommt, denn mit der blossen Verkehrsvermehrung wird nämlich nicht Energie gespart, sondern es wird mehr Energie verbraucht. Wenn wir hingegen die Verkehrskapazität beibehalten, indem wir den Privatverkehr zurücknehmen, ist natürlich ein Energiesparen möglich, denn es ist klar, dass das öffentliche Verkehrsmittel, die S-Bahn, relativ weniger Energie verbraucht als das private Verkehrsmittel. Es ist auch die Frage des Umweltschutzes, die dann zum Tragen kommt, also der Platzbedarf, die Frage der Luftverschmutzung, die Frage des Lärms. Alle diese Dinge werden erst dadurch bedeutsam, dass man mit dem Ausbau des öffentlichen Verkehrs auch den privaten motorisierten Verkehr zurücknimmt.</p>
+            <p>Gleichzeitig mit der Reduktion der Kapazität des Privatverkehrsvolumens müssen natürlich auch die öffentlichen Feinverteiler gefördert werden. Diese Förderung der Feinverteiler ist meiner Meinung nach in der Region um die Stadt <placeName n="569bef37-2822-4bfe-9bef-3728226bfe26">Zürich</placeName> herum erst dadurch möglich, dass der private motorisierte Verkehr eingeschränkt wird. Denn so lange ein extensiver privater motorisierter Verkehr existiert, werden die öffentli-  <pb n="8508"/>chen Feinverteiler, also die Busnetze, auch in der Agglomeration und in den weniger dicht besiedelten Gebieten nicht ausgelastet werden können, und es wird sich für die öffentlichen Feinverteiler der bekannte Teufelskreis durchsetzen; je weniger diese Busnetze ausgebaut sind, desto weniger Personen werden diese auch benützen, und wenn die Rentabilität dieser öffentlichen Feinverteiler sehr gering ist, müssen auch die Tarife entsprechend hoch sein, was wieder die Attraktivität des Feinverteilers herabsetzt und den Zustrom der Fahrgäste an den Feinverteiler. Und das führt ja dazu, dass dadurch die Feinverteiler – wir kennen diese Diskussion – tendenziell defizitär sind, das heisst, dass sie den Steuerzahler etwas kosten, wenn sie aus volkswirtschaftlichen Gründen aufrechterhalten werden müssen. Sie sind defizitär, weil sie zu wenig ausgebaut werden können, weil zu wenig geplant worden ist.</p>
+            <p>Durch eine Reduktion des Strassenbaus ist garantiert, dass diese Feinverteiler auch rentabel zum Einsatz kommen können, und in einer Weise, dass sie attraktiv sind. Ausserdem werden wahrscheinlich dann auch einige Park-and-ride-Häuser, die uns auch etwas kosten, die auch defizitär sein werden, durch diese Art einer Verkehrspolitik überflüssig. Ich habe damit auch die finanzielle Seite einer Reduktion des Verkehrsvolumens im Strassenbau angesprochen. Es ist eine Frage, die uns auch finanziell sehr stark angeht.</p>
+            <p>Gleichzeitig drängt sich natürlich mit dem Ausbau der S-Bahn eine neue Parkraumpolitik auf. Es drängt sich auf, die vorgesehenen Grossparkierungsanlagen neu zu überprüfen. Durch eine Reduktion des privaten motorisierten Verkehrs und gleichzeitigen Ausbau eines leistungsfähigen öffentlichen Verkehrsmittels ist die Notwendigkeit dieser Privatverkehrsmagnete, dieser Grossparkhäuser, besonders in der Stadt <placeName n="8b97dc74-b0c1-4e8a-97dc-74b0c1ee8ad1">Zürich</placeName> nicht mehr gegeben. Ich bitte deshalb die <orgName n="ef81cce0-20dc-484f-81cc-e020dcd84ffe">Regierung</orgName>, dieses Postulat zu überprüfen und dann auch entgegenzunehmen.</p>
+            <p>Die Stellungnahme des <orgName n="e5f65b01-42cc-433c-b65b-0142cc333ca3">Regierungsrates</orgName> erfolgt zu einem späteren Zeitpunkt.</p>
+            <p>Das Geschäft ist bis dahin erledigt.</p>
+        </body>
+    </text>
+</tei:TEI>

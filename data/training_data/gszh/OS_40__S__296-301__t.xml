@@ -1,0 +1,115 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vertrag über das Kraftwerk Sihl - Höfe</title>
+                <respStmt>
+                    <resp ref="#jsn" key="transcript">Transkript: jsn<date when="2015-07-23">23.07.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Vertrag über das Kraftwerk Sihl - Höfe</title>
+                    <date when="1958-04-10">10.04.1958</date>
+                    <ident>StAZH OS 40 (S. 296-301)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_40__S__296-301__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3462702"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="296"/>
+            </p>
+            <p>Die <orgName n="3b2a58fe-5ad0-4876-aa58-fe5ad02876c8">Schweizerischen Bundesbahnen</orgName> (<orgName n="8d42f89c-065e-4dfc-82f8-9c065eddfcbd">SBB</orgName>) als Inhaber der Etzelwerkkonzession</p>
+            <p>und</p>
+            <p>der Bezirk <placeName n="4164e631-6a84-4c64-a4e6-316a840c64f5">Höfe</placeName> als Träger des projektierten <orgName n="ed909e07-335b-474c-909e-07335be74c64">Kraftwerkes Sihl-Höfe</orgName> (<orgName n="eb06a0c3-53e4-428b-86a0-c353e4d28b17">KSH</orgName>)</p>
+            <p>vereinbaren unter sich und mit</p>
+            <p>dem Staat <placeName n="5ff1a977-3dcb-4f8b-b1a9-773dcb9f8bb9">Zürich</placeName> als Mitkonzedenten des <orgName n="72ce3aa6-c5ed-4978-8e3a-a6c5edf978bc">Etzelwerkes</orgName> und Partner des im Jahre 1841 mit dem Kanton <placeName n="0899805a-5864-40d4-9980-5a586490d41b">Schwyz</placeName> abgeschlossenen Staatsvertrages betreffend Abflußverhältnisse des <placeName n="b93e940d-99f9-4b4f-be94-0d99f98b4fbd">Hüttensees</placeName> und des <placeName n="c672bbff-01d1-4eba-b2bb-ff01d1feba1f">Sihlflusses</placeName>
+            </p>
+            <p>in Anbetracht dessen,</p>
+            <p>–	daß der Stand <placeName n="53a81f51-cd71-49aa-a81f-51cd71e9aaff">Zürich</placeName> mit dem Stand <placeName n="1ed5b2f2-d414-4ce2-95b2-f2d4144ce22c">Schwyz</placeName> am 19. Mai 1841 einen Staatsvertrag betreffend die Abfluß Verhältnisse der <placeName n="6f769e88-8ce4-4939-b69e-888ce419398b">Sihl</placeName> abgeschlossen hat;  <pb n="297"/>
+            </p>
+            <p>–	daß durch Vertrag zwischen den Kantonen <placeName n="bbda2428-43a2-4a0e-9a24-2843a2ea0e9a">Zürich</placeName>, <placeName n="be4c8465-f4e4-4ae6-8c84-65f4e4aae619">Schwyz</placeName> und <placeName n="e3547857-1116-4ec0-9478-5711160ec01c">Zug</placeName> einerseits und den <orgName n="d0020c33-9e2e-484d-820c-339e2e184dec">Schweizerischen Bundesbahnen</orgName> anderseits über die Ausnützung der Wasserkräfte der <placeName n="89765a3f-3bc0-4232-b65a-3f3bc032325b">Sihl</placeName> beim <placeName n="49e0902c-8a41-4d0d-a090-2c8a416d0d2e">Etzel</placeName> (Etzelwerkkonzession), vom 2. August 1919/3. Juli 1929, den <orgName n="7e1ae132-67b6-47c0-9ae1-3267b687c04f">SBB</orgName> bzw. ihrer Unterkonzessionärin in Einschränkung des vorerwähnten Staatsvertrages von 1841 das Recht verliehen wurde, Sihlwasser in den oberen <placeName n="4bf93551-2511-49ff-b935-512511d9ff9e">Zürichsee</placeName> abzuleiten;</p>
+            <p>–	daß der <orgName n="5010e7f0-f38c-484f-90e7-f0f38c184fb9">Regierungsrat des Kantons Zürich</orgName> die Etzelwerkkonzession mit Beschluß Nr. 2426 vom 14. November 1929 unter verschiedenen, das ober- und unterirdische Wasserregime im <placeName n="147e24cc-1a51-4a8a-be24-cc1a518a8aea" type="deriv">zürcherischen</placeName> <placeName n="6577a0eb-e7e1-4f6c-b7a0-ebe7e16f6cb1">Sihltal</placeName> betreffenden Bedingungen, die von den <orgName n="b91249a8-323f-453a-9249-a8323f253aa9">SBB</orgName> angenommen worden sind, bestätigt hat;</p>
+            <p>–	daß der Staat <placeName n="1845e012-370d-40c1-85e0-12370d30c192">Zürich</placeName> die <orgName n="ff90317e-dbad-4388-9031-7edbadd388c5">Etzelwerk AG</orgName>. als Subkonzessionärin der <orgName n="874ecd20-7b66-4bb2-8ecd-207b667bb2cb">SBB</orgName> mit Vereinbarung vom 17. Oktober 1952 (genehmigt vom <orgName n="7041cf75-9eb5-4d1a-81cf-759eb56d1afc">Regierungsrat des Kantons Zürich</orgName> mit Beschluß Nr. 2799 vom 30. Oktober 1952) ermächtigt hat, im Einvernehmen mit den Konzessionären für das <orgName n="16eab2d6-dd8e-4692-aab2-d6dd8ec6929b">Kraftwerk Waldhalde</orgName> (Wasserrecht Nr. 100, Bezirk <placeName n="820a38d4-d2f7-44b5-8a38-d4d2f774b50b">Horgen</placeName>) den <placeName n="e09286ff-b69e-45a5-9286-ffb69e35a5fe">Tiefenbachweiher</placeName> in der Gemeinde <placeName n="b4a4ba84-5f17-40cb-a4ba-845f17f0cb18">Schönenberg</placeName> gemäß den Bedingungen der Beschlüsse des <orgName n="56b72c30-665a-456c-b72c-30665a456c2b">zürcherischen Regierungsrates</orgName> Nr. 3332 vom 16. Dezember 1937 und Nr. 2799 vom 3. November 1938 im Rahmen der Verleihung für diese Anlage zur Feinregulierung der Sihldotierung zu benützen;</p>
+            <p>–	daß die <orgName n="69611a0d-61c0-4948-a11a-0d61c07948f4">Etzelwerk AG</orgName>. sich verpflichtet hat, die ab 1. Januar 1944 sich ergebenden zusätzlichen Kosten für die Entkrautung der <placeName n="fff5c6fa-992b-471e-b5c6-fa992b771e97">Sihl</placeName> und der Werkkanäle zu übernehmen (Beschluß Nr. 1038 des <orgName n="21780eb0-2ac3-44e0-b80e-b02ac314e04b">zürcherischen Regierungsrates</orgName> vom 4. Mai 1944);</p>
+            <p>–	daß die vorerwähnten Rechtsgrundlagen den Vertragspartnern bekannt sind;</p>
+            <p>in der Absicht,</p>
+            <p>die durch die Erstellung, den Bestand und Betrieb des <orgName n="7832be13-b61d-4074-b2be-13b61dd07420">KSH</orgName> sich ergebenden Verpflichtungen und Verantwortlichkeiten des Bezirkes <placeName n="46751d8c-02b0-4ba4-b51d-8c02b02ba4f2">Höfe</placeName> festzulegen und von jenen der Etzelwerkkonzessionäre abzugrenzen;  <pb n="298"/>
+            </p>
+            <p>im Hinblick darauf,</p>
+            <p>–	daß der Bezirk <placeName n="caa3ca1e-d599-49b7-a3ca-1ed59909b774">Höfe</placeName> bereit ist, die im Interesse möglichst geringer Veränderungen des Wasserregimes im <placeName n="923a3b33-f857-4adb-ba3b-33f857aadbed">Sihltal</placeName> erforderlichen Vorkehren zu treffen und die Betriebsführung des <orgName n="cb6520b1-a974-495a-a520-b1a974995aac">Kraftwerkes Sihl-Höfe</orgName> den <orgName n="4e9cba84-e881-4be0-9cba-84e8817be010">Elektrizitätswerken des Kantons Zürich</orgName> (<orgName n="14cadded-2cfe-486b-8add-ed2cfe686b33">EKZ</orgName>) zu übertragen;</p>
+            <p>–	daß anderseits die <orgName n="6f14795e-ba5d-4467-9479-5eba5d44679d">EKZ</orgName> bereit sind, die Feinregulierung des Sihlabflusses beim <orgName n="111df800-b8a2-4cc5-9df8-00b8a29cc5cc">Kraftwerk Waldhalde</orgName> unter Beizug des <placeName n="992477e4-db45-426e-a477-e4db45a26e95">Tiefenbachweihers</placeName> auch nach Erstellung des <orgName n="7b58efeb-7b48-443a-98ef-eb7b48043a77">Kraftwerkes Sihl-Höfe</orgName> auf die Maximaldauer der Etzelwerk-Konzession, d. h. bis 12. Mai 2037 zu besorgen oder einem allfälligen Rechtsnachfolger zu überbinden;</p>
+            <p>was folgt:</p>
+            <p>1.	Der Bezirk <placeName n="9e18eb45-d137-435a-98eb-45d137035aab">Höfe</placeName> haftet für jeden Schaden, der nachweisbar infolge des Baues, Bestandes oder Betriebes des <orgName n="af1675fd-ba2f-4161-9675-fdba2fa16132">KSH</orgName> an der Gesundheit oder dem Eigentum Dritter oder am öffentlichen Grunde entsteht; er ist auch zur Beseitigung der Ursachen des Schadens verpflichtet. Betriebsinhaber des <orgName n="d7876b73-df7d-4469-876b-73df7d246909">KSH</orgName> im Sinne von Art. 20 des <orgName n="e6534199-bf56-40dc-9341-99bf56a0dc31" type="deriv">eidgenössischen</orgName> Elektrizitätsgesetzes ist der Bezirk <placeName n="99590886-6c54-463e-9908-866c54263e79">Höfe</placeName>.</p>
+            <p>2.	Die <orgName n="38374380-b56d-4304-b743-80b56df304d8">SBB</orgName> erklären, daß die im Zusammenhang mit der Ausnutzung der Etzelwerkkonzession stehenden bisherigen Verpflichtungen, insbesondere gegenüber dem Staat <placeName n="09bb58d8-e7a7-4c6e-bb58-d8e7a71c6e7a">Zürich</placeName>, sowie den Gemeinden und den Wasserrechtsbesitzern im <placeName n="c3e98067-0c2e-4f84-a980-670c2eff84c4">Sihltal</placeName>, und zwar namentlich die in der Präambel dieses Vertrages erwähnten Pflichten, auch nach Erstellung des <orgName n="2018dab8-1171-44e7-98da-b81171a4e748">KSH</orgName> ungeschmälert im bisherigen Umfange erfüllt werden, so weit nicht durch diesen Vertrag eine Entlastung eintritt.</p>
+            <p>3.	Der Bezirk <placeName n="cd7c624c-a2a9-4523-bc62-4ca2a9d52321">Höfe</placeName> verpflichtet sich – unter Vorbehalt der nachfolgenden Bestimmungen –, nichts zu tun oder zu unterlassen, was die Etzelwerk-Konzessionäre bei der Erfüllung ihrer Verpflichtungen gemäß Ziffer 2 hindern oder die Wirksamkeit und den Erfolg pflichtgemäßen Handelns oder Unterlassens der Etzelwerk-Konzessionäre beeinträchtigen könnte; der Bezirk <placeName n="f72888fe-27d0-4a61-a888-fe27d09a615b">Höfe</placeName> steht namentlich davon ab, die Abflußverhältnisse der zwischen der Etzelwerk-Stau-  <pb n="299"/>mauer und der <placeName n="f62a4870-f165-4e4d-aa48-70f1654e4da5" type="deriv">zürcherischen</placeName> Kantonsgrenze der <placeName n="cb499e2a-7ec1-4547-899e-2a7ec1654705">Sihl</placeName> zufließenden Seitenbäche nachteilig zu verändern.</p>
+            <p>4.	a) Dem Bezirk <placeName n="f18e2e27-dd5e-4817-8e2e-27dd5e58175a">Höfe</placeName> wird seitens des Staates <placeName n="be49bd92-2bba-4ebb-89bd-922bba9ebbf0">Zürich</placeName> gestattet, für das <orgName n="22028615-2980-41e4-8286-15298091e485">KSH</orgName> ein Ausgleichsbecken mit 69000 m<hi rend="sup">3</hi> Inhalt zu erstellen, wovon höchstens 40000 m<hi rend="sup">3</hi> für das tägliche Spitzendecken ausgenützt werden dürfen. Das Wiederauffüllen des Stauraumes kann während der Nacht (21–6 Uhr) erfolgen.</p>
+            <p>b)	Der mittlere Tagesabfluß der <placeName n="9c6c4e4a-447f-4dd4-ac4e-4a447fcdd474">Sihl</placeName> beim Eintritt in das <placeName n="a3550240-71b4-479f-9502-4071b4479f43" type="deriv">zürcherische</placeName> Kantonsgebiet, d. h. bei der Meßstelle <placeName n="bcc381f6-527b-4330-8381-f6527b233041">Blattwaag</placeName>, darf nicht geringer als 2,5 m<hi rend="sup">3</hi>/sek. sein; bei der Ausmündung des Unterwasserkanales des <orgName n="a6425b02-8d9b-4f78-825b-028d9b1f7805">Werkes Waldhalde</orgName> der <orgName n="6d2f2b9a-4fc9-4b63-af2b-9a4fc97b63f8">EKZ</orgName> darf die momentane Abflußmenge nie unter 2,5 m<hi rend="sup">3</hi>/sek. sinken. Der Bezirk <placeName n="2df1648f-122e-49fb-b164-8f122ec9fb43">Höfe</placeName> ist berechtigt, den Ausgleich der Abflußschwankungen unter Beizug des <placeName n="cd768e97-903e-4281-b68e-97903e72816b">Tiefenbachweihers</placeName> vorzunehmen und mit den <orgName n="41ec6a98-2dfd-4d5f-ac6a-982dfdad5f4d">EKZ</orgName> eine entsprechende Vereinbarung abzuschließen (vgl. Ziffer 4 c). Der Bezirk <placeName n="a3a7a8d7-e7c5-4ad2-a7a8-d7e7c54ad2e3">Höfe</placeName> darf unter dieser Voraussetzung die Abflußmenge bei der Meßstation <placeName n="45e94550-bf27-45a5-a945-50bf27a5a570">Blattwaag</placeName> vorübergehend so weit unter 2,5 m<hi rend="sup">3</hi>/sek. absinken lassen, als der Minderabfluß durch die <orgName n="2ee359c9-0e41-45d2-a359-c90e4105d2dc">EKZ</orgName> beim <orgName n="ea1a26dc-bf6f-4ad1-9a26-dcbf6f0ad186">Waldhaldewerk</orgName> ausgeglichen werden kann; die momentane Abflußmenge soll in der Regel nicht weniger als 1,5 m<hi rend="sup">3</hi>/sek. betragen und darf auf keinen Fall 1,0 m<hi rend="sup">3</hi>/sek. unterschreiten.</p>
+            <p>c)	Der Bezirk <placeName n="a29a94c4-4f01-461d-9a94-c44f01961d5d">Höfe</placeName> führt das <orgName n="bda08fae-5d97-44f4-a08f-ae5d9744f449">Kraftwerk Sihl-Höfe</orgName> so aus und läßt es durch die <orgName n="8dee03bc-2dc1-4e2e-ae03-bc2dc1be2e89">EKZ</orgName> so betreiben, daß das Wasserregime der <placeName n="d86b1919-0c5c-4e57-ab19-190c5c2e5733">Sihl</placeName> bei Erfüllung der Pflichten durch die Etzelwerk-Konzessionäre im übrigen nicht zum Nachteil des Staates <placeName n="06454f19-897b-47e5-854f-19897bd7e5c5">Zürich</placeName> sowie Dritter, insbesondere der unterliegenden Gemeinden und Wasserrechtsbesitzer, verändert wird. Der Bezirk <placeName n="0b866883-f4d4-4e69-8668-83f4d4de697e">Höfe</placeName> schließt mit den <orgName n="ff17a6b8-9806-4d8c-97a6-b898062d8c2e">EKZ</orgName> einen Betriebsvertrag ab, welcher zu seiner Gültigkeit der Genehmigung durch den <orgName n="73743d9f-d0b6-464e-b43d-9fd0b6264e3b">Regierungsrat des Kantons Zürich</orgName> und die <orgName n="3636e83f-2dcb-4f19-b6e8-3f2dcb5f19f6">Generaldirektion SBB</orgName> bedarf; er verpflichtet sich, dessen Bestimmungen einzuhalten.  <pb n="300"/>
+            </p>
+            <p>5.	Der Bezirk <placeName n="1c343021-2f4d-4b14-b430-212f4dfb1494">Höfe</placeName> übernimmt sämtliche Bau-, Unterhalts- und Betriebskosten, die infolge des Hinzutretens des <orgName n="b04f4ead-555a-448d-8f4e-ad555ac48d6e">KSH</orgName> im Interesse der Aufrechterhaltung der Sihldotierung zusätzlich notwendig werden.</p>
+            <p>6.	Der Bezirk <placeName n="9c3be2bf-f37a-4c8f-bbe2-bff37a6c8f21">Höfe</placeName> tritt in bezug auf das oberirdische und unterirdische Wasserregime des <placeName n="5b65ba41-c8e7-4efa-a5ba-41c8e73efaf2">Sihltales</placeName> in die bestehenden Verpflichtungen der Etzelwerkkonzessionäre, insbesondere in die Schadenersatz- und Konventionalstrafpflichten gegenüber dem Staat <placeName n="22f3877d-a6bf-4d3c-b387-7da6bfbd3c19">Zürich</placeName> und Dritten (namentlich den Gemeinden und Wasserrechtsinhabern im <placeName n="296a0037-0b6e-4c18-aa00-370b6ebc1829">Sihltal</placeName>) ein in folgendem Sinne:</p>
+            <p>	Ist im Einzelfall die Verantwortlichkeit gegeben, so gehen sämtliche Folgen einschließlich allfällige Verfahrenskosten insoweit zu Lasten des Bezirkes <placeName n="53a306bf-80ab-412c-a306-bf80abc12c6f">Höfe</placeName>, als sie durch Erstellung, Bestand, Betrieb oder Unterhalt des <orgName n="74b6f0e5-c93d-4622-b6f0-e5c93d162263">KSH</orgName> (einschließlich Versagen des Bedienungspersonals, der Fernsteuerung und der Fernmeldeanlage des <orgName n="a87ab004-7769-49cb-bab0-04776919cb5c">KSH</orgName>) ganz oder teilweise ausgelöst wurden.</p>
+            <p>	Streitigkeiten zwischen den Vertragsparteien über den Grundsatz, das Ausmaß und die Ursachen der Verantwortlichkeit sind zunächst einer dreiköpfigen Untersuchungskommission vorzulegen, deren Mitglieder ernannt werden</p>
+            <p>a)	vom Bundesgerichtspräsidenten: der juristische Obmann,</p>
+            <p>b)	vom Chef des <orgName n="b9638199-2bf4-4b62-a381-992bf46b6248">eidgenössischen Wasserwirtschaftsamtes</orgName>: ein technischer Beisitzer,</p>
+            <p>c)	vom Rektor der <orgName n="d403431b-6f93-4d9d-8343-1b6f937d9dfd">Eidgenössischen Technischen Hochschule</orgName>: ein technischer Beisitzer.</p>
+            <p>7.	Gerichtsstand für die gerichtliche Austragung von Streitigkeiten aus diesem Vertrag ist <placeName n="de5d8034-61a9-43c3-9d80-3461a983c36a">Zürich</placeName>, soweit durch die Gesetzgebung nicht ein anderes Domizil zwingend vorgeschrieben oder die Entscheidung dem <orgName n="0665f7e0-de03-4b5b-a5f7-e0de031b5b49">Bundesgericht</orgName> oder Bundesverwaltungsbehörden in einziger oder erster Instanz vorbehalten ist.</p>
+            <p>8.	Auf den Zeitpunkt des Inkrafttretens dieses Vertrages ziehen die <orgName n="fd6e254d-7db7-4d0c-ae25-4d7db75d0c77">SBB</orgName> und der Staat <placeName n="b94e9054-64df-4df5-8e90-5464dfadf532">Zürich</placeName> ihre Einsprachen gegen das Projekt für das <orgName n="a2056ec5-d7f1-4006-856e-c5d7f1f0065e">KSH</orgName>, die <orgName n="48f49b46-6fb0-4826-b49b-466fb0082627">SBB</orgName> überdies ihr Konzessionsgesuch zurück.  <pb n="301"/>
+            </p>
+            <p>9.	Die <orgName n="2185f588-2791-4a5e-85f5-8827911a5ee6">SBB</orgName> überbinden die für sie aus diesem Vertrag sich ergebenden Rechte und Pflichten der <orgName n="21de45b4-890d-4e1f-9e45-b4890d0e1f01">Etzelwerk AG</orgName>. für die Dauer der dieser erteilten Subkonzession in der Weise, daß die <orgName n="7837148d-ecf5-436e-b714-8decf5636eb9">Etzelwerk AG</orgName>. an die Stelle der <orgName n="2b2a7f47-8a97-4bfb-aa7f-478a97fbfb5c">SBB</orgName> tritt.</p>
+            <p>In dreifacher Ausfertigung abgeschlossen und unterzeichnet:</p>
+            <p>
+                <placeName n="519aa2e7-5f5a-4833-9aa2-e75f5ad833b1">Bern</placeName>, den 12. April 1958</p>
+            <p>Für die <orgName n="e2790512-f349-4a1f-b905-12f3492a1f49">Generaldirektion der Schweizerischen Bundesbahnen</orgName>:</p>
+            <p>
+                <persName n="6804f688-8caf-46c7-84f6-888cafe6c7aa">Favre</persName>
+            </p>
+            <p>
+                <placeName n="8e176211-96c1-49ca-9762-1196c1f9ca91">Wollerau</placeName>, den 10. April 1958</p>
+            <p>Namens des Bezirkes <placeName n="3585bbb6-3766-4652-85bb-b63766a65212">Höfe</placeName>, unter Vorbehalt der Genehmigung durch die Bezirksversammlung,</p>
+            <p>Für den Bezirksrat</p>
+            <p>Der Bezirksammann: <persName n="9c903b98-b8e3-4b73-903b-98b8e31b7324">Jos. Kümin</persName>
+            </p>
+            <p>Der Schreiber: <persName n="24e94df6-584f-4b4e-a94d-f6584f6b4ecb">Kümin</persName>
+            </p>
+            <p>
+                <placeName n="a7fde3c0-163d-4580-bde3-c0163dc580a2">Zürich</placeName>, den 16. April 1958</p>
+            <p>Namens des Staates <placeName n="66660a24-8abe-46dd-a60a-248abe56dda5">Zürich</placeName>, unter Vorbehalt der Genehmigung durch den <orgName n="452992de-d00a-4abf-a992-ded00a2abfd7">Regierungsrat</orgName>,</p>
+            <p>
+                <orgName n="de9684ff-ebe5-4d88-9684-ffebe59d8895">Direktion der öffentlichen Bauten</orgName>:</p>
+            <p>
+                <persName n="a3d1b9ec-c9e5-4314-91b9-ecc9e5331431">Meierhans</persName>
+            </p>
+            <p>Genehmigt von der <orgName n="382fee74-d72e-40cc-afee-74d72ee0cc15">Bezirksversammlung Höfe</orgName> am 20. April 1958.</p>
+            <p>
+                <persName n="a9f6c952-c7b0-4f10-b6c9-52c7b09f102e">Jos. Kümin</persName>
+            </p>
+            <p>
+                <persName n="edf0733c-01ea-4d49-b073-3c01ea2d4985">Kümin</persName>, Ratsschreiber</p>
+            <p>Genehmigt vom <orgName n="90765a91-2429-4345-b65a-9124297345e7">Regierungsrat des Kantons Zürich</orgName> am 17. April 1958 (Prot. Nr. 1388).</p>
+            <p>Vor dem <orgName n="ef48306f-5943-4f39-8830-6f5943ff3910">Regierungsrate</orgName>,</p>
+            <p>Der Staatsschreiber: <persName n="1d848f72-5d54-4d59-848f-725d543d59b6">Isler</persName>
+            </p>
+        </body>
+    </text>
+</TEI>

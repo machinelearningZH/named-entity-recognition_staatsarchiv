@@ -1,0 +1,51 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jb. Pfarrverweser Fluri in Sternenberg, Gratifikation für das Amtsjahr 1860/61.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#rsn">Transkript: rsn<date when="2013-09-16">16.09.2013</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2013</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Jb. Pfarrverweser Fluri in Sternenberg, Gratifikation für das Amtsjahr 1860/61.</title>
+                    <date when="1861-10-12">12.10.1861</date>
+                    <ident>StAZH MM 2.154 RRB 1861/1366</ident>
+                    <idno>33–34</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_151_MM_2_200/MM_2_154/MM_2_154_RRB_1861_1366_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=2004776"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="33"/>Der <orgName n="de0a2c21-d2cb-430f-8a2c-21d2cb330f2c">Regierungsrath</orgName> hat mit Rücksicht auf die Herrn Pfarrverweser <persName n="e313ae39-1f9b-41eb-93ae-391f9b31eb5d">Fluri</persName> in <placeName n="7f00ace5-4132-4704-80ac-e54132e70433">Sternenberg</placeName> bei dessen Erwählung gemachte Zusicherung einer ihm mit Berücksichtigung der außerordentlichen Verhältnisse dieser Gemeinde und der mühevollen und schwierigen Stellung, welche für den Geistlichen dadurch herbeigeführt wird, zu ertheilende Gratifikation, nach Einsicht eine Antrages der <orgName n="01a4ed35-00f2-46ec-a4ed-3500f2f6ecf6">Direktion des Innern</orgName>, Abtheilung <orgName n="022ce4ea-8b82-4301-ace4-ea8b82a30191">Armenwesen</orgName>,</p>
+            <p/>
+            <p>beschlossen:</p>
+            <p/>
+            <p>I. Es sei Herrn Pfarrverweser <persName n="da97ab2a-5eb7-45be-97ab-2a5eb785be0a">Fluri</persName> eine Gratifikation von Fr. 400 für das Amtsjahr vom 30 November 1860 bis 30 November 1861 aus dem Credite Ausgabe 2 des Cantonalarmenfonds in der Meinung zu verabreichen, daß diese Gratifikation für die Zukunft aus<pb n="34"/>den dem <orgName n="6fceea2e-cfb2-4f17-8eea-2ecfb2cf17d3">Kirchenrathe</orgName> hiefür angewiesenen Credite zu bestreiten sei (§ 253 des Gesetzes betreffend das Kirchenwesen lema [sic!] 2).</p>
+            <p/>
+            <p>II. Mittheilung an die <orgName n="f5621a43-5c28-4661-a21a-435c289661a1">Direktion des Innern</orgName>, Abtheilung <orgName n="9388ccef-3815-41e3-88cc-ef381551e35f">Armenwesen</orgName>, zur Vollziehung und an Herrn Pfarrverweser <persName n="91304a0b-8907-418d-b04a-0b8907a18dbd">Fluri</persName>.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

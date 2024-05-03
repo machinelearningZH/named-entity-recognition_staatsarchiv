@@ -1,0 +1,81 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kantonale Bodenverbesserungs-Verordnung (Änderung)</title>
+                <respStmt>
+                    <resp ref="#sef" key="transcript">Transkript: sef<date when="2015-03-12">12.03.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Kantonale Bodenverbesserungs-Verordnung (Änderung)</title>
+                    <date when="1998-07-08">08.07.1998</date>
+                    <ident>StAZH OS 54 (S. 647)</ident>
+                    <idno>913.11</idno>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_54__S__647__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3455464"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="647"/>
+            </p>
+            <p>Der <orgName n="e056286a-2ccc-4dbc-9628-6a2ccc0dbc8a">Regierungsrat</orgName> beschliesst:</p>
+            <p>I. Die Kantonale Bodenverbesserungs-Verordnung vom 28. November 1979 wird wie folgt geändert:</p>
+            <p>§ 1 Abs. 1 unverändert.<add place="margin right">Zuständige Direktion </add>
+            </p>
+            <p>Für den Bereich der Bodenverbesserungs- und der weiteren Massnahmen zur Verbesserung der Betriebsverhältnisse ist ihr das <orgName n="e8e22b50-7a23-49c2-a22b-507a2379c280">Amt für Landschaft und Natur</orgName> beigegeben.</p>
+            <p>§ 15 Abs. 1 unverändert.<add place="margin right">Koordination öffentlicher Interessen </add>
+            </p>
+            <p>Zur Wahrung der verschiedenen öffentlichen Interessen setzt sich das <orgName n="b4206d5a-c0ea-4056-a06d-5ac0ea20567b">Amt für Landschaft und Natur</orgName> mit den zuständigen Stellen in Verbindung.</p>
+            <p>Abs. 3 unverändert.</p>
+            <p>§ 31. Der <orgName n="aa0984ad-f8b8-4caf-8984-adf8b8ccafda">Bergkommission</orgName> gehören an:<add place="margin right">
+                    <orgName n="6f84b4f6-c5ab-49e1-84b4-f6c5aba9e155">Bergkommission</orgName> a) Zusammensetzung </add>
+            </p>
+            <p>lit. a–d unverändert,</p>
+            <p>e)	der Chef des <orgName n="0d53bd1b-5926-43af-93bd-1b592643af64">Amtes für Landschaft und Natur</orgName>.</p>
+            <p>Der Vorsitzende zieht überdies mit beratender Stimme bei:</p>
+            <p>lit. a) unverändert,</p>
+            <p>b)	einen vom Chef des <orgName n="ca42e04f-1c83-4d96-82e0-4f1c837d96b0">Amtes für Landschaft und Natur</orgName> bezeichneten Vertreter dieses Amtes.</p>
+            <p>Abs. 3 unverändert.</p>
+            <p>In den §§ 41 Abs. 1 und 2 und 42 wird der Ausdruck «<orgName n="2f7f43e3-b982-440a-bf43-e3b982f40af5">Meliorations- und Vermessungsamt</orgName>» durch den Ausdruck «<orgName n="477af0ab-c6e3-4298-baf0-abc6e31298b3">Amt für Landschaft und Natur</orgName>» ersetzt.</p>
+            <p>II. Diese Änderung tritt am 1. August 1998 in Kraft.</p>
+            <p>III. Veröffentlichung in der Gesetzessammlung.</p>
+            <p>Im Namen des <orgName n="ec80d812-9577-4ad3-80d8-129577dad38f">Regierungsrates</orgName>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Der Präsident: </cell>
+                        <cell>Der Staatsschreiber: </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <persName n="3cca9785-6adc-4bbd-8a97-856adc4bbdad">Honegger </persName>
+                        </cell>
+                        <cell>
+                            <persName n="309437cd-b775-4432-9437-cdb775743222">Husi</persName> </cell>
+                    </row>
+                </table>
+            </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschwerde des Herrn Cantonsfürsprech Tobler Nahmens Samuel und Jacob Bühler aus Aeschi und Joseph Kuhn von Wohlen wegen Wegweisung durch die hiesige Policey.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#csn">Transkript: csn<date when="2010-02-08">08.02.2010</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2010</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Beschwerde des Herrn Cantonsfürsprech Tobler Nahmens Samuel und Jacob Bühler aus Aeschi und Joseph Kuhn von Wohlen wegen Wegweisung durch die hiesige Policey.</title>
+                    <date when="1836-06-02">02.06.1836</date>
+                    <ident>StAZH MM 2.30 RRB 1836/0856</ident>
+                    <idno>175–176</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_001_MM_2_050/MM_2_030/MM_2_30_RRB_1836_0856_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=657619"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="175"/>Nach Anhörung eines von Herrn Cantonsfürsprech <persName n="82950160-7dca-49c1-9501-607dca89c1c4">Tobler</persName> eingelegten, vom 31. v. Monath datirten Recursschreibens, durch welches derselbe Nahmens von <persName n="03f6ddb6-0e26-4a6f-b6dd-b60e264a6f81">Samuel Jacob Bühler</persName> aus <placeName n="31d7e98c-bd81-4cf9-97e9-8cbd81bcf949">Aeschi</placeName>, Amtsbezirkes <placeName n="1bf50b86-b5d9-42b3-b50b-86b5d912b355">Frutigen</placeName> im Canton <placeName n="47f08e7c-c8ec-4ffd-b08e-7cc8ec9ffd86">Bern</placeName>, und <persName n="b7de3d57-48b7-42f1-9e3d-5748b762f1dd">Joseph Kuhn</persName> von <placeName n="bc283ecc-5fa0-41e1-a83e-cc5fa0a1e17a">Wohlen</placeName>, Bezirks <placeName n="a80d6369-740b-4acc-8d63-69740b7acc41">Bremgarten</placeName>, im Canton <placeName n="29cbcd1d-23fc-4684-8bcd-1d23fc068442">Aargau</placeName>, Beschwerde darüber führt, daß sie wegen Theilnahme an einem in der Weinschenke auf der <placeName n="46679337-44fa-4a0d-a793-3744faea0d7d">Waag</placeName> Statt gefundenen Gespräche über politische Gegenstände, aus welchem Widerspruch und Tumult entstanden, von der <orgName n="19494f08-434f-4b3f-894f-08434fdb3ff8">Cantonspolicey</orgName> angewiesen worden seyen, sich sogleich aus dem hiesigen Canton zu entfernen, ungeachtet sie vor-<pb n="176"/>her weder verhört noch richterlich beurtheilt worden, – so hat der <orgName n="e1112101-5970-4803-9121-0159709803dc">Regierungsrath</orgName> (mit Mehrheit) beschloßen, es sollen die Reclamanten entweder den Canton verlaßen, oder zur Beurtheilung ihrer Theilnahme an dem bemeldten Vorfalle an die competente Gerichtsstelle überwiesen werden.</p>
+            <p>Hiervon wird dem <orgName n="90996952-0bcd-4a35-9969-520bcd5a35cf">Policeyrathe</orgName> zur Vollziehung Kenntniß gegeben.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

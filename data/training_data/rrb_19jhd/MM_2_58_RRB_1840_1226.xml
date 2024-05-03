@@ -1,0 +1,46 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reclamation betreffend das Vermögen des zu Delft in Holland wohnhaften Heinrich Bölsterli von Oberwinterthur.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#lmr">Transkript: lmr<date when="2011-03-17">17.03.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Reclamation betreffend das Vermögen des zu Delft in Holland wohnhaften Heinrich Bölsterli von Oberwinterthur.</title>
+                    <date when="1840-07-16">16.07.1840</date>
+                    <ident>StAZH MM 2.58 RRB 1840/1226</ident>
+                    <idno>106–107</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_051_MM_2_100/MM_2_058/MM_2_58_RRB_1840_1226_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1398738"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="106"/>Mit Schreiben vom 7. d. M. stellt der <placeName n="b4e7c86d-3312-465f-a7c8-6d3312365fd4" type="deriv">schweizerische</placeName> Consul in <placeName n="95355ef5-656a-43ed-b55e-f5656ab3ed64">Amsterdam</placeName> Nahmens des zu <placeName n="33cf9c1e-0c16-41e5-8f9c-1e0c1621e5be">Delft</placeName> in <placeName n="fe4519de-f40c-4745-8519-def40c2745cf">Holland</placeName> wohnhaften <persName n="083810f7-dcd5-424d-b810-f7dcd5324d3b">Heinrich Bölsterli</persName> von <placeName n="a15af6b1-9305-44b6-9af6-b19305f4b678">Oberwinterthur</placeName> das Ansuchen, daß ihm das in <orgName n="d3526422-bd10-434d-9264-22bd10134d60" type="deriv">Vormundschaftlicher</orgName> Verwaltung liegende Vermögen seines vor 50. Jahren nach <placeName n="6775ccfd-efb3-445b-b5cc-fdefb3845b95">Ostindien</placeName> ausgewanderten Oheims <persName n="0b648f8a-6141-43b2-a48f-8a614163b274">Jacob Bölsterli</persName> ausgeliefert werden möchte.</p>
+            <p>Da sich nun aus dem Protokolle ergibt, daß im<pb n="107"/>July 1838. der <orgName n="23a8b42c-5ea7-4e29-a8b4-2c5ea73e295c">Gemeindrath Oberwinterthur</orgName> beauftragt worden, auf gerichtlichem Wege einen Aufruf und Verschollenerklärung dieses Abwesenden zu bewirken, so hat der <orgName n="fdaaf1c1-3682-42ee-aaf1-c13682c2eeb8">Regierungsrath</orgName> beschlossen, von dem <orgName n="fad05f56-8dbe-4bb2-905f-568dbeabb20d">Obergerichte</orgName> Auskunft über den Erfolg zu verlangen.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

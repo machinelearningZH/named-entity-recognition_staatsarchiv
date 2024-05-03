@@ -1,0 +1,96 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Organisationsstatut der Elektrizitätswerke des Kantons Zürich (Antrag des Regierungsrates vom 12. Oktober 1939 und abgeänderter Antrag der Kommission vom 10. April 1940) [Traktandum 11].</title>
+                <respStmt>
+                    <resp ref="#OCR/der" key="transcript">Transkript: OCR/der<date when="2011-10-19">19.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Organisationsstatut der Elektrizitätswerke des Kantons Zürich (Antrag des Regierungsrates vom 12. Oktober 1939 und abgeänderter Antrag der Kommission vom 10. April 1940) [Traktandum 11].</title>
+                    <date when="1940-09-16">16.09.1940</date>
+                    <ident>StAZH MM 24.60 KRP 1940/023/0260</ident>
+                    <idno>480–484</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_60_KRP_1940_023_0260_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3684003"/>
+                    <listRelation>
+                        <relation name="Fortsetzung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3684003" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3684011"/>
+                        <relation name="Fortsetzung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3684003" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3683937"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="480"/>
+                <persName n="a98e13e7-b389-44c9-8e13-e7b38984c932">Funk</persName> - <placeName n="03ce1863-0f8a-4136-8e18-630f8a41367f">Mettmenstetten</placeName> referiert als Präsident der <orgName n="9946241f-32db-461e-8624-1f32db861ece">Kommission über die Revision des Organisationsstatuts der EKZ</orgName>. Die Vorlage geht auf ein Postulat der Kommission vom <date>20. Oktober 1937</date> zurück, das vom <orgName n="51b2951a-ff48-438b-b295-1aff48638bfb">Regierungsrat</orgName> zur Prüfung entgegengenommen wurde. Er überwies es dem <orgName n="4ff6f09d-42a0-4d80-b6f0-9d42a0ad8031">Verwaltungsrat der EKZ</orgName>. zur Vernehmlassung. Dieser entschloß sich zu einer Totalrevision und unterbreitete am <date>8. November 1938</date> dem <orgName n="cd574498-29e0-47c9-9744-9829e027c976">Regierungsrat</orgName> zuhanden des <orgName n="24746ea8-2105-42a0-b46e-a8210502a0f7">Kantonsrates</orgName> einen Revisionsentwurf. Der vorliegende Antrag des <orgName n="f820eb17-0a1e-4538-a0eb-170a1e453817">Regierungsrates</orgName> vom <date>12. Oktober 1939</date> stellt das Ergebnis der Einigung zwischen dem <orgName n="7cc9d7cc-cc27-4759-89d7-cccc270759d9">Verwaltungsrat der EKZ</orgName>. und dem <orgName n="349a6504-975c-448d-9a65-04975cb48d35">Regierungsrat</orgName> dar. Nach den einleitenden Bemerkungen beantragt der Referent Eintreten auf die Detailberatung, was ohne Opposition beschlossen wird.</p>
+            <p>Die §§ 1–4 umschreiben Zweck und Aufgabe der <orgName n="89cea2c0-37ec-4bfa-8ea2-c037ec5bfaa0">EKZ</orgName>.</p>
+            <p>§ 1 wird unverändert gutgeheißen.</p>
+            <p>§ 2: Bei der Behandlung dieses Paragraphen entwickelt sich eine längere Debatte über die Zweckmäßigkeit von Installationsarbeiten durch die Organe der <orgName n="1e6d94e7-d3c3-44be-ad94-e7d3c3d4be8b">EKZ</orgName>. und über die  <pb n="481"/>Frage, ob das Installations- und Verkaufsgeschäft von Apparaten im Statut verankert werden soll.</p>
+            <p>
+                <persName n="97bcf6ab-785d-4fb3-bcf6-ab785d3fb349">Ott</persName> - <placeName n="c6b663a5-326c-4e8c-b663-a5326c1e8c8c">Turbenthal</placeName> sieht im Installationsbetrieb einen wichtigen Zweig der <orgName n="dcc7acab-9953-429f-87ac-ab9953829f60">EKZ</orgName>. und empfiehlt, im § 2 zu vermerken, daß die <orgName n="69fc6b7b-cb75-4cc1-bc6b-7bcb757cc109">EKZ</orgName>. das Installationsgeschäft betreiben dürfen. Er beantragt Aufnahme des folgenden Nachsatzes zum Paragraphen 2 des Organisationsstatutes: „… treiben Handel mit elektrischen Apparaten und führen Installationen aus.“</p>
+            <p>
+                <persName n="ace48302-c7ce-43b8-a483-02c7cec3b857">Schönenberger</persName> - <placeName n="97568110-7469-4add-9681-1074696add3d">Zürich</placeName> weist darauf hin, daß die <orgName n="761e3850-a96d-4690-9e38-50a96d369064">EKZ</orgName>. das Installations- und Verkaufsgeschäft in ziemlich großem Umfange betreiben; im Jahre 1938/39 wurde aus diesem Geschäftszweig ein Umsatz von über 1 Million Franken und ein Gewinn von Fr. 120 000.– erzielt. Ursprünglich beabsichtigte der <orgName n="d7a62fed-9308-4a5f-a62f-ed9308fa5f9f">Kanton</orgName> durch die <orgName n="9bcac5aa-b208-4996-8ac5-aab208a996a0">EKZ</orgName>. lediglich elektrische Energie zu billigem Preise abzugeben; die geschickte kaufmännische Leitung der <orgName n="0096b7f2-7ecf-4fac-96b7-f27ecf6fac97">EKZ</orgName>. hat dann aber den Werken noch ein Installations- und Verkaufsgeschäft angegliedert, was eine starke Konkurrenzierung der privaten Installateure bedeutet. Der Redner spricht eindringlich zugunsten des Kleinhandwerkes, dessen Erhaltung volkswirtschaftlich von größter Bedeutung ist. Es muß darum auf einen Abbau des Installations- und Verkaufsgeschäftes bei den <orgName n="64373a9f-353a-475c-b73a-9f353a175c7d">EKZ</orgName>. tendiert werden.</p>
+            <p>
+                <persName n="d7a92643-37f9-4f40-a926-4337f96f40ed">Hirzel</persName> - <placeName n="6bd5244a-1025-4443-9524-4a10257443dd">Wetzikon</placeName> unterstützt das Votum des Vorredners. Er würde es begrüßen, wenn die <orgName n="f12cda7f-8ebb-447d-acda-7f8ebb847df3">EKZ</orgName>. ganz auf Installationen verzichten könnten; auf alle Fälle sollten die <orgName n="129ab083-f9f8-45b9-9ab0-83f9f8c5b9cf">EKZ</orgName>. immer mehr dazu übergehen, Installationsaufträge an private Firmen weiterzugeben.</p>
+            <p>
+                <persName n="13f96f86-f0da-4f10-b96f-86f0da5f1046">Bottini</persName> - <placeName n="4c661637-2c26-4536-a616-372c265536b5">Zürich</placeName> befürwortet einen grundsätzlichen Entscheid, ob das Installations- und Verkaufsgeschäft von den <orgName n="ed048a77-c552-4b73-848a-77c552fb7330">EKZ</orgName>. betrieben werden dürfe oder nicht.</p>
+            <p>Dr. <persName n="46d3a871-513d-4078-93a8-71513d607817">Käppeli</persName> - <placeName n="a1d9aa93-d74d-4a64-99aa-93d74d1a64b2">Zürich</placeName> würde auch eine Einschränkung des Installationsgeschäftes, wie es <persName n="d21f31af-9bf3-4794-9f31-af9bf3f7948d">Schönenberger</persName> vorschlägt, begrüßen; er wünscht jedoch, daß man den Fraktionen noch Gelegenheit gibt, sich über diese Frage auszusprechen.</p>
+            <p>
+                <persName n="2d46fc2e-2580-4f60-86fc-2e2580ef6032">Kopp</persName> - <placeName n="4a099ed1-520a-40f8-899e-d1520ac0f88e">Zürich</placeName> ist überzeugt, daß die <orgName n="e2ccbdb3-fc80-4ec2-8cbd-b3fc809ec271">EKZ</orgName>. aus Zweckmäßigkeitsgründen das Installations- und Verkaufsgeschäft betreiben. Die Werke führen auch ein Akquisitionsgeschäft, um die Kontinuität des Stromabsatzes sicherzustellen. Der Entzug des Installationsgeschäftes würde wohl ein Nach-  <pb n="482"/>lassen der Akquisition zur Folge haben. Die <orgName n="ca26eea7-c178-4c9e-a6ee-a7c1785c9e35">Direktion der EKZ</orgName>. gibt sich die größte Mühe, die Schmutzkonkurrenz, die im privaten Installationsbetriebe entstanden ist, zu bekämpfen.</p>
+            <p>
+                <persName n="2fdff972-cdb0-4569-9ff9-72cdb085698b">Schönenberger</persName> - <placeName n="82716ca9-e500-4f4e-b16c-a9e5006f4ee9">Zürich</placeName> betont, daß er keinen Antrag gestellt habe, den <orgName n="72005cde-d07a-4db8-805c-ded07addb8f9">EKZ</orgName>. das Installationsgeschäft zu verbieten, aber ein allmählicher Abbau sei notwendig im Interesse des Kleingewerbes.</p>
+            <p>
+                <persName n="60fd13a8-e1a5-4d1a-bd13-a8e1a51d1ac3">Oldani</persName> - <placeName n="ff16e4a8-82fb-4d8b-96e4-a882fb5d8b1e">Winterthur</placeName> weist darauf hin, daß die <orgName n="bcec11fd-585d-4c73-ac11-fd585d9c7367">EKZ</orgName>. auf gesunder technischer und kaufmännischer Grundlage geführt werden müssen; es geht also nicht an, ihnen Befehle zu erteilen, ohne sie zuerst anzuhören. Wo Unzukömmlichkeiten sich zeigen, sollen sie behoben werden.</p>
+            <p>
+                <persName n="08864404-5760-4428-8644-0457604428b9">Bachmann</persName> - <placeName n="c339cc79-ffda-40fd-b9cc-79ffda20fd00">Winterthur</placeName> betrachtet es als eine Notwendigkeit, daß den Werken ein Installationsgeschäft angegliedert wird. Die <orgName n="ce0f8825-3dce-498a-8f88-253dced98a83" type="deriv">kantonalen</orgName> Betriebe sind richtunggebend für die Preise und beseitigen die Schmutzkonkurrenz. Es ist anerkennenswert, daß die <orgName n="54a99b57-5207-49f3-a99b-57520709f3ee">EKZ</orgName>. den wenig bemittelten Leuten ermöglichen, Apparate, wie Boiler, zu mieten und allmählich abzuzahlen. Der Redner schließt sich dem Votum von <persName n="a77e244a-0452-4ec2-be24-4a04522ec20c">Ott</persName> an, es solle das Installationsgeschäft im Organisationsstatut der <orgName n="c2486494-5ff9-4f77-8864-945ff93f77df">EKZ</orgName>. verankert werden.</p>
+            <p>
+                <persName n="28577521-a92e-4bb0-9775-21a92e4bb014">Widmer</persName> - <placeName n="0d8fda40-0ddd-4416-8fda-400ddd1416f7">Adliswil</placeName> meint, der Kundschaft der <orgName n="8fa541f1-c762-4556-a541-f1c762855648">EKZ</orgName>. wäre nicht gedient, wenn den Werken das Installationsgeschäft entzogen würde. Die kantonalen Werke bieten auch Garantie, daß die Installationen fachgemäß ausgeführt werden. Der Redner tritt dafür ein, daß die <orgName n="b30036a3-bf88-416a-8036-a3bf88816aa4">EKZ</orgName>. nach wie vor das Installationsgeschäft betreiben dürfen; er würde es auch begrüßen, wenn sie eine Lehrlingswerkstätte einrichten würden.</p>
+            <p>Regierungsrat Dr. <persName n="8e9d6dc2-0daf-4361-9d6d-c20daf1361d3">Corrodi</persName> empfiehlt die unveränderte Aufnahme des umstrittenen § 2; es wäre ein Fehler, wenn man das blühende Installationsgeschäft der <orgName n="be4b41af-e867-42fd-8b41-afe86752fd20">EKZ</orgName>., das eine Förderung der Elektrizitätsindustrie bedeutet, verbieten wollte. Übrigens überläßt das Installationsgeschäft der <orgName n="a049bcae-28ad-4aa1-89bc-ae28adaaa155">EKZ</orgName>. viele und große Geschäfte, die ihm angeboten werden, den privaten Installateuren.</p>
+            <p>
+                <persName n="0545ba83-d61a-4e4c-85ba-83d61ace4cce">Spörri</persName> - <placeName n="bd1c5605-3b61-4cf0-9c56-053b613cf03d">Weißlingen</placeName> bestätigt auch, daß die Privatfirmen von den <orgName n="d1c9662f-a9dd-4b56-8966-2fa9dd9b561b">EKZ</orgName>. loyal behandelt werden. Im übrigen ist er der Auffassung, daß der Antrag <persName n="6a4588b6-e13c-4675-8588-b6e13c267591">Ott</persName> nicht ins Organisationsstatut gehört.  <pb n="483"/>
+            </p>
+            <p>
+                <persName n="5fba891d-ac0b-412e-ba89-1dac0b312ee8">Stalder</persName> - <placeName n="56854875-ebc1-4a03-8548-75ebc1fa03e5">Zollikon</placeName> empfiehlt die Aufnahme des von <persName n="5f81014c-abf2-41f9-8101-4cabf291f91c">Ott</persName> vorgeschlagenen Zusatzes zum § 2, aber mit der Beifügung: „… soweit dies unbedingt für den Betrieb der <orgName n="b979d9d9-9a6c-4366-b9d9-d99a6c0366d2">EKZ</orgName>. nötig ist“. Der Redner sieht in einer solchen Fassung des § 2 eine Mittellösung, die den <orgName n="0ba655ff-39c3-48b2-a655-ff39c3c8b2e0">EKZ</orgName>. und den privaten Installateuren entgegenkommt.</p>
+            <p>
+                <persName n="5374b2ee-6701-4680-b4b2-ee6701b680bd">Berger</persName> - <placeName n="6b7fc0fd-584e-4eb9-bfc0-fd584edeb9ae">Zürich</placeName> weist darauf hin, daß keine Differenzen zwischen <orgName n="b4d45d56-5dbb-4e4e-945d-565dbbde4e88">EKZ</orgName>. und <orgName n="3f637376-621c-4732-a373-76621c87326c">Installateurverband</orgName> bestehen; vom letzteren liegt auch keine Eingabe vor, man solle den <orgName n="9dec797c-a869-48b3-ac79-7ca86948b3e1">EKZ</orgName>. das Installationsgeschäft verbieten. Man müsse es den Abonnenten der <orgName n="1f6974b3-a31d-45f9-a974-b3a31d35f9cc">EKZ</orgName>. überlassen, ob sie ihre Aufträge den privaten Installateuren oder dem <orgName n="effc3baf-c90a-4180-bc3b-afc90a618054" type="deriv">kantonalen</orgName> Installationsgeschäft übergeben wollen. Die Ortsmonteure sind im Interesse der Stromkonsumenten dringend nötig. Der Redner empfiehlt die von der Kommission vorgeschlagene Fassung des § 2.</p>
+            <p>
+                <persName n="6f3219ec-401a-4264-b219-ec401a8264ea">Zimmermann</persName> - <placeName n="4cb3aac6-26e8-4aa3-b3aa-c626e86aa3be">Winterthur</placeName> beantragt, die Diskussion abzubrechen, damit die Fraktionen die Angelegenheit in ihrem Schöße beraten können. Er hofft, daß in der Zeit bis zur nächsten Sitzung die Kommission sich bei der <orgName n="6c6c25f0-3050-4285-ac25-f0305082858e">Direktion der EKZ</orgName>. erkundigt, ob sich letztere für einen Ausbau oder Abbau des Installationsgeschäftes ausspricht.</p>
+            <p>Dr. <persName n="c5b7b56d-88e1-443c-b7b5-6d88e1043ce5">Guhl</persName> - <placeName n="0a873ab0-8b8b-420b-873a-b08b8be20b44">Zürich</placeName> unterstützt den Antrag des Vorredners, da es sich bei § 2 um Anträge von großer Tragweite handelt.</p>
+            <p>
+                <persName n="a95bbaca-b63a-46ce-9bba-cab63aa6ce06">Heeb</persName> - <placeName n="b008f8c2-e107-49d0-88f8-c2e10789d050">Zürich</placeName> stellt den Antrag auf Abstimmung über den Ordnungsantrag von <persName n="420b3ff0-8896-445a-8b3f-f08896145ab6">Zimmermann</persName>.</p>
+            <p>Mit 69 gegen 46 Stimmen wird Verschiebung der weiteren Diskussion über den § 2 beschlossen.</p>
+            <p>Der Vorsitzende gibt dem Rate noch Kenntnis von einer Interpellation, die von Dr. <persName n="758195c0-cfa3-4f80-8195-c0cfa34f80d4">Hug</persName> - <placeName n="2a4c99e0-c0a7-425b-8c99-e0c0a7d25bfa">Kilchberg</placeName> und 27 Mitunterzeichnern eingereicht wurde und folgenden Wortlaut hat:</p>
+            <p>„Am <date>26. Mai 1940</date> erschien in der Tagespresse eine Verfügung der <orgName n="17edaa5a-ceb3-4a28-adaa-5aceb31a285a">Polizeidirektion des Kantons <placeName n="c1787024-4fd1-474a-b870-244fd1074ac7">Zürich</placeName>
+                </orgName>, daß im Interesse der Landesverteidigung sämtliche vorhandenen Motorfahrzeuge sofort fahrtbereit zur Verfügung stehen müssen. Im Besonderen wurde jeder Fahrzeughalter verpflichtet, von dem bezogenen Brennstoff soviel in seinem Fahrzeug aufzubewahren, daß er für eine Fahrt von mindestens 100 km ausreicht. Nichtbefolgung dieser Weisung werde militärstrafrechtlich  <pb n="484"/>verfolgt. Diese Verordnung ist seither nicht widerrufen worden, sie ist also noch in Kraft.</p>
+            <p>Am <date>5. September 1940</date> erschien in der Tagespresse eine Verordnung der Sektion für Kraft und Wärme des <orgName n="bbc4f963-17f7-46fd-84f9-6317f766fd2a">Kriegs-Industrie- und -Arbeits-Amtes</orgName> in <placeName n="36ca8b87-9805-4a2a-8a8b-879805aa2a16">Bern</placeName>. Nach derselben sollen vorläufig Benzin-Neuzuteilungen auch an Halter der Kategorien B und A, die über gewisse eigene Benzinvorräte verfügen, nicht mehr erfolgen. Zur Deckung ihres dringlichen Bedarfs haben diese Halter auf ihre Vorräte zu greifen.</p>
+            <p>Ist der <orgName n="4002bb24-64d5-4d5d-82bb-2464d51d5dd0">Regierungsrat</orgName> nicht auch der Ansicht, daß diese zwei Verfügungen einen Widerspruch enthalten, einen Widerspruch, der einerseits Unklarheit und Verwirrung in die beteiligten Volksschichten bringen muß, andererseits nicht ohne Gefahren ist für die Interessen unserer Landesverteidigung, die auch heute noch in vollem Umfange besteht?“</p>
+            <p>Die Interpellation wird auf die Traktandenliste der nächsten Sitzung gesetzt.</p>
+            <p>Schluß der Sitzung: 12.20 Uhr.</p>
+            <p>Nächste Sitzung frühestens in 14 Tagen.</p>
+            <p>
+                <placeName n="c7d87918-29e9-4c66-9879-1829e9dc66d1">Zürich</placeName>, den <date>2. Oktober 1940</date>.</p>
+            <p>Der Protokollführer:</p>
+            <p>    Dr. <persName n="3b4d11bf-4983-456c-8d11-bf4983c56c92">E. Lee</persName>.</p>
+            <p>Vom <orgName n="8a1a6f16-0518-4eeb-9a6f-160518feeb62">Kantonsratsbureau</orgName> in seiner Sitzung vom <date>16. Oktober 1940</date> genehmigt. </p>
+        </body>
+    </text>
+</tei:TEI>

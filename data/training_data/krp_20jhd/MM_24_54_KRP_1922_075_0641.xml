@@ -1,0 +1,45 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Uferversicherung am Rhein unterhalb Langwiesen–Feuerthalen.</title>
+                <respStmt>
+                    <resp ref="#OCR/skn" key="transcript">Transkript: OCR/skn<date when="2011-10-18">18.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Uferversicherung am Rhein unterhalb Langwiesen–Feuerthalen.</title>
+                    <date when="1922-03-20">20.03.1922</date>
+                    <ident>StAZH MM 24.54 KRP 1922/075/0641</ident>
+                    <idno>1204</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_54_KRP_1922_075_0641_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3639785"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="1204"/>Guggenbühl-Zürich referiert im Namen der <orgName n="42c3699e-7d8a-4099-8369-9e7d8a50996d">Tiefbaukommission</orgName> und empfiehlt Zustimmung zum Antrage des <orgName n="90c5cc22-5b0d-41cc-85cc-225b0da1cca9">Regierungsrates</orgName> vom <date>18. Februar 1922</date>.</p>
+            <p>Der Rat beschließt:</p>
+            <p>I. Für Fortsetzung der Ufer Versicherung am <placeName n="f73903ab-60e4-40b7-b903-ab60e460b7b8">Rhein</placeName> von der Lände <placeName n="2dacc5df-80a9-4403-acc5-df80a984031a">Langwiesen</placeName> abwärts auf 400 m Länge wird in Anwendung von § 5 des Wasserbaugesetzes auf Rechnung des Titels XII. C. n. (Notstandsbauten) ein Kredit von 25,000 Fr. bewilligt.</p>
+            <p>II. Mitteilung an den <orgName n="f187ebcf-b1ca-4d43-87eb-cfb1ca9d433c">Regierungsrat</orgName>.</p>
+        </body>
+    </text>
+</tei:TEI>

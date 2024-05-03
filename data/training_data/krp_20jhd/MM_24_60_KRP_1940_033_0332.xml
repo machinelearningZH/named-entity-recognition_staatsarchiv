@@ -1,0 +1,45 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschluß des Kantonsrates über Kreditbewilligung für die Korrektion der Jona im Abschnitt Pilgersteg–Grundtal, Gemeinden Wald, Rüti und Dürnten (Anträge des Regierungsrates vom 31. Oktober 1940 und der Staatsrechnungsprüfungskommission vom 19. November 1940) [Traktandum 3].</title>
+                <respStmt>
+                    <resp ref="#OCR/der" key="transcript">Transkript: OCR/der<date when="2011-10-19">19.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Beschluß des Kantonsrates über Kreditbewilligung für die Korrektion der Jona im Abschnitt Pilgersteg–Grundtal, Gemeinden Wald, Rüti und Dürnten (Anträge des Regierungsrates vom 31. Oktober 1940 und der Staatsrechnungsprüfungskommission vom 19. November 1940) [Traktandum 3].</title>
+                    <date when="1940-11-25">25.11.1940</date>
+                    <ident>StAZH MM 24.60 KRP 1940/033/0332</ident>
+                    <idno>663–664</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_60_KRP_1940_033_0332_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3684086"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="663"/>Dr. <persName n="08a14842-b04a-4771-a148-42b04af7716e">Hauser</persName> - <placeName n="8636879a-2a31-4f85-b687-9a2a31af8550">Winterthur</placeName> referiert namens der <orgName n="4ee92c53-721f-4f56-a92c-53721f8f5634">Staatsrechnungsprüfungskommission</orgName>. Die Hochwasserkatastrophe vom <date>25. August 1939</date> im <placeName n="262b71e7-4588-4ef8-ab71-e74588aef834">Zürcher Oberland</placeName> erfordert weitgehende Korrektionen und Bachverbauungen. Die Korrektion der <placeName n="edcde860-f87b-4169-8de8-60f87b516920">Jona</placeName> im Abschnitt Wald–Rüti ist unerläßlich. Die Ausführung wird voraussichtlich auf acht Jahre verteilt; die Kosten des Gesamtprojektes sind auf rund 3 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> Millionen  <pb n="664"/>Franken veranschlagt. Ein etappenweises Vorgehen ist angezeigt auch mit Rücksicht auf den zurzeit herrschenden Mangel an geeigneten Arbeitskräften. Es erscheint geboten, zuerst die Teilstrecke Pilgersteg–Grundtal in Angriff zu nehmen. Der <orgName n="fb1195cd-b454-4e9b-9195-cdb4547e9b80">Bundesrat</orgName> hat mit Zustimmung zum Gesamtprojekt das Detailprojekt für die Korrektion der <placeName n="29707f5a-2064-4fe6-b07f-5a2064bfe6cc">Jona</placeName> im genannten Abschnitt genehmigt und an die auf Fr. 455,000.– veranschlagten Kosten einen Bundesbeitrag von 35% zugesichert. Die an der Korrektion interessierten Gemeinden <placeName n="9f7712cb-8e9a-415f-b712-cb8e9ab15f12">Wald</placeName>, <placeName n="e18713d7-6795-4e8f-8713-d767950e8fb2">Rüti</placeName> und <placeName n="624a92f1-21cd-41a9-8a92-f121cde1a9e1">Dürnten</placeName> haben Gemeindebeiträge zu leisten. Der Referent empfiehlt Zustimmung zur <orgName n="b242b84d-120b-4b91-82b8-4d120b9b9139" type="deriv">regierungsrätlichen</orgName> Vorlage.</p>
+            <p>Der Rat beschließt gemäß Antrag des <orgName n="f0a76031-3425-47c5-a760-31342577c514">Regierungsrates</orgName> und der <orgName n="4290df4f-3027-4b0c-90df-4f30276b0ca2">Staatsrechnungsprüfungskommission</orgName>:</p>
+            <p>I. Für die Korrektion der <placeName n="0ee8c185-e5e6-4a5e-a8c1-85e5e65a5e30">Jona</placeName> im Abschnitt Pilgersteg–Grundtal, Gemeinden <placeName n="083c6a07-c55b-43fe-bc6a-07c55b43feb3">Wald</placeName>, <placeName n="5528baf9-2f15-4a45-a8ba-f92f15ea45f3">Rüti</placeName> und <placeName n="d95bca76-da67-466b-9bca-76da67a66b10">Dürnten</placeName> (Länge 670 m), wird in Anwendung von § 5 des Wasserbaugesetzes auf Rechnung des Titels XI D 61 (Gewässerkorrektionen) ein Kredit von Fr. 455 000.– bewilligt.</p>
+            <p>II. Mitteilung an den <orgName n="cd5a009a-a6ca-450d-9a00-9aa6ca650dc4">Regierungsrat</orgName> zum Vollzug.</p>
+        </body>
+    </text>
+</tei:TEI>

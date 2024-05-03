@@ -1,0 +1,48 @@
+<?xml-stylesheet type="text/xsl" href="../../Ressourcen/Stylesheet.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ratification eines Postvertrages mit Thurn und Taxis.</title>
+                <respStmt>
+                    <resp key="transcript" ref="#rsn">Transkript: rsn<date when="2010-09-06">06.09.2010</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2010</date>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Regierungsratsbeschlüsse seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Ratification eines Postvertrages mit Thurn und Taxis.</title>
+                    <date when="1839-10-17">17.10.1839</date>
+                    <ident>StAZH MM 2.51 RRB 1839/1660</ident>
+                    <idno>254–255</idno>
+                    <edition>Regierungsratbeschlüsse seit 1803 online</edition>
+                    <figure>
+                        <graphic url="TKR_RRB_Transkripte/MM_2_051_MM_2_100/MM_2_051/MM_2_51_RRB_1839_1660_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=1384960"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+            <p>
+                <pb n="254"/>Es hat der <orgName n="b51688cc-6278-40ad-9688-cc627860adb4">Regierungsrath</orgName>, nach Einsicht einer von dem <orgName n="9eadc5f7-bec7-4a1b-adc5-f7bec78a1b17">Postdepartement</orgName> mit gutächtlicher Berichtserstattung d. d. 17. d. M. vorgelegten, vom 1. d. M. datirten Uebereinkunft zwischen der Fürstlich Thurn-<pb n="255"/>und Taxischen General-Postdirection einer- und der <orgName n="f8b25efe-dec5-41aa-b25e-fedec5c1aac5">General-Postdirection des Cantons- und Arrondißements Zürich</orgName> anderseits, als Nachtrag zu der Postconvention vom 13. October 1835, – beschloßen:</p>
+            <p>1.) die vorstehende Convention wird gutgeheißen und genehmigt.</p>
+            <p>2.) Es solle der von dem <orgName n="505d0e2f-959d-4c9e-9d0e-2f959d8c9e49">Postdepartement</orgName> eingereichten Ausfertigung derselben die Ratificationserklärung des <orgName n="8ff548b6-49cb-476c-b548-b649cb676c04">Regierungsrathes</orgName> mit den Unterschriften des HHerrn Amtsbürgermeisters und des ersten Staatsschreibers sowie mit dem Staatssiegel versehen, beygefügt werden, (wie solche in den Urkunden enthalten ist.)</p>
+            <p>3.) Ist dieser Vertrag dem <orgName n="2ba1578e-0deb-451b-a157-8e0deb351bbb">Postdepartement</orgName> zur Aufbewahrung zuzustellen.</p>
+            <p/>
+            <p/>
+            <p/>
+        </body>
+    </text>
+</TEI>

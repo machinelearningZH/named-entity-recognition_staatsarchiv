@@ -1,0 +1,46 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Medizinalgesetz (Schluß der Beratung).</title>
+                <respStmt>
+                    <resp ref="#OCR/kvr" key="transcript">Transkript: OCR/kvr<date when="2011-11-16">16.11.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Medizinalgesetz (Schluß der Beratung).</title>
+                    <date when="1912-04-01">01.04.1912</date>
+                    <ident>StAZH MM 24.49 KRP 1912/037/0197</ident>
+                    <idno>442</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_49_KRP_1912_037_0197_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3626387"/>
+                    <listRelation>
+                        <relation name="Fortsetzung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3626387" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3626407"/>
+                        <relation name="Fortsetzung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3626387" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3626381"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="442"/>Die Beratungen über das Medizinalgesetz werden hierauf fortgesetzt. Der § 39 wird ohne Diskussion angenommen. Zu § 40 führt der Kommissionsreferent Dr. <persName n="ff074b41-0a6c-419f-874b-410a6cd19f35">Erismann</persName> - <placeName n="db8068a1-a9f6-4377-8068-a1a9f613779b">Zürich</placeName> aus: Dieser Paragraph bestimmt, daß da, wo eine Gemeinde die unentgeltliche Geburtshülfe materiell fördert, der <orgName n="7a7fdd6a-d8b3-4420-bfdd-6ad8b3442050">Kanton</orgName> Beiträge an eine solche Gemeinde leisten könne. Die Geburten gehen oft in sehr ungünstigen Verhältnissen vor sich; Mutter und Kind können dabei sehr nachteilig beeinflußt werden. Infolgedessen ist für den Gedanken, die Geburtshülfe unentgeltlich zu machen, in neuerer Zeit große Propaganda gemacht worden. Schon einige Gemeinden haben die unentgeltliche Geburtshülfe eingeführt. Dabei ist der Hauptzweck, die Geburt in einer Anstalt vorgehen zu lassen, und ein weiterer Zweck, der Familie Erleichterung zu verschaffen, wenn die Geburt zu Hause erfolgt. Die Kommission hatte die Auffassung, daß bezügliche Bestrebungen der Gemeinden unterstützt werden sollen. Der <orgName n="bd48c762-ea61-4ab6-88c7-62ea61dab659">Regierungsrat</orgName> ist mit der Aufnahme dieses Paragraphen nicht einverstanden, nicht deshalb, weil er den Gedanken als solchen bekämpft, sondern weil er ihn in ein Spezialgesetz verweisen will. Der Grundsatz gehört aber in das vorliegende Gesetz. </p>
+        </body>
+    </text>
+</tei:TEI>

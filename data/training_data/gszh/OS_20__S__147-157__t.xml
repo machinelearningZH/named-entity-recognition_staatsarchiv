@@ -1,0 +1,494 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lehrplan des zürcherischen Lehrerseminars in Küsnacht.</title>
+                <respStmt>
+                    <resp ref="#sef" key="transcript">Transkript: sef<date when="2015-12-17">17.12.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Lehrplan des zürcherischen Lehrerseminars in Küsnacht.</title>
+                    <date when="1880-03-16">16.03.1880</date>
+                    <ident>StAZH OS 20 (S. 147-157)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_20__S__147-157__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3472846"/>
+                    <listRelation>
+                        <relation name="Änderung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3472846" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3471745"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="147"/>
+            </p>
+            <p>
+                <title>1. Obligatorische Fächer.</title>
+            </p>
+            <p>
+                <title>
+                    <placeName n="68a6c72c-fa5a-4905-a6c7-2cfa5ae90544" type="deriv">Deutsche</placeName> Sprache.</title>
+            </p>
+            <p>1. Klasse. Wöchentlich 5 Stunden.</p>
+            <p>a. Lesen und Erklären (2 Stunden) von Musterstücken in Prosa und Poesie unter Berücksichtigung der verschiedenen Darstellungsformen als Grundlage zu dem späteren zusammenhangenden Unterricht über Stylistik und Poetik. Vortragen memorirter Lesestücke.</p>
+            <p>b. Uebung im mündlichen und schriftlichen Ausdruck (1 Stunde). Freie Vorträge über behandelte oder den Schü-  <pb n="148"/>lern sonst bekannte Gegenstände. – Regelmäßige, zu Hause anzufertigende, kurze Ausarbeitungen im Anschluß an den Unterricht. Alle 4 Wochen ein Aufsatz; Besprechung der korrigirten Aufsätze mit der Klasse.</p>
+            <p>c. Grammatik (2 Stunden). Die Syntax des einfachen und des zusammengesetzten Satzes.</p>
+            <p>2. Klasse. Wöchentlich 5 Stunden.</p>
+            <p>a. Lesen und Erklären (2 Stunden) wie in der 1. Klasse.</p>
+            <p>b. Uebung im mündlichen und schriftlichen Ausdruck (2 Stunden) wie in der 1. Klasse.</p>
+            <p>c. Grammatik (1 Stunde). Die Lautlehre, soweit dieselbe für das Verständniß der nhd. Flexion und Wortbildung sowie dialektischer Formen von Interesse ist. Die nhd. Flexion. Die Grundzüge der Wortbildung. – Soweit nöthig, sind die syntaktischen Verhältnisse durch mündliche und schriftliche Uebungen, welche mit der prosaischen Lektüre und der Besprechung der Aufsätze verbunden werden können, zu gründlichem Verständniß zu bringen.</p>
+            <p>3. Klasse. Wöchentlich 5 Stunden.</p>
+            <p>a. Literaturkunde (2 Stunden). Lektüre ausgewählter Stücke von der mhd. Poesie an bis in die zweite Blüthezeit mit besonderer Berücksichtigung und literarhistorischer Besprechung der charakteristischen Erscheinungen.</p>
+            <p>b. Uebung im mündlichen und schriftlichen Ausdruck (2 Stunden). Redeübungen über gegebene oder von den Zöglingen frei gewählte Gegenstände und Diskussion über die gehörten Vorträge. – Erklärung der höheren Stylarten. Uebungen in der Disposition. Alle 4 Wochen ein Aufsatz; Besprechung der korrigirten Aufsätze mit der Klasse.</p>
+            <p>c. Grammatik, Poetik und Stylistik (1 Stunde) in zusammenfassender und ergänzender Repetition.</p>
+            <p>4. Klasse. Wöchentlich 5 Stunden.</p>
+            <p>a. Literaturkunde (3 Stunden). Lektüre ausgewählter Stücke aus der zweiten Blüthezeit mit besonderer Berücksichtigung und literarhistorischer Besprechung der charakteristischen Erscheinungen.  <pb n="149"/>
+            </p>
+            <p>Orientirung in den Hauptrichtungen der neuesten Literatur. Anleitung zu selbständiger Lektüre und Referate über das Gelesene.</p>
+            <p>b. Uebung im mündlichen und schriftlichen Ausdruck (2 Stunden) wie in der 3. Klasse.</p>
+            <p>
+                <title>Pädagogik.</title>
+            </p>
+            <p>2. Klasse. Wöchentlich 2 Stunden. Geschichte der Pädagogik I. Theil (bis <persName n="2eccfd6b-95ce-4c93-8cfd-6b95ce0c93a4">Rousseau</persName>).</p>
+            <p>3. Klasse. Wöchentlich 2 Stunden. Geschichte der Pädagogik II. Theil (bis zur Gegenwart).</p>
+            <p>4. Klasse. Wöchentlich 3 Stunden. Allgemeine Pädagogik.</p>
+            <p>
+                <title>Methodik.</title>
+            </p>
+            <p>4. Klasse, a. Methodik und <placeName n="708645eb-b762-477f-8645-ebb762c77fe6" type="deriv">zürcherische</placeName> Volksschulkunde. 3 Stunden,</p>
+            <p>b. Spezielle Fachmethodik durch die betreffenden Fachlehrer.</p>
+            <p>c. Praktische Methodik in der Uebungsschule und Besuche in andern Primarschulen des Kantons.</p>
+            <p>
+                <title>
+                    <placeName n="92eb5ec3-8dd2-4af5-ab5e-c38dd2faf5ae" type="deriv">Französische</placeName> Sprache.</title>
+            </p>
+            <p>1. Klasse. Wöchentlich 4 Stunden.</p>
+            <p>a. Lesen und Erklären leichterer prosaischer und poetischer Stücke.</p>
+            <p>b. Uebungen im mündlichen Ausdruck im Anschluß an das Lesen und Uebersetzen. Mündliche und schriftliche Uebersetzung ins Französische. Schriftliche Reproduktion behandelter Stoffe oder ähnliche leichtere Stylübungen.</p>
+            <p>c. Grammatik. Wiederholung der Formenlehre. Syntax des einfachen Satzes. Behandlung des Artikels, Substantivs, Adjektivs, Zahlwortes und der bezüglichen Abweichungen vom deutschen Sprachgebrauch.  <pb n="150"/>
+            </p>
+            <p>2. Klasse. Wöchentlich 4 Stunden.</p>
+            <p>a. Lesen und Erklären wie in der 1. Klasse.</p>
+            <p>b. Uebungen im mündlichen und schriftlichen Ausdruck wie in der 1. Klasse.</p>
+            <p>c. Grammatik. Syntax des zusammengesetzten Satzes. Behandlung der Verben, Adverbien und Präpositionen und der damit zusammenhängenden eigenthümlichen Spracherscheinungen. Wortfolge und Interpunktion.</p>
+            <p>3. Klasse. Wöchentlich 3 Stunden.</p>
+            <p>a. Lesen und Erklären zusammenhängender Abschnitte oder ganzer klassischer Werke aus verschiedenen Gebieten (besonders Geschichte, Reden, Drama), mit literar-historischer Besprechung.</p>
+            <p>b. Uebungen im Sprechen, besonders Interpretierübungen im Anschluß an die Lektüre; auch Sprechübungen über gegebene Themata. Mündliche und schriftliche Übersetzung zusammenhängender Abschnitte ins Französische. Leichtere Aufsätze.</p>
+            <p>c. Repetitionen der ganzen Grammatik so weit nöthig.</p>
+            <p>4. Klasse. Wöchentlich 3 Stunden.</p>
+            <p>a. Lesen und Erklären wie in der 3. Klasse.</p>
+            <p>b. Uebungen im mündlichen und schriftlichen Ausdruck wie in der 3. Klasse, mit gesteigerten Anforderungen.</p>
+            <p>Anmerkung. In allen Klassen Extemporalien und Vertrag memorirter Lesestücke. Von der 2. Klasse an soll der Unterricht in <placeName n="9487f2d6-663c-4033-87f2-d6663c903334" type="deriv">französischer</placeName> Sprache ertheilt werden.</p>
+            <p>
+                <title>Mathematik.</title>
+            </p>
+            <p>1. Klasse. Wöchentlich 5 Stunden.</p>
+            <p>a. Addition und Multiplikation und die inversen Operationen der Subtraktion und der Division mit ganzen und gebrochenen, positiven und negativen Zahlen.</p>
+            <p>b. Planimetrie, erster Theil.</p>
+            <p>2. Klasse. Wöchentlich 6 Stunden.</p>
+            <p>a. Proportionslehre.  <pb n="151"/>
+            </p>
+            <p>b. Elementare Sätze der Zahlentheorie. (Größter gemeinschaftlicher Faktor und kleinstes gemeinschaftliches Vielfache.)</p>
+            <p>c. Gleichungen vom ersten Grade.</p>
+            <p>d. Planimetrie, zweiter Theil.</p>
+            <p>3. Klasse. Wöchentlich 6 Stunden.</p>
+            <p>a. Das Potenziren und die inversen Operationen des Wurzelausziehens und der Logarithmirung. (Entwicklung der Gesetze, Berechnung von Wurzeln und Logarithmen.)</p>
+            <p>b. Die Gleichungen des zweiten Grades.</p>
+            <p>c. Stereometrie.</p>
+            <p>d. Ebene Trigonometrie. (Goniometrie mit Berechnung von Sinus und Cosinus. Eigentliche Trigonometrie.)</p>
+            <p>Anmerkung. Im Anschluß an die Geometrie der drei ersten Klassen sollen die Elemente der projektivischen Geometrie und die Haupteigenschaften der Kegelschnitte behandelt werden.</p>
+            <p>4. Klasse. Wöchentlich 5 Stunden.</p>
+            <p>a. Kombinationstheorie und binomischer Lehrsatz.</p>
+            <p>b. Die komplexe Zahl.</p>
+            <p>c. Die Haupteigenschaften der ganzen rationalen algebraischen Funktionen und der höhern Gleichungen.</p>
+            <p>d. Sphärische Trigonometrie.</p>
+            <p>e. Uebungen im Feldmessen. (Dieselben können schon in der III. Klasse begonnen werden.)</p>
+            <p>Anmerkung. In allen Klassen sind dem Unterricht die nöthigen Uebungen einzureihen und ist dem Rechnen mit systematischen Zahlen besondere Aufmerksamkeit zu schenken.</p>
+            <p>
+                <title>Naturkunde.</title>
+            </p>
+            <p>1. Klasse. Wöchentlich 4 Stunden.</p>
+            <p>Im Sommerhalbjahr allgemeine und spezielle Botanik. Zahlreiche Uebungen im Bestimmen von Pflanzen im Anschluß an Exkursionen.</p>
+            <p>Im Winterhalbjahr spezielle Zoologie.  <pb n="152"/>
+            </p>
+            <p>2. Klasse. Wöchentlich 4 Stunden.</p>
+            <p>Anorganische Chemie, Mineralogie und Geologie mit besonderer Rücksicht auf <placeName n="8ee7da19-3de1-433b-a7da-193de1b33b6b" type="deriv">schweizerische</placeName> Vorkommnisse. Exkursionen.</p>
+            <p>3. Klasse. Wöchentlich 4 Stunden.</p>
+            <p>Physik: Mechanik, Akustik und Wärme.</p>
+            <p>Naturwissenschaftliche Uebungen (in 2 Stunden): Uebung im Zusammenstellen von Apparaten, Darstellung der wichtigsten Verbindungen und qualitative Analyse der verbreitetsten Stoffe.</p>
+            <p>4. Klasse. Wöchentlich 4 Stunden.</p>
+            <p>Physik: Optik und Elektrizität.</p>
+            <p>Lehre vom Bau und den Verrichtungen des menschlichen Körpers und Anwendung auf die Gesundheitspflege nach vorausgegangener Einführung in die Kenntnisse der wichtigsten organischen Verbindungen. Ferner physikalische und mikroskopische Uebungen (2 Stunden). Behandlung der verschiedenen Apparate und Herstellung von solchen für den physikalischen Unterricht der Volksschulen. Anstellung verschiedener Versuche.</p>
+            <p>
+                <title>Geschichte.</title>
+            </p>
+            <p>1. Klasse. Wöchentlich 3 Stunden.</p>
+            <p>Anfänge der Kultur. Orientalisches und klassisches Alterthum.</p>
+            <p>2. Klasse. Wöchentlich 3 Stunden.</p>
+            <p>Das Mittelalter und die Reformation.</p>
+            <p>3. Klasse. Wöchentlich 3 Stunden.</p>
+            <p>Die Neuzeit bis zur Gegenwart.</p>
+            <p>4. Klasse. Wöchentlich 3 Stunden.</p>
+            <p>Schweizergeschichte bis zur Gegenwart.</p>
+            <p>Anmerkung. In allen 4 Klassen sind die kulturgeschichtlichen und die Momente der Verfassungsgeschichte besonders herauszuheben.</p>
+            <p>
+                <title>Geographie.</title>
+            </p>
+            <p>1. Klasse. Wöchentlich 2 Stunden.</p>
+            <p>Die grundlegenden Anschauungen der Geographie und Kartographie. Die <placeName n="5cd70dc2-15a1-4102-970d-c215a1c10214">Schweiz</placeName> und <placeName n="e8273c80-be5b-48fd-a73c-80be5bb8fdc2">Europa</placeName>.  <pb n="153"/>
+            </p>
+            <p>2. Klasse. Wöchentlich 2 Stunden.</p>
+            <p>Die <placeName n="93386a07-6d85-403a-b86a-076d85e03a0f" type="deriv">außereuropäischen</placeName> Erdtheile.</p>
+            <p>3. Klasse.</p>
+            <p>4. Klasse. Wöchentlich 2 Stunden.</p>
+            <p>Mathematische und physikalische Geographie.</p>
+            <p>Anmerkung. Die physikalische Geographie ist in den 4 Stunden der Naturkunde für die 4. Klasse inbegriffen.</p>
+            <p>
+                <title>Gesang.</title>
+            </p>
+            <p>
+                <title>a. Klassengesang.</title>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>1. Klasse </cell>
+                        <cell>1. </cell>
+                        <cell>Semester </cell>
+                        <cell>wöchtenlich </cell>
+                        <cell/>
+                        <cell>1 Stunde. </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>2. </cell>
+                        <cell>" </cell>
+                        <cell>" </cell>
+                        <cell/>
+                        <cell>2 Stunden. </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Uebungen für die Intervalle der C-dur-Tonleiter (Taktiren). Transponiren nach den andern dur-Tonleitern. Treffübungen in A-moII. Zweistimmige Lieder.</p>
+            <p>2. Klasse. Wöchentlich 1 Stunde.</p>
+            <p>Die sämmtlichen Tonleitern nebst dem Dreiklang der ersten Stufe in dur und moll. Einstimmige Solfeggien. Spezialübungen für den Chorgesang.</p>
+            <p>3. Klasse. Wöchentlich 1 Stunde.</p>
+            <p>Repetition der einstimmigen Solfeggien mit besonderer Berücksichtigung der Tonbildung. Zweistimmige Solfeggien. Spezialübungen für den Chorgesang.</p>
+            <p>4. Klasse. Wöchentlich 1 Stunde.</p>
+            <p>Anleitung zum Dirigiren. Studium mehrstimmiger Gesänge.</p>
+            <p>
+                <title>b. Musiktheorie.</title>
+            </p>
+            <p>1. Klasse. Wöchentlich 1 Stunde im Sommer.</p>
+            <p>Elemente der Tonlehre.</p>
+            <p>2. und 3. Klasse. Wöchentlich 1 Stunde.</p>
+            <p>Harmonielehre.</p>
+            <p>4. Klasse. Wöchentlich 1 Stunde.</p>
+            <p>Der zwei- und dreistimmige Satz. Der vierstimmige Satz für gemischten und Männerchor. Analysiren mehrstimmiger Gesänge.  <pb n="154"/>
+            </p>
+            <p>
+                <title>c. Chorgesang.</title>
+            </p>
+            <p>1. Klasse. Die ungebrochenen Stimmen haben im gemischten Chöre mitzusingen.</p>
+            <p>2., 3. und 4. Klasse. Wöchentlich 2 Stunden.</p>
+            <p>Einüben mehrstimmiger Gesänge für Männer- oder gemischten Chor mit oder ohne Instrumentalbegleitung.</p>
+            <p>
+                <title>Violinspiel.</title>
+            </p>
+            <p>1. Klasse. Wöchentlich 2 Stunden in 2–3 Sektionen. Elementarübungen in C-dur im Umfang der ersten Lage.</p>
+            <p>2. Klasse. Wöchentlich 2 Stunden in Sektionen wie bei der 1. Klasse. Die dur- und moll-Tonleitern in der ersten Lage nebst entsprechenden Uebungen. Leichte Duette.</p>
+            <p>3. Klasse. Wöchentlich 1 Stunde in Sektionen wie oben.</p>
+            <p>Etüden in der ersten Lage und wenn möglich Einüben der dritten Lage.</p>
+            <p>4. Klasse. Wöchentlich 1 Stunde.</p>
+            <p>Ensemblespiel.</p>
+            <p>Anmerkung 1. Nach dem ersten Jahre können unbegabte Zöglinge vom Volinspiel dispensirt werden.</p>
+            <p>Anmerkung 2. Drei bis vier musikalische Aufführungen bieten den Zöglingen Gelegenheit zur Uebung im öffentlichen Vertrag.</p>
+            <p>
+                <title>Zeichnen.</title>
+            </p>
+            <p>1. Klasse. Wöchentlich 3 Stunden.</p>
+            <p>Zeichnen von Ornamenten nach Verzeichnung an der Wandtafel, Vorlagen, Naturblättern und Flachmodellen. Perspektive. Konstruktionen in der Ebene mit Anwendungen. Anlegen von Farben.</p>
+            <p>2. Klasse. Wöchentlich 3 Stunden.</p>
+            <p>Zeichnen nach Gypsornamenten. Schattirübungen. Perspektive. Konstruktionen in der Ebene mit Anwendungen. Fortgesetzte Uebungen im Anlegen von Farben.  <pb n="155"/>
+            </p>
+            <p>3. Klasse. Wöchentlich 2 Stunden, ferner fakultativ 1 Stunde.</p>
+            <p>Zeichnen nach Gypsornamenten. Anwendung der Projektion. Planzeichnen, Schattenkonstruktion.</p>
+            <p>4. Klasse. Wöchentlich 2 Stunden, ferner fakultativ 1 Stunde.</p>
+            <p>Perspektivische Uebungen. Figurenzeichnen. Perspektivische Konstruktionen. Technische Zeichnungen nach der Natur.</p>
+            <p>Anmerkung. In der 3. und 4. Klasse wird den im Zeichnen fortgeschrittensten Zöglingen Anleitung gegeben im Modelliren.</p>
+            <p>
+                <title>Schreiben.</title>
+            </p>
+            <p>1. Klasse. Wöchentlich 1 Stunde. Titelschriften.</p>
+            <p>4. Klasse. Zusammenhängender kalligraphischer Kurs.</p>
+            <p>
+                <title>Turnen.</title>
+            </p>
+            <p>1. und 2. Klasse. Wöchentlich je 2 Stunden.</p>
+            <p>Wiederholung und Wetterführung der Ordnungs-, Frei- und Geräthübungen der Primar- und <orgName n="dd47816f-9048-4d26-8781-6f9048ed2648">Sekundarschule</orgName>. Stabübungen.</p>
+            <p>3. und 4. Klasse. Wöchentlich je 2 Stunden.</p>
+            <p>Vervollständigung der Ordnungsübungen durch das Reihenkörpergefüge; systematisch geordnete Vorführung der schon betriebenen Frei- und Geräthübungen und Vervollständigung derselben. Stabübungen. Militärturnen nach <orgName n="c8cd9ee8-93a2-4fbb-8d9e-e893a29fbbf1" type="deriv">eidgenössischer</orgName> Vorschrift.</p>
+            <p>
+                <title>II. Fakultative Fächer.</title>
+            </p>
+            <p>
+                <title>Religionsgeschichte.</title>
+            </p>
+            <p>3. Klasse. Wöchentlich 2 Stunden.</p>
+            <p>Die vorchristliche religiöse Entwicklung: Polytheismus und Religion des <placeName n="7e3f2f45-f748-467c-bf2f-45f748467cfc" type="deriv">israelitischen</placeName> Volkes. Einführung in die Schriften des Alten Testaments.</p>
+            <p>4. Klasse. Wöchentlich 2 Stunden.</p>
+            <p>Entstehung und Grundlagen des Christenthums. Einführung in die Schriften des Neuen Testaments.  <pb n="156"/>
+            </p>
+            <p>
+                <title>Englische Sprache.</title>
+            </p>
+            <p>1. Kurs. Wöchentlich 2 Stunden.</p>
+            <p>Formenlehre und Syntax der <placeName n="8913419f-e29d-4fd0-9341-9fe29dffd00a" type="deriv">englischen</placeName> Sprache mit beständiger Anwendung und Einübung des Gelernten durch mündliche und schriftliche Uebersetzungen.</p>
+            <p>2. Kurs. Wöchentlich 2 Stunden.</p>
+            <p>Behandlung schwierigerer Punkte der <placeName n="aca11fff-f8b2-4798-a11f-fff8b2b798fe" type="deriv">englischen</placeName> Spracheigentümlichkeiten. Uebungen im Lesen und Sprechen und im mündlichen und schriftlichen Uebersetzen.</p>
+            <p>3. Kurs. Wöchentlich 2 Stunden.</p>
+            <p>Lesen und Erklären <placeName n="3b08f6e8-edac-4ae6-88f6-e8edacaae623" type="deriv">englischer</placeName> Musterstücke in Prosa und Poesie. Uebersetzung zusammenhängender <placeName n="03e0ec3c-d5a9-473e-a0ec-3cd5a9073ef6" type="deriv">deutscher</placeName> Stoffe und Versuche in freier Darstellung.</p>
+            <p>
+                <title>Lateinische Sprache.</title>
+            </p>
+            <p>1. Kurs. Wöchentlich 2 Stunden.</p>
+            <p>Die Elemente der Formenlehre und Syntax mit den nöthigen mündlichen und schriftlichen Uebungen.</p>
+            <p>2. Kurs. Wöchentlich 2 Stunden.</p>
+            <p>Fortsetzung und Ergänzung der Grammatik und leichtere Lesestücke.</p>
+            <p>3. Kurs. Wöchentlich 2 Stunden.</p>
+            <p>Lesen leichterer Schriftsteller.</p>
+            <p>
+                <title>Klavierspiel.</title>
+            </p>
+            <p>1. Klasse. Wöchentlich 2 Stunden (soweit nöthig in Sektionen). Vorschule. Uebungen mit stillstehender Hand. Leseübungen: Kinderlieder.</p>
+            <p>2. Klasse. Wöchentlich 2 Stunden (soweit nöthig in Sektionen). Die fortrückende Hand. Sämmtliche dur-Tonleitern. Uebungen in den leichtern Tonarten. Leseübungen. Schullieder.</p>
+            <p>3. Klasse. Wöchentlich 1 Stunde.</p>
+            <p>Die Verzierungen. Sämmtliche moll Tonleitern. Uebungen in den schwierigeren Tonarten. Leseübungen. Gemischte Chöre und Männerchöre.  <pb n="157"/>
+            </p>
+            <p>4. Klasse. Wöchentlich 1 Stunde.</p>
+            <p>Einführung in die klassische Klaviermusik.</p>
+            <p>Anmerkung. Nach dem ersten Semester wird über das Verbleiben der Zöglinge beim Klavierunterricht mit Rücksicht auf deren Gesammtleistung entschieden.</p>
+            <p>
+                <title>Uebersicht.</title>
+            </p>
+            <p>
+                <title>I. Obligatorische Fächer.</title>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell/>
+                        <cell>I </cell>
+                        <cell>II </cell>
+                        <cell>III </cell>
+                        <cell>IV </cell>
+                        <cell>Total. </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <placeName n="7758fa03-9f0b-4651-98fa-039f0b665185" type="deriv">Deutsche</placeName> Sprache </cell>
+                        <cell>5 </cell>
+                        <cell>5 </cell>
+                        <cell>5 </cell>
+                        <cell>5 </cell>
+                        <cell>20 </cell>
+                    </row>
+                    <row>
+                        <cell>Pädagogik </cell>
+                        <cell>– </cell>
+                        <cell>2 </cell>
+                        <cell>2 </cell>
+                        <cell>3 </cell>
+                        <cell>7 </cell>
+                    </row>
+                    <row>
+                        <cell>Methodik </cell>
+                        <cell>– </cell>
+                        <cell>– </cell>
+                        <cell>– </cell>
+                        <cell>3 </cell>
+                        <cell>3 </cell>
+                    </row>
+                    <row>
+                        <cell>Französische Sprache </cell>
+                        <cell>4 </cell>
+                        <cell>4 </cell>
+                        <cell>3 </cell>
+                        <cell>3 </cell>
+                        <cell>14 </cell>
+                    </row>
+                    <row>
+                        <cell>Mathematik </cell>
+                        <cell>5 </cell>
+                        <cell>6 </cell>
+                        <cell>6 </cell>
+                        <cell>5 </cell>
+                        <cell>22 </cell>
+                    </row>
+                    <row>
+                        <cell>Naturwissenschaft </cell>
+                        <cell>4 </cell>
+                        <cell>4 </cell>
+                        <cell>4 </cell>
+                        <cell>4 </cell>
+                        <cell>16 </cell>
+                    </row>
+                    <row>
+                        <cell>Laboratorium </cell>
+                        <cell>– </cell>
+                        <cell>– </cell>
+                        <cell>2 </cell>
+                        <cell>2 </cell>
+                        <cell>4 </cell>
+                    </row>
+                    <row>
+                        <cell>Geschichte </cell>
+                        <cell>3 </cell>
+                        <cell>3 </cell>
+                        <cell>3 </cell>
+                        <cell>3 </cell>
+                        <cell>12 </cell>
+                    </row>
+                    <row>
+                        <cell>Geographie </cell>
+                        <cell>2 </cell>
+                        <cell>2 </cell>
+                        <cell/>
+                        <cell>2 </cell>
+                        <cell>6 </cell>
+                    </row>
+                    <row>
+                        <cell>Gesang </cell>
+                        <cell>2 </cell>
+                        <cell>4 </cell>
+                        <cell>4 </cell>
+                        <cell>4 </cell>
+                        <cell>14 </cell>
+                    </row>
+                    <row>
+                        <cell>Violinspiel </cell>
+                        <cell>2 </cell>
+                        <cell>2 </cell>
+                        <cell>1 </cell>
+                        <cell>1 </cell>
+                        <cell>6 </cell>
+                    </row>
+                    <row>
+                        <cell>Zeichnen </cell>
+                        <cell>3 </cell>
+                        <cell>3 </cell>
+                        <cell>2 </cell>
+                        <cell>2 </cell>
+                        <cell>10 </cell>
+                    </row>
+                    <row>
+                        <cell>Schreiben </cell>
+                        <cell>1 </cell>
+                        <cell>– </cell>
+                        <cell>– </cell>
+                        <cell>(Kurs) </cell>
+                        <cell>1 </cell>
+                    </row>
+                    <row>
+                        <cell>Turnen </cell>
+                        <cell>2 </cell>
+                        <cell>2 </cell>
+                        <cell>2 </cell>
+                        <cell>2 </cell>
+                        <cell>8 </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>33 </cell>
+                        <cell>37 </cell>
+                        <cell>34 </cell>
+                        <cell>39 </cell>
+                        <cell>143 </cell>
+                    </row>
+                </table>
+            </p>
+            <p>
+                <title>II. Fakultative Fächer.</title>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell/>
+                        <cell>I </cell>
+                        <cell>Il </cell>
+                        <cell>III </cell>
+                        <cell>IV </cell>
+                        <cell>Total. </cell>
+                    </row>
+                    <row>
+                        <cell>Religionsgeschicht </cell>
+                        <cell>– </cell>
+                        <cell>– </cell>
+                        <cell>2 </cell>
+                        <cell>2 </cell>
+                        <cell>4 </cell>
+                    </row>
+                    <row>
+                        <cell>Englische Sprache </cell>
+                        <cell>2 </cell>
+                        <cell>2 </cell>
+                        <cell>2 </cell>
+                        <cell>– </cell>
+                        <cell>6 </cell>
+                    </row>
+                    <row>
+                        <cell>Lateinische Sprache </cell>
+                        <cell>2 </cell>
+                        <cell>2 </cell>
+                        <cell>2 </cell>
+                        <cell>– </cell>
+                        <cell>6 </cell>
+                    </row>
+                    <row>
+                        <cell>Klavierspiel </cell>
+                        <cell>2 </cell>
+                        <cell>2 </cell>
+                        <cell>1 </cell>
+                        <cell>1 </cell>
+                        <cell>6 </cell>
+                    </row>
+                    <row>
+                        <cell>Zeichnen </cell>
+                        <cell>– </cell>
+                        <cell>– </cell>
+                        <cell>1 </cell>
+                        <cell>1 </cell>
+                        <cell>2 </cell>
+                    </row>
+                </table>
+            </p>
+            <p>Actum den 16. März 1880.</p>
+            <p>Namens des <orgName n="14300583-d56b-4468-b005-83d56b0468de">Erziehungsrathes</orgName>,</p>
+            <p>Der Direktor des <orgName n="6a72a019-f933-49a8-b2a0-19f933a9a89c">Erziehungswesens</orgName>:</p>
+            <p>
+                <persName n="28363287-d68f-4432-b632-87d68f54320f">Zollinger</persName>.</p>
+            <p>Der Sekretär:</p>
+            <p>
+                <persName n="a9a74508-3ef6-423e-a745-083ef6723e57">Grob</persName>.</p>
+        </body>
+    </text>
+</TEI>

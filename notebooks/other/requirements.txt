@@ -1,0 +1,15 @@
+beautifulsoup4==4.12.3
+flair==0.13.1
+ipython==8.21.0
+langchain==0.1.16
+lxml==5.2.1
+Requests==2.31.0
+spacy==3.7.2
+torch==2.3.0
+tqdm==4.66.1
+transformers==4.36.2
+jupyter
+ipywidgets
+scipy==1.12.0
+spacy-transformers==1.3.5
+span-marker==1.5.0

@@ -1,0 +1,68 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Verhandlungsgegenstände.</title>
+                <respStmt>
+                    <resp ref="#OCR/ssi" key="transcript">Transkript: OCR/ssi<date when="2011-10-27">27.10.2011</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2011</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Kantonsratsprotokolle seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Verhandlungsgegenstände.</title>
+                    <date when="1954-10-25">25.10.1954</date>
+                    <ident>StAZH MM 24.67 KRP 1954/134/0958</ident>
+                    <idno>2857–2859</idno>
+                    <edition>Kantonsratsprotokolle seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/MM_24_67_KRP_1954_134_0958_p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3699278"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xmlns="http://www.tei-c.org/ns/1.0">
+        <body>
+            <p>
+                <pb n="2857"/>Das Einladungsschreiben vom 18. Oktober 1954 enthält die nachstehenden Verhandlungsgegenstände:</p>
+            <p>* 1. Mitteilungen.</p>
+            <p>* 2. I. Verfassungsgesetz über die Abänderung von Art. 13, Art. 29, Abs. 3, Art. 30 und Art. 64 der Staatsverfassung; II. Gesetz über die Wahlen und Abstimmungen (Anträge des <orgName n="1942a1f6-8a34-45e5-82a1-f68a3405e593">Regierungsrates</orgName> vom 15. Januar 1953 und der Kommission vom 13. Juli 1954) (Fortsetzung der Beratungen) (358).</p>
+            <p>3. Ersatzwahl von drei Mitgliedern des Verwaltungsrates der <orgName n="3da89491-8594-41e2-a894-91859461e27e">Elektrizitätswerke des Kantons Zürich</orgName> an Stelle der zurückgetretenen <persName n="95b1d099-d2ee-4cc6-b1d0-99d2ee7cc651">Jakob Peter</persName> - <placeName n="bf45a5a3-c597-46e2-85a5-a3c59706e20a">Welsikon/Dinhard</placeName> und <persName n="ea57b199-bb1b-41f6-97b1-99bb1ba1f60b">Eduard Geilinger</persName> - <placeName n="a539b903-4388-4630-b9b9-034388e6300d">Winterthur</placeName> sowie des verstorbenen <persName n="17eaa8e6-7599-44ef-aaa8-e6759964ef49">Albert Moos</persName> - <placeName n="98b51850-8762-4396-b518-508762e396fc">Kloten</placeName> (Wahlvorschläge des <orgName n="da41c0ec-f590-419d-81c0-ecf590019d6f">Regierungsrates</orgName> vom 30. September 1954).</p>
+            <p>4. Ersatzwahl von zwei kaufmännischen Richtern des <orgName n="bf257655-2d20-4acb-a576-552d200acb34">Handelsgerichtes des Kantons Zürich</orgName> (Wahlvorschläge der <orgName n="aa5f895c-608b-4328-9f89-5c608bb328ec">kantonalen Kommission für das Handelswesen</orgName> vom 11. Oktober 1954).</p>
+            <p>5. Begnadigungsgesuche: a) H. N. (RRB. Prot.-Nr. 1748 vom 24. Juni 1954); b) W. Sch. (RRB. Prot.-Nr. 1749 vom 24. Juni 1954); c) W. L. (RRB. Prot.-Nr. 1750 vom 24. Juni 1954); d) P. K. (RRB. Prot.-Nr. 1992 vom 15. Juli 1954); (Anträge der <orgName n="6247f571-643d-4c47-87f5-71643d8c47eb">Petitionskommission</orgName> vom 6. Oktober 1954).</p>
+            <p>6. Motion <persName n="0447f948-7f65-4f0c-87f9-487f65df0c53">Robert Matthias</persName> - <placeName n="1b5c935b-9b11-4ea8-9c93-5b9b117ea84c">Winterthur</placeName> vom 26. Juli 1954 über eine aktive Gesundheitspolitik.</p>
+            <p>7. Bericht und Antrag des Büros des <orgName n="4fd4cbeb-be32-4344-94cb-ebbe326344cf">Kantonsrates</orgName> zur Motion Dr. <persName n="d7fc8ea0-7fa1-4206-bc8e-a07fa1920669">A. Ziegler</persName> - <placeName n="cdf37b82-ee8b-4748-b37b-82ee8b97488a">Zürich</placeName> betreffend die Kompetenzen des <orgName n="0e0eb290-309d-4315-8eb2-90309da31537">Regierungsrates</orgName> vom 1. Juli 1954 (447).  <pb n="2858"/>
+            </p>
+            <p>8. Interpellation <persName n="9ba71a36-8577-4947-a71a-368577994793">Albin Heimann</persName> - <placeName n="d28bd552-28c2-426d-8bd5-5228c2426d60">Küchberg</placeName> vom 6. September 1954 über die Ausbeutung von Erdölvorkommen.</p>
+            <p>9. Interpellation Dr. <persName n="925b7f80-6b6a-4066-9b7f-806b6a606659">A. Ziegler</persName> - <placeName n="b9de0249-569d-4f42-9e02-49569ddf42b7">Zürich</placeName> vom 6. September 1954 über die Durchführung der Strafuntersuchung gegen die <placeName n="78d3fdbc-bd8c-4d77-93fd-bcbd8c3d7765" type="deriv">deutsche</placeName> Staatsangehörige <persName n="bdac4e8b-f317-4883-ac4e-8bf3173883dd">Edith Langanke</persName>.</p>
+            <p>10. Bericht und Antrag des <orgName n="ce053deb-09f5-4fa7-853d-eb09f58fa734">Regierungsrates</orgName> vom 20. Mai 1954 zur Motion Nr. 643 betreffend die Errichtung von Klimastationen für die Behandlung Nicht-Tuberkulosekranker (gleichlautender Antrag der Kommission vom 8. September 1954) (439).</p>
+            <p>11. Interpellation <persName n="61fc1731-a51d-456e-bc17-31a51d356ed4">Walter Rüegg</persName> - <placeName n="a124de75-b136-4867-a4de-75b136486752">Hausen a. A.</placeName> vom 10. September 1954 betreffend die Erstellung von zentralen Abwasserreinigungsanlagen.</p>
+            <p>12. Motion <persName n="bb9da7ab-59d2-4905-9da7-ab59d20905d6">Walter Brunner</persName> - <placeName n="c459e75b-0428-4fff-99e7-5b04287fff17">Zürich</placeName> vom 13. September 1954 über die Herausgabe eines Sammelwerkes der dem Natur-, Bau- und Denkmalschutz zu unterstellenden Gebiete und Bauten im Kanton <placeName n="dda86cf5-2883-470e-a86c-f52883770e97">Zürich</placeName>.</p>
+            <p>13. Motion Dr. <persName n="60b79cbf-45e7-45f3-b79c-bf45e7b5f32a">K. Hackhofer</persName> - <placeName n="164c5f7d-ff9b-4dc5-8c5f-7dff9b0dc5c6">Zürich</placeName> vom 13. September 1954 betreffend Vereinbarung über die <orgName n="676c1a2b-c5a2-4692-ac1a-2bc5a2c692f6">Interkantonale Kontrollstelle für Heilmittel</orgName>.</p>
+            <p>14. Motion <persName n="e189c13c-57dc-4ab0-89c1-3c57dc5ab068">Hans Schalcher</persName> - <placeName n="7600d459-2ddb-4eb4-80d4-592ddb0eb445">Winterthur</placeName> vom 13. September 1954 über die Einführung von gewerblichen Schiedsgerichten in allen <placeName n="58159929-b841-46b0-9599-29b84116b002" type="deriv">zürcherischen</placeName> Gemeinden.</p>
+            <p>15. Bericht und Antrag des <orgName n="8f4121aa-2684-4ee4-8121-aa2684aee4d3">Regierungsrates</orgName> zum Postulat Nr. 748 über die Mitwirkung neutraler Experten zur Erzielung von Einsparungen im Staatshaushalt vom 15. Oktober 1953 (gleichlautender Antrag der Kommission vom 8. September 1954) (407 und 444).</p>
+            <p>16. Motion <persName n="5ccf7e1a-6f8f-43c6-8f7e-1a6f8f13c670">Walter Bräm</persName> - <placeName n="dae2d332-9145-4cae-a2d3-329145dcaedd">Zürich</placeName> vom 20. September 1954 über die Beschleunigung der <orgName n="d2f0bda4-93a7-444c-b0bd-a493a7e44ca2">Rechtspflege</orgName>.</p>
+            <p>17. Bericht und Antrag des <orgName n="5dabddab-6d35-48b3-abdd-ab6d35f8b3d4">Regierungsrates</orgName> zum Postulat Nr. 788 betreffend die Veröffentlichung der grundsätzlichen Entscheide des <orgName n="aa138b4c-3778-4046-938b-4c3778b046c3">Regierungsrates</orgName> in Verwaltungsstreitigkeiten vom 19. August 1954 (gleichlautender Antrag der Kommission vom 27. September 1954) (454).</p>
+            <p>18. Genehmigung von Verwaltungsratsmandaten von Mitgliedern des <orgName n="a8be3973-b4b7-484c-be39-73b4b7384c43">Regierungsrates</orgName> (Anträge des Regierungs-  <pb n="2859"/>rates vom 25. März 1954 und 26. Mai 1954 und gleichlautende Anträge der <orgName n="575441be-edd7-4dad-9441-beedd77dadf1">Geschäftsprüfungskommission</orgName> vom 23. Juni /14. Juli 1954).</p>
+            <p>19. Beschluß des <orgName n="4d545214-e8e5-4e32-9452-14e8e5fe324f">Kantonsrates</orgName> über den Ausbau des Chemischen und des <orgName n="32de1a06-85be-4cdb-9e1a-0685beacdbde">Physikalisch-chemischen Institutes der Universität Zürich</orgName> und die Erstellung von Baracken für die <orgName n="053e99fc-e318-457a-be99-fce318857a4c">Kantonsschule Zürich</orgName> (Antrag des <orgName n="d6a7c481-ef90-4299-a7c4-81ef90429982">Regierungsrates</orgName> vom 8. Juli 1954 und gleichlautender Antrag der Kommission vom 29. September 1954) (449).</p>
+            <p>20. Gesetz über die Abänderung und Ergänzung des Einführungsgesetzes zum Bundesgesetz über die Kranken- und Unfallversicherung vom 6. Juni 1926 (Anträge des <orgName n="f176a8f2-213b-4895-b6a8-f2213b8895c3">Regierungsrates</orgName> vom 24. Juni 1954 und der Kommission vom 1. Oktober 1954) (448).</p>
+            <p>21. Motion <persName n="b6ee2f18-7764-4a1e-ae2f-187764ca1e8e">K. Denzler</persName> - <placeName n="c41555d0-25c4-48a1-9555-d025c4f8a152">Zürich</placeName> vom 4. Oktober 1954 über Maßnahmen zur Bekämpfung der Bodenspekulation.</p>
+            <p>22. Motion <persName n="a4fe76f1-ad15-490d-be76-f1ad15090d02">K. Zeller</persName> - <placeName n="51c15edb-8b9b-4754-815e-db8b9b17545c">Herrliberg</placeName> vom 4. Oktober 1954 über die Durchführung einer Probeabstimmung unter den <placeName n="4736d77b-768d-4dfb-b6d7-7b768d9dfbb7" type="deriv">Zürcher</placeName> Frauen betreffend das Frauenstimmrecht.</p>
+            <p>23. Motion <persName n="10c3484c-32da-45bd-8348-4c32dae5bddd">U. Kägi</persName> - <placeName n="85b325fd-3cc5-4f13-b325-fd3cc5ef13da">Zürich</placeName> vom 4. Oktober 1954 über den spekulativen Umbau von billigem Wohnraum.</p>
+            <p>24. Rechenschaftsbericht des <orgName n="4b280a4d-775a-4f1b-a80a-4d775aaf1b17">Obergerichtes</orgName> und des <orgName n="0c32e662-a9aa-4529-b2e6-62a9aa652927">Kassationsgerichtes</orgName> für das Jahr 1953 (Antrag der Kommission für Prüfung des Rechenschaftsberichtes des <orgName n="05f36f71-93f3-407d-b36f-7193f3807dc8">Obergerichtes</orgName> vom 7. Oktober 1954).</p>
+            <p>25. Ersatzwahl eines Ersatzmannes des <orgName n="15f155d5-15dd-44ee-b155-d515dd04ee33">Obergerichtes</orgName> des Kantons <placeName n="cb2529ab-d55d-4bb0-a529-abd55d8bb006">Zürich</placeName> an Stelle des zum Mitglied des <orgName n="ace1a4a5-5774-42c2-a1a4-a55774c2c28f">Obergerichtes</orgName> gewählten Dr. <persName n="7dd00a22-ab13-4416-900a-22ab13c41695">Fritz Hürlimann</persName> - <placeName n="ded1feb7-cff7-4263-91fe-b7cff77263d6">Zürich</placeName>.</p>
+        </body>
+    </text>
+</tei:TEI>

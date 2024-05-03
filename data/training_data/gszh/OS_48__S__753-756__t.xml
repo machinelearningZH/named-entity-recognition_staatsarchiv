@@ -1,0 +1,147 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gesetz betreffend die Elektrizitätswerke des Kantons Zürich (EKZ-Gesetz)</title>
+                <respStmt>
+                    <resp ref="#sef" key="transcript">Transkript: sef<date when="2015-05-06">06.05.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Gesetz betreffend die Elektrizitätswerke des Kantons Zürich (EKZ-Gesetz)</title>
+                    <date when="1983-06-19">19.06.1983</date>
+                    <ident>StAZH OS 48 (S. 753-756)</ident>
+                    <idno>732.1</idno>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_48__S__753-756__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3459077"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="753"/>
+            </p>
+            <p>§ 1. Die <orgName n="9f60321f-040e-471e-a032-1f040e771ee8">Elektrizitätswerke des Kantons Zürich</orgName> (<orgName n="dc794233-1c1b-4289-b942-331c1bd28974">EKZ</orgName>) sind eine selbständige Anstalt des <orgName n="19ac54a0-441d-45de-ac54-a0441d15de5a" type="deriv">kantonalen</orgName> öffentlichen Rechts mit Sitz in <placeName n="719b63c3-fbb5-4ad6-9b63-c3fbb5ead62f">Zürich</placeName>.<add place="margin right">Rechtsform </add>
+            </p>
+            <p>§ 2. Die <orgName n="9efe7cd4-c8ae-4d84-be7c-d4c8ae8d8448">EKZ</orgName> versorgen den <orgName n="2c759224-5f7c-44ff-b592-245f7cf4fffa">Kanton</orgName> wirtschaftlich, sicher und umweltgerecht mit elektrischer Energie; ausgenommen ist das Gebiet der Stadt <placeName n="ccf964e5-c846-464e-b964-e5c846364eb7">Zürich</placeName>. Sie können auch Wärme verteilen, die in eigenen, dezentralen Wärme-Kraft-Kopplungsanlagen anfällt.<add place="margin right">Zweck </add>
+            </p>
+            <p>§ 3. Die <orgName n="fef85b2c-f0da-4bcc-b85b-2cf0da8bcc2b">EKZ</orgName> werden nach kaufmännischen Grundsätzen selbsttragend geführt. Im Bereich Hausinstallation haben sie einen angemessenen Gewinn anzustreben.<add place="margin right">Kaufmännische Führung </add>
+            </p>
+            <p>§ 4. Die <orgName n="3b64f0eb-7cde-459f-a4f0-eb7cded59f19">EKZ</orgName> fördern im Rahmen ihrer Tätigkeit den sparsamen Umgang mit Energie. Sie erlassen hierüber Richtlinien.<add place="margin right">Energiesparen </add>
+            </p>
+            <p>§ 5. Der <orgName n="5283fa7a-1187-4022-83fa-7a118770223b">Staat</orgName> stellt den <orgName n="98053207-a67e-46e9-8532-07a67e26e986">EKZ</orgName> das Grundkapital zu den Selbstkosten zur Verfügung. Der <orgName n="233687d0-5220-445c-b687-d05220f45cc4">Kantonsrat</orgName> setzt das Grundkapital fest.<add place="margin right">Grundkapital </add>
+            </p>
+            <p>Zur vorübergehenden Mittelbeschaffung oder zur Finanzierung bestimmter Aufgaben können die <orgName n="992ef970-9c76-4c09-aef9-709c764c0993">EKZ</orgName> Darlehen oder Anleihen aufnehmen.</p>
+            <p>Nicht beanspruchte Mittel werden zur Rückzahlung auf dem Grundkapital verwendet.</p>
+            <p>§ 6. Die <orgName n="f872f60c-3595-4035-b2f6-0c3595e035fd">EKZ</orgName> sind verpflichtet, ihren Bedarf an elektrischer Energie bei den <orgName n="95f41e94-5ac7-447f-b41e-945ac7247f67">Nordostschweizerischen Kraftwerken</orgName> (<orgName n="ea45ac68-1963-48b8-85ac-68196388b873">NOK</orgName>) zu decken, solange diese in der Lage sind, zu annehmbaren Bedingungen zu liefern.<add place="margin right">Verhältnis zu den <orgName n="589e7f11-cb4c-4760-9e7f-11cb4c37607b">NOK</orgName> </add>
+            </p>
+            <p>Vorbehalten bleibt der Strombezug aus eigenen Anlagen und aus Werken Dritter gemäss § 7.</p>
+            <p>§ 7. Erzeugung, Übertragung und Verwendung elektrischer Energie durch Private auf ihren Grundstücken zum Eigenbedarf ist gestattet. Organisationen des öffentlichen Rechts dürfen selbst erzeugte elektrische Energie nur für den Bedarf des betreffenden Werks verwenden.<add place="margin right">Verhältnis zu Dritten </add>
+            </p>
+            <p>Die Wiederverkäufer sind berechtigt, die elektrische Energie in ihrem Absatzgebiet selbst zu verteilen.  <pb n="754"/>
+            </p>
+            <p>Die <orgName n="779d773e-d05f-46cf-9d77-3ed05f06cf17">EKZ</orgName> nehmen im Rahmen ihrer Verpflichtungen gegenüber den <orgName n="392b4c82-8f63-47b0-ab4c-828f6377b0f6">NOK</orgName> den in Abs. 1 genannten Erzeugern die überschüssige Energie in einer für das Netz geeigneten Form ab. Der Preis richtet sich nach den Gestehungskosten für gleichwertige elektrische Energie, welche die <orgName n="ae4b32bb-73d5-4bd9-8b32-bb73d5dbd9b6">EKZ</orgName> zusätzlich anderweitig beschaffen müssten.</p>
+            <p>§ 8. Die elektrische Energie wird aufgrund allgemein verbindlicher Gebühren für Anschluss und Lieferung abgegeben.<add place="margin right">Tarifgestaltung </add>
+            </p>
+            <p>Bei der Festsetzung der Strompreise werden die Bedürfnisse und die Eigenart von Industrie, Gewerbe, Landwirtschaft, Haushalt und Wiederverkäufern nach Möglichkeit berücksichtigt.</p>
+            <p>Die Bezügergruppen tragen nach Art und Wertigkeit ihres Energiebezugs angemessen an die Aufwendungen der <orgName n="d098c9dc-f3da-4e4f-98c9-dcf3da9e4fad">EKZ</orgName> bei.</p>
+            <p>§ 9. Die <orgName n="d9eee6a8-08c6-4b70-aee6-a808c68b706f">EKZ</orgName> stehen unter der Oberaufsicht des <orgName n="88ce8011-2a48-42e0-8e80-112a4872e0dd">Kantonsrates</orgName>. Sie unterbreiten ihm jährlich Geschäftsbericht und Rechnung zur Genehmigung.<add place="margin right">Oberaufsicht </add>
+            </p>
+            <p>§ 10. Die Organe der <orgName n="ed68df00-11c0-4340-a8df-0011c0b3400a">EKZ</orgName> sind:<add place="margin right">Organisation </add>
+            </p>
+            <p>a)	der Verwaltungsrat;</p>
+            <p>b)	der Leitende Ausschuss;</p>
+            <p>c)	die Direktion.</p>
+            <p>Der Verwaltungsrat besteht aus 15 Mitgliedern. Zwei werden vom <orgName n="ea0d1bd9-28e4-41b5-8d1b-d928e4a1b5af">Regierungsrat</orgName> aus seiner Mitte und 13 vom <orgName n="63a52891-528e-4c33-a528-91528ebc3365">Kantonsrat</orgName> gewählt. Von den letztern soll nach Möglichkeit die Mehrheit Wohnsitz im Versorgungsgebiet haben.</p>
+            <p>Der <orgName n="86373641-96f6-4d1d-b736-4196f62d1db6">Regierungsrat</orgName> erlässt eine Verordnung über die Organisation und Verwaltung der <orgName n="6ef4a286-12c5-4ae0-b4a2-8612c52ae0c6">EKZ</orgName>. Sie enthält die Grundsätze über Abschreibungen und Rücklagen sowie über die Verwendung des Reingewinns. Die Verordnung bedarf der Genehmigung durch den <orgName n="97cae4fb-044c-432f-8ae4-fb044c932f7b">Kantonsrat</orgName>.</p>
+            <p>§ 11. Die <orgName n="4c3023a2-15a9-4e55-b023-a215a9ae55ac">EKZ</orgName> können sich zur Erfüllung ihrer Aufgaben an andern Unternehmungen beteiligen.<add place="margin right">Beteiligungen </add>
+            </p>
+            <p>§ 12. Die Mitglieder des Verwaltungsrates und des Leitenden Ausschusses haften den <orgName n="1a39f120-e6a3-4579-b9f1-20e6a375797d">EKZ</orgName> und dem <orgName n="dd620eea-e814-4c17-a20e-eae8148c1724">Staat</orgName> für den Schaden, den sie durch vorsätzliche oder fahrlässige Verletzung ihrer Pflichten verursacht haben. Ansprüche aus dieser Haftung sind durch den <orgName n="6be405c2-3659-493f-a405-c23659193f0d">Kantonsrat</orgName> beim <orgName n="e94de992-4cf8-451f-8de9-924cf8e51f3f">Verwaltungsgericht</orgName> geltend zu machen.<add place="margin right">Haftung </add>
+            </p>
+            <p>§ 13. Die <orgName n="746c84dd-d293-467d-ac84-ddd293667dfc">EKZ</orgName> sind von allen Staats- und Gemeindesteuern befreit.  <pb n="755"/>
+                <add place="margin right">Steuerfreiheit </add>
+            </p>
+            <p>Sie sind von den Grundsteuern befreit, sofern die Grundstücke unmittelbar öffentlichen Zwecken gedient haben oder dienen werden.</p>
+            <p>§ 14. Für die Inanspruchnahme öffentlichen Eigentums von <orgName n="2945f1ea-8fdd-4f50-85f1-ea8fddff50e5">Staat</orgName> und Gemeinden durch Übertragungs- und Verteilanlagen sind die <orgName n="68f9c979-ce89-4c5b-b9c9-79ce89dc5b95">EKZ</orgName> nicht entschädigungspflichtig.<add place="margin right">Inanspruchnahme öffentlichen Eigentums </add>
+            </p>
+            <p>§ 15. Das Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 24. Mai 1959 wird wie folgt geändert:<add place="margin right">Änderung bisherigen Rechts </add>
+            </p>
+            <p>§ 82. Das <orgName n="5cf8a992-9ebe-40e4-b8a9-929ebe30e495">Verwaltungsgericht</orgName> beurteilt ferner als einzige Instanz:<add place="margin right">2. Andere Streitigkeiten aus öffentlichem Recht </add>
+            </p>
+            <p>lit. a–h unverändert;</p>
+            <p>i)	Streitigkeiten der <orgName n="15d4e295-452e-460e-94e2-95452e160ef8">Elektrizitätswerke des Kantons Zürich</orgName> mit den Wiederverkäufern über die Verteilung der elektrischen Energie im Absatzgebiet sowie mit Selbstversorgern über die Abnahme überschüssiger Energie gemäss § 7 Abs. 2 und 3 des EKZ-Gesetzes.</p>
+            <p>§ 16. Dieses Gesetz untersteht der Volksabstimmung.<add place="margin right">Inkrafttreten </add>
+            </p>
+            <p>Der <orgName n="e1e2f0b7-258a-430e-a2f0-b7258a930ec0">Regierungsrat</orgName> bestimmt den Zeitpunkt des Inkrafttretens. Auf den gleichen Zeitpunkt wird das Gesetz betreffend die <orgName n="f4f21af2-68cc-40dd-b21a-f268ccf0ddb7">Elektrizitätswerke des Kantons Zürich</orgName> vom 15. März 1908 aufgehoben.</p>
+            <p>Der <orgName n="ab7917fb-a657-4d6c-b917-fba657fd6c8f">Kantonsrat</orgName>,</p>
+            <p>nach Einsichtnahme in den Bericht seines Büros über die Ergebnisse der kantonalen Volksabstimmung vom 19. Juni 1983</p>
+            <p>wonach sich ergibt:</p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Zahl der Stimmberechtigen  </cell>
+                        <cell>713893 </cell>
+                    </row>
+                    <row>
+                        <cell>Eingegangene Stimmzettel  </cell>
+                        <cell>181481 </cell>
+                    </row>
+                    <row>
+                        <cell>Annehmende Stimmen  </cell>
+                        <cell>119885 </cell>
+                    </row>
+                    <row>
+                        <cell>Verwerfende Stimmen  </cell>
+                        <cell>50911 </cell>
+                    </row>
+                    <row>
+                        <cell>Ungültige Stimmen  </cell>
+                        <cell>30 </cell>
+                    </row>
+                    <row>
+                        <cell>Leere Stimmen  </cell>
+                        <cell>10655 </cell>
+                    </row>
+                </table>
+            </p>
+            <p>beschliesst:</p>
+            <p>Die Referendumsvorlage «Gesetz betreffend die <orgName n="ad2e5482-f0a2-40ed-ae54-82f0a280edd8">Elektrizitätswerke des Kantons Zürich</orgName> (EKZ-Gesetz)» wird als vom Volke angenommen erklärt.  <pb n="756"/>
+            </p>
+            <p>
+                <placeName n="9ee67452-ce2c-4138-a674-52ce2c71382c">Zürich</placeName>, den 22. August 1983</p>
+            <p>Im Namen des <orgName n="2e638ba6-eedb-4e97-a38b-a6eedbee9777">Kantonsrates</orgName>
+            </p>
+            <p>
+                <table>
+                    <row>
+                        <cell>Der Präsident: </cell>
+                        <cell>Die Sekretärin: </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <persName n="2c099618-c46c-431f-8996-18c46c031f3d">W. Bosshard</persName> </cell>
+                        <cell>
+                            <persName n="48286ac7-b72f-47c7-a86a-c7b72f47c73c">E. Bachmann</persName> </cell>
+                    </row>
+                </table>
+            </p>
+        </body>
+    </text>
+</TEI>

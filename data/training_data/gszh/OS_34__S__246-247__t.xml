@@ -1,0 +1,76 @@
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschluß des Regierungsrates betreffend Ausdehnung der Konzession der städtischen Straßenbahn Zürich auf neue Linien.</title>
+                <respStmt>
+                    <resp ref="#sef" key="transcript">Transkript: sef<date when="2015-09-24">24.09.2015</date>
+                    </resp>
+                    <name key="editor">Staatsarchiv des Kantons Zürich</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Staatsarchiv des Kantons Zürich</authority>
+                <date>2016</date>
+                <pubPlace>Zürich</pubPlace>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Zürcher Gesetzessammlung seit 1803 online</title>
+                <editor>Staatsarchiv des Kantons Zürich</editor>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Beschluß des Regierungsrates betreffend Ausdehnung der Konzession der städtischen Straßenbahn Zürich auf neue Linien.</title>
+                    <date when="1928-11-15">15.11.1928</date>
+                    <ident>StAZH OS 34 (S. 246-247)</ident>
+                    <idno/>
+                    <edition>Zürcher Gesetzessammlung seit 1803 online</edition>
+                    <figure>
+                        <graphic url="PDF_Dokumente/OS_34__S__246-247__p.pdf"/>
+                    </figure>
+                    <ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3470154"/>
+                    <listRelation>
+                        <relation name="Aufhebung_siehe" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3470154" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3470165"/>
+                        <relation name="Änderung_von" active="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3470154" passive="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?Id=3471549"/>
+                    </listRelation>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                <pb n="246"/>
+            </p>
+            <p>Der <orgName n="93e81deb-335c-4ac6-a81d-eb335c5ac623">Regierungsrat</orgName>,</p>
+            <p>auf Antrag der <orgName n="d8b538a1-d9ae-4d17-b538-a1d9aecd1774">Baudirektion</orgName>,</p>
+            <p>beschließt:</p>
+            <p>I. Die <orgName n="7b2b233a-2c24-4b49-ab23-3a2c245b4917" type="deriv">kantonale</orgName> Konzession für den Bau und Betrieb der Straßenbahnlinien der Stadt <placeName n="27f9ac28-6718-4a23-b9ac-286718aa23a3">Zürich</placeName> vom 12. März 1897 (<placeName n="2c163f74-4c28-4ef7-963f-744c288ef746">Zürch</placeName>. Gesetze, Band XXV, Seite 1–9) wird auf nachstehende, neu zu erbauende Linie ausgedehnt:</p>
+            <p>	<placeName n="9d98bd9d-ba83-487d-98bd-9dba83d87d5a">Bucheggplatz</placeName> – <placeName n="a842e9e3-79af-4908-82e9-e379afc908b6">Hofwiesenstraße</placeName> – <placeName n="5a4742d1-ac85-4bba-8742-d1ac85fbba74">Bahnhof Oerlikon</placeName> *).</p>
+            <p>II. Die Fristen für Einreichung der technischen Unterlagen, Baubeginn, Bauvollendung und Inbetriebsetzung sind diejenigen der Bundeskonzession.</p>
+            <p>III. Diese Zusatzkonzession erlischt ohne weiteres, wenn innerhalb sechs Monaten von heute an die zugehörige Bundeskonzession vom 26. März 1897 nicht auf die neue Linie ausgedehnt ist.</p>
+            <p>
+                <placeName n="35b4c5f3-bdfd-44f2-b4c5-f3bdfdb4f2d4">Zürich</placeName>, den 15. November 1928.</p>
+            <p>Vor dem <orgName n="bb3a88b5-aeb7-44d4-ba88-b5aeb734d432">Regierungsrate</orgName>,</p>
+            <p>Der Staatsschreiber:</p>
+            <p>
+                <persName n="067104c3-ecc0-423d-b104-c3ecc0623ddc">Paul Keller</persName>.</p>
+            <p>Der bezügliche Bundesratsbeschluß vom 12. Februar 1929 lautet:</p>
+            <p>1. Der Stadt <placeName n="e4105e0b-d025-4d4e-905e-0bd0251d4e16">Zürich</placeName> wird der Bau und Betrieb der nachgenannten neuen Straßenbahnlinien bewilligt:</p>
+            <p>a)	In der projektierten <placeName n="b27a8fd7-7c9a-40aa-ba8f-d77c9a90aa8e">Hofwiesenstraße</placeName> vom <placeName n="426a448e-5550-490e-aa44-8e5550990e63">Bucheggplatz</placeName> bis zur <placeName n="2456f0a0-430d-4f0c-96f0-a0430dbf0caa">Wehntalerstraße</placeName>;</p>
+            <p>b)	über die projektierte <placeName n="46e6671d-bea8-4755-a667-1dbea8a7550f">Kornhausbrücke</placeName> und durch die <placeName n="475633a2-f211-4548-9633-a2f211b54825">Nordstraße</placeName> vom <placeName n="a5743062-9073-4232-b430-6290736232a5">Limmatplatz</placeName> bis zur <placeName n="525e7f7a-41ca-40e3-9e7f-7a41ca30e3e7">Waidstraße</placeName>;</p>
+            <p>*)	Für die Strecke Wehntalerstraße–Bahnhof Oerlikon steht die Bundeskonzession noch aus.</p>
+            <p>
+                <pb n="247"/>
+            </p>
+            <p>c)	im <placeName n="853a7d26-57d5-4b5e-ba7d-2657d5eb5eed">Stauffacherquai</placeName>, in der <placeName n="e329ba94-8d71-4e53-a9ba-948d716e5324">Manessestraße</placeName> und der <placeName n="8137f09a-6a14-4354-b7f0-9a6a147354a5">Uetlibergstraße</placeName>, von der <placeName n="40935f37-dd2c-4f48-935f-37dd2c7f48b2">Sihlbrücke</placeName> bis zur <placeName n="9d3b1875-bea1-469f-bb18-75bea1469f9f">Gießhübelstraße</placeName> (<placeName n="7d1f09a3-ee89-45d8-9f09-a3ee8985d88f">Laubegg</placeName>);</p>
+            <p>d)	in der projektierten <placeName n="7db7b6b2-5ca5-4ea4-b7b6-b25ca5fea43d">Gießhübelstraße</placeName> von der <placeName n="9a338161-a93d-4829-b381-61a93da829d9">Uetlibergstraße</placeName> (<placeName n="2302546f-e8f2-4ffb-8254-6fe8f2cffb9c">Laubegg</placeName>) bis zur <placeName n="f1471871-fe8b-41e9-8718-71fe8b41e999">Schweighofstraße</placeName>.</p>
+            <p>2. Auf die neuen Linien finden die Bestimmungen der durch Bundesbeschluß vom 26. März 1897 (E. A. S. 14, 369) erteilten und seither wiederholt durch Beschlüsse der <orgName n="a3803fd1-6b2e-4f91-803f-d16b2e2f912f">Bundesversammlung</orgName> und des <orgName n="023862c1-11c0-42a1-b862-c111c0e2a1eb">Bundesrates</orgName> (vergl. E. A. S. 38, 104 und dortige Verweisungen, sowie 41, 36) abgeänderten und ausgedehnten Konzession für die städtische Straßenbahn <placeName n="fdf5bbe9-100e-4979-b5bb-e9100e49793e">Zürich</placeName> Anwendung.</p>
+            <p>In bezug auf die Benutzung der öffentlichen Straßen für die Anlage und den Betrieb gelten die Beschlüsse des <orgName n="bb93d304-cadd-450b-93d3-04cadd550b1d">Regierungsrates des Kantons Zürich</orgName> vom 29. Dezember 1927 (Prot.-Nr. 2593 betreffend die Linien unter b–d) und vom 15. November 1928 (Prot.-Nr. 2207 betreffend die Linie unter a), soweit sie nicht mit den Bestimmungen der Bundeskonzession oder der Bundesgesetzgebung in Widerspruch stehen.</p>
+            <p>3. Für diese Linien werden folgende Fristen festgesetzt:</p>
+            <p>Die technischen Vorlagen sind bis zum 1. Januar 1933 einzureichen.</p>
+            <p>Mit den Bauarbeiten ist spätestens sechs Monate nach der Plangenehmigung zu beginnen.</p>
+            <p>Spätestens zwölf Monate nach dem Beginn der Erdarbeiten sind die Linien zu vollenden und dem Betriebe zu übergeben.</p>
+        </body>
+    </text>
+</TEI>

@@ -65,13 +65,13 @@ Eine ausführliche Erläuterung des CLI-Clients findet sich unter `ner_cli/READM
 ## Begriffsdefinitionen
 
 - Eigennamenerkennung, engl. *Named Entity Recognition*, fortan abgekürzt **NER** 
-- Eigenname, engl. *Named Entity*, fortan abgekürzt **NE**
+- Eigennamen wie Personen, Orte und allenfalls weitere Entitäten, engl. *Named Entity*, fortan abgekürzt **NE**
 
 ## Projektbericht
 
-Die kantonale Verwaltung erzeugt und handhabt viele textliche Informationen und Dokumente. Für die Suche und Verknüpfung von Dokumenten ist es hilfreich, Personen, Orte und allenfalls weitere Entitäten (NE) zu identifizieren. Eine manuelle Auszeichnung ist - vor allem bei einer grossen Textmenge - zeitaufwändig bzw. nicht zu bewältigen. **Eine automatische oder teilautomatische Erkennung von NE würde viel Zeit sparen und die Arbeit mit Dokumenten an vielen Stellen verbessern.**
+Die kantonale Verwaltung erzeugt und handhabt viele textliche Informationen und Dokumente. Die Identifikation von NEs bietet den Nutzenden gezieltere Suchmöglichkeiten in den Texten. Zudem bildet die NER die Basis für die Verknüpfung mit Normdaten wie der Gemeinsamen Normdatei (GND). Eine manuelle Auszeichnung ist - vor allem bei einer grossen Textmenge - zeitaufwändig bzw. nicht zu bewältigen. **Eine automatische oder teilautomatische Erkennung von NE würde viel Zeit sparen und die Arbeit mit Dokumenten an vielen Stellen verbessern.**
 
-> **Unser Projekt zielt darauf, eine automatische Erkennung von Entitäten mit Machine Learning zu entwickeln und als generalisierbare technische Lösung für die kantonale Verwaltung zur Verfügung zu stellen.**
+> **Unser Projekt zielt darauf, eine automatische Erkennung von Entitäten mit Machine Learning zu entwickeln und als generalisierbare technische Lösung für die kantonale Verwaltung zur Verfügung zu stellen.** 
 
 Als Datenbasis für das Projekt verwenden wir die sogenannten **«Zentralen Serien des Staatsarchivs»**. Diese Korpora repräsentieren eine weite Spanne an Verwaltungssprache und Textsorten und stehen als offene Verwaltungsdaten (Open Government Data, OGD) zur Verfügung.
 
@@ -156,7 +156,7 @@ Die Sammlungen sind umfangreich, enthalten unterschiedliche Dokumententypen sowi
 2. Binning der Dokumente nach Länge in zehn Bins und Einschränkung auf (ungefähr) mittlere zwei bis fünf Bins, um Längeneffekte gegenüber der Zeitkomponente und anderen Variablen zu dämpfen.
 3. Toolgestützte (nicht zufällige) Suche nach Dokumenten, in denen Organisationen stark repräsentiert sind.
 
-#### Definitorische Überlegungen Named Entities (NEs)
+#### Definitorische Überlegungen zu NEs
 
 Im Einklang mit der eingangs erläuterten Ausrichtung an Modelleigenheiten verzichteten wir darauf, die einzelnen NE-Typen abschliessend zu definieren und haben Modelleigenheiten nach Möglichkeit übernommen [^3]. Besonders bei Orten und Organisationen beabsichtigten wir, relativ grosszügig mit bestehenden Auszeichnungen und deren definitorischen Unschärfen umzugehen. Im Rahmen des Annotationsschemas wollten wir dennoch eine möglichst hohe Präzision (*precision*) erreichen. Die Ausbeute (*recall*) ist aus Kundensicht weniger kritisch.
 
@@ -168,7 +168,7 @@ Bei der Auszeichnung wurden allgemein Personen-, Orts- und Organisationsnamen im
 
 Bei Organisationen wird grundsätzlich die längstmögliche Sequenz ausgezeichnet.
 
-Named Entities im Titel von XML-Dokumenten werden nicht ausgezeichnet, da dies vom TEI Publisher nicht unterstützt wird. Dies akzeptieren wir im Bewusstsein, dass in einigen Dokumenten saliente NEs ausschliesslich im Titel vorkommen.
+NEs im Titel von XML-Dokumenten werden nicht ausgezeichnet, da dies vom TEI Publisher nicht unterstützt wird. Dies akzeptieren wir im Bewusstsein, dass in einigen Dokumenten saliente NEs ausschliesslich im Titel vorkommen.
 
 ##### Personen
 
@@ -190,7 +190,7 @@ Ergänzend zu klassischen Organisationen (Unternehmen, sehr spezifische und eind
 
 Nicht ausgezeichnet werden Konjunktionen ("Am journalistischen und am historischen Seminar"). Im Falle von Konjunktionen, die eingeschachtelte freistehende Entitäten enthalten, die zumindest kontextuell ausreichend eindeutig sind, erfolgt eine Auszeichnung ("Kantonsspitäler \[Zürich<sub>LOC</sub>\] und \[Winterthur<sub>LOC</sub>\], "\[Direktionen der Finanzen und des Militärs<sub>ORG</sub>\]")
 
-Derivierte Organisationen werden ausgezeichnet, sind jedoch selten und von geringer Varianz (v.a. allgemeine Institutionsbezeichnungen, z.B. "kantonale", "parlamentarische", vereinzelt spezifischere wie "bundesrätliche", "bundegerichtliche").
+Derivierte Organisationen werden ausgezeichnet, sind jedoch selten und von geringer Varianz (v.a. allgemeine Institutionsbezeichnungen, z.B. "kantonale", "parlamentarische", vereinzelt spezifischere wie "bundesrätliche", "bundesgerichtliche").
 
 #### Erkenntnisse
 
@@ -384,7 +384,7 @@ Mit dem SpanMarker-Modell konnten wir einen Kompromiss finden, der im Vergleich 
 - Die Ausgangsfassung der TEI Publisher API erlaubt es, spaCy-Pipelines dynamisch zu laden, zu exportieren und via TEI Publisher zu trainieren. Aus praktischen Gründen haben wir diese Funktionalität entfernt. SpanMarker-Modelle müssen extern trainiert werden.
 - Das Modell ist auf in XMLs ausgezeichneten und von der TEI Publisher-API bereitgestellten Paragraphen trainiert, während die Anwendung auf Sätzen erfolgt. Im Rahmen der iterativen gestützten Annotation von Trainingsdaten haben wir keinerlei Probleme, die dieser Diskrepanz zuzuordnen sind. Weiter weist der SpanMarker-Trainer lediglich ~4% der Entities aus, die beim Training aufgrund der Subtokenlimite nicht berücksichtigt wurden. Aus diesem Grund haben wir auf eine Satzsegmentierung der Trainingsdaten verzichtet. Wir räumen jedoch die Möglichkeit einer minimalen Performanzverbesserung bei zusätzlicher Satztokenisierung ein.
 - Die NER kann nicht für die verlässliche Auszeichnung von NEs in Tabellen verwendet werden, da das Modell auf die Verarbeitung von Fliesstext ausgelegt ist. Tabellenzeilen werden vom TEI Publisher als unstrukturierter Plaintext ohne klare Grenzen zwischen Tabellenzellen bereitgestellt, der vom SpanMarker nicht richtig verarbeitet werden kann.
-- Der TEI kann eine nicht näher eingegrenzte Minderheit von Dokumenten im Subpromillebereich nicht korrekt verarbeiten. Bei der Mehrheit dieser Dokumente erfolgt beim Versuch der Rücküberführung der Named Entities keine Rückmeldung. Das Problem hängt nicht mit der Länge der Dokumente zusammen, da es auch bei sehr kurzen Beispielen auftritt, während Dokumente mit >15'000 Token im Allgemeinen problemlos verarbeitet werden. In seltenen Fällen werden Dokumente bei der Verarbeitung verändert, was vom NER-Client als Diff-Fehler erkannt und protokolliert wird. Dies erlaubt eine manuelle Korrektur der betroffenen Dokumente.
+- Der TEI kann eine nicht näher eingegrenzte Minderheit von Dokumenten im Subpromillebereich nicht korrekt verarbeiten. Bei der Mehrheit dieser Dokumente erfolgt beim Versuch der Rücküberführung der NE keine Rückmeldung. Das Problem hängt nicht mit der Länge der Dokumente zusammen, da es auch bei sehr kurzen Beispielen auftritt, während Dokumente mit >15'000 Token im Allgemeinen problemlos verarbeitet werden. In seltenen Fällen werden Dokumente bei der Verarbeitung verändert, was vom NER-Client als Diff-Fehler erkannt und protokolliert wird. Dies erlaubt eine manuelle Korrektur der betroffenen Dokumente.
 
 ### Konklusion
 
@@ -402,7 +402,7 @@ Der TEI Publisher ist ein aktiv entwickeltes Werkzeug. Hier sehen wir Potenzial 
 
 ### Anwendungshinweise
 
-1. Eingeschachtelte Named Entities müssen zeitgleich mit umgebenden ausgezeichnet werden. Der TEI Publisher unterstützt keine nachträgliche Auszeichnung.
+1. Eingeschachtelte NEs müssen zeitgleich mit umgebenden ausgezeichnet werden. Der TEI Publisher unterstützt keine nachträgliche Auszeichnung.
 2. **In der TEI-Publisher-Instanz, die vom Kommandozeilenclient angesprochen wird, darf nicht produktiv gearbeitet werden, solange eine Instanz des Clients läuft, da dieser periodische Löschungen der Datenbank des TEI Publishers auslöst**. Idealerweise wird für manuelle Arbeiten eine komplett separate Instanz des TEI Publishers verwendet.
 3. Der Download von XML-Dateien in eXide (eine XML-IDE, die mit der eXist-db-Plattform mitgeliefert wird, auf welcher der TEI Publisher aufbaut und unter <http://localhost:8080/exist/apps/eXide/index.html> erreichbar ist) weist teilweise einen off-by-one-Fehler in Bezug auf die markierten Dokumente auf. Es empfiehlt sich daher, manuelle Exporte aus dem TEI Publisher über die API vorzunehmen. Das lässt sich mit folgendem Pythoncode bewerkstelligen (nur modifizierte TEI Publisher-Version):
 

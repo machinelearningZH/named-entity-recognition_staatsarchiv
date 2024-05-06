@@ -23,7 +23,15 @@ Das Projekt hat die [Abteilung «Data» des Statistischen Amts](https://www.zh.c
 -   Softwareentwicklung: **Adrian van der Lek**
 -   Mitarbeit (Dokumentation, Organisation): Patrick Arnecke, Dominik Frefel
 
+## Licensing
+
+- [TEI Publisher - GPL-3.0](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv/blob/main/ner_tei-publisher-app/LICENSE)
+- [Daten Staatsarchiv - Creative Commons CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+- [Unser Code und NER-Modell - MIT](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv/blob/main/LICENSE.md)
+- [Original NER-Modell GermEval 2014 NER - MIT](https://huggingface.co/stefan-it/span-marker-gelectra-large-germeval14)
+
 ## Inhaltsverzeichnis
+
 * [Verwendung](#verwendung)
 * [Begriffsdefinitionen](#begriffsdefinitionen)
 * [Projektbericht](#projektbericht)

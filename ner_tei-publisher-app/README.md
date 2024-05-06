@@ -1,12 +1,13 @@
 ### Projekt «Named Entity Recognition Zentrale Serien Staatsarchiv Kanton Zürich»
+
 # Für SpanMarker-NER modifizierter Fork des TEI Publishers
 
 Dieses Werkzeug ist Teil des Projekts **«Named Entity Recognition für die zentralen Serien des Staatsarchivs Kanton Zürich».**
 
--   Das Projekt hat das Team Data des Statistischen Amt, Kanton Zürich gemeinsam mit dem Staatsarchiv entwickelt.
--   Verantwortlich: Adrian van der Lek, Rebekka Plüss
--   Softwareentwicklung: Adrian van der Lek
--   Begleitung: Patrick Arnecke, Dominik Frefel
+Das Projekt hat die [Abteilung «Data» des Statistischen Amts](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt/data.html) des Kantons Zürich gemeinsam mit dem [Staatsarchiv](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/staatsarchiv.html) entwickelt.
+-   Verantwortlich: **Adrian van der Lek, Rebekka Plüss**
+-   Softwareentwicklung: **Adrian van der Lek**
+-   Mitarbeit (Dokumentation, Organisation): Patrick Arnecke, Dominik Frefel
 
 ## Übersicht
 

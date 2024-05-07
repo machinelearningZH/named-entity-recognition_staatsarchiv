@@ -65,13 +65,13 @@ Eine ausführliche Erläuterung des CLI-Clients findet sich unter `ner_cli/READM
 ## Begriffsdefinitionen
 
 - Eigennamenerkennung, engl. *Named Entity Recognition*, fortan abgekürzt **NER** 
-- Eigennamen wie Personen, Orte und allenfalls weitere Entitäten, engl. *Named Entity*, abgekürzt **NE**
+- Eigennamen wie Personen, Orte und allenfalls weitere Entitäten, engl. *Named Entity*, fortan abgekürzt **NE**
 
 ## Projektbericht
 
 Die kantonale Verwaltung erzeugt und handhabt viele textliche Informationen und Dokumente. Die Identifikation von NEs bietet den Nutzenden gezieltere Suchmöglichkeiten in den Texten. Zudem bildet die NER die Basis für die Verknüpfung mit Normdaten wie der Gemeinsamen Normdatei (GND). Eine manuelle Auszeichnung ist - vor allem bei einer grossen Textmenge - zeitaufwändig bzw. nicht zu bewältigen. **Eine automatische oder teilautomatische Erkennung von NE würde viel Zeit sparen und die Arbeit mit Dokumenten an vielen Stellen verbessern.**
 
-> **Unser Projekt zielt darauf, eine automatische Erkennung von Entitäten mit Machine Learning zu entwickeln und als generalisierbare technische Lösung für die kantonale Verwaltung zur Verfügung zu stellen.** 
+> **Unser Projekt zielt darauf, eine automatische Erkennung von Entitäten (NEs) mit Machine Learning zu entwickeln und als generalisierbare technische Lösung für die kantonale Verwaltung zur Verfügung zu stellen.** 
 
 Als Datenbasis für das Projekt verwenden wir die sogenannten **«Zentralen Serien des Staatsarchivs»**. Diese Korpora repräsentieren eine weite Spanne an Verwaltungssprache und Textsorten und stehen als offene Verwaltungsdaten (Open Government Data, OGD) zur Verfügung.
 
@@ -79,7 +79,7 @@ Als Datenbasis für das Projekt verwenden wir die sogenannten **«Zentralen Seri
 
 Das Staatsarchiv verantwortet neben vielen anderen Korpora auch die Archivierung und Erschliessung von den **«Zentralen Serien des Kantons Zürich 19. und 20. Jahrhundert»**. Dies sind Kantonsratsprotokolle, Regierungsratsbeschlüsse, Gesetzessammlungen und das Amtsblatt.
 
-Die Korpora sind herausfordernd, weil sie von 1803 bis in die jetzige Zeit reichen und damit sprachlich und inhaltlich ein grosses Spektrum umfassen. Für das Staatsarchiv ist die Extraktion von Entitäten interessant, um Suchlösungen zu verbessern und Zusammenhänge zwischen den Serien analysieren und aufzeigen zu können.
+Die Korpora sind herausfordernd, weil sie von 1803 bis in die jetzige Zeit reichen und damit sprachlich und inhaltlich ein grosses Spektrum umfassen. Für das Staatsarchiv ist die Extraktion von NEs interessant, um Suchlösungen zu verbessern und Zusammenhänge zwischen den Serien analysieren und aufzeigen zu können.
 
 #### Regierungsratsratsbeschlüsse (RRB)
 

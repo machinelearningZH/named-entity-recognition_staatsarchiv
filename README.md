@@ -44,7 +44,7 @@ Das Projekt hat die [Abteilung «Data» des Statistischen Amts](https://www.zh.c
 
 ## Verwendung
 
-Die Komplettinstallation des modular aufgebauten Systems ist im Dokument `INSTALLATION.md` beschrieben. Die NER API kann als 
+Die Komplettinstallation des modular aufgebauten Systems ist im Dokument [`INSTALLATION.md`](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv/blob/main/INSTALLATION.md) beschrieben. Die NER API kann als 
 -   Microservice einzeln eingesetzt werden,
 -   zur gestützten (manuellen) Annotation von Dokumenten mit dem modifizierten TEI Publisher kombiniert werden,
 -   sowie in zusätzlicher Kombination mit dem CLI-Client verwendet werden, um grössere Dokumentmengen zu verarbeiten (Gesamtsystem).
@@ -60,7 +60,7 @@ cd ner_cli
 ./ner -r -i ../data/example_data -o ~/export
 source stop
 ```
-Eine ausführliche Erläuterung des CLI-Clients findet sich unter `ner_cli/README.md`.
+Eine ausführliche Erläuterung des CLI-Clients findet sich unter [`ner_cli/README.md`](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv/blob/main/ner_cli/README.md).
 
 ## Begriffsdefinitionen
 

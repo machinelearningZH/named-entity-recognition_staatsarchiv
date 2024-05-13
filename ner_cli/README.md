@@ -82,7 +82,7 @@ Es empfiehlt sich, nach Verarbeitung einer Sammlung das Log zu prüfen. Anhand d
 ## Kommandozeilenparameter:
 
 ```         
-usage: KtZH/StaZH TEI XML Named Entity Recognition CLI client [-h] -i INPUT_PATH [-o OUTPUT_PATH] [-cf CONTINUE_FROM] [-sm SM_MODEL]
+usage: KtZH/StAZH TEI XML Named Entity Recognition CLI client [-h] -i INPUT_PATH [-o OUTPUT_PATH] [-cf CONTINUE_FROM] [-sm SM_MODEL]
                                                               [-r] [-tsm | --tag-with-sm | --no-tag-with-sm]
                                                               [-tlwo | --tag-locs-within-orgs | --no-tag-locs-within-orgs]
                                                               [-td | --tag-dates | --no-tag-dates] [-ra]

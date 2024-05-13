@@ -78,7 +78,7 @@ index d2dedacc..e693e629 100644
 +
 +Dieser Fork wurde wie folgt modifiziert:
 +* Dockerfile: `NER_ENDPOINT` macOS-spezifisch auf http://host.docker.internal:8001 abgeändert.
-+* data/collection.html: "Annotation Samples" umgenutzt als Collection "StaZH NER" (intern "annotate") zwecks Zwischenspeicherung von zu annotierenden Dokumenten
++* data/collection.html: "Annotation Samples" umgenutzt als Collection "StAZH NER" (intern "annotate") zwecks Zwischenspeicherung von zu annotierenden Dokumenten
 +* modules/annotation-config.xqm: persName, placeName, orgName erweitert um Attribut "n" (Wert ist UUID (v4) erzeugt via XQuery-Funktion util:uuid()), sowie derivierte Varianten (type="deriv") aller drei NE-Typen
 +* modules/config.xqm: Collection "annotate" für die Abfrage via DTS-API registriert.
 +* modules/lib/api/nlp.xql: Timeout der Funktion nlp:entities-remote auf 1000 Sekunden erhöht (erforderlich, da SpanMarker auch mit GPU-Beschleunigung deutlich langsamer als die ursprünglich verwendeten spaCy-Modelle ist)
@@ -139,7 +139,7 @@ index f83b75fd..8aeab61e 100644
 -                <h3><a href="#" data-collection="playground">
 -                    <pb-i18n key="browse.playground.title">Playground</pb-i18n>
 +                <h3><a href="#" data-collection="annotate">
-+                    <pb-i18n key="browse.annotations.title">StaZH NER</pb-i18n>
++                    <pb-i18n key="browse.annotations.title">StAZH NER</pb-i18n>
                  </a></h3>
                  <p>
 -                    <pb-i18n key="browse.playground.description">A writable collection into which you can upload your

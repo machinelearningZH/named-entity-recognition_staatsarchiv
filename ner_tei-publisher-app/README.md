@@ -14,7 +14,7 @@ Das Projekt hat die [Abteilung «Data» des Statistischen Amts](https://www.zh.c
 Dieser Fork wurde wie folgt modifiziert:
 
 * Dockerfile: `NER_ENDPOINT` macOS-spezifisch auf http://host.docker.internal:8001 abgeändert.
-* `data/collection.html`: "Annotation Samples" umgenutzt als Collection "StaZH NER" (intern "annotate") zwecks Zwischenspeicherung von zu annotierenden Dokumenten
+* `data/collection.html`: "Annotation Samples" umgenutzt als Collection "StAZH NER" (intern "annotate") zwecks Zwischenspeicherung von zu annotierenden Dokumenten
 * `modules/annotation-config.xqm`: persName, placeName, orgName erweitert um Attribut "n" (Wert ist UUID (v4) erzeugt via XQuery-Funktion util:uuid()), sowie derivierte Varianten (type="deriv") aller drei NE-Typen
 * `modules/config.xqm`: Collection "annotate" für die Abfrage via DTS-API registriert.
 * `modules/lib/api/nlp.xql`: Timeout der Funktion nlp:entities-remote auf 1000 Sekunden erhöht (erforderlich, da SpanMarker auch mit GPU-Beschleunigung deutlich langsamer als die ursprünglich verwendeten spaCy-Modelle ist)

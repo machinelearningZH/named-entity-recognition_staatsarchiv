@@ -17,7 +17,7 @@ language:
 - de
 ---
 
-# SpanMarker KtZH StaZH
+# SpanMarker KtZH StAZH
 
 This is a [SpanMarker](https://github.com/tomaarsen/SpanMarkerNER) model that is based on the [GELECTRA Large](https://huggingface.co/stefan-it/span-marker-gelectra-large-germeval14) variant of the **SpanMarker for GermEval 2014 NER** and further fine-tuned on meeting notes from the cantonal council, resolutions of the governing council and law text from the corpus juris of the Canton of Zurich. The documents span the 19th and 20th century, covering both historical language with varying degrees of standardization and contemporary language. Distinguished are `PER`son, `LOC`ation, `ORG`anisation, as well as derivations of Named Entities (tag suffix `-deriv`).
 

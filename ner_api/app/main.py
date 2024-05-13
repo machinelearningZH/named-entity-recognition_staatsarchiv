@@ -82,7 +82,7 @@ if settings.debug:
     logger.info(f"Settings: {repr(settings.__dict__)}")
 
 app = FastAPI(
-    title="StaZH NER API",
+    title="StAZH NER API",
     description="This API exposes endpoints for named entity recognition powered by "
     "Python, spaCy and SpanMarker. It can be accessed directly or via TEI Publisher."
 )

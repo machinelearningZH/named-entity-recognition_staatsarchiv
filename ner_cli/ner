@@ -261,7 +261,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     parser = argparse.ArgumentParser(
-        prog="KtZH/StaZH TEI XML Named Entity Recognition CLI client",
+        prog="KtZH/StAZH TEI XML Named Entity Recognition CLI client",
         description="Supports SpanMarker NER, as well as regex-based "
         "tagging of LOCs nested in ORGs and dates.",
     )

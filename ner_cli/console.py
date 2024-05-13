@@ -44,7 +44,7 @@ def print_ner_header() -> None:
     Prints header at the beginning
     """
     print()
-    print("\033[1mKtZH/StaZH TEI XML Named Entity Recognition CLI client\033[0m")
+    print("\033[1mKtZH/StAZH TEI XML Named Entity Recognition CLI client\033[0m")
     print("\033[1m======================================================\033[0m")
     print(f'{datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S")}\n')
 

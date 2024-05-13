@@ -1,6 +1,34 @@
 # Projekt «Named Entity Recognition für die Zentralen Serien des Staatsarchivs Kanton Zürich»
 
-Dies Repo enthält Informationen und Code für das Projekt **«Named Entity Recognition für die Zentralen Serien des Staatsarchivs Kanton Zürich».**
+[![PyPI - Python](https://img.shields.io/badge/python-v3.9+-blue.svg)](https://github.com/rnckp/starter-code_opendataswiss) 
+[![GitHub Stars](https://img.shields.io/github/stars/rnckp/starter-code_opendataswiss.svg)](https://github.com/rnckp/starter-code_opendataswiss/stargazers) 
+[![GitHub Issues](https://img.shields.io/github/issues/rnckp/starter-code_opendataswiss.svg)](https://github.com/rnckp/starter-code_opendataswiss/issues) 
+[![Current Version](https://img.shields.io/badge/version-1.0-green.svg)](https://github.com/rnckp/starter-code_opendataswiss)
+
+**Eigennamenerkennung für Verwaltungssprache**
+
+<details>
+
+<summary>Inhaltsverzeichnis</summary>
+
+-   [Über dieses Projekt](#über-dieses-projekt)
+-   [Lizensierung](#lizensierung)
+-   [Verwendung](#verwendung)
+-   [Begriffsdefinitionen](#begriffsdefinitionen)
+-   [Projektbericht](#projektbericht)
+-   [Training und quantitative Evaluation eines NER-Modells mit SpanMarker](#training-und-quantitative-evaluation-eines-ner-modells-mit-spanmarker)
+-   [Entwicklung einer Produktivlösung auf Basis des XML-Werkzeugkastens TEI Publisher](#entwicklung-einer-produktivlösung-auf-basis-des-xml-werkzeugkastens-tei-publisher)
+-   [Diskussion](#diskussion)
+-   [Anhang](#anhang)
+-   [Nachweise](#nachweise)
+-   [Bibliographie](#bibliographie)
+
+</details>
+
+
+## Über dieses Projekt
+
+Dieses Repo enthält Informationen und Code zum Projekt **«Named Entity Recognition für die Zentralen Serien des Staatsarchivs Kanton Zürich».**
 
 Im Projekt haben wir eine **Eigennamenerkennung** (*Named Entity Recognition*) für grosse Dokumentsammlungen des Staatsarchivs entwickelt.
 
@@ -23,24 +51,13 @@ Das Projekt hat die [Abteilung «Data» des Statistischen Amts](https://www.zh.c
 -   Softwareentwicklung: **Adrian van der Lek**
 -   Mitarbeit (Dokumentation, Organisation): Patrick Arnecke, Dominik Frefel
 
-## Licensing
+## Lizensierung
 
 - [TEI Publisher - GPL-3.0](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv/blob/main/ner_tei-publisher-app/LICENSE)
 - [Daten Staatsarchiv - Creative Commons CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 - [Unser Code und NER-Modell - MIT](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv/blob/main/LICENSE.md)
 - [Original NER-Modell GermEval 2014 NER - MIT](https://huggingface.co/stefan-it/span-marker-gelectra-large-germeval14)
 
-## Inhaltsverzeichnis
-
-* [Verwendung](#verwendung)
-* [Begriffsdefinitionen](#begriffsdefinitionen)
-* [Projektbericht](#projektbericht)
-* [Training und Evaluation eines NER-Modells mit SpanMarker](#training-und-quantitative-evaluation-eines-ner-modells-mit-spanmarker)
-* [Entwicklung einer Produktivlösung auf Basis TEI Publisher](#entwicklung-einer-produktivlösung-auf-basis-des-xml-werkzeugkastens-tei-publisher)
-* [Diskussion](#diskussion)
-* [Anhang](#anhang)
-* [Nachweise](#nachweise)
-* [Bibliographie](#bibliographie)
 
 ## Verwendung
 
@@ -62,10 +79,12 @@ source stop
 ```
 Eine ausführliche Erläuterung des CLI-Clients findet sich unter [`ner_cli/README.md`](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv/blob/main/ner_cli/README.md).
 
+
 ## Begriffsdefinitionen
 
 - Eigennamenerkennung, engl. *Named Entity Recognition*, fortan abgekürzt **NER** 
 - Eigennamen wie Personen, Orte und allenfalls weitere Entitäten, engl. *Named Entity*, fortan abgekürzt **NE**
+
 
 ## Projektbericht
 
@@ -246,6 +265,7 @@ Aufgrund der Performanz des flair-Modells und des auf [Huggingface Transformers]
 
 Sowohl das spaCy-Modell als auch SpanMarker Gelectra haben wir probehalber auf dem obigen Datensatz verfeinert, wobei wir nach wie vor einen Vorsprung beim SpanMarker-Modell festgestellt haben. Im Zuge der quantitativen Evaluation vortrainierter Modelle haben wir uns daher definitiv für SpanMarker Gelectra als Grundmodell entschieden.
 
+
 ## Training und quantitative Evaluation eines NER-Modells mit SpanMarker
 
 ### Modell
@@ -324,6 +344,7 @@ Gemischte Erfolge sehen wir bei den mengenmässig schwach vertretenen und v.a. i
 
 Da das Modell bei der Standardlearningrate von 5e-5 rasch konvergiert, haben wir zusätzlich kleinere Lernraten evaluiert. Eine Lernstrategie mit abnehmender Lernrate konvergiert dabei schneller, als eine Strategie mit geringer fixer Lernrate. Da das Modell auch bei einer linear abnehmenden Lernrate schnell konvergiert, haben wir final eine polynomial abnehmende Lernrate mit Polynompotenz 3 verwendet, was in einem informellen Test auf einem Teildatensatz zu einer minimalen Verbesserung führte. Aus zeitlichen Gründen und aufgrund ausreichender Leistung haben wir auf eine rigorose Evaluation auf den vollständigen Trainingsdaten verzichtet.
 
+
 ## Entwicklung einer Produktivlösung auf Basis des XML-Werkzeugkastens TEI Publisher
 
 ### Aufbau
@@ -364,6 +385,7 @@ Den TEI Publisher betreiben wir als Podman-Container innerhalb des Hypervisors (
 
 Der CLI-Client läuft in einem separaten Environment. Im Falle einer x86-Installation mit Nvidia GPU unter Linux lässt sich auch die API containerisieren, was wiederum die komfortable Verwaltung der Server via podman-compose ermöglicht.
 
+
 ## Diskussion
 
 ### Erkenntnisse
@@ -397,6 +419,7 @@ NEs lassen sich hinsichtlich unterschiedlicher Schreibweisen normalisieren und m
 Die angepasste TEI Publisher NER API ist modular und es ist problemlos möglich, den SpanMarker durch ein beliebig anderes Modell oder Verfahren zu ersetzen, inklusive LLM-basierter Ansätze. Als interessante Beispiele erscheinen einerseits das von spaCy unterstützte [PromptNER-Verfahren](https://spacy.io/api/large-language-models#ner-v3), an das eine breite Auswahl von cloud-basierten (für unsensible Daten) und lokalen LLMs angebunden werden können. Andererseits ist das kürzlich erschienene Zero-Shot-Verfahren [GLiNER](https://github.com/urchade/GLiNER) zu erwähnen, für das ein [spaCy-Wrapper](https://github.com/theirstory/gliner-spacy) sowie ein multilinguales Modell verfügbar ist und bei dem anwendungsspezifische Labels (z.B. "institution") zur Laufzeit definiert werden können. Zu bedenken ist in diesem Zusammenhang, dass die API eine modifizierte Fassung des SpanMarker-spaCy-Wrappers verwendet, um erkannte NE anhand labelspezifischer Konfidenz-Schwellenwerte filtern zu können. Falls diese Funktionalität nicht benötigt wird, lässt sie sich problemlos ausbauen und der Standardwrapper des jeweiligen Verfahrens verwenden. Für Ansätze, bei denen kein spaCy-Wrapper existiert, lässt sich der bestehende SpanMarker-Wrapper und die zugehörige Factory leicht anpassen.
 
 Der TEI Publisher ist ein aktiv entwickeltes Werkzeug. Hier sehen wir Potenzial für eine alternative Bereitstellung von Tabellen sowie des Dokumenttitels, um den Informationsgewinn weiter zu steigern.
+
 
 ## Anhang
 

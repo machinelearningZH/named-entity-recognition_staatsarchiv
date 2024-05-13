@@ -1,7 +1,7 @@
 # Projekt «Named Entity Recognition für die Zentralen Serien des Staatsarchivs Kanton Zürich»
 
 [![PyPI - Python](https://img.shields.io/badge/python-v3.9+-blue.svg)](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv) 
-[![GitHub Stars](https://img.shields.io/github/stars/rnckp/starter-code_opendataswiss.svg)](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv/stargazers) 
+[![GitHub Stars](https://img.shields.io/github/stars/machinelearningZH/named-entity-recognition_staatsarchiv.svg)](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv/stargazers) 
 [![GitHub Issues](https://img.shields.io/github/issues/machinelearningZH/named-entity-recognition_staatsarchiv.svg)](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv/issues) 
 [![Current Version](https://img.shields.io/badge/version-1.0-green.svg)](https://github.com/machinelearningZH/named-entity-recognition_staatsarchiv)
 

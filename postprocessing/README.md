@@ -1,6 +1,6 @@
 ## Postprocessing
 
-In einem weiteren Schritt werden alle NE aus den TEI-XML für die Nachbearbeitung extrahiert. Die Python-Skripte erstellen pro NE ein csv mit folgenden Feldern:
+In einem weiteren Schritt werden alle NE aus den TEI-XML für die Nachbearbeitung extrahiert. Bei Ausführung der Python-Skripte werden pro NE-Typ ein csv mit folgenden Feldern erstellt:
 
 - *FilePath* (Pfad und Dateiname des TEI-XML)
 - Das extrahierte NE (*persName*, *orgName* oder *placeName*)

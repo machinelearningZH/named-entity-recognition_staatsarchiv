@@ -40,7 +40,8 @@
     2. VM stoppen: `podman machine stop`
     3. Defekte VM löschen und reinitialisieren: `podman machine rm && podman machine init`
     4. Alle Container inkl. defekter entfernen, falls `podman rm <container_id>` fehlschlägt (Achtung): `podman container rm -fa`
-    5. Ressourcenverbrauch laufender Container: `podman container stats`
+    5. Falls TEI Publisher sich nicht mehr starten lässt, Instanz stoppen und Volume entfernen (Datenbank wird bei nächstem Start neu angelegt): `source stop && podman volume rm tei-publisher-ner`
+    6. Ressourcenverbrauch laufender Container: `podman container stats`
 2. NER API
     1. Server stoppen: `pkill -f uvicorn`
     2. Interaktive FastAPI-Dokumentation mit Testmöglichkeiten: (http://localhost:8001/docs)[http://localhost:8001/docs]

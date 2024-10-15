@@ -21,7 +21,7 @@ RUN mkdir -p /etc/apt/keyrings && \
     apt-get update && \
     apt-get install nodejs -y
 
-RUN curl -L -o apache-ant-${ANT_VERSION}-bin.tar.gz http://www.apache.org/dist/ant/binaries/apache-ant-${ANT_VERSION}-bin.tar.gz \
+RUN curl -L -o apache-ant-${ANT_VERSION}-bin.tar.gz https://archive.apache.org/dist/ant/binaries/apache-ant-${ANT_VERSION}-bin.tar.gz \
     && mkdir ant-${ANT_VERSION} \
     && tar -zxvf apache-ant-${ANT_VERSION}-bin.tar.gz \
     && mv apache-ant-${ANT_VERSION} ${ANT_HOME} \
